@@ -1,13 +1,13 @@
 <div align="center">
 
-# ⚡ GitHub Trending Intelligence Tracker
+# ⚡ GitTrends &amp; Skillselion Registry (v5.0)
 
-**Autonomous daily intelligence tracking the breakout repositories, viral momentum, and cutting-edge AI innovations on GitHub.**
+**The open-source directory and research desk for Claude Code skills, MCP servers, and agent marketplaces. Ranked by real installs, star velocity, and open censuses.**
 
 [![Live Interactive Web App](https://img.shields.io/badge/Live%20Web%20App-Explore%20Now-0969da?style=for-the-badge&logo=googlechrome)](https://jastfan.github.io/github-trending/)
 [![Daily Auto-Tracker](https://github.com/jastfan/github-trending/actions/workflows/daily_tracker.yml/badge.svg)](https://github.com/jastfan/github-trending/actions)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--08-2ea44f?style=for-the-badge&logo=github)
-![AI & Agents](https://img.shields.io/badge/AI%20&%20Agents-45%20Discovered-ff5c5c?style=for-the-badge&logo=openai)
+![Agent Skills](https://img.shields.io/badge/Agent%20Skills-59%2C500%2B-8b5cf6?style=for-the-badge&logo=anthropic)
+![MCP Servers](https://img.shields.io/badge/MCP%20Servers-9%2C600%2B-38bdf8?style=for-the-badge&logo=fastapi)
 [![RSS Feed](https://img.shields.io/badge/RSS%20Feed-Active-ff6600?style=for-the-badge&logo=rss)](feed.xml)
 ![License](https://img.shields.io/badge/License-MIT-bf8700?style=for-the-badge)
 
@@ -16,22 +16,23 @@
 <br/>
 <a href="https://jastfan.github.io/github-trending/"><img src="assets/web-ui-preview.png" alt="GitTrends Intelligence Interactive Web UI Dashboard" width="100%" style="border-radius: 14px; border: 1px solid rgba(255,255,255,0.12);" /></a>
 
-<sub>👉 <b><a href="https://jastfan.github.io/github-trending/">Click here to launch the Live Interactive Dashboard</a></b> with real-time search, filters, and clone shortcuts.</sub>
+<sub>👉 <b><a href="https://jastfan.github.io/github-trending/">Click here to launch the Live Interactive Dashboard</a></b> with real-time search, 9-pillar filters, and 1-click CLI install commands.</sub>
 
 ---
 
 ### 🧭 Quick Navigation
 
-[`🌐 Live Web App`](https://jastfan.github.io/github-trending/) • [`🔥 Top Breakouts`](#-todays-top-5-breakout-repositories-viral-momentum) • [`🤖 AI, Skills & MCP`](#-hot-ai-llms-mcp--agent-skills-spotlight) • [`🐍 Python`](#-python) • [`⚡ JavaScript`](#-javascript) • [`🔷 TypeScript`](#-typescript) • [`🐹 Go`](#-go) • [`🦀 Rust`](#-rust) • [`📡 RSS Feed`](feed.xml) • [`🗄️ JSON API`](#-structured-data-access-api)
+[`🌐 Live Web App`](https://jastfan.github.io/github-trending/) • [`⚡ Agent Skills`](https://jastfan.github.io/github-trending/) • [`🔌 MCP Servers`](https://jastfan.github.io/github-trending/) • [`🏪 Marketplaces`](https://jastfan.github.io/github-trending/) • [`📊 Research Desk`](data/research/census_latest.json) • [`🔥 Star Velocity`](#-todays-top-5-breakout-repositories-viral-momentum) • [`📡 RSS Feed`](feed.xml) • [`🗄️ JSON API`](data/latest.json)
 
 <br/>
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="25%"><b>🔥 Velocity Radar</b><br/><sub>Real-time star surges &amp; velocity</sub></td>
-    <td align="center" width="25%"><b>🤖 AI &amp; MCP Spotlight</b><br/><sub>Agent skills, video &amp; LLM tools</sub></td>
-    <td align="center" width="25%"><b>🌐 Live Web App</b><br/><sub>Instant search &amp; filter UI</sub></td>
-    <td align="center" width="25%"><b>📡 RSS 2.0 Feed</b><br/><sub>Feedly, Discord &amp; Slack feeds</sub></td>
+    <td align="center" width="20%"><b>⚡ 59.5k+ Skills</b><br/><sub>Claude, Cursor &amp; Codex</sub></td>
+    <td align="center" width="20%"><b>🔌 9.6k+ MCP Servers</b><br/><sub>Tools, stdio &amp; SSE APIs</sub></td>
+    <td align="center" width="20%"><b>🏪 12.7k+ Marketplaces</b><br/><sub>Harnesses &amp; plugins</sub></td>
+    <td align="center" width="20%"><b>📊 Research Desk</b><br/><sub>5 Censuses &amp; datasets</sub></td>
+    <td align="center" width="20%"><b>🔥 Velocity Radar</b><br/><sub>Daily star surges</sub></td>
   </tr>
 </table>
 
