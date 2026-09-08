@@ -3,20 +3,69 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>GitTrends & Skillselion Registry — AI Agent Skills, MCP Servers & Marketplaces</title>
-  <meta name="description" content="Browse Claude Code skills, MCP servers, plugins, and marketplaces for Cursor, Codex, and Antigravity. Ranked by real installs, star velocity, and open research censuses.">
+  <title>GitTrends AI — The Autonomous Agent Skills, MCP &amp; Velocity Registry</title>
+  <meta name="description" content="The premier open-source directory for Claude Code skills, MCP servers, plugins, and star velocity rankings for Cursor, Codex, and Antigravity. Maintained by @jastfan.">
+  <meta name="keywords" content="github trending, ai agent skills, mcp servers, model context protocol, claude code, cursor skills, antigravity, star velocity, coding agents, ai developers, gittrends">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://jastfan.github.io/github-trending/">
   
   <!-- OpenGraph & Twitter Meta Tags -->
-  <meta property="og:title" content="GitTrends & Skillselion Registry — AI Agent Skills & MCP Directory">
-  <meta property="og:description" content="Browse 59,500+ Claude Code skills, MCP servers, and marketplaces ranked by real installs and star velocity.">
+  <meta property="og:title" content="GitTrends AI — Autonomous Agent Skills, MCP &amp; Velocity Registry">
+  <meta property="og:description" content="Discover 79,800+ Claude Code skills, MCP servers, and breakout GitHub repos ranked by real installs and star velocity.">
   <meta property="og:type" content="website">
+  <meta property="og:url" content="https://jastfan.github.io/github-trending/">
   <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="GitTrends AI — Agent Skills &amp; MCP Directory">
+  <meta name="twitter:description" content="Browse and 1-click install Claude Code skills and MCP servers ranked by real star velocity.">
   
   <!-- Embedded SVG Favicon -->
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚡</text></svg>">
   
   <!-- RSS Feed Auto-Discovery -->
-  <link rel="alternate" type="application/rss+xml" title="GitTrends & Skillselion Feed" href="feed.xml">
+  <link rel="alternate" type="application/rss+xml" title="GitTrends AI Velocity Feed" href="feed.xml">
+
+  <!-- Schema.org JSON-LD Structured Data for Google & AI Engines -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://jastfan.github.io/github-trending/#website",
+        "url": "https://jastfan.github.io/github-trending/",
+        "name": "GitTrends AI — Autonomous Agent Skills & MCP Registry",
+        "description": "The open-source registry for Claude Code skills, MCP servers, and trending star velocity. Curated by @jastfan.",
+        "publisher": {
+          "@type": "Person",
+          "name": "jastfan",
+          "url": "https://github.com/jastfan"
+        },
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://jastfan.github.io/github-trending/?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      },
+      {
+        "@type": "SoftwareApplication",
+        "name": "GitTrends AI Registry",
+        "operatingSystem": "Cross-platform",
+        "applicationCategory": "DeveloperApplication",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "USD"
+        }
+      },
+      {
+        "@type": "DataCatalog",
+        "name": "GitTrends AI Research Datasets",
+        "description": "Daily snapshots of trending GitHub repositories, Claude Code skills, and MCP server adoption censuses.",
+        "url": "https://jastfan.github.io/github-trending/data/latest.json"
+      }
+    ]
+  }
+  </script>
 
   <!-- Modern Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -50,8 +99,8 @@
       <a href="#" class="brand-logo" id="brandLogo">
         <div class="logo-icon">⚡</div>
         <div class="brand-info">
-          <span class="brand-title">GitTrends <span class="brand-sub">&amp; Skillselion</span></span>
-          <span class="brand-tag">Ecosystem Registry v5.0</span>
+          <span class="brand-title">GitTrends <span class="brand-sub">AI</span></span>
+          <span class="brand-tag">Autonomous Agent Skills &amp; MCP Registry</span>
         </div>
       </a>
 
@@ -66,6 +115,16 @@
       </nav>
 
       <div class="nav-actions">
+        <!-- Community Submit Button -->
+        <button class="nav-action-btn submit-btn" onclick="openSubmitModal()" title="Submit your Skill or MCP Server to the Registry">
+          <span>➕</span> Submit Skill
+        </button>
+
+        <!-- Live Agent Simulator Toggle Button -->
+        <button class="nav-action-btn sim-btn" onclick="toggleSimulatorDrawer()" title="Test skills in the Live Agent Prompt Simulator">
+          <span>⚡</span> Live Simulator
+        </button>
+
         <a href="feed.xml" target="_blank" class="feed-btn" title="Subscribe via RSS Feed">
           <span>📡</span> RSS
         </a>
@@ -85,7 +144,7 @@
     <!-- Hero Section -->
     <section class="hero" id="heroSection">
       <div class="hero-pill">
-        <span>✨ The Open Directory for Claude Code Skills, MCP Servers &amp; Marketplaces</span>
+        <span>⚡ Official GitTrends AI Registry for Claude Code, Cursor, Codex &amp; Antigravity</span>
         <span class="hero-date-pill" id="lastUpdatedLabel" style="font-size: 0.78rem; opacity: 0.85; margin-left: 8px; padding-left: 8px; border-left: 1px solid rgba(255,255,255,0.2);">Updated Daily</span>
       </div>
       <h1 class="hero-title">Supercharge Your AI Coding Agents</h1>
@@ -239,6 +298,11 @@
             <span>📥</span> Export
           </button>
 
+          <!-- Side-by-Side Compare Button -->
+          <button class="compare-btn" id="btnOpenCompare" onclick="openCompareModal()" title="Side-by-side tool comparison">
+            <span>⚖️</span> Compare (<span id="compareCount">0</span>)
+          </button>
+
           <!-- View Mode Toggle -->
           <div class="view-toggle" id="viewToggle">
             <button class="view-btn active" id="btnViewCards" title="Grid Cards View">
@@ -293,7 +357,7 @@
     <!-- Research Desk Section (Dedicated Census View) -->
     <section class="research-section" id="researchSection" style="display: none;">
       <div class="research-hero-banner">
-        <div class="research-badge">📊 SKILLSELION RESEARCH DESK</div>
+        <div class="research-badge">📊 GITTRENDS AI RESEARCH DESK</div>
         <h2>The Directory That Measures Its Market</h2>
         <p>
           We run ongoing empirical research on the AI agent skills and MCP server ecosystem: dated censuses of security, copying, maintenance, and monetization. Every number is backed by open, free-to-cite datasets.
@@ -310,8 +374,8 @@
       <div class="footer-content">
         <div class="footer-left">
           <div class="logo-icon" style="display: inline-block;">⚡</div>
-          <strong>GitTrends &amp; Skillselion Registry</strong>
-          <p>The open-source registry for Claude Code skills, MCP servers, and agent intelligence. Updated every 12 hours.</p>
+          <strong>GitTrends AI Intelligence Registry</strong>
+          <p>The premier open-source directory for Claude Code skills, MCP servers, and agent star velocity intelligence. Updated every 12 hours.</p>
         </div>
         <div class="footer-links">
           <a href="https://github.com/jastfan/github-trending" target="_blank" rel="noopener">GitHub</a>
@@ -392,6 +456,142 @@
       </div>
     </div>
   </div>
+
+  <!-- Community 1-Click Submission Wizard Modal -->
+  <div class="modal-backdrop" id="submitModalBackdrop">
+    <div class="modal-container submit-modal-container">
+      <div class="modal-header">
+        <div class="modal-title-group">
+          <div class="modal-type-badge type-skill">COMMUNITY REGISTRY</div>
+          <h3 class="modal-title">Submit a Skill or MCP Server</h3>
+          <span class="modal-author">Contribute to the open GitTrends AI ecosystem</span>
+        </div>
+        <button class="modal-close-btn" onclick="closeSubmitModal()">&times;</button>
+      </div>
+
+      <div class="modal-body">
+        <form id="submissionForm" onsubmit="handleSkillSubmission(event)">
+          <div class="form-grid">
+            <div class="form-group">
+              <label class="form-label">Tool / Skill Name</label>
+              <input type="text" id="subName" class="form-input" placeholder="e.g. Next.js Architecture Expert" required oninput="updateSubmissionSpecPreview()">
+            </div>
+            <div class="form-group">
+              <label class="form-label">GitHub Repository URL</label>
+              <input type="url" id="subRepo" class="form-input" placeholder="https://github.com/username/repo" required oninput="updateSubmissionSpecPreview()">
+            </div>
+            <div class="form-group">
+              <label class="form-label">Registry Type</label>
+              <select id="subType" class="form-select" onchange="updateSubmissionSpecPreview()">
+                <option value="skill">⚡ Agent Skill (SKILL.md)</option>
+                <option value="mcp">🔌 MCP Server (stdio/SSE)</option>
+                <option value="marketplace">🏪 Plugin Marketplace</option>
+              </select>
+            </div>
+            <div class="form-group">
+              <label class="form-label">Pillar Domain</label>
+              <select id="subCategory" class="form-select" onchange="updateSubmissionSpecPreview()">
+                <option value="frontend-design">🎨 Frontend &amp; Design</option>
+                <option value="ai-agents">🤖 AI &amp; Agents</option>
+                <option value="backend-data">🗄️ Backend &amp; Data</option>
+                <option value="dev-tools">🛠️ Dev Tools</option>
+                <option value="automation">⚡ Automation</option>
+                <option value="testing-review">🧪 Testing &amp; Review</option>
+                <option value="security">🛡️ Security</option>
+                <option value="monitoring-cloud">☁️ Monitoring &amp; Cloud</option>
+                <option value="docs-planning">📝 Docs &amp; Planning</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="form-group" style="margin-top: 14px;">
+            <label class="form-label">Short Description</label>
+            <textarea id="subDesc" class="form-textarea" rows="2" placeholder="What specialized ability does this add to Claude Code, Cursor, or Antigravity?" required oninput="updateSubmissionSpecPreview()"></textarea>
+          </div>
+
+          <div class="form-group" style="margin-top: 14px;">
+            <label class="form-label">1-Click Install Command</label>
+            <input type="text" id="subCmd" class="form-input" placeholder="e.g. claude plugin add username/repo" required oninput="updateSubmissionSpecPreview()">
+          </div>
+
+          <!-- Live Generated Spec Box -->
+          <div class="generated-spec-box" style="margin-top: 16px;">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px;">
+              <span style="font-size: 0.74rem; color: var(--text-muted); text-transform: uppercase; font-weight: 600;">Live Generated Registry JSON Spec:</span>
+              <button type="button" class="copy-mini-btn" onclick="copySubmissionJson()">📋 Copy Spec</button>
+            </div>
+            <pre style="background: #06080d; border: 1px solid var(--border-glass); border-radius: 4px; padding: 10px; max-height: 120px; overflow-y: auto;"><code id="subJsonPreview" style="font-family: var(--font-mono); font-size: 0.76rem; color: var(--accent-cyan);">{ /* Spec updates live as you type */ }</code></pre>
+          </div>
+
+          <div class="modal-footer" style="padding: 14px 0 0; margin-top: 16px;">
+            <button type="button" class="modal-secondary-btn" onclick="closeSubmitModal()">Cancel</button>
+            <button type="submit" class="modal-done-btn" style="background: var(--accent-emerald);">🚀 Submit via GitHub Issue ↗</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <!-- Side-by-Side Tool Compare Modal -->
+  <div class="modal-backdrop" id="compareModalBackdrop">
+    <div class="modal-container compare-modal-container">
+      <div class="modal-header">
+        <div class="modal-title-group">
+          <div class="modal-type-badge type-trending">ECOSYSTEM BENCHMARK</div>
+          <h3 class="modal-title">Side-by-Side Tool Comparison</h3>
+          <span class="modal-author">Compare velocity, verified installs, and integration specs</span>
+        </div>
+        <button class="modal-close-btn" onclick="closeCompareModal()">&times;</button>
+      </div>
+      <div class="modal-body" id="compareModalBody">
+        <!-- Rendered dynamically via app.js -->
+      </div>
+      <div class="modal-footer">
+        <button class="modal-secondary-btn" onclick="clearCompareList()">Clear Comparison</button>
+        <button class="modal-done-btn" onclick="closeCompareModal()">Close</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Live Interactive Agent Prompt Simulator Drawer -->
+  <aside class="simulator-drawer" id="simulatorDrawer">
+    <div class="simulator-header">
+      <div style="display: flex; align-items: center; gap: 8px;">
+        <span class="sim-pulse-dot"></span>
+        <strong style="font-family: var(--font-heading); color: #fff;">GitTrends Agent Simulator</strong>
+        <span class="sim-badge">LIVE TESTBENCH</span>
+      </div>
+      <button class="modal-close-btn" onclick="toggleSimulatorDrawer()">&times;</button>
+    </div>
+    <div class="simulator-body">
+      <p style="font-size: 0.8rem; color: var(--text-secondary); margin-bottom: 12px; line-height: 1.4;">
+        Simulate how autonomous agents (*Claude Code, Cursor, Antigravity*) invoke registered skills and MCP tools mid-task:
+      </p>
+
+      <div class="sim-quick-presets">
+        <span style="font-size: 0.72rem; color: var(--text-muted); font-weight: 600;">Presets:</span>
+        <button class="sim-chip" onclick="simulatePreset('apple-design')">🍎 Apple Design</button>
+        <button class="sim-chip" onclick="simulatePreset('tdd')">🧪 TDD Workflow</button>
+        <button class="sim-chip" onclick="simulatePreset('context7')">🔌 Context7 MCP</button>
+        <button class="sim-chip" onclick="simulatePreset('caveman')">🪨 Caveman Tokens</button>
+      </div>
+
+      <!-- Terminal Output Screen -->
+      <div class="sim-terminal-screen" id="simTerminalScreen">
+        <div class="term-line prompt-line">$ claude --agent-mode "Refactor this dashboard to modern glassmorphism"</div>
+        <div class="term-line thought-line">🧠 [Thinking] Querying GitTrends MCP registry for verified UI skills...</div>
+        <div class="term-line success-line">✓ Loaded skill: apple-design-system (v1.2.0) [Pillar: Frontend &amp; Design]</div>
+        <div class="term-line output-line">ℹ Applying backdrop-filter: blur(24px) with Apple HIG typography...</div>
+      </div>
+
+      <!-- Terminal Input Bar -->
+      <div class="sim-input-row">
+        <span class="sim-prompt-symbol">&gt;</span>
+        <input type="text" id="simInput" class="sim-input" placeholder="Type prompt or command (e.g. 'audit security', 'test tdd', 'find skills')..." onkeydown="handleSimKey(event)">
+        <button class="sim-run-btn" onclick="runSimPrompt()">Execute</button>
+      </div>
+    </div>
+  </aside>
 
   <!-- Toast Notification -->
   <div class="toast" id="appToast">

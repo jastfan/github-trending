@@ -270,7 +270,7 @@ def fetch_github_api_fallback(session: requests.Session, category: Dict[str, str
 
 
 def save_json_data(data: Dict[str, Any], date_str: str):
-    """Save structured JSON snapshots preserving Skillselion catalog data."""
+    """Save structured JSON snapshots preserving GitTrends AI catalog data."""
     os.makedirs(DAILY_DATA_DIR, exist_ok=True)
     daily_file = os.path.join(DAILY_DATA_DIR, f"{date_str}.json")
     with open(daily_file, "w", encoding="utf-8") as f:

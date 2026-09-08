@@ -98,7 +98,7 @@ For Cursor, skills are typically declared as system rules or project prompts in 
 
 ## 5. The 9-Pillar Domain Taxonomy
 
-The GitTrends & Skillselion registry categorizes all skills into 9 domain pillars:
+The GitTrends AI registry categorizes all skills into 9 domain pillars:
 
 1. 🤖 **`ai-agents`**: LLM orchestration, multi-agent frameworks, RAG workflows.
 2. 🎨 **`frontend-design`**: UI/UX taste engines, design systems, Tailwind/CSS mastery.

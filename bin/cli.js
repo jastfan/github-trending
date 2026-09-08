@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 /**
- * GitTrends & Skillselion Registry — Model Context Protocol (MCP) Server
+ * GitTrends AI Registry — Model Context Protocol (MCP) Server
  * Stdio JSON-RPC 2.0 Server for Claude Code, Cursor, Codex, and Antigravity
  * 
  * Capabilities:
@@ -69,7 +69,7 @@ async function loadCatalog() {
 const TOOLS = [
   {
     name: "find_agent_skills",
-    description: "Search the Skillselion registry of verified AI Agent Skills for Claude Code, Cursor, and Antigravity. Filter by domain pillar or keyword.",
+    description: "Search the GitTrends AI registry of verified AI Agent Skills for Claude Code, Cursor, and Antigravity. Filter by domain pillar or keyword.",
     inputSchema: {
       type: "object",
       properties: {

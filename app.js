@@ -1,5 +1,5 @@
 /**
- * GitTrends & Skillselion Registry — Client Application (v5.0 - Phase 3 Deep Engine)
+ * GitTrends AI Registry — Client Application (v5.0 - Phase 5 Advanced Mode)
  * Features:
  * - Multi-Registry Routing & Deep Linking (Shareable URLs for tools, tabs, and pillars)
  * - Sub-millisecond Multi-Keyword Search with Term Highlighting
@@ -7,6 +7,9 @@
  * - Dual Data Exporter (JSON & RFC 4180 CSV Export)
  * - Momentum & Decay Classifier (+300% Viral Surge vs Steady Adoption)
  * - Interactive Inspector Modal with Claude / Cursor / Antigravity Config Generator
+ * - Community 1-Click Submission Wizard (with GitHub Issue generator)
+ * - Live Interactive Agent Prompt Simulator (terminal testbench)
+ * - Side-by-Side Tool & Benchmark Comparison Engine
  */
 
 // Global Application State
@@ -22,6 +25,7 @@ let catalogData = {
 let allTools = [];
 let filteredTools = [];
 let bookmarks = new Set(JSON.parse(localStorage.getItem("gittrends_bookmarks") || "[]"));
+let compareList = new Set();
 
 let activeCatalog = "all";       // "all" | "skills" | "mcp" | "marketplaces" | "trending" | "research"
 let activePillar = "all";        // "all" | "ai-agents" | "frontend-design" | ...
@@ -42,11 +46,22 @@ const sortSelect = document.getElementById("sortSelect");
 const resultsCount = document.getElementById("resultsCount");
 const currentSectionTitle = document.getElementById("currentSectionTitle");
 const bookmarkCount = document.getElementById("bookmarkCount");
+const compareCount = document.getElementById("compareCount");
 const btnFilterBookmarks = document.getElementById("btnFilterBookmarks");
+const btnOpenCompare = document.getElementById("btnOpenCompare");
 const btnViewCards = document.getElementById("btnViewCards");
 const btnViewTable = document.getElementById("btnViewTable");
 const toast = document.getElementById("appToast");
 const toastMsg = document.getElementById("toastMsg");
+
+// Phase 5 Modals & Simulator Elements
+const submitModalBackdrop = document.getElementById("submitModalBackdrop");
+const compareModalBackdrop = document.getElementById("compareModalBackdrop");
+const compareModalBody = document.getElementById("compareModalBody");
+const simulatorDrawer = document.getElementById("simulatorDrawer");
+const simTerminalScreen = document.getElementById("simTerminalScreen");
+const simInput = document.getElementById("simInput");
+const subJsonPreview = document.getElementById("subJsonPreview");
 
 // Hero Counters
 const statTrackedCount = document.getElementById("statTrackedCount");
@@ -163,6 +178,243 @@ function updateBookmarkBadge() {
     btnFilterBookmarks.classList.remove("active");
   }
 }
+
+// Side-by-Side Tool Comparison Engine
+window.toggleCompareItem = function(toolId, e) {
+  if (e) e.stopPropagation();
+  if (compareList.has(toolId)) {
+    compareList.delete(toolId);
+    showToast("Removed from comparison");
+  } else {
+    if (compareList.size >= 3) {
+      showToast("Comparison limit reached (max 3 tools)");
+      return;
+    }
+    compareList.add(toolId);
+    showToast(`Added to comparison (⚖️ ${compareList.size}/3)`);
+  }
+  updateCompareBadge();
+  render();
+};
+
+function updateCompareBadge() {
+  if (compareCount) {
+    compareCount.textContent = compareList.size;
+  }
+}
+
+window.openCompareModal = function() {
+  if (compareList.size === 0) {
+    showToast("Select at least 1 tool using the ⚖️ button to compare");
+    return;
+  }
+  const tools = allTools.filter(t => compareList.has(t.id));
+  if (tools.length === 0) return;
+
+  const tableHtml = `
+    <table class="compare-table">
+      <thead>
+        <tr>
+          <th>Attribute</th>
+          ${tools.map(t => `<th>${t.name} ${t.verified ? '✓' : ''}</th>`).join("")}
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>Type</strong></td>
+          ${tools.map(t => `<td><span class="type-pill type-${t.type}">${t.type}</span></td>`).join("")}
+        </tr>
+        <tr>
+          <td><strong>Pillar Domain</strong></td>
+          ${tools.map(t => `<td>${PILLAR_NAMES[t.category] || t.category}</td>`).join("")}
+        </tr>
+        <tr>
+          <td><strong>Real Installs</strong></td>
+          ${tools.map(t => `<td>${t.installs_display || formatNum(t.installs) || 'N/A'}</td>`).join("")}
+        </tr>
+        <tr>
+          <td><strong>Star Velocity / Growth</strong></td>
+          ${tools.map(t => `<td style="color: var(--accent-emerald); font-weight: 700;">${t.growth_pct || (t.stars_today ? `+${t.stars_today}★` : 'Active')}</td>`).join("")}
+        </tr>
+        <tr>
+          <td><strong>Total Stars</strong></td>
+          ${tools.map(t => `<td>★ ${formatNum(t.stars || t.total_stars)}</td>`).join("")}
+        </tr>
+        <tr>
+          <td><strong>Publisher</strong></td>
+          ${tools.map(t => `<td>@${t.author || t.owner || 'community'}</td>`).join("")}
+        </tr>
+        <tr>
+          <td><strong>1-Click Install</strong></td>
+          ${tools.map(t => `<td><button class="action-btn" onclick="copyInstallCmd('${t.install_command || ''}', event)" style="font-family: var(--font-mono); font-size: 0.72rem; padding: 4px 8px;">📋 Copy</button></td>`).join("")}
+        </tr>
+      </tbody>
+    </table>
+  `;
+
+  compareModalBody.innerHTML = tableHtml;
+  compareModalBackdrop.classList.add("open");
+};
+
+window.closeCompareModal = function() {
+  compareModalBackdrop.classList.remove("open");
+};
+
+window.clearCompareList = function() {
+  compareList.clear();
+  updateCompareBadge();
+  closeCompareModal();
+  render();
+  showToast("Cleared comparison list");
+};
+
+// Community Submission Wizard
+window.openSubmitModal = function() {
+  submitModalBackdrop.classList.add("open");
+  updateSubmissionSpecPreview();
+};
+
+window.closeSubmitModal = function() {
+  submitModalBackdrop.classList.remove("open");
+};
+
+window.updateSubmissionSpecPreview = function() {
+  const name = document.getElementById("subName")?.value || "Example Tool";
+  const repo = document.getElementById("subRepo")?.value || "https://github.com/user/repo";
+  const type = document.getElementById("subType")?.value || "skill";
+  const cat = document.getElementById("subCategory")?.value || "frontend-design";
+  const desc = document.getElementById("subDesc")?.value || "Tool description goes here.";
+  const cmd = document.getElementById("subCmd")?.value || "claude plugin add user/repo";
+
+  const spec = {
+    id: name.toLowerCase().replace(/[^a-z0-9]+/g, "-"),
+    name: name,
+    type: type,
+    category: cat,
+    description: desc,
+    repo_url: repo,
+    install_command: cmd,
+    verified: false,
+    submitted_via: "community_wizard"
+  };
+
+  if (subJsonPreview) {
+    subJsonPreview.textContent = JSON.stringify(spec, null, 2);
+  }
+};
+
+window.copySubmissionJson = function() {
+  const code = subJsonPreview?.textContent || "";
+  navigator.clipboard.writeText(code).then(() => {
+    showToast("Copied submission JSON spec!");
+  });
+};
+
+window.handleSkillSubmission = function(e) {
+  e.preventDefault();
+  const name = document.getElementById("subName")?.value || "New Skill";
+  const repo = document.getElementById("subRepo")?.value || "";
+  const type = document.getElementById("subType")?.value || "skill";
+  const cat = document.getElementById("subCategory")?.value || "frontend-design";
+  const desc = document.getElementById("subDesc")?.value || "";
+  const cmd = document.getElementById("subCmd")?.value || "";
+
+  const issueTitle = encodeURIComponent(`[NEW SUBMISSION]: ${name} (${type.toUpperCase()})`);
+  const issueBody = encodeURIComponent(`### 🚀 New Tool / Skill Submission for GitTrends AI
+
+**Tool Name**: ${name}
+**Type**: ${type}
+**Domain Pillar**: ${cat}
+**GitHub Repository**: ${repo}
+**Install Command**: \`${cmd}\`
+
+**Description**:
+${desc}
+
+**Registry Spec JSON**:
+\`\`\`json
+${subJsonPreview?.textContent || ''}
+\`\`\`
+`);
+
+  const issueUrl = `https://github.com/jastfan/github-trending/issues/new?title=${issueTitle}&body=${issueBody}`;
+  window.open(issueUrl, "_blank");
+  closeSubmitModal();
+  showToast("Opening GitHub issue submission template ↗");
+};
+
+// Live Agent Prompt Simulator
+window.toggleSimulatorDrawer = function() {
+  simulatorDrawer.classList.toggle("open");
+  if (simulatorDrawer.classList.contains("open")) {
+    simInput?.focus();
+  }
+};
+
+window.simulatePreset = function(presetName) {
+  if (presetName === "apple-design") {
+    appendSimLine("$ claude --agent-mode 'Refactor buttons with Apple HIG'", "prompt-line");
+    appendSimLine("🧠 [Thinking] Querying GitTrends AI registry for verified UI skills...", "thought-line");
+    appendSimLine("✓ Loaded skill: apple-design-system (v1.2.0) [Pillar: Frontend & Design]", "success-line");
+    appendSimLine("ℹ Injected design tokens: San Francisco typography, Cupertino glassmorphism, spring physics", "output-line");
+  } else if (presetName === "tdd") {
+    appendSimLine("$ claude 'Implement feature using red-green TDD'", "prompt-line");
+    appendSimLine("🧠 [Thinking] Detecting test runner and loading test-driven-development skill...", "thought-line");
+    appendSimLine("✓ Loaded skill: tdd-workflow [Pillar: Testing & Review]", "success-line");
+    appendSimLine("ℹ Strict rule active: Writing failing test in tests/ first before implementation", "output-line");
+  } else if (presetName === "context7") {
+    appendSimLine("$ cursor --mcp-invoke context7.query_docs", "prompt-line");
+    appendSimLine("🧠 [Thinking] Dispatching stdio MCP request to Context7 server...", "thought-line");
+    appendSimLine("✓ Connected: @upstash/context7-mcp (1.4M verified installs)", "success-line");
+    appendSimLine("ℹ Retrieved 8 relevant documentation snippets in 18ms", "output-line");
+  } else if (presetName === "caveman") {
+    appendSimLine("$ claude 'Explain RAG pipeline architecture'", "prompt-line");
+    appendSimLine("🧠 [Thinking] Activating JuliusBrussee/caveman token saving mode...", "thought-line");
+    appendSimLine("✓ Loaded skill: caveman (cut 65% conversational filler)", "success-line");
+    appendSimLine("🪨 Caveman output: 'User ask. Vector search chunk. Embed query. Cosine top-k. Send to LLM. Done.'", "output-line");
+  }
+};
+
+function appendSimLine(text, lineClass) {
+  if (!simTerminalScreen) return;
+  const div = document.createElement("div");
+  div.className = `term-line ${lineClass}`;
+  div.textContent = text;
+  simTerminalScreen.appendChild(div);
+  simTerminalScreen.scrollTop = simTerminalScreen.scrollHeight;
+}
+
+window.handleSimKey = function(e) {
+  if (e.key === "Enter") {
+    runSimPrompt();
+  }
+};
+
+window.runSimPrompt = function() {
+  const prompt = simInput?.value?.trim();
+  if (!prompt) return;
+  simInput.value = "";
+
+  appendSimLine(`$ agent --run "${prompt}"`, "prompt-line");
+  appendSimLine(`🧠 [Agent Thinking] Searching GitTrends AI registry for skills matching "${prompt}"...`, "thought-line");
+
+  setTimeout(() => {
+    // Find best match in catalog
+    const q = prompt.toLowerCase();
+    const match = allTools.find(t => 
+      (t.name || "").toLowerCase().includes(q) || 
+      (t.category || "").toLowerCase().includes(q) ||
+      (t.description || "").toLowerCase().includes(q)
+    ) || allTools[0];
+
+    if (match) {
+      appendSimLine(`✓ Matched & loaded: ${match.name} [${match.type.toUpperCase()}]`, "success-line");
+      appendSimLine(`ℹ Executing command: ${match.install_command || 'claude plugin add ' + match.name}`, "output-line");
+    } else {
+      appendSimLine(`ℹ No exact skill match found. Fallback to base model instruction.`, "output-line");
+    }
+  }, 350);
+};
 
 // Deep Linking & URL Navigation
 function syncUrlParams() {
@@ -524,6 +776,7 @@ function render() {
   if (activeViewMode === "cards") {
     reposGrid.innerHTML = filteredTools.map((tool) => {
       const isSaved = bookmarks.has(tool.id);
+      const isComparing = compareList.has(tool.id);
       const categoryLabel = PILLAR_NAMES[tool.category] || tool.category || "General";
       const installsText = tool.installs_display || (tool.installs ? `${formatNum(tool.installs)} installs` : null);
       const velocityText = tool.growth_pct || (tool.stars_today ? `+${tool.stars_today}★ today` : null);
@@ -573,6 +826,7 @@ function render() {
             </span>
             <div class="card-btn-group">
               <button class="inspect-btn" onclick="openInspectorModal('${tool.id}')">Inspect</button>
+              <button class="action-btn ${isComparing ? 'active' : ''}" onclick="toggleCompareItem('${tool.id}', event)" style="padding: 5px 8px; font-size: 0.78rem; ${isComparing ? 'background: var(--accent-violet); color: #fff;' : ''}" title="${isComparing ? 'Remove from Comparison' : 'Add to Comparison'}">⚖️</button>
               <a href="${tool.repo_url || tool.url || '#'}" target="_blank" rel="noopener" class="action-btn" style="padding: 5px 10px; font-size: 0.78rem;" title="Open GitHub Repo">🔗</a>
               <button class="bookmark-btn ${isSaved ? 'saved' : ''}" onclick="toggleBookmark('${tool.id}', event)" style="width: 30px; height: 30px; font-size: 0.8rem;" title="Bookmark">★</button>
             </div>
@@ -586,6 +840,7 @@ function render() {
   if (activeViewMode === "table") {
     reposTableBody.innerHTML = filteredTools.map((tool, idx) => {
       const isSaved = bookmarks.has(tool.id);
+      const isComparing = compareList.has(tool.id);
       const categoryLabel = PILLAR_NAMES[tool.category] || tool.category || "General";
       const installsText = tool.installs_display || (tool.installs ? formatNum(tool.installs) : "-");
       const velocityText = tool.growth_pct || (tool.stars_today ? `+${tool.stars_today}★` : "-");
@@ -619,6 +874,7 @@ function render() {
           <td>
             <div style="display: flex; gap: 6px;">
               <button class="inspect-btn" onclick="openInspectorModal('${tool.id}')" style="padding: 4px 8px;">View</button>
+              <button class="action-btn ${isComparing ? 'active' : ''}" onclick="toggleCompareItem('${tool.id}', event)" style="padding: 4px 6px; font-size: 0.75rem; ${isComparing ? 'background: var(--accent-violet); color: #fff;' : ''}" title="Compare">⚖️</button>
               <button class="bookmark-btn ${isSaved ? 'saved' : ''}" onclick="toggleBookmark('${tool.id}', event)" style="width: 28px; height: 28px;">★</button>
             </div>
           </td>

@@ -1,13 +1,15 @@
 <div align="center">
 
-# ⚡ GitHub Trending Intelligence Tracker
+# ⚡ GitTrends AI — Autonomous Agent Skills, MCP & Velocity Registry
 
-**Autonomous daily intelligence tracking the breakout repositories, viral momentum, and cutting-edge AI innovations on GitHub.**
+**The premier open-source intelligence platform indexing Claude Code skills, MCP servers, and breakout GitHub repositories with real star velocity.**
 
 [![Live Interactive Web App](https://img.shields.io/badge/Live%20Web%20App-Explore%20Now-0969da?style=for-the-badge&logo=googlechrome)](https://jastfan.github.io/github-trending/)
+[![MCP Server](https://img.shields.io/badge/MCP%20Server-npx%20gittrends--mcp-8b5cf6?style=for-the-badge&logo=anthropic)](https://github.com/jastfan/github-trending/tree/main/bin)
 [![Daily Auto-Tracker](https://github.com/jastfan/github-trending/actions/workflows/daily_tracker.yml/badge.svg)](https://github.com/jastfan/github-trending/actions)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--08-2ea44f?style=for-the-badge&logo=github)
 ![AI & Agents](https://img.shields.io/badge/AI%20&%20Agents-53%20Discovered-ff5c5c?style=for-the-badge&logo=openai)
+[![Research Censuses](https://img.shields.io/badge/Research-5%20Censuses-38bdf8?style=for-the-badge)](guides/research_census_2026.md)
 [![RSS Feed](https://img.shields.io/badge/RSS%20Feed-Active-ff6600?style=for-the-badge&logo=rss)](feed.xml)
 ![License](https://img.shields.io/badge/License-MIT-bf8700?style=for-the-badge)
 

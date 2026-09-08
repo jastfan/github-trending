@@ -37,7 +37,7 @@ MCP defines three core primitives:
 Claude Code supports both stdio and HTTP/SSE MCP servers directly via its CLI:
 
 ```bash
-# Add GitTrends & Skillselion registry
+# Add GitTrends AI registry
 claude mcp add gittrends -- npx -y gittrends-mcp
 
 # Add Chrome DevTools for browser testing

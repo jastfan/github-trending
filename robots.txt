@@ -1,0 +1,9 @@
+# Robots.txt for GitTrends AI Registry (jastfan/github-trending)
+User-agent: *
+Allow: /
+Allow: /data/
+Allow: /archives/
+Allow: /guides/
+
+# XML Sitemap
+Sitemap: https://jastfan.github.io/github-trending/sitemap.xml

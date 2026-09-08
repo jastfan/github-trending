@@ -1,6 +1,6 @@
-# 📚 GitTrends & Skillselion Developer & Agent Guides
+# 📚 GitTrends AI Developer & Agent Guides
 
-Welcome to the **GitTrends & Skillselion Registry Guides Directory**. This documentation hub provides complete technical blueprints, installation recipes, and architecture guides for developers and autonomous coding agents (*Claude Code, Cursor, Codex, and Antigravity*).
+Welcome to the **GitTrends AI Registry Guides Directory**. This documentation hub provides complete technical blueprints, installation recipes, and architecture guides for developers and autonomous coding agents (*Claude Code, Cursor, Codex, and Antigravity*).
 
 ---
 
@@ -16,7 +16,7 @@ Welcome to the **GitTrends & Skillselion Registry Guides Directory**. This docum
 
 ## ⚡ 1-Click Agent Integration: `gittrends-mcp`
 
-You can connect your coding agent directly to the entire GitTrends & Skillselion registry mid-task with zero manual downloads.
+You can connect your coding agent directly to the entire GitTrends AI registry mid-task with zero manual downloads.
 
 ### 1. Claude Code
 ```bash

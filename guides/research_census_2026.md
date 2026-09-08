@@ -1,6 +1,6 @@
 # 📊 2026 State of AI Agent Skills & MCP Ecosystem Censuses
 
-This document details the methodology, metrics, and key takeaways from the **5 Empirical Censuses** conducted by the GitTrends & Skillselion Research Desk.
+This document details the methodology, metrics, and key takeaways from the **5 Empirical Censuses** conducted by the GitTrends AI Research Desk.
 
 ---
 
@@ -62,7 +62,7 @@ Researchers can download the complete raw census JSON dataset:
 If citing these censuses in research papers, articles, or blog posts, please use:
 
 ```bibtex
-@misc{gittrends_skillselion_census_2026,
+@misc{gittrends_ai_census_2026,
   author = {GitTrends Research Desk and jastfan},
   title = {2026 Empirical Census of the AI Agent Skills and MCP Ecosystem},
   year = {2026},

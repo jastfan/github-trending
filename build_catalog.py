@@ -1,7 +1,7 @@
 """
-GitTrends Intelligence & Skillselion Registry Generator (Phase 1)
+GitTrends AI Intelligence & Agent Skills Registry Generator (Phase 5)
 Generates comprehensive, verified datasets for Agent Skills, MCP Servers,
-Claude Marketplaces, Research Censuses, and Star Velocity Trending.
+Marketplaces, Research Censuses, and Star Velocity Trending.
 """
 
 import json
@@ -21,7 +21,7 @@ PILLARS = [
     {"id": "docs-planning", "name": "Docs & Planning", "icon": "📝", "desc": "Docs, specs, planning"}
 ]
 
-# Real, Verified Agent Skills (as indexed by Skillselion)
+# Real, Verified Agent Skills (GitTrends AI Catalog)
 SKILLS_CATALOG = [
     {
         "id": "emilkowalski-apple-design",
@@ -571,7 +571,7 @@ MCP_CATALOG = [
     }
 ]
 
-# Research Censuses & Market Studies (Skillselion Research Benchmarks)
+# Research Censuses & Market Studies (GitTrends AI Research Benchmarks)
 RESEARCH_CENSUS = {
     "latest_census_date": "2026-08",
     "market_summary": {
@@ -674,7 +674,7 @@ def generate_full_catalog():
         "date": today_str,
         "repo": "jastfan/github-trending",
         "ecosystem": {
-            "name": "GitTrends Intelligence & Skillselion Registry",
+            "name": "GitTrends AI Registry",
             "version": "v5.0",
             "pillars": PILLARS,
             "market_stat": RESEARCH_CENSUS["market_summary"]["market_stat_of_the_week"],
