@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GitHub Trending Intelligence — Live Breakout Repositories & AI Trends</title>
+  <meta name="description" content="Autonomous real-time tracking of GitHub's fastest-growing repositories, star velocities, and breakthrough AI innovations. Updated every 12 hours.">
+  
+  <!-- OpenGraph & Twitter Meta Tags -->
+  <meta property="og:title" content="GitHub Trending Intelligence — Breakout Repositories & AI Trends">
+  <meta property="og:description" content="Autonomous real-time tracking of GitHub's fastest-growing repositories and viral AI tools.">
+  <meta property="og:type" content="website">
+  <meta name="twitter:card" content="summary_large_image">
+  
+  <!-- Embedded SVG Favicon -->
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚡</text></svg>">
+  
+  <!-- RSS Feed Auto-Discovery -->
+  <link rel="alternate" type="application/rss+xml" title="GitHub Trending Intelligence Feed" href="feed.xml">
+
+  <!-- Modern Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@500;600&display=swap" rel="stylesheet">
+  
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="app-container">
+    
+    <!-- Navbar -->
+    <header class="navbar" id="appNavbar">
+      <a href="#" class="brand-logo" id="brandLogo">
+        <div class="logo-icon">⚡</div>
+        <span class="brand-title">GitTrends Intelligence</span>
+      </a>
+
+      <div class="nav-actions">
+        <a href="feed.xml" target="_blank" class="feed-btn" title="Subscribe via RSS Feed">
+          <span>📡</span> RSS Feed
+        </a>
+        <div class="status-badge" id="liveStatusBadge">
+          <span class="status-pulse"></span>
+          <span id="lastUpdatedLabel">Live Tracking</span>
+        </div>
+        <a href="https://github.com/jastfan/github-trending" target="_blank" rel="noopener" class="github-btn" id="githubRepoLink">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/>
+          </svg>
+          <span>jastfan/github-trending</span>
+        </a>
+      </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero" id="heroSection">
+      <div class="hero-pill">
+        <span>✨ Powered by Autonomous AI Scraper Engine</span>
+      </div>
+      <h1 class="hero-title">Discover GitHub's Hottest Breakout Projects</h1>
+      <p class="hero-subtitle">Real-time star velocities, viral surges, and cutting-edge open-source software curated every 12 hours.</p>
+
+      <!-- Key Stat Counters -->
+      <div class="stats-grid" id="statsGrid">
+        <div class="stat-box">
+          <div class="stat-value" id="statTrackedCount" style="color: var(--accent-cyan);">--</div>
+          <div class="stat-label">Total Repos Tracked</div>
+        </div>
+        <div class="stat-box">
+          <div class="stat-value" id="statAiCount" style="color: var(--accent-rose);">--</div>
+          <div class="stat-label">AI & Agents Discovered</div>
+        </div>
+        <div class="stat-box">
+          <div class="stat-value" id="statMaxVelocity" style="color: var(--accent-amber);">--</div>
+          <div class="stat-label">Peak Velocity Today</div>
+        </div>
+        <div class="stat-box">
+          <div class="stat-value" id="statTopLang" style="color: var(--accent-violet);">--</div>
+          <div class="stat-label">Leading Language</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Controls Toolbar (Search, Filter, Sort) -->
+    <section class="controls-panel" id="controlsPanel">
+      <div class="search-row">
+        <div class="search-wrapper">
+          <span class="search-icon">🔍</span>
+          <input 
+            type="text" 
+            id="searchInput" 
+            class="search-input" 
+            placeholder="Search repositories, technologies, AI models, or descriptions (e.g., 'agent', 'rag', 'vision')..."
+            autocomplete="off"
+          >
+        </div>
+        <select id="sortSelect" class="sort-select" title="Sort repositories">
+          <option value="velocity">🔥 Stars Gained Today</option>
+          <option value="total_stars">★ Total Stars</option>
+          <option value="forks">🍴 Total Forks</option>
+          <option value="name">🔤 Name (A-Z)</option>
+        </select>
+      </div>
+
+      <!-- Velocity Filter Chips -->
+      <div class="velocity-row">
+        <span class="velocity-label">Velocity:</span>
+        <button class="vel-chip active" data-vel="all">All Growth</button>
+        <button class="vel-chip" data-vel="1000">🔥 Viral (&gt;1,000 Today)</button>
+        <button class="vel-chip" data-vel="500">⚡ Surging (&gt;500 Today)</button>
+        <button class="vel-chip" data-vel="100">📈 Rising (&gt;100 Today)</button>
+      </div>
+
+      <!-- Trending Tech Topics Pills (MCP, Agent-Skills, AI-Video, etc.) -->
+      <div class="velocity-row" id="topicsFilterRow">
+        <span class="velocity-label" style="color: var(--accent-rose);">Hot Topics:</span>
+        <button class="topic-chip active" data-topic="all">All Topics</button>
+        <button class="topic-chip" data-topic="MCP">🔌 #MCP</button>
+        <button class="topic-chip" data-topic="Agent-Skills">🧠 #Agent-Skills</button>
+        <button class="topic-chip" data-topic="AI-Video">🎬 #AI-Video</button>
+        <button class="topic-chip" data-topic="Coding-Agents">💻 #Coding-Agents</button>
+        <button class="topic-chip" data-topic="Local-AI">🔒 #Local-AI</button>
+        <button class="topic-chip" data-topic="Autonomous-Finance">📈 #Finance-Agents</button>
+      </div>
+
+      <!-- Category Filter Pills -->
+      <nav class="categories-nav" id="categoriesNav">
+        <button class="cat-tab active" data-cat="all" id="tabAll">
+          <span>🌟</span> All Trending
+        </button>
+        <button class="cat-tab ai-tab" data-cat="ai" id="tabAi">
+          <span>🤖</span> AI & Agents Spotlight
+        </button>
+        <button class="cat-tab" data-cat="Overall Trending" id="tabOverall">
+          <span>🌐</span> Overall
+        </button>
+        <button class="cat-tab" data-cat="Python" id="tabPython">
+          <span>🐍</span> Python
+        </button>
+        <button class="cat-tab" data-cat="JavaScript" id="tabJs">
+          <span>⚡</span> JavaScript
+        </button>
+        <button class="cat-tab" data-cat="TypeScript" id="tabTs">
+          <span>🔷</span> TypeScript
+        </button>
+        <button class="cat-tab" data-cat="Go" id="tabGo">
+          <span>🐹</span> Go
+        </button>
+        <button class="cat-tab" data-cat="Rust" id="tabRust">
+          <span>🦀</span> Rust
+        </button>
+        <button class="cat-tab" data-cat="bookmarks" id="tabBookmarks">
+          <span>⭐</span> Saved Bookmarks (<span id="bookmarkCount">0</span>)
+        </button>
+      </nav>
+    </section>
+
+    <!-- Results Section -->
+    <main>
+      <div class="section-header">
+        <div>
+          <h2 class="section-title" id="currentSectionTitle">
+            <span>🌟</span> All Trending Repositories
+          </h2>
+          <span class="repos-count" id="resultsCount">Showing 0 repositories</span>
+        </div>
+
+        <!-- View Mode Switcher -->
+        <div class="view-switch">
+          <button class="view-btn active" id="btnViewCards" title="Grid Cards View">🎴 Cards</button>
+          <button class="view-btn" id="btnViewTable" title="Compact Table View">📋 Table</button>
+        </div>
+      </div>
+
+      <!-- Repositories Grid Container -->
+      <div class="repos-grid" id="reposGrid">
+        <!-- Rendered dynamically by app.js -->
+      </div>
+
+      <!-- Repositories Table Container (Hidden by default) -->
+      <div class="repos-table-container" id="reposTableContainer" style="display: none;">
+        <table class="repos-table" id="reposTable">
+          <thead>
+            <tr>
+              <th>Rank</th>
+              <th>Repository</th>
+              <th>Language</th>
+              <th>Today's Growth</th>
+              <th>Total Stars</th>
+              <th>Forks</th>
+              <th>Actions</th>
+            </tr>
+          </thead>
+          <tbody id="reposTableBody">
+            <!-- Rendered dynamically by app.js -->
+          </tbody>
+        </table>
+      </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="app-footer">
+      <div style="display: flex; justify-content: center; gap: 16px; margin-bottom: 12px;">
+        <a href="feed.xml" target="_blank" class="footer-link">📡 RSS 2.0 Feed</a> • 
+        <a href="data/latest.json" target="_blank" class="footer-link">🗄️ Raw JSON API</a> • 
+        <a href="https://twitter.com/intent/tweet?text=Discover%20GitHub%27s%20hottest%20trending%20projects%20and%20AI%20tools%20with%20GitTrends%20Intelligence!" target="_blank" rel="noopener" class="footer-link">🐦 Share on X</a>
+      </div>
+      <p>GitTrends Intelligence Engine • 100% Autonomous Open-Source Tracker • Licensed under <a href="LICENSE">MIT</a></p>
+      <p style="margin-top: 8px; font-size: 0.8rem;">Data updated automatically every 12 hours via GitHub Actions</p>
+    </footer>
+
+  </div>
+
+  <!-- Toast Notification -->
+  <div class="toast" id="appToast">
+    <span id="toastIcon">📋</span>
+    <span id="toastMsg">Copied to clipboard!</span>
+  </div>
+
+  <!-- Application Logic Script -->
+  <script src="app.js"></script>
+</body>
+</html>
