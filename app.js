@@ -92,7 +92,7 @@ const PILLAR_NAMES = {
 function formatNum(num) {
   if (!num) return "0";
   if (typeof num === "string") return num;
-  return new Intl.NumberFormat().format(num);
+  return new Intl.NumberFormat("en-US").format(num);
 }
 
 function parseGrowthNum(growthStr) {
