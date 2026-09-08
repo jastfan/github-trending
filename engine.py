@@ -270,13 +270,59 @@ def fetch_github_api_fallback(session: requests.Session, category: Dict[str, str
 
 
 def save_json_data(data: Dict[str, Any], date_str: str):
-    """Save structured JSON snapshots."""
+    """Save structured JSON snapshots preserving Skillselion catalog data."""
     os.makedirs(DAILY_DATA_DIR, exist_ok=True)
     daily_file = os.path.join(DAILY_DATA_DIR, f"{date_str}.json")
     with open(daily_file, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 
     latest_file = os.path.join(DATA_DIR, "latest.json")
+    skills_cat_file = os.path.join(DATA_DIR, "skills", "catalog.json")
+    research_file = os.path.join(DATA_DIR, "research", "census_latest.json")
+
+    skills_data = {}
+    if os.path.exists(skills_cat_file):
+        try:
+            with open(skills_cat_file, "r", encoding="utf-8") as f:
+                skills_data = json.load(f)
+        except Exception:
+            pass
+
+    research_data = {}
+    if os.path.exists(research_file):
+        try:
+            with open(research_file, "r", encoding="utf-8") as f:
+                research_data = json.load(f)
+        except Exception:
+            pass
+
+    # Read existing latest.json to preserve extra metadata
+    if os.path.exists(latest_file):
+        try:
+            with open(latest_file, "r", encoding="utf-8") as f:
+                existing = json.load(f)
+                if "ecosystem" in existing:
+                    data["ecosystem"] = existing["ecosystem"]
+                if "skills" in existing:
+                    data["skills"] = existing["skills"]
+                if "marketplaces" in existing:
+                    data["marketplaces"] = existing["marketplaces"]
+                if "mcp_servers" in existing:
+                    data["mcp_servers"] = existing["mcp_servers"]
+                if "research" in existing:
+                    data["research"] = existing["research"]
+        except Exception:
+            pass
+
+    if "skills" not in data and "skills" in skills_data:
+        data["skills"] = skills_data.get("skills", [])
+    if "marketplaces" not in data and "marketplaces" in skills_data:
+        data["marketplaces"] = skills_data.get("marketplaces", [])
+    if "mcp_servers" not in data and "mcp" in skills_data:
+        data["mcp_servers"] = skills_data.get("mcp", [])
+    if "research" not in data and research_data:
+        data["research"] = research_data
+
     with open(latest_file, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 
