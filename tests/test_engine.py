@@ -5,8 +5,11 @@ Validates topic extraction, schema integrity, and velocity parsing.
 
 import unittest
 import os
+import sys
 import json
-from engine import extract_topics, TOPIC_MAP
+
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from engine import extract_topics, TRENDING_TOPICS
 
 class TestTrendingEngine(unittest.TestCase):
 
@@ -14,19 +17,19 @@ class TestTrendingEngine(unittest.TestCase):
         """Verify MCP keyword detection in repo descriptions."""
         sample_desc = "A high-performance model context protocol server for Claude Code."
         topics = extract_topics("mcp-server", sample_desc)
-        self.assertIn("#MCP", topics)
+        self.assertIn("MCP", topics)
 
     def test_topic_extraction_coding_agent(self):
         """Verify autonomous agent and harness detection."""
         sample_desc = "Autonomous harness for AI coding agents and automated refactoring."
         topics = extract_topics("dev-agent", sample_desc)
-        self.assertIn("#Coding-Agents", topics)
+        self.assertIn("Coding-Agents", topics)
 
     def test_topic_extraction_ai_video(self):
         """Verify video generation models detection."""
         sample_desc = "Open-source text to video diffusion model pipeline."
         topics = extract_topics("video-diffuser", sample_desc)
-        self.assertIn("#AI-Video", topics)
+        self.assertIn("AI-Video", topics)
 
     def test_topic_extraction_empty(self):
         """Ensure no crash on empty descriptions."""

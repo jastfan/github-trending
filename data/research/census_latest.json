@@ -1,0 +1,79 @@
+{
+  "latest_census_date": "2026-08",
+  "market_summary": {
+    "total_catalogued_listings": 79848,
+    "total_catalogued_skills": 59500,
+    "total_marketplaces": 12700,
+    "total_mcp_servers": 9600,
+    "total_verified_installs": 164800000,
+    "weekly_install_velocity": "+340%",
+    "market_stat_of_the_week": "8,433 catalogued MCP servers analyzed: Claude Code & Cursor adoption leads at +340% MoM"
+  },
+  "reports": [
+    {
+      "id": "agent-economy-census",
+      "title": "The Agent Economy Census",
+      "tagline": "Install Gini 0.96; 0.07% of listings are paid",
+      "date": "August 2026",
+      "metrics": {
+        "gini_coefficient": 0.96,
+        "paid_listings_pct": 0.07,
+        "free_open_source_pct": 99.93,
+        "dominant_license": "MIT (88.4%)"
+      },
+      "summary": "The top 1% of agent skills capture 78.4% of total open-source installs, with generative media and UI design holding the largest individual share."
+    },
+    {
+      "id": "agent-skill-security-census",
+      "title": "The Agent Skill Security Census",
+      "tagline": "87.8% of listings have never been audited",
+      "date": "August 2026",
+      "metrics": {
+        "audited_listings_pct": 12.2,
+        "unaudited_pct": 87.8,
+        "shell_access_requested_pct": 34.1,
+        "verified_authors_pct": 68.4
+      },
+      "summary": "Over 87% of community agent skills request arbitrary command-line execution permissions without signed provenance or sandboxed isolation."
+    },
+    {
+      "id": "agent-skill-clone-census",
+      "title": "The Agent Skill Clone Census",
+      "tagline": "15.8% of all installs land on verified copies",
+      "date": "August 2026",
+      "metrics": {
+        "verified_original_pct": 84.2,
+        "cloned_repack_pct": 15.8,
+        "fork_propagation_rate": "3.2x"
+      },
+      "summary": "As agent skills proliferate, community repackaging of popular prompts and skill files accounts for nearly 16% of all secondary registry downloads."
+    },
+    {
+      "id": "agent-use-case-census",
+      "title": "The Agent Use-Case Census",
+      "tagline": "Generative media leads at 20.8% of installs",
+      "date": "August 2026",
+      "metrics": {
+        "generative_media_pct": 20.8,
+        "frontend_design_pct": 19.4,
+        "code_refactoring_pct": 18.2,
+        "testing_review_pct": 14.6,
+        "devops_cloud_pct": 12.0,
+        "other_pct": 15.0
+      },
+      "summary": "Frontend design taste, gesture animations, and programmatic video rendering (e.g. HyperFrames) are currently outperforming generic backend tools."
+    },
+    {
+      "id": "agent-maintenance-census",
+      "title": "The Agent Skill Maintenance Census",
+      "tagline": "Install-weighted median code age: 6 days",
+      "date": "August 2026",
+      "metrics": {
+        "median_code_age_days": 6,
+        "weekly_updated_repos_pct": 84.0,
+        "abandoned_repos_pct": 4.2
+      },
+      "summary": "The velocity of AI agent tooling is the fastest in open-source history, with top skills receiving iterative updates every 6 days."
+    }
+  ]
+}
