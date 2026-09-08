@@ -96,47 +96,42 @@
     
     <!-- Navbar -->
     <header class="navbar" id="appNavbar">
-      <a href="#" class="brand-logo" id="brandLogo">
-        <div class="logo-icon">⚡</div>
-        <div class="brand-info">
+      <div class="navbar-left">
+        <a href="#" class="brand-logo" id="brandLogo">
+          <div class="logo-icon">⚡</div>
           <span class="brand-title">GitTrends <span class="brand-sub">AI</span></span>
-          <span class="brand-tag">Autonomous Agent Skills &amp; MCP Registry</span>
-        </div>
-      </a>
+          <span class="brand-ver-badge">REGISTRY</span>
+        </a>
 
-      <!-- Quick Nav Links -->
-      <nav class="nav-links-desktop">
-        <button class="nav-link-btn active" data-nav="all">⭐ All Tools</button>
-        <button class="nav-link-btn" data-nav="skills">⚡ Skills</button>
-        <button class="nav-link-btn" data-nav="mcp">🔌 MCP Servers</button>
-        <button class="nav-link-btn" data-nav="marketplaces">🏪 Marketplaces</button>
-        <button class="nav-link-btn" data-nav="trending">🔥 Velocity Radar</button>
-        <button class="nav-link-btn" data-nav="research">📊 Research Desk</button>
-      </nav>
+        <!-- Quick Nav Links -->
+        <nav class="nav-links-desktop">
+          <button class="nav-link-btn active" data-nav="all">All Tools</button>
+          <button class="nav-link-btn" data-nav="skills">Skills</button>
+          <button class="nav-link-btn" data-nav="mcp">MCP Servers</button>
+          <button class="nav-link-btn" data-nav="marketplaces">Marketplaces</button>
+          <button class="nav-link-btn" data-nav="trending">Velocity Radar</button>
+          <button class="nav-link-btn" data-nav="research">Research</button>
+          <a href="#guidesSection" class="nav-link-anchor">Guides</a>
+        </nav>
+      </div>
 
       <div class="nav-actions">
         <!-- Community Submit Button -->
         <button class="nav-action-btn submit-btn" onclick="openSubmitModal()" title="Submit your Skill or MCP Server to the Registry">
-          <span>➕</span> Submit Skill
+          <span>➕</span> Submit
         </button>
 
         <!-- Live Agent Simulator Toggle Button -->
         <button class="nav-action-btn sim-btn" onclick="toggleSimulatorDrawer()" title="Test skills in the Live Agent Prompt Simulator">
-          <span>⚡</span> Live Simulator
+          <span>⚡</span> Simulator
         </button>
 
-        <a href="feed.xml" target="_blank" class="feed-btn" title="Subscribe via RSS Feed">
-          <span>📡</span> RSS
-        </a>
-        <div class="status-badge" id="liveStatusBadge">
-          <span class="status-pulse"></span>
-          <span id="lastUpdatedLabel">Updated Daily</span>
-        </div>
-        <a href="https://github.com/jastfan/github-trending" target="_blank" rel="noopener" class="github-btn" id="githubRepoLink">
-          <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+        <!-- GitHub Repo Star Link -->
+        <a href="https://github.com/jastfan/github-trending" target="_blank" rel="noopener" class="github-btn" id="githubRepoLink" title="Star jastfan/github-trending on GitHub">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor">
             <path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/>
           </svg>
-          <span>jastfan/github-trending</span>
+          <span>Star</span>
         </a>
       </div>
     </header>
@@ -268,7 +263,7 @@
     <!-- 3. Search, Sort & View Controls -->
     <section class="controls-panel" id="controlsPanel">
       <div class="search-row">
-        <div class="search-wrapper">
+        <div class="search-wrapper" id="searchWrapper">
           <span class="search-icon">🔍</span>
           <input 
             type="text" 
@@ -276,7 +271,113 @@
             class="search-input" 
             placeholder="Search skills, MCP servers, frameworks, or prompt keywords (e.g., 'apple-design', 'mcp', 'tdd')..."
             autocomplete="off"
+            aria-label="Search agent skills and MCP servers"
           >
+          <button class="search-clear-btn" id="searchClearBtn" style="display: none;" title="Clear search">&times;</button>
+
+          <!-- Intelligent Quick-Discovery Flyout Dropdown -->
+          <div class="search-flyout" id="searchFlyout" style="display: none;">
+            <div class="flyout-header">
+              <span class="flyout-label">⚡ QUICK DISCOVERY &amp; POPULAR REGISTRY</span>
+              <span class="flyout-hint">Click to filter • Press ESC to close</span>
+            </div>
+
+            <div class="flyout-columns">
+              <!-- Column 1: Popular Agent Skills -->
+              <div class="flyout-col">
+                <div class="flyout-col-title">⚡ POPULAR SKILLS</div>
+                <div class="flyout-list">
+                  <div class="flyout-item" data-search="task-observer">
+                    <span class="item-name">task-observer</span>
+                    <span class="item-meta">125k installs</span>
+                  </div>
+                  <div class="flyout-item" data-search="lavish">
+                    <span class="item-name">lavish</span>
+                    <span class="item-meta">110k installs</span>
+                  </div>
+                  <div class="flyout-item" data-search="graphify">
+                    <span class="item-name">graphify</span>
+                    <span class="item-meta">95k installs</span>
+                  </div>
+                  <div class="flyout-item" data-search="hyperframes">
+                    <span class="item-name">hyperframes</span>
+                    <span class="item-meta">88k installs</span>
+                  </div>
+                  <div class="flyout-item" data-search="apple-design">
+                    <span class="item-name">apple-design</span>
+                    <span class="item-meta">82k installs</span>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Column 2: Top MCP Servers -->
+              <div class="flyout-col">
+                <div class="flyout-col-title">🔌 TOP MCP SERVERS</div>
+                <div class="flyout-list">
+                  <div class="flyout-item" data-search="Sequential Thinking">
+                    <span class="item-name">Sequential Thinking</span>
+                    <span class="item-meta">90.1k ★</span>
+                  </div>
+                  <div class="flyout-item" data-search="Labelhead">
+                    <span class="item-name">Labelhead Artist</span>
+                    <span class="item-meta">80.1k ★</span>
+                  </div>
+                  <div class="flyout-item" data-search="Scrapling">
+                    <span class="item-name">Scrapling MCP</span>
+                    <span class="item-meta">79.6k ★</span>
+                  </div>
+                  <div class="flyout-item" data-search="Context7">
+                    <span class="item-name">Context7 Docs</span>
+                    <span class="item-meta">61.7k ★</span>
+                  </div>
+                  <div class="flyout-item" data-search="Chrome DevTools">
+                    <span class="item-name">Chrome DevTools</span>
+                    <span class="item-meta">51.1k ★</span>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Column 3: Curated Marketplaces & Research -->
+              <div class="flyout-col">
+                <div class="flyout-col-title">🏪 MARKETPLACES &amp; RESEARCH</div>
+                <div class="flyout-list">
+                  <div class="flyout-item" data-search="cursor.directory">
+                    <span class="item-name">cursor.directory</span>
+                    <span class="item-meta">Cursor Prompts</span>
+                  </div>
+                  <div class="flyout-item" data-search="claude-skills-registry">
+                    <span class="item-name">claude-skills-registry</span>
+                    <span class="item-meta">Official</span>
+                  </div>
+                  <div class="flyout-item" data-nav="research">
+                    <span class="item-name">The Agent Economy Census</span>
+                    <span class="item-meta">Census 2026</span>
+                  </div>
+                  <div class="flyout-item" data-nav="research">
+                    <span class="item-name">The Agent Security Census</span>
+                    <span class="item-meta">Security Audit</span>
+                  </div>
+                  <div class="flyout-item" data-search="antigravity">
+                    <span class="item-name">antigravity-awesome</span>
+                    <span class="item-meta">Skills Hub</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Flyout Footer Tags -->
+            <div class="flyout-footer">
+              <span class="flyout-footer-label">Quick Tags:</span>
+              <div class="flyout-tags">
+                <span class="flyout-tag" data-tag="claude-code">#claude-code</span>
+                <span class="flyout-tag" data-tag="mcp">#mcp</span>
+                <span class="flyout-tag" data-tag="cursor">#cursor</span>
+                <span class="flyout-tag" data-tag="security">#security</span>
+                <span class="flyout-tag" data-tag="frontend">#frontend</span>
+                <span class="flyout-tag" data-tag="database">#database</span>
+              </div>
+            </div>
+          </div>
         </div>
 
         <div class="controls-actions">
@@ -320,8 +421,293 @@
       </div>
     </section>
 
+    <!-- 4. Featured Numbered Editorial Leaderboards (Skillselion Architecture) -->
+    <section class="editorial-leaderboards" id="editorialLeaderboards">
+      <div class="leaderboards-grid">
+        <!-- Left Column: Popular MCP Servers -->
+        <div class="leaderboard-card">
+          <div class="leaderboard-header">
+            <h3 class="leaderboard-title">Popular MCP servers</h3>
+            <button class="leaderboard-more-btn" onclick="window.switchCatalogTab('mcp')">Browse all MCP →</button>
+          </div>
+          <div class="leaderboard-rows" id="leaderboardMcp">
+            <!-- Row 01 -->
+            <div class="leaderboard-row" onclick="openInspectorModal('sequential-thinking')">
+              <div class="row-rank">01</div>
+              <div class="row-icon">🧠</div>
+              <div class="row-body">
+                <div class="row-header">
+                  <span class="row-name">Sequential Thinking</span>
+                  <span class="row-repo">modelcontextprotocol/servers</span>
+                  <span class="row-stars">90.1k ★</span>
+                </div>
+                <p class="row-desc">Sequential Thinking is one of the official Model Context Protocol reference servers for deep reasoning.</p>
+              </div>
+            </div>
+            <!-- Row 02 -->
+            <div class="leaderboard-row" onclick="openInspectorModal('labelhead-momentum')">
+              <div class="row-rank">02</div>
+              <div class="row-icon">📎</div>
+              <div class="row-body">
+                <div class="row-header">
+                  <span class="row-name">Labelhead Artist Momentum</span>
+                  <span class="row-repo">paperclipai/paperclip</span>
+                  <span class="row-stars">80.1k ★</span>
+                </div>
+                <p class="row-desc">Trending hip-hop and creator momentum scores across four real-time cultural dimensions.</p>
+              </div>
+            </div>
+            <!-- Row 03 -->
+            <div class="leaderboard-row" onclick="openInspectorModal('scrapling-mcp')">
+              <div class="row-rank">03</div>
+              <div class="row-icon">🕸️</div>
+              <div class="row-body">
+                <div class="row-header">
+                  <span class="row-name">Scrapling MCP Server</span>
+                  <span class="row-repo">D4Vinci/Scrapling</span>
+                  <span class="row-stars">79.6k ★</span>
+                </div>
+                <p class="row-desc">Web scraping with stealth HTTP, real browsers, and Cloudflare bypass for autonomous agents.</p>
+              </div>
+            </div>
+            <!-- Row 04 -->
+            <div class="leaderboard-row" onclick="openInspectorModal('context7-docs')">
+              <div class="row-rank">04</div>
+              <div class="row-icon">🌐</div>
+              <div class="row-body">
+                <div class="row-header">
+                  <span class="row-name">Context7</span>
+                  <span class="row-repo">upstash/context7</span>
+                  <span class="row-stars">61.7k ★</span>
+                </div>
+                <p class="row-desc">Context7 is Upstash's Model Context Protocol server for live library and API documentation fetch.</p>
+              </div>
+            </div>
+            <!-- Row 05 -->
+            <div class="leaderboard-row" onclick="openInspectorModal('chrome-devtools-mcp')">
+              <div class="row-rank">05</div>
+              <div class="row-icon">💻</div>
+              <div class="row-body">
+                <div class="row-header">
+                  <span class="row-name">Chrome DevTools MCP</span>
+                  <span class="row-repo">ChromeDevTools/chrome-devtools-mcp</span>
+                  <span class="row-stars">51.1k ★</span>
+                </div>
+                <p class="row-desc">Chrome DevTools integration providing DOM inspection, console logs, and network interception.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Right Column: Popular Agent Skills -->
+        <div class="leaderboard-card">
+          <div class="leaderboard-header">
+            <h3 class="leaderboard-title">Popular Agent Skills</h3>
+            <button class="leaderboard-more-btn" onclick="window.switchCatalogTab('skills')">Browse all Skills →</button>
+          </div>
+          <div class="leaderboard-rows" id="leaderboardSkills">
+            <!-- Row 01 -->
+            <div class="leaderboard-row" onclick="openInspectorModal('task-observer')">
+              <div class="row-rank">01</div>
+              <div class="row-icon">👁️</div>
+              <div class="row-body">
+                <div class="row-header">
+                  <span class="row-name">task-observer</span>
+                  <span class="row-repo">claude-code/task-observer</span>
+                  <span class="row-stars">125k 📥</span>
+                </div>
+                <p class="row-desc">Continuous background execution monitor with heartbeat alerts for multi-hour agent coding runs.</p>
+              </div>
+            </div>
+            <!-- Row 02 -->
+            <div class="leaderboard-row" onclick="openInspectorModal('lavish')">
+              <div class="row-rank">02</div>
+              <div class="row-icon">✨</div>
+              <div class="row-body">
+                <div class="row-header">
+                  <span class="row-name">lavish</span>
+                  <span class="row-repo">antigravity/lavish</span>
+                  <span class="row-stars">110k 📥</span>
+                </div>
+                <p class="row-desc">Taste and design system enhancer enforcing premium palettes, typography, and micro-interactions.</p>
+              </div>
+            </div>
+            <!-- Row 03 -->
+            <div class="leaderboard-row" onclick="openInspectorModal('graphify')">
+              <div class="row-rank">03</div>
+              <div class="row-icon">📊</div>
+              <div class="row-body">
+                <div class="row-header">
+                  <span class="row-name">graphify</span>
+                  <span class="row-repo">claude-code/graphify</span>
+                  <span class="row-stars">95k 📥</span>
+                </div>
+                <p class="row-desc">Graph architecture generator translating complex file dependencies into interactive Mermaid diagrams.</p>
+              </div>
+            </div>
+            <!-- Row 04 -->
+            <div class="leaderboard-row" onclick="openInspectorModal('hyperframes')">
+              <div class="row-rank">04</div>
+              <div class="row-icon">🎞️</div>
+              <div class="row-body">
+                <div class="row-header">
+                  <span class="row-name">hyperframes</span>
+                  <span class="row-repo">cursor/hyperframes</span>
+                  <span class="row-stars">88k 📥</span>
+                </div>
+                <p class="row-desc">60 FPS programmatic canvas and video rendering pipeline leveraging Remotion and WebGL.</p>
+              </div>
+            </div>
+            <!-- Row 05 -->
+            <div class="leaderboard-row" onclick="openInspectorModal('apple-design')">
+              <div class="row-rank">05</div>
+              <div class="row-icon">🍎</div>
+              <div class="row-body">
+                <div class="row-header">
+                  <span class="row-name">apple-design</span>
+                  <span class="row-repo">developer-skills/apple-design</span>
+                  <span class="row-stars">82k 📥</span>
+                </div>
+                <p class="row-desc">Apple Human Interface Guidelines generator for Cupertino-grade typography, radii, and glass accents.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 5. Research Desk Section (The Directory That Measures Its Market) -->
+    <section class="research-homepage-section" id="researchHomepageSection">
+      <div class="section-editorial-header">
+        <span class="section-meta-label">RESEARCH</span>
+        <h2 class="section-editorial-title">The directory that measures its market</h2>
+        <p class="section-editorial-subtitle">
+          GitTrends AI indexes the agent ecosystem and runs ongoing research on it: dated censuses of security, copying, usage and maintenance, with the raw dataset behind every number. Free to cite — browse GitTrends Research. How the numbers are made: <a href="guides/research_census_2026.md" class="editorial-link">methodology</a>.
+        </p>
+      </div>
+
+      <div class="editorial-cards-grid">
+        <!-- Card 1 -->
+        <div class="editorial-card" onclick="window.switchCatalogTab('research')">
+          <span class="card-meta-tag">REFERENCE</span>
+          <div class="card-icon-box cyan">📊</div>
+          <h3 class="card-title">AI Agent Statistics</h3>
+          <p class="card-metric-line">79,848 listings • 164.8M installs, every number sourced</p>
+        </div>
+
+        <!-- Card 2 -->
+        <div class="editorial-card" onclick="window.switchCatalogTab('research')">
+          <span class="card-meta-tag">CENSUS • AUG 2026</span>
+          <div class="card-icon-box emerald">💲</div>
+          <h3 class="card-title">The Agent Economy Census</h3>
+          <p class="card-metric-line">Install Gini 0.96; 0.07% of listings are paid</p>
+        </div>
+
+        <!-- Card 3 -->
+        <div class="editorial-card" onclick="window.switchCatalogTab('research')">
+          <span class="card-meta-tag">CENSUS • AUG 2026</span>
+          <div class="card-icon-box blue">🛡️</div>
+          <h3 class="card-title">The Agent Skill Security Census</h3>
+          <p class="card-metric-line">87.8% of listings have never been audited</p>
+        </div>
+
+        <!-- Card 4 -->
+        <div class="editorial-card" onclick="window.switchCatalogTab('research')">
+          <span class="card-meta-tag">CENSUS • AUG 2026</span>
+          <div class="card-icon-box cyan">📄</div>
+          <h3 class="card-title">The Agent Skill Clone Census</h3>
+          <p class="card-metric-line">15.8% of all installs land on verified copies</p>
+        </div>
+
+        <!-- Card 5 -->
+        <div class="editorial-card" onclick="window.switchCatalogTab('research')">
+          <span class="card-meta-tag">CENSUS • AUG 2026</span>
+          <div class="card-icon-box violet">🔗</div>
+          <h3 class="card-title">The Agent Use-Case Census</h3>
+          <p class="card-metric-line">Generative media leads at 20.8% of installs</p>
+        </div>
+
+        <!-- Card 6 -->
+        <div class="editorial-card" onclick="window.switchCatalogTab('research')">
+          <span class="card-meta-tag">CENSUS • AUG 2026</span>
+          <div class="card-icon-box emerald">🔧</div>
+          <h3 class="card-title">The Agent Skill Maintenance Census</h3>
+          <p class="card-metric-line">Install-weighted median code age: 6 days</p>
+        </div>
+
+        <!-- Card 7 -->
+        <div class="editorial-card" onclick="window.switchCatalogTab('research')">
+          <span class="card-meta-tag">LIVE REPORT</span>
+          <div class="card-icon-box amber">📈</div>
+          <h3 class="card-title">The State of AI Agent Skills 2026</h3>
+          <p class="card-metric-line">Current totals and leaderboards, recounted daily</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- 6. Developer Guides Section -->
+    <section class="guides-homepage-section" id="guidesSection">
+      <div class="section-editorial-header">
+        <span class="section-meta-label">GUIDES</span>
+        <h2 class="section-editorial-title">Guides: pick the right skills, faster</h2>
+        <p class="section-editorial-subtitle">
+          Hands-on guides to the most-installed agent skills — what each one does and when to use it — browse all guides.
+        </p>
+      </div>
+
+      <div class="editorial-cards-grid">
+        <!-- Guide 1 -->
+        <a href="guides/agent_skills_guide.md" class="editorial-guide-card">
+          <span class="guide-meta-tag">GUIDE</span>
+          <div class="guide-sparkle">✦</div>
+          <h3 class="guide-title">What is the task-observer skill for Claude Code?</h3>
+          <span class="guide-slug">task observer</span>
+        </a>
+
+        <!-- Guide 2 -->
+        <a href="guides/agent_skills_guide.md" class="editorial-guide-card">
+          <span class="guide-meta-tag">GUIDE</span>
+          <div class="guide-sparkle">✦</div>
+          <h3 class="guide-title">What is the Lavish skill for Claude Code?</h3>
+          <span class="guide-slug">lavish</span>
+        </a>
+
+        <!-- Guide 3 -->
+        <a href="guides/agent_skills_guide.md" class="editorial-guide-card">
+          <span class="guide-meta-tag">GUIDE</span>
+          <div class="guide-sparkle">✦</div>
+          <h3 class="guide-title">What is the HyperFrames skill for Claude Code?</h3>
+          <span class="guide-slug">hyperframes</span>
+        </a>
+
+        <!-- Guide 4 -->
+        <a href="guides/mcp_servers_integration.md" class="editorial-guide-card">
+          <span class="guide-meta-tag">GUIDE</span>
+          <div class="guide-sparkle">✦</div>
+          <h3 class="guide-title">Are Claude Code and Cursor replacing community skills with built-in features?</h3>
+          <span class="guide-slug">claude code built-in features replacing skills</span>
+        </a>
+
+        <!-- Guide 5 -->
+        <a href="guides/agent_skills_guide.md" class="editorial-guide-card">
+          <span class="guide-meta-tag">GUIDE</span>
+          <div class="guide-sparkle">✦</div>
+          <h3 class="guide-title">What Is the Graphify Skill for Claude Code?</h3>
+          <span class="guide-slug">graphify</span>
+        </a>
+
+        <!-- Guide 6 -->
+        <a href="guides/agent_skills_guide.md" class="editorial-guide-card">
+          <span class="guide-meta-tag">GUIDE</span>
+          <div class="guide-sparkle">✦</div>
+          <h3 class="guide-title">What Are the Best Blender Skills for Claude Code?</h3>
+          <span class="guide-slug">blender</span>
+        </a>
+      </div>
+    </section>
+
     <!-- Results Header -->
-    <div class="results-header">
+    <div class="results-header" id="resultsHeader">
       <h2 class="section-title" id="currentSectionTitle">
         <span>⭐</span> All Agent Tools &amp; Registries
       </h2>

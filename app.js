@@ -42,6 +42,9 @@ const reposTableBody = document.getElementById("reposTableBody");
 const researchSection = document.getElementById("researchSection");
 const censusGrid = document.getElementById("censusGrid");
 const searchInput = document.getElementById("searchInput");
+const searchFlyout = document.getElementById("searchFlyout");
+const searchClearBtn = document.getElementById("searchClearBtn");
+const searchWrapper = document.getElementById("searchWrapper");
 const sortSelect = document.getElementById("sortSelect");
 const resultsCount = document.getElementById("resultsCount");
 const currentSectionTitle = document.getElementById("currentSectionTitle");
@@ -663,15 +666,35 @@ function updatePillarCounters() {
   });
 }
 
+window.switchCatalogTab = function(catalogId) {
+  activeCatalog = catalogId;
+  catalogTabs.forEach(t => t.classList.toggle("active", t.getAttribute("data-catalog") === activeCatalog));
+  navLinkBtns.forEach(b => b.classList.toggle("active", b.getAttribute("data-nav") === activeCatalog));
+  updatePillarCounters();
+  applyFiltersAndSort();
+  const cp = document.getElementById("controlsPanel");
+  if (cp) cp.scrollIntoView({ behavior: "smooth" });
+};
+
 // Filter, Search & Sort Pipeline
 function applyFiltersAndSort() {
   syncUrlParams();
+
+  // Control Editorial Homepage Sections Visibility
+  const editorialLeaderboards = document.getElementById("editorialLeaderboards");
+  const researchHomepageSection = document.getElementById("researchHomepageSection");
+  const guidesSection = document.getElementById("guidesSection");
+  const isHomeView = activeCatalog === "all" && !searchQuery && activePillar === "all" && !showOnlyBookmarks;
+
+  if (editorialLeaderboards) editorialLeaderboards.style.display = isHomeView ? "block" : "none";
+  if (researchHomepageSection) researchHomepageSection.style.display = isHomeView ? "block" : "none";
+  if (guidesSection) guidesSection.style.display = isHomeView ? "block" : "none";
 
   if (activeCatalog === "research") {
     reposGrid.style.display = "none";
     reposTableContainer.style.display = "none";
     researchSection.style.display = "flex";
-    resultsCount.textContent = "5 Empirical Market Censuses & Open Datasets";
+    resultsCount.textContent = "7 Empirical Market Censuses & Open Datasets";
     currentSectionTitle.innerHTML = `<span>📊</span> Research Desk &amp; Ecosystem Censuses`;
     renderResearchDesk();
     return;
@@ -973,10 +996,100 @@ function processCatalogData(data) {
 
 // Setup Event Listeners
 function setupEvents() {
-  // Search Input
-  searchInput.addEventListener("input", (e) => {
-    searchQuery = e.target.value;
-    applyFiltersAndSort();
+  // Search Input & Intelligent Quick-Discovery Flyout
+  const showFlyout = () => {
+    if (searchFlyout) searchFlyout.style.display = "block";
+  };
+  const hideFlyout = () => {
+    if (searchFlyout) searchFlyout.style.display = "none";
+  };
+
+  if (searchInput) {
+    searchInput.addEventListener("focus", () => {
+      if (!searchInput.value.trim()) showFlyout();
+    });
+    searchInput.addEventListener("click", () => {
+      if (!searchInput.value.trim()) showFlyout();
+    });
+    searchInput.addEventListener("input", (e) => {
+      searchQuery = e.target.value;
+      if (searchClearBtn) {
+        searchClearBtn.style.display = searchQuery ? "block" : "none";
+      }
+      if (searchQuery.trim().length > 0) {
+        hideFlyout();
+      } else {
+        showFlyout();
+      }
+      applyFiltersAndSort();
+    });
+  }
+
+  if (searchClearBtn) {
+    searchClearBtn.addEventListener("click", () => {
+      searchInput.value = "";
+      searchQuery = "";
+      searchClearBtn.style.display = "none";
+      showFlyout();
+      applyFiltersAndSort();
+      searchInput.focus();
+    });
+  }
+
+  // Handle Flyout Quick Discovery Item Clicks
+  if (searchFlyout) {
+    searchFlyout.querySelectorAll(".flyout-item[data-search]").forEach(item => {
+      item.addEventListener("click", () => {
+        const query = item.getAttribute("data-search");
+        searchInput.value = query;
+        searchQuery = query;
+        if (searchClearBtn) searchClearBtn.style.display = "block";
+        hideFlyout();
+        applyFiltersAndSort();
+        const cp = document.getElementById("controlsPanel");
+        if (cp) cp.scrollIntoView({ behavior: "smooth" });
+      });
+    });
+
+    searchFlyout.querySelectorAll(".flyout-item[data-nav]").forEach(item => {
+      item.addEventListener("click", () => {
+        const targetNav = item.getAttribute("data-nav");
+        activeCatalog = targetNav;
+        catalogTabs.forEach(t => t.classList.toggle("active", t.getAttribute("data-catalog") === activeCatalog));
+        navLinkBtns.forEach(b => b.classList.toggle("active", b.getAttribute("data-nav") === activeCatalog));
+        hideFlyout();
+        applyFiltersAndSort();
+        const cp = document.getElementById("controlsPanel");
+        if (cp) cp.scrollIntoView({ behavior: "smooth" });
+      });
+    });
+
+    searchFlyout.querySelectorAll(".flyout-tag").forEach(tag => {
+      tag.addEventListener("click", () => {
+        const tVal = tag.getAttribute("data-tag");
+        searchInput.value = tVal;
+        searchQuery = tVal;
+        if (searchClearBtn) searchClearBtn.style.display = "block";
+        hideFlyout();
+        applyFiltersAndSort();
+        const cp = document.getElementById("controlsPanel");
+        if (cp) cp.scrollIntoView({ behavior: "smooth" });
+      });
+    });
+  }
+
+  // Click outside to close flyout
+  document.addEventListener("click", (e) => {
+    if (searchWrapper && !searchWrapper.contains(e.target)) {
+      hideFlyout();
+    }
+  });
+
+  // Escape to close flyout
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape") {
+      hideFlyout();
+    }
   });
 
   // Sort Select
