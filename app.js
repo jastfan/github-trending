@@ -439,7 +439,7 @@ async function init() {
   updateBookmarkBadge();
 
   try {
-    const response = await fetch("data/latest.json");
+    const response = await fetch(`data/latest.json?t=${Date.now()}`, { cache: "no-store" });
     if (!response.ok) throw new Error(`HTTP error ${response.status}`);
     const data = await response.json();
     processData(data);
