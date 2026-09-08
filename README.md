@@ -44,7 +44,7 @@
 [![affaan-m/ECC](https://opengraph.githubassets.com/1/affaan-m/ECC)](https://github.com/affaan-m/ECC)
 
 > 💡 **What is it?** [affaan-m/ECC](https://github.com/affaan-m/ECC) — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-> 🚀 **Gained today:** **+1,897 stars** | **Total Stars:** ★ 252,829 | **Topics:** `#Agent-Skills` `#Coding-Agents` `#Security`
+> 🚀 **Gained today:** **+1,897 stars** | **Total Stars:** ★ 252,845 | **Topics:** `#Agent-Skills` `#Coding-Agents` `#Security`
 
 <details>
 <summary><b>👉 Click here for Instant Quick Inspect (Clone command & details)</b></summary>
@@ -65,11 +65,11 @@ git clone https://github.com/affaan-m/ECC.git
 
 | Rank | Repository | Language | Trending Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**affaan-m/ECC**](https://github.com/affaan-m/ECC) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` `#Security` | 🔥 **+1,897** | ★ 252,829 | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
-| 2 | [**DietrichGebert/ponytail**](https://github.com/DietrichGebert/ponytail) | `JavaScript` | `#Coding-Agents` | 🔥 **+1,737** | ★ 130,960 | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
-| 3 | [**blader/humanizer**](https://github.com/blader/humanizer) | `Python` | `#Agent-Skills` `#Coding-Agents` `#Local-AI` | 🔥 **+903** | ★ 44,952 | Agent skill that removes signs of AI-generated writing from text |
-| 4 | [**microsoft/markitdown**](https://github.com/microsoft/markitdown) | `Python` | - | 🔥 **+886** | ★ 180,199 | Python tool for converting files and office documents to Markdown. |
-| 5 | [**NousResearch/hermes-agent**](https://github.com/NousResearch/hermes-agent) | `Python` | `#Coding-Agents` | 🔥 **+638** | ★ 243,040 | The agent that grows with you |
+| 1 | [**affaan-m/ECC**](https://github.com/affaan-m/ECC) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` `#Security` | 🔥 **+1,897** | ★ 252,845 | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| 2 | [**DietrichGebert/ponytail**](https://github.com/DietrichGebert/ponytail) | `JavaScript` | `#Coding-Agents` | 🔥 **+1,737** | ★ 130,983 | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
+| 3 | [**blader/humanizer**](https://github.com/blader/humanizer) | `Python` | `#Agent-Skills` `#Coding-Agents` `#Local-AI` | 🔥 **+903** | ★ 44,957 | Agent skill that removes signs of AI-generated writing from text |
+| 4 | [**microsoft/markitdown**](https://github.com/microsoft/markitdown) | `Python` | - | 🔥 **+886** | ★ 180,227 | Python tool for converting files and office documents to Markdown. |
+| 5 | [**NousResearch/hermes-agent**](https://github.com/NousResearch/hermes-agent) | `Python` | `#Coding-Agents` | 🔥 **+638** | ★ 243,048 | The agent that grows with you |
 
 ---
 
@@ -79,12 +79,12 @@ git clone https://github.com/affaan-m/ECC.git
 
 | Rank | AI Repository | Language | Key Topic | Stars Today | Total Stars | What It Does |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**affaan-m/ECC**](https://github.com/affaan-m/ECC) | `JavaScript` | `#Agent-Skills` | 🔥 **+1,897** | ★ 252,829 | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
-| 2 | [**DietrichGebert/ponytail**](https://github.com/DietrichGebert/ponytail) | `JavaScript` | `#Coding-Agents` | 🔥 **+1,737** | ★ 130,960 | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
-| 3 | [**blader/humanizer**](https://github.com/blader/humanizer) | `Python` | `#Agent-Skills` | 🔥 **+903** | ★ 44,952 | Agent skill that removes signs of AI-generated writing from text |
-| 4 | [**NousResearch/hermes-agent**](https://github.com/NousResearch/hermes-agent) | `Python` | `#Coding-Agents` | 🔥 **+638** | ★ 243,040 | The agent that grows with you |
-| 5 | [**coreyhaines31/marketingskills**](https://github.com/coreyhaines31/marketingskills) | `JavaScript` | `#Agent-Skills` | 🔥 **+580** | ★ 48,120 | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. |
-| 6 | [**The-Swarm-Corporation/AutoHedge**](https://github.com/The-Swarm-Corporation/AutoHedge) | `Python` | `#Coding-Agents` | 🔥 **+517** | ★ 5,252 | Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution. |
+| 1 | [**affaan-m/ECC**](https://github.com/affaan-m/ECC) | `JavaScript` | `#Agent-Skills` | 🔥 **+1,897** | ★ 252,845 | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| 2 | [**DietrichGebert/ponytail**](https://github.com/DietrichGebert/ponytail) | `JavaScript` | `#Coding-Agents` | 🔥 **+1,737** | ★ 130,983 | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
+| 3 | [**blader/humanizer**](https://github.com/blader/humanizer) | `Python` | `#Agent-Skills` | 🔥 **+903** | ★ 44,957 | Agent skill that removes signs of AI-generated writing from text |
+| 4 | [**NousResearch/hermes-agent**](https://github.com/NousResearch/hermes-agent) | `Python` | `#Coding-Agents` | 🔥 **+638** | ★ 243,048 | The agent that grows with you |
+| 5 | [**coreyhaines31/marketingskills**](https://github.com/coreyhaines31/marketingskills) | `JavaScript` | `#Agent-Skills` | 🔥 **+580** | ★ 48,132 | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. |
+| 6 | [**The-Swarm-Corporation/AutoHedge**](https://github.com/The-Swarm-Corporation/AutoHedge) | `Python` | `#Coding-Agents` | 🔥 **+517** | ★ 5,258 | Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution. |
 
 ---
 
@@ -94,14 +94,14 @@ git clone https://github.com/affaan-m/ECC.git
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**heygen-com/hyperframes**](https://github.com/heygen-com/hyperframes) | `TypeScript` | `#Coding-Agents` `#AI-Video` | **+474** | ★ 45,881 | Write HTML. Render video. Built for agents. |
-| 2 | [**microsoft/markitdown**](https://github.com/microsoft/markitdown) | `Python` | - | **+886** | ★ 180,199 | Python tool for converting files and office documents to Markdown. |
-| 3 | [**mksglu/context-mode**](https://github.com/mksglu/context-mode) | `TypeScript` | `#MCP` `#Coding-Agents` | **+96** | ★ 20,817 | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. |
-| 4 | [**jo-inc/camofox-browser**](https://github.com/jo-inc/camofox-browser) | `JavaScript` | `#Coding-Agents` | **+135** | ★ 9,686 | Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement. |
-| 5 | [**MoonTechLab/LunaTV**](https://github.com/MoonTechLab/LunaTV) | `TypeScript` | - | **+197** | ★ 9,700 | 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源 |
-| 6 | [**affaan-m/ECC**](https://github.com/affaan-m/ECC) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` `#Security` | **+1,897** | ★ 252,829 | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
-| 7 | [**coreyhaines31/marketingskills**](https://github.com/coreyhaines31/marketingskills) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` | **+580** | ★ 48,120 | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. |
-| 8 | [**The-Swarm-Corporation/AutoHedge**](https://github.com/The-Swarm-Corporation/AutoHedge) | `Python` | `#Coding-Agents` `#Autonomous-Finance` | **+517** | ★ 5,252 | Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution. |
+| 1 | [**heygen-com/hyperframes**](https://github.com/heygen-com/hyperframes) | `TypeScript` | `#Coding-Agents` `#AI-Video` | **+474** | ★ 45,938 | Write HTML. Render video. Built for agents. |
+| 2 | [**microsoft/markitdown**](https://github.com/microsoft/markitdown) | `Python` | - | **+886** | ★ 180,227 | Python tool for converting files and office documents to Markdown. |
+| 3 | [**mksglu/context-mode**](https://github.com/mksglu/context-mode) | `TypeScript` | `#MCP` `#Coding-Agents` | **+96** | ★ 20,831 | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. |
+| 4 | [**jo-inc/camofox-browser**](https://github.com/jo-inc/camofox-browser) | `JavaScript` | `#Coding-Agents` | **+135** | ★ 9,698 | Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement. |
+| 5 | [**MoonTechLab/LunaTV**](https://github.com/MoonTechLab/LunaTV) | `TypeScript` | - | **+197** | ★ 9,710 | 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源 |
+| 6 | [**affaan-m/ECC**](https://github.com/affaan-m/ECC) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` `#Security` | **+1,897** | ★ 252,845 | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| 7 | [**coreyhaines31/marketingskills**](https://github.com/coreyhaines31/marketingskills) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` | **+580** | ★ 48,132 | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. |
+| 8 | [**The-Swarm-Corporation/AutoHedge**](https://github.com/The-Swarm-Corporation/AutoHedge) | `Python` | `#Coding-Agents` `#Autonomous-Finance` | **+517** | ★ 5,258 | Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution. |
 
 > 📂 *Explore all 14 Overall Trending repos in [`archives/2026-09/2026-09-08.md`](archives/2026-09/2026-09-08.md)*
 
@@ -109,14 +109,14 @@ git clone https://github.com/affaan-m/ECC.git
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**microsoft/markitdown**](https://github.com/microsoft/markitdown) | `Python` | - | **+886** | ★ 180,199 | Python tool for converting files and office documents to Markdown. |
-| 2 | [**The-Swarm-Corporation/AutoHedge**](https://github.com/The-Swarm-Corporation/AutoHedge) | `Python` | `#Coding-Agents` `#Autonomous-Finance` | **+517** | ★ 5,252 | Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution. |
-| 3 | [**bytedance/deer-flow**](https://github.com/bytedance/deer-flow) | `Python` | `#Agent-Skills` `#Coding-Agents` | **+195** | ★ 81,849 | An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. |
-| 4 | [**openai/skills**](https://github.com/openai/skills) | `Python` | `#Agent-Skills` `#Coding-Agents` | **+351** | ★ 26,024 | Skills Catalog for Codex |
-| 5 | [**pytorch/pytorch**](https://github.com/pytorch/pytorch) | `Python` | - | **+36** | ★ 102,844 | Tensors and Dynamic neural networks in Python with strong GPU acceleration |
-| 6 | [**browser-use/browser-use**](https://github.com/browser-use/browser-use) | `Python` | `#Coding-Agents` | **+330** | ★ 112,943 | 🌐 Make websites accessible for AI agents. Automate tasks online with ease. |
-| 7 | [**Comfy-Org/ComfyUI**](https://github.com/Comfy-Org/ComfyUI) | `Python` | `#AI-Video` | **+181** | ★ 131,943 | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. |
-| 8 | [**bikini/exploitarium**](https://github.com/bikini/exploitarium) | `Python` | `#Local-AI` `#Security` | **+63** | ★ 4,914 | A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way. |
+| 1 | [**microsoft/markitdown**](https://github.com/microsoft/markitdown) | `Python` | - | **+886** | ★ 180,227 | Python tool for converting files and office documents to Markdown. |
+| 2 | [**The-Swarm-Corporation/AutoHedge**](https://github.com/The-Swarm-Corporation/AutoHedge) | `Python` | `#Coding-Agents` `#Autonomous-Finance` | **+517** | ★ 5,258 | Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution. |
+| 3 | [**bytedance/deer-flow**](https://github.com/bytedance/deer-flow) | `Python` | `#Agent-Skills` `#Coding-Agents` | **+195** | ★ 81,855 | An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. |
+| 4 | [**openai/skills**](https://github.com/openai/skills) | `Python` | `#Agent-Skills` `#Coding-Agents` | **+351** | ★ 26,035 | Skills Catalog for Codex |
+| 5 | [**pytorch/pytorch**](https://github.com/pytorch/pytorch) | `Python` | - | **+36** | ★ 102,845 | Tensors and Dynamic neural networks in Python with strong GPU acceleration |
+| 6 | [**browser-use/browser-use**](https://github.com/browser-use/browser-use) | `Python` | `#Coding-Agents` | **+330** | ★ 112,948 | 🌐 Make websites accessible for AI agents. Automate tasks online with ease. |
+| 7 | [**Comfy-Org/ComfyUI**](https://github.com/Comfy-Org/ComfyUI) | `Python` | `#AI-Video` | **+181** | ★ 131,947 | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. |
+| 8 | [**bikini/exploitarium**](https://github.com/bikini/exploitarium) | `Python` | `#Local-AI` `#Security` | **+63** | ★ 4,916 | A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way. |
 
 > 📂 *Explore all 19 Python repos in [`archives/2026-09/2026-09-08.md`](archives/2026-09/2026-09-08.md)*
 
@@ -124,13 +124,13 @@ git clone https://github.com/affaan-m/ECC.git
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**jo-inc/camofox-browser**](https://github.com/jo-inc/camofox-browser) | `JavaScript` | `#Coding-Agents` | **+135** | ★ 9,686 | Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement. |
-| 2 | [**affaan-m/ECC**](https://github.com/affaan-m/ECC) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` `#Security` | **+1,897** | ★ 252,829 | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
-| 3 | [**coreyhaines31/marketingskills**](https://github.com/coreyhaines31/marketingskills) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` | **+580** | ★ 48,120 | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. |
+| 1 | [**jo-inc/camofox-browser**](https://github.com/jo-inc/camofox-browser) | `JavaScript` | `#Coding-Agents` | **+135** | ★ 9,698 | Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement. |
+| 2 | [**affaan-m/ECC**](https://github.com/affaan-m/ECC) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` `#Security` | **+1,897** | ★ 252,845 | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| 3 | [**coreyhaines31/marketingskills**](https://github.com/coreyhaines31/marketingskills) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` | **+580** | ★ 48,132 | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. |
 | 4 | [**Stremio/stremio-web**](https://github.com/Stremio/stremio-web) | `JavaScript` | - | **+289** | ★ 13,675 | Stremio - Freedom to Stream |
 | 5 | [**mekos2772/ios-location-spoofer**](https://github.com/mekos2772/ios-location-spoofer) | `JavaScript` | - | **+22** | ★ 3,863 | Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module. |
-| 6 | [**DietrichGebert/ponytail**](https://github.com/DietrichGebert/ponytail) | `JavaScript` | `#Coding-Agents` | **+1,737** | ★ 130,960 | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
-| 7 | [**openai/codex-plugin-cc**](https://github.com/openai/codex-plugin-cc) | `JavaScript` | `#Coding-Agents` | **+37** | ★ 32,888 | Use Codex from Claude Code to review code or delegate tasks. |
+| 6 | [**DietrichGebert/ponytail**](https://github.com/DietrichGebert/ponytail) | `JavaScript` | `#Coding-Agents` | **+1,737** | ★ 130,983 | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
+| 7 | [**openai/codex-plugin-cc**](https://github.com/openai/codex-plugin-cc) | `JavaScript` | `#Coding-Agents` | **+37** | ★ 32,887 | Use Codex from Claude Code to review code or delegate tasks. |
 | 8 | [**spicetify/cli**](https://github.com/spicetify/cli) | `JavaScript` | - | **+22** | ★ 24,430 | Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux. |
 
 > 📂 *Explore all 18 JavaScript repos in [`archives/2026-09/2026-09-08.md`](archives/2026-09/2026-09-08.md)*
@@ -139,12 +139,12 @@ git clone https://github.com/affaan-m/ECC.git
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**heygen-com/hyperframes**](https://github.com/heygen-com/hyperframes) | `TypeScript` | `#Coding-Agents` `#AI-Video` | **+474** | ★ 45,881 | Write HTML. Render video. Built for agents. |
-| 2 | [**mksglu/context-mode**](https://github.com/mksglu/context-mode) | `TypeScript` | `#MCP` `#Coding-Agents` | **+96** | ★ 20,817 | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. |
-| 3 | [**MoonTechLab/LunaTV**](https://github.com/MoonTechLab/LunaTV) | `TypeScript` | - | **+197** | ★ 9,700 | 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源 |
-| 4 | [**BraveOPotato/FckSignups**](https://github.com/BraveOPotato/FckSignups) | `TypeScript` | - | **+501** | ★ 3,812 | A list of tools that are open-source, in-browser, and require no-signups! |
-| 5 | [**pascalorg/editor**](https://github.com/pascalorg/editor) | `TypeScript` | - | **+168** | ★ 22,326 | Create and share 3D architectural projects. |
-| 6 | [**ruvnet/ruflo**](https://github.com/ruvnet/ruflo) | `TypeScript` | `#Coding-Agents` | **+394** | ★ 71,388 | 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated |
+| 1 | [**heygen-com/hyperframes**](https://github.com/heygen-com/hyperframes) | `TypeScript` | `#Coding-Agents` `#AI-Video` | **+474** | ★ 45,938 | Write HTML. Render video. Built for agents. |
+| 2 | [**mksglu/context-mode**](https://github.com/mksglu/context-mode) | `TypeScript` | `#MCP` `#Coding-Agents` | **+96** | ★ 20,831 | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. |
+| 3 | [**MoonTechLab/LunaTV**](https://github.com/MoonTechLab/LunaTV) | `TypeScript` | - | **+197** | ★ 9,710 | 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源 |
+| 4 | [**BraveOPotato/FckSignups**](https://github.com/BraveOPotato/FckSignups) | `TypeScript` | - | **+501** | ★ 3,819 | A list of tools that are open-source, in-browser, and require no-signups! |
+| 5 | [**pascalorg/editor**](https://github.com/pascalorg/editor) | `TypeScript` | - | **+168** | ★ 22,332 | Create and share 3D architectural projects. |
+| 6 | [**ruvnet/ruflo**](https://github.com/ruvnet/ruflo) | `TypeScript` | `#Coding-Agents` | **+394** | ★ 71,393 | 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated |
 | 7 | [**C4illin/ConvertX**](https://github.com/C4illin/ConvertX) | `TypeScript` | - | **+56** | ★ 18,885 | 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️ |
 | 8 | [**fluxerapp/fluxer**](https://github.com/fluxerapp/fluxer) | `TypeScript` | `#AI-Video` | **+22** | ★ 10,226 | A free and open source instant messaging and VoIP chat app built for friends, groups, and communities. |
 
@@ -154,11 +154,11 @@ git clone https://github.com/affaan-m/ECC.git
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**vxcontrol/pentagi**](https://github.com/vxcontrol/pentagi) | `Go` | `#Coding-Agents` `#Security` | **+89** | ★ 22,516 | Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
+| 1 | [**vxcontrol/pentagi**](https://github.com/vxcontrol/pentagi) | `Go` | `#Coding-Agents` `#Security` | **+89** | ★ 22,519 | Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
 | 2 | [**mudler/LocalAI**](https://github.com/mudler/LocalAI) | `Go` | `#AI-Video` | **+40** | ★ 48,963 | LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required. |
 | 3 | [**dstotijn/hetty**](https://github.com/dstotijn/hetty) | `Go` | `#Security` | **+121** | ★ 12,374 | An HTTP toolkit for security research. |
 | 4 | [**opencloud-eu/opencloud**](https://github.com/opencloud-eu/opencloud) | `Go` | - | **+6** | ★ 5,910 | 🌤️ OpenCloud is the open source platform for file management, sharing and collaboration. Simple and sovereign. |
-| 5 | [**entireio/cli**](https://github.com/entireio/cli) | `Go` | `#Coding-Agents` | **+7** | ★ 5,076 | 📜 Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are indexed alongside commits, creating a searchable record of how code was written in your repo. |
+| 5 | [**entireio/cli**](https://github.com/entireio/cli) | `Go` | `#Coding-Agents` | **+7** | ★ 5,077 | 📜 Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are indexed alongside commits, creating a searchable record of how code was written in your repo. |
 | 6 | [**moby/moby**](https://github.com/moby/moby) | `Go` | `#Local-AI` | **+20** | ★ 72,089 | The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems |
 | 7 | [**sysadminsmedia/homebox**](https://github.com/sysadminsmedia/homebox) | `Go` | - | **+9** | ★ 7,116 | A continuation of HomeBox the inventory and organization system built for the Home User |
 | 8 | [**github/github-mcp-server**](https://github.com/github/github-mcp-server) | `Go` | `#MCP` | **+26** | ★ 32,791 | GitHub's official MCP Server |
@@ -176,7 +176,7 @@ git clone https://github.com/affaan-m/ECC.git
 | 5 | [**Pumpkin-MC/Pumpkin**](https://github.com/Pumpkin-MC/Pumpkin) | `Rust` | - | **+34** | ★ 11,147 | Empowering everyone to host fast and efficient Minecraft servers. |
 | 6 | [**HakanSeven12/OpenCADStudio**](https://github.com/HakanSeven12/OpenCADStudio) | `Rust` | - | **+46** | ★ 1,165 | A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering |
 | 7 | [**mixelpixx/Konnect**](https://github.com/mixelpixx/Konnect) | `Rust` | - | **+53** | ★ 517 | AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing |
-| 8 | [**nklmilojevic/sofka**](https://github.com/nklmilojevic/sofka) | `Rust` | - | **+259** | ★ 809 | A Kubernetes TUI, reimagined in Rust - built on kube-rs and ratatui, async-first from the ground up. |
+| 8 | [**nklmilojevic/sofka**](https://github.com/nklmilojevic/sofka) | `Rust` | - | **+259** | ★ 814 | A Kubernetes TUI, reimagined in Rust - built on kube-rs and ratatui, async-first from the ground up. |
 
 > 📂 *Explore all 17 Rust repos in [`archives/2026-09/2026-09-08.md`](archives/2026-09/2026-09-08.md)*
 
