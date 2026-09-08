@@ -3,12 +3,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>GitHub Trending Intelligence — Live Breakout Repositories & AI Trends</title>
-  <meta name="description" content="Autonomous real-time tracking of GitHub's fastest-growing repositories, star velocities, and breakthrough AI innovations. Updated every 12 hours.">
+  <title>GitTrends & Skillselion Registry — AI Agent Skills, MCP Servers & Marketplaces</title>
+  <meta name="description" content="Browse Claude Code skills, MCP servers, plugins, and marketplaces for Cursor, Codex, and Antigravity. Ranked by real installs, star velocity, and open research censuses.">
   
   <!-- OpenGraph & Twitter Meta Tags -->
-  <meta property="og:title" content="GitHub Trending Intelligence — Breakout Repositories & AI Trends">
-  <meta property="og:description" content="Autonomous real-time tracking of GitHub's fastest-growing repositories and viral AI tools.">
+  <meta property="og:title" content="GitTrends & Skillselion Registry — AI Agent Skills & MCP Directory">
+  <meta property="og:description" content="Browse 59,500+ Claude Code skills, MCP servers, and marketplaces ranked by real installs and star velocity.">
   <meta property="og:type" content="website">
   <meta name="twitter:card" content="summary_large_image">
   
@@ -16,17 +16,32 @@
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚡</text></svg>">
   
   <!-- RSS Feed Auto-Discovery -->
-  <link rel="alternate" type="application/rss+xml" title="GitHub Trending Intelligence Feed" href="feed.xml">
+  <link rel="alternate" type="application/rss+xml" title="GitTrends & Skillselion Feed" href="feed.xml">
 
   <!-- Modern Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@500;600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@500;600;700&display=swap" rel="stylesheet">
   
   <!-- Stylesheet -->
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
+
+  <!-- Top Announcement Marquee Ticker -->
+  <aside class="top-ticker-banner" id="topTickerBanner">
+    <div class="ticker-content">
+      <span class="ticker-badge">🔥 LIVE REGISTRY</span>
+      <span class="ticker-text">
+        <b>79,848+ Listings Indexed</b> • 59,500+ Agent Skills • 12,700+ Marketplaces • 9,600+ MCP Servers • 
+        <i>Market Census: Claude Code & Cursor adoption leading at +340% growth</i>
+      </span>
+      <button class="ticker-action" onclick="copyAgentQuickCommand(event)" title="Copy Agent MCP Command">
+        ⚡ <code>claude mcp add skills -- npx -y skills-mcp</code>
+        <span class="copy-hint">Copy</span>
+      </button>
+    </div>
+  </aside>
 
   <div class="app-container">
     
@@ -34,16 +49,29 @@
     <header class="navbar" id="appNavbar">
       <a href="#" class="brand-logo" id="brandLogo">
         <div class="logo-icon">⚡</div>
-        <span class="brand-title">GitTrends Intelligence</span>
+        <div class="brand-info">
+          <span class="brand-title">GitTrends <span class="brand-sub">&amp; Skillselion</span></span>
+          <span class="brand-tag">Ecosystem Registry v5.0</span>
+        </div>
       </a>
+
+      <!-- Quick Nav Links -->
+      <nav class="nav-links-desktop">
+        <button class="nav-link-btn active" data-nav="all">⭐ All Tools</button>
+        <button class="nav-link-btn" data-nav="skills">⚡ Skills</button>
+        <button class="nav-link-btn" data-nav="mcp">🔌 MCP Servers</button>
+        <button class="nav-link-btn" data-nav="marketplaces">🏪 Marketplaces</button>
+        <button class="nav-link-btn" data-nav="trending">🔥 Velocity Radar</button>
+        <button class="nav-link-btn" data-nav="research">📊 Research Desk</button>
+      </nav>
 
       <div class="nav-actions">
         <a href="feed.xml" target="_blank" class="feed-btn" title="Subscribe via RSS Feed">
-          <span>📡</span> RSS Feed
+          <span>📡</span> RSS
         </a>
         <div class="status-badge" id="liveStatusBadge">
           <span class="status-pulse"></span>
-          <span id="lastUpdatedLabel">Live Tracking</span>
+          <span id="lastUpdatedLabel">Updated Daily</span>
         </div>
         <a href="https://github.com/jastfan/github-trending" target="_blank" rel="noopener" class="github-btn" id="githubRepoLink">
           <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
@@ -57,33 +85,127 @@
     <!-- Hero Section -->
     <section class="hero" id="heroSection">
       <div class="hero-pill">
-        <span>✨ Powered by Autonomous AI Scraper Engine</span>
+        <span>✨ The Open Directory for Claude Code Skills, MCP Servers &amp; Marketplaces</span>
       </div>
-      <h1 class="hero-title">Discover GitHub's Hottest Breakout Projects</h1>
-      <p class="hero-subtitle">Real-time star velocities, viral surges, and cutting-edge open-source software curated every 12 hours.</p>
+      <h1 class="hero-title">Supercharge Your AI Coding Agents</h1>
+      <p class="hero-subtitle">
+        Browse, benchmark, and 1-click install thousands of agent skills, MCP servers, and operator plugins for Claude Code, Cursor, Codex, and Antigravity. Ranked by real installs &amp; star velocity.
+      </p>
+
+      <!-- 1-Click Agent Integration Bar -->
+      <div class="agent-install-hero">
+        <div class="agent-install-label">
+          <span class="agent-tag-badge">FOR AGENTS</span>
+          <span>Load ranked skills into your coding agent mid-task with zero manual install:</span>
+        </div>
+        <div class="agent-cmd-box" onclick="copyAgentQuickCommand(event)">
+          <code>claude mcp add skills -- npx -y skills-mcp</code>
+          <button class="cmd-copy-btn" id="btnHeroCopy">📋 Copy Command</button>
+        </div>
+      </div>
 
       <!-- Key Stat Counters -->
       <div class="stats-grid" id="statsGrid">
         <div class="stat-box">
-          <div class="stat-value" id="statTrackedCount" style="color: var(--accent-cyan);">--</div>
-          <div class="stat-label">Total Repos Tracked</div>
+          <div class="stat-value" id="statTrackedCount" style="color: var(--accent-cyan);">79,848+</div>
+          <div class="stat-label">Total Tools Indexed</div>
         </div>
         <div class="stat-box">
-          <div class="stat-value" id="statAiCount" style="color: var(--accent-rose);">--</div>
-          <div class="stat-label">AI & Agents Discovered</div>
+          <div class="stat-value" id="statInstallsCount" style="color: var(--accent-emerald);">164.8M</div>
+          <div class="stat-label">Verified Installs</div>
         </div>
         <div class="stat-box">
-          <div class="stat-value" id="statMaxVelocity" style="color: var(--accent-amber);">--</div>
-          <div class="stat-label">Peak Velocity Today</div>
+          <div class="stat-value" id="statMaxVelocity" style="color: var(--accent-amber);">+300%</div>
+          <div class="stat-label">Peak Weekly Velocity</div>
         </div>
         <div class="stat-box">
-          <div class="stat-value" id="statTopLang" style="color: var(--accent-violet);">--</div>
-          <div class="stat-label">Leading Language</div>
+          <div class="stat-value" id="statTopEcosystem" style="color: var(--accent-violet);">Coding Agents</div>
+          <div class="stat-label">Leading Ecosystem</div>
         </div>
       </div>
     </section>
 
-    <!-- Controls Toolbar (Search, Filter, Sort) -->
+    <!-- 1. Primary Catalog Switcher Tabs -->
+    <nav class="catalog-tabs-bar" id="catalogTabsBar">
+      <button class="catalog-tab active" data-catalog="all">
+        <span class="tab-icon">⭐</span>
+        <span class="tab-title">All Catalog</span>
+        <span class="tab-count" id="countAll">79k+</span>
+      </button>
+      <button class="catalog-tab" data-catalog="skills">
+        <span class="tab-icon">⚡</span>
+        <span class="tab-title">Agent Skills</span>
+        <span class="tab-count" id="countSkills">59.5k</span>
+      </button>
+      <button class="catalog-tab" data-catalog="mcp">
+        <span class="tab-icon">🔌</span>
+        <span class="tab-title">MCP Servers</span>
+        <span class="tab-count" id="countMcp">9.6k</span>
+      </button>
+      <button class="catalog-tab" data-catalog="marketplaces">
+        <span class="tab-icon">🏪</span>
+        <span class="tab-title">Marketplaces</span>
+        <span class="tab-count" id="countMarketplaces">12.7k</span>
+      </button>
+      <button class="catalog-tab" data-catalog="trending">
+        <span class="tab-icon">🔥</span>
+        <span class="tab-title">Star Velocity Radar</span>
+        <span class="tab-count" id="countTrending">Daily</span>
+      </button>
+      <button class="catalog-tab" data-catalog="research">
+        <span class="tab-icon">📊</span>
+        <span class="tab-title">Research Desk</span>
+        <span class="tab-count" id="countResearch">5 Censuses</span>
+      </button>
+    </nav>
+
+    <!-- 2. Nine-Pillar Category Domain Pills -->
+    <div class="pillar-filter-bar" id="pillarFilterBar">
+      <div class="pillar-scroll">
+        <button class="pillar-pill active" data-pillar="all">
+          <span class="pill-icon">🌟</span>
+          <span>All Domains</span>
+        </button>
+        <button class="pillar-pill" data-pillar="ai-agents">
+          <span class="pill-icon">🤖</span>
+          <span>AI &amp; Agents</span>
+        </button>
+        <button class="pillar-pill" data-pillar="frontend-design">
+          <span class="pill-icon">🎨</span>
+          <span>Frontend &amp; Design</span>
+        </button>
+        <button class="pillar-pill" data-pillar="backend-data">
+          <span class="pill-icon">🗄️</span>
+          <span>Backend &amp; Data</span>
+        </button>
+        <button class="pillar-pill" data-pillar="dev-tools">
+          <span class="pill-icon">🛠️</span>
+          <span>Dev Tools</span>
+        </button>
+        <button class="pillar-pill" data-pillar="automation">
+          <span class="pill-icon">⚡</span>
+          <span>Automation</span>
+        </button>
+        <button class="pillar-pill" data-pillar="testing-review">
+          <span class="pill-icon">🧪</span>
+          <span>Testing &amp; Review</span>
+        </button>
+        <button class="pillar-pill" data-pillar="security">
+          <span class="pill-icon">🛡️</span>
+          <span>Security</span>
+        </button>
+        <button class="pillar-pill" data-pillar="monitoring-cloud">
+          <span class="pill-icon">☁️</span>
+          <span>Monitoring &amp; Cloud</span>
+        </button>
+        <button class="pillar-pill" data-pillar="docs-planning">
+          <span class="pill-icon">📝</span>
+          <span>Docs &amp; Planning</span>
+        </button>
+      </div>
+    </div>
+
+    <!-- 3. Search, Sort & View Controls -->
     <section class="controls-panel" id="controlsPanel">
       <div class="search-row">
         <div class="search-wrapper">
@@ -92,134 +214,190 @@
             type="text" 
             id="searchInput" 
             class="search-input" 
-            placeholder="Search repositories, technologies, AI models, or descriptions (e.g., 'agent', 'rag', 'vision')..."
+            placeholder="Search skills, MCP servers, frameworks, or prompt keywords (e.g., 'apple-design', 'mcp', 'tdd')..."
             autocomplete="off"
           >
         </div>
-        <select id="sortSelect" class="sort-select" title="Sort repositories">
-          <option value="velocity">🔥 Stars Gained Today</option>
-          <option value="total_stars">★ Total Stars</option>
-          <option value="forks">🍴 Total Forks</option>
-          <option value="name">🔤 Name (A-Z)</option>
-        </select>
-      </div>
 
-      <!-- Velocity Filter Chips -->
-      <div class="velocity-row">
-        <span class="velocity-label">Velocity:</span>
-        <button class="vel-chip active" data-vel="all">All Growth</button>
-        <button class="vel-chip" data-vel="1000">🔥 Viral (&gt;1,000 Today)</button>
-        <button class="vel-chip" data-vel="500">⚡ Surging (&gt;500 Today)</button>
-        <button class="vel-chip" data-vel="100">📈 Rising (&gt;100 Today)</button>
-      </div>
+        <div class="controls-actions">
+          <select id="sortSelect" class="sort-select" title="Sort Catalog">
+            <option value="installs">📥 Highest Real Installs</option>
+            <option value="growth">📈 Fastest Velocity (+% Growth)</option>
+            <option value="stars">⭐ Most GitHub Stars</option>
+            <option value="velocity">🔥 Today's Star Delta</option>
+            <option value="name">🔤 Alphabetical (A-Z)</option>
+          </select>
 
-      <!-- Trending Tech Topics Pills (MCP, Agent-Skills, AI-Video, etc.) -->
-      <div class="velocity-row" id="topicsFilterRow">
-        <span class="velocity-label" style="color: var(--accent-rose);">Hot Topics:</span>
-        <button class="topic-chip active" data-topic="all">All Topics</button>
-        <button class="topic-chip" data-topic="MCP">🔌 #MCP</button>
-        <button class="topic-chip" data-topic="Agent-Skills">🧠 #Agent-Skills</button>
-        <button class="topic-chip" data-topic="AI-Video">🎬 #AI-Video</button>
-        <button class="topic-chip" data-topic="Coding-Agents">💻 #Coding-Agents</button>
-        <button class="topic-chip" data-topic="Local-AI">🔒 #Local-AI</button>
-        <button class="topic-chip" data-topic="Autonomous-Finance">📈 #Finance-Agents</button>
-      </div>
+          <!-- Bookmarks Filter Button -->
+          <button class="bookmark-filter-btn" id="btnFilterBookmarks" title="Show Bookmarked Items">
+            <span>★</span> Saved (<span id="bookmarkCount">0</span>)
+          </button>
 
-      <!-- Category Filter Pills -->
-      <nav class="categories-nav" id="categoriesNav">
-        <button class="cat-tab active" data-cat="all" id="tabAll">
-          <span>🌟</span> All Trending
-        </button>
-        <button class="cat-tab ai-tab" data-cat="ai" id="tabAi">
-          <span>🤖</span> AI & Agents Spotlight
-        </button>
-        <button class="cat-tab" data-cat="Overall Trending" id="tabOverall">
-          <span>🌐</span> Overall
-        </button>
-        <button class="cat-tab" data-cat="Python" id="tabPython">
-          <span>🐍</span> Python
-        </button>
-        <button class="cat-tab" data-cat="JavaScript" id="tabJs">
-          <span>⚡</span> JavaScript
-        </button>
-        <button class="cat-tab" data-cat="TypeScript" id="tabTs">
-          <span>🔷</span> TypeScript
-        </button>
-        <button class="cat-tab" data-cat="Go" id="tabGo">
-          <span>🐹</span> Go
-        </button>
-        <button class="cat-tab" data-cat="Rust" id="tabRust">
-          <span>🦀</span> Rust
-        </button>
-        <button class="cat-tab" data-cat="bookmarks" id="tabBookmarks">
-          <span>⭐</span> Saved Bookmarks (<span id="bookmarkCount">0</span>)
-        </button>
-      </nav>
+          <!-- Export JSON/CSV Button -->
+          <button class="export-btn" id="btnExportData" onclick="exportCurrentData()" title="Download JSON/CSV dataset">
+            <span>📥</span> Export
+          </button>
+
+          <!-- View Mode Toggle -->
+          <div class="view-toggle" id="viewToggle">
+            <button class="view-btn active" id="btnViewCards" title="Grid Cards View">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+                <path d="M3 3h8v8H3zm10 0h8v8h-8zM3 13h8v8H3zm10 0h8v8h-8z"/>
+              </svg>
+            </button>
+            <button class="view-btn" id="btnViewTable" title="Compact Table View">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+                <path d="M3 4h18v3H3zm0 7h18v3H3zm0 7h18v3H3z"/>
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
     </section>
 
-    <!-- Results Section -->
-    <main>
-      <div class="section-header">
-        <div>
-          <h2 class="section-title" id="currentSectionTitle">
-            <span>🌟</span> All Trending Repositories
-          </h2>
-          <span class="repos-count" id="resultsCount">Showing 0 repositories</span>
-        </div>
+    <!-- Results Header -->
+    <div class="results-header">
+      <h2 class="section-title" id="currentSectionTitle">
+        <span>⭐</span> All Agent Tools &amp; Registries
+      </h2>
+      <div class="results-count" id="resultsCount">Showing 0 items</div>
+    </div>
 
-        <!-- View Mode Switcher -->
-        <div class="view-switch">
-          <button class="view-btn active" id="btnViewCards" title="Grid Cards View">🎴 Cards</button>
-          <button class="view-btn" id="btnViewTable" title="Compact Table View">📋 Table</button>
-        </div>
-      </div>
-
-      <!-- Repositories Grid Container -->
-      <div class="repos-grid" id="reposGrid">
-        <!-- Rendered dynamically by app.js -->
-      </div>
-
-      <!-- Repositories Table Container (Hidden by default) -->
-      <div class="repos-table-container" id="reposTableContainer" style="display: none;">
-        <table class="repos-table" id="reposTable">
-          <thead>
-            <tr>
-              <th>Rank</th>
-              <th>Repository</th>
-              <th>Language</th>
-              <th>Today's Growth</th>
-              <th>Total Stars</th>
-              <th>Forks</th>
-              <th>Actions</th>
-            </tr>
-          </thead>
-          <tbody id="reposTableBody">
-            <!-- Rendered dynamically by app.js -->
-          </tbody>
-        </table>
-      </div>
+    <!-- Main Dynamic Repositories / Skills Grid -->
+    <main class="repos-grid" id="reposGrid">
+      <!-- Injected via app.js -->
     </main>
+
+    <!-- Table View Container -->
+    <div class="repos-table-container" id="reposTableContainer" style="display: none;">
+      <table class="repos-table" id="reposTable">
+        <thead>
+          <tr>
+            <th>Rank</th>
+            <th>Name &amp; Repository</th>
+            <th>Type</th>
+            <th>Category</th>
+            <th>Installs / Velocity</th>
+            <th>Stars</th>
+            <th>1-Click Install</th>
+            <th>Action</th>
+          </tr>
+        </thead>
+        <tbody id="reposTableBody">
+          <!-- Injected via app.js -->
+        </tbody>
+      </table>
+    </div>
+
+    <!-- Research Desk Section (Dedicated Census View) -->
+    <section class="research-section" id="researchSection" style="display: none;">
+      <div class="research-hero-banner">
+        <div class="research-badge">📊 SKILLSELION RESEARCH DESK</div>
+        <h2>The Directory That Measures Its Market</h2>
+        <p>
+          We run ongoing empirical research on the AI agent skills and MCP server ecosystem: dated censuses of security, copying, maintenance, and monetization. Every number is backed by open, free-to-cite datasets.
+        </p>
+      </div>
+
+      <div class="census-grid" id="censusGrid">
+        <!-- Injected via app.js -->
+      </div>
+    </section>
 
     <!-- Footer -->
     <footer class="app-footer">
-      <div style="display: flex; justify-content: center; gap: 16px; margin-bottom: 12px;">
-        <a href="feed.xml" target="_blank" class="footer-link">📡 RSS 2.0 Feed</a> • 
-        <a href="data/latest.json" target="_blank" class="footer-link">🗄️ Raw JSON API</a> • 
-        <a href="https://twitter.com/intent/tweet?text=Discover%20GitHub%27s%20hottest%20trending%20projects%20and%20AI%20tools%20with%20GitTrends%20Intelligence!" target="_blank" rel="noopener" class="footer-link">🐦 Share on X</a>
+      <div class="footer-content">
+        <div class="footer-left">
+          <div class="logo-icon" style="display: inline-block;">⚡</div>
+          <strong>GitTrends &amp; Skillselion Registry</strong>
+          <p>The open-source registry for Claude Code skills, MCP servers, and agent intelligence. Updated every 12 hours.</p>
+        </div>
+        <div class="footer-links">
+          <a href="https://github.com/jastfan/github-trending" target="_blank" rel="noopener">GitHub</a>
+          <a href="feed.xml" target="_blank">RSS 2.0 Feed</a>
+          <a href="data/latest.json" target="_blank">Latest JSON API</a>
+          <a href="data/research/census_latest.json" target="_blank">Research Censuses</a>
+          <a href="https://github.com/jastfan/github-trending/blob/main/LICENSE" target="_blank">MIT License</a>
+        </div>
       </div>
-      <p>GitTrends Intelligence Engine • 100% Autonomous Open-Source Tracker • Licensed under <a href="LICENSE">MIT</a></p>
-      <p style="margin-top: 8px; font-size: 0.8rem;">Data updated automatically every 12 hours via GitHub Actions</p>
+      <div class="footer-bottom">
+        <span>Curated with ❤️ by <a href="https://github.com/jastfan" target="_blank" rel="noopener">@jastfan</a>. Open source and free to cite under MIT.</span>
+      </div>
     </footer>
 
   </div>
 
-  <!-- Toast Notification -->
-  <div class="toast" id="appToast">
-    <span id="toastIcon">📋</span>
-    <span id="toastMsg">Copied to clipboard!</span>
+  <!-- Interactive Inspector Modal (Skill/MCP Deep Dive Drawer) -->
+  <div class="modal-backdrop" id="modalBackdrop">
+    <div class="modal-container" id="modalContainer">
+      <div class="modal-header">
+        <div class="modal-title-group">
+          <div class="modal-type-badge" id="modalTypeBadge">SKILL</div>
+          <h3 class="modal-title" id="modalTitle">Skill Name</h3>
+          <span class="modal-author" id="modalAuthor">by @author</span>
+        </div>
+        <button class="modal-close-btn" id="modalCloseBtn" onclick="closeInspectorModal()">&times;</button>
+      </div>
+
+      <div class="modal-body">
+        <div class="modal-stats-strip">
+          <div class="modal-stat-item">
+            <span class="stat-sub">Real Installs</span>
+            <strong id="modalInstalls">125k</strong>
+          </div>
+          <div class="modal-stat-item">
+            <span class="stat-sub">Velocity Growth</span>
+            <strong id="modalGrowth" style="color: var(--accent-emerald);">+300%</strong>
+          </div>
+          <div class="modal-stat-item">
+            <span class="stat-sub">GitHub Stars</span>
+            <strong id="modalStars">★ 35.7k</strong>
+          </div>
+          <div class="modal-stat-item">
+            <span class="stat-sub">Pillar Domain</span>
+            <strong id="modalCategory">Frontend &amp; Design</strong>
+          </div>
+        </div>
+
+        <div class="modal-desc-box">
+          <h4>About this Tool</h4>
+          <p id="modalDescription">Detailed description goes here...</p>
+        </div>
+
+        <!-- Install Commands Multi-Tab -->
+        <div class="modal-install-section">
+          <div class="install-tabs">
+            <button class="install-tab active" data-tab="claude">Claude Code CLI</button>
+            <button class="install-tab" data-tab="cursor">Cursor Config</button>
+            <button class="install-tab" data-tab="raw">Instructions / Repo</button>
+          </div>
+          <div class="install-snippet-box">
+            <pre><code id="modalSnippetCode">claude plugin add ...</code></pre>
+            <button class="copy-snippet-btn" onclick="copyModalSnippet()">📋 Copy</button>
+          </div>
+        </div>
+
+        <div class="modal-tags-list" id="modalTagsList">
+          <!-- Tag chips injected here -->
+        </div>
+      </div>
+
+      <div class="modal-footer">
+        <a href="#" target="_blank" rel="noopener" class="modal-repo-link" id="modalRepoLink">
+          <span>Open on GitHub ↗</span>
+        </a>
+        <button class="modal-done-btn" onclick="closeInspectorModal()">Done</button>
+      </div>
+    </div>
   </div>
 
-  <!-- Application Logic Script -->
+  <!-- Toast Notification -->
+  <div class="toast" id="appToast">
+    <span class="toast-icon">✅</span>
+    <span id="toastMsg">Copied CLI command to clipboard!</span>
+  </div>
+
+  <!-- Application Logic -->
   <script src="app.js"></script>
 </body>
 </html>
