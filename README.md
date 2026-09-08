@@ -39,6 +39,35 @@
 
 ---
 
+## ⚡ Quick Start: Connect Your Coding Agent via MCP
+
+Query and load verified skills, MCP servers, and breakout velocity repos directly into **Claude Code, Cursor, Codex, and Antigravity**:
+
+```bash
+# 1-Click integration for Claude Code:
+claude mcp add gittrends -- npx -y gittrends-mcp
+```
+
+```json
+// Or add to Cursor (.cursor/mcp.json):
+{
+  "mcpServers": {
+    "gittrends": {
+      "command": "npx",
+      "args": ["-y", "gittrends-mcp"]
+    }
+  }
+}
+```
+
+### 📚 Developer & Agent Guides
+- ⚡ [**Agent Skills Integration Guide**](guides/agent_skills_guide.md) — How to discover, install, author, and structure modular agent skills (`SKILL.md`).
+- 🔌 [**MCP Servers Integration Blueprint**](guides/mcp_servers_integration.md) — Configuring stdio/SSE servers in Cursor, Claude Code, and Antigravity.
+- 📊 [**2026 Empirical Research Censuses**](guides/research_census_2026.md) — Market analysis of 79k+ agent skills, permissions audits, and maintenance velocity.
+- 🗂️ [**Guides Directory Portal**](guides/README.md) — Complete index of documentation and agent cheatsheets.
+
+---
+
 ## 🏆 Today's #1 Trending Breakout Project
 
 [![heygen-com/hyperframes](https://opengraph.githubassets.com/1/heygen-com/hyperframes)](https://github.com/heygen-com/hyperframes)

@@ -128,9 +128,9 @@ function showToast(message) {
 // 1-Click Copy Helpers
 window.copyAgentQuickCommand = function(e) {
   if (e) e.stopPropagation();
-  const cmd = "claude mcp add skills -- npx -y skills-mcp";
+  const cmd = "claude mcp add gittrends -- npx -y gittrends-mcp";
   navigator.clipboard.writeText(cmd).then(() => {
-    showToast("Copied Agent MCP command to clipboard!");
+    showToast("Copied: " + cmd);
   });
 };
 

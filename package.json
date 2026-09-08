@@ -1,0 +1,40 @@
+{
+  "name": "gittrends-mcp",
+  "version": "5.0.0",
+  "description": "Official Model Context Protocol (MCP) server for GitTrends & Skillselion Registry. Exposes AI Agent Skills, MCP servers, and trending breakouts to Claude Code, Cursor, Codex, and Antigravity.",
+  "main": "bin/cli.js",
+  "bin": {
+    "gittrends-mcp": "./bin/cli.js",
+    "skills-mcp": "./bin/cli.js"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "claude-code",
+    "cursor",
+    "antigravity",
+    "agent-skills",
+    "skillselion",
+    "github-trending"
+  ],
+  "author": "jastfan",
+  "license": "MIT",
+  "homepage": "https://jastfan.github.io/github-trending/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jastfan/github-trending.git"
+  },
+  "files": [
+    "bin/cli.js",
+    "data/latest.json",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "start": "node bin/cli.js",
+    "test": "node tests/test_mcp_server.js && node tests/test_app_logic.js"
+  }
+}
