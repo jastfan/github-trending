@@ -557,6 +557,15 @@ function renderResearchDesk() {
   const research = catalogData.research || {};
   const reports = research.reports || [];
 
+  if (!reports || reports.length === 0) {
+    censusGrid.innerHTML = `
+      <div style="grid-column: 1 / -1; text-align: center; padding: 40px; color: var(--text-muted); font-family: var(--font-mono);">
+        Loading 2026 Empirical Research Censuses...
+      </div>
+    `;
+    return;
+  }
+
   censusGrid.innerHTML = reports.map(r => {
     const metricsHtml = Object.entries(r.metrics || {}).map(([k, v]) => `
       <div class="census-metric-item">
@@ -566,25 +575,53 @@ function renderResearchDesk() {
     `).join("");
 
     return `
-      <div class="census-card">
-        <div style="display: flex; align-items: center; justify-content: space-between;">
-          <span style="font-size: 0.76rem; color: var(--text-muted); text-transform: uppercase;">${r.date}</span>
-          <span class="census-tagline">${r.tagline}</span>
+      <div class="census-card" id="census-${r.id}">
+        <div class="census-card-header">
+          <span class="census-date-tag">${r.date}</span>
+          <span class="census-tagline" title="${r.tagline}">${r.tagline}</span>
         </div>
-        <h3 style="font-family: var(--font-heading); font-size: 1.25rem; color: #fff;">${r.title}</h3>
-        <p style="font-size: 0.88rem; color: var(--text-secondary); line-height: 1.5;">${r.summary}</p>
+        <h3 class="census-card-title">${r.title}</h3>
+        <p class="census-card-summary">${r.summary}</p>
         <div class="census-metrics-row">
           ${metricsHtml}
         </div>
-        <div style="margin-top: 10px; display: flex; gap: 12px;">
-          <a href="data/research/census_latest.json" target="_blank" class="footer-link" style="font-size: 0.8rem;">
-            Download Raw Census (.JSON) ↗
+        <div class="census-actions-strip">
+          <a href="data/research/census_latest.json" target="_blank" class="census-action-btn primary" title="Download raw JSON data">
+            <span>💾</span> Raw Data (.JSON) ↗
           </a>
+          <a href="guides/research_census_2026.md" target="_blank" class="census-action-btn" title="Read methodology & dataset documentation">
+            <span>📖</span> Methodology ↗
+          </a>
+          <button class="census-action-btn" onclick="copyCensusCitation('${r.id}')" title="Copy academic and markdown citation">
+            <span>📋</span> Cite Report
+          </button>
         </div>
       </div>
     `;
   }).join("");
 }
+
+// 1-Click Open-Science Citation Copier
+window.copyCensusCitation = function(reportId) {
+  const reports = catalogData.research?.reports || [];
+  const report = reports.find(r => r.id === reportId);
+  const title = report ? report.title : "GitTrends AI Empirical Research Censuses";
+  const date = report ? report.date : "August 2026";
+  const citation = `@techreport{gittrends2026_${reportId || 'census'},
+  title = {${title}},
+  author = {GitTrends AI Research Desk},
+  institution = {GitTrends AI Intelligence Registry},
+  year = {2026},
+  month = {August},
+  url = {https://jastfan.github.io/github-trending/data/research/census_latest.json}
+}`;
+
+  navigator.clipboard.writeText(citation).then(() => {
+    showToast(`Copied citation for: ${title}`);
+  }).catch(() => {
+    showToast("Copied citation to clipboard!");
+  });
+};
 
 // Dual Exporter: JSON & RFC-4180 CSV
 window.exportCurrentData = function() {
@@ -672,8 +709,13 @@ window.switchCatalogTab = function(catalogId) {
   navLinkBtns.forEach(b => b.classList.toggle("active", b.getAttribute("data-nav") === activeCatalog));
   updatePillarCounters();
   applyFiltersAndSort();
-  const cp = document.getElementById("controlsPanel");
-  if (cp) cp.scrollIntoView({ behavior: "smooth" });
+  if (activeCatalog === "research") {
+    const rs = document.getElementById("researchSection");
+    if (rs) rs.scrollIntoView({ behavior: "smooth" });
+  } else {
+    const cp = document.getElementById("controlsPanel");
+    if (cp) cp.scrollIntoView({ behavior: "smooth" });
+  }
 };
 
 // Filter, Search & Sort Pipeline

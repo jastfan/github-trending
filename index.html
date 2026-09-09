@@ -732,7 +732,7 @@
         <span class="section-meta-label">RESEARCH</span>
         <h2 class="section-editorial-title">The directory that measures its market</h2>
         <p class="section-editorial-subtitle">
-          GitTrends AI indexes the agent ecosystem and runs ongoing research on it: dated censuses of security, copying, usage and maintenance, with the raw dataset behind every number. Free to cite — browse GitTrends Research. How the numbers are made: <a href="guides/research_census_2026.md" class="editorial-link">methodology</a>.
+          GitTrends AI indexes the agent ecosystem and runs ongoing research on it: dated censuses of security, copying, usage and maintenance, with the raw dataset behind every number. Free to cite — browse GitTrends Research. How the numbers are made: <a href="guides/research_census_2026.md" target="_blank" rel="noopener" class="editorial-link">methodology ↗</a>.
         </p>
       </div>
 
@@ -792,6 +792,14 @@
           <h3 class="card-title">The State of AI Agent Skills 2026</h3>
           <p class="card-metric-line">Current totals and leaderboards, recounted daily</p>
         </div>
+
+        <!-- Card 8 -->
+        <div class="editorial-card" onclick="window.switchCatalogTab('research')">
+          <span class="card-meta-tag">OPEN DATASET</span>
+          <div class="card-icon-box violet">💾</div>
+          <h3 class="card-title">Raw Research Census JSON</h3>
+          <p class="card-metric-line">Machine-readable open datasets, free to cite under MIT</p>
+        </div>
       </div>
     </section>
 
@@ -801,13 +809,13 @@
         <span class="section-meta-label">GUIDES</span>
         <h2 class="section-editorial-title">Guides: pick the right skills, faster</h2>
         <p class="section-editorial-subtitle">
-          Hands-on guides to the most-installed agent skills — what each one does and when to use it — browse all guides.
+          Hands-on guides to the most-installed agent skills — what each one does and when to use it — <a href="guides/README.md" target="_blank" rel="noopener" class="editorial-link">browse all developer guides ↗</a>.
         </p>
       </div>
 
       <div class="editorial-cards-grid">
         <!-- Guide 1 -->
-        <a href="guides/agent_skills_guide.md" class="editorial-guide-card">
+        <a href="guides/agent_skills_guide.md" target="_blank" rel="noopener" class="editorial-guide-card">
           <span class="guide-meta-tag">GUIDE</span>
           <div class="guide-sparkle">✦</div>
           <h3 class="guide-title">What is the task-observer skill for Claude Code?</h3>
@@ -815,7 +823,7 @@
         </a>
 
         <!-- Guide 2 -->
-        <a href="guides/agent_skills_guide.md" class="editorial-guide-card">
+        <a href="guides/agent_skills_guide.md" target="_blank" rel="noopener" class="editorial-guide-card">
           <span class="guide-meta-tag">GUIDE</span>
           <div class="guide-sparkle">✦</div>
           <h3 class="guide-title">What is the Lavish skill for Claude Code?</h3>
@@ -823,7 +831,7 @@
         </a>
 
         <!-- Guide 3 -->
-        <a href="guides/agent_skills_guide.md" class="editorial-guide-card">
+        <a href="guides/agent_skills_guide.md" target="_blank" rel="noopener" class="editorial-guide-card">
           <span class="guide-meta-tag">GUIDE</span>
           <div class="guide-sparkle">✦</div>
           <h3 class="guide-title">What is the HyperFrames skill for Claude Code?</h3>
@@ -831,7 +839,7 @@
         </a>
 
         <!-- Guide 4 -->
-        <a href="guides/mcp_servers_integration.md" class="editorial-guide-card">
+        <a href="guides/mcp_servers_integration.md" target="_blank" rel="noopener" class="editorial-guide-card">
           <span class="guide-meta-tag">GUIDE</span>
           <div class="guide-sparkle">✦</div>
           <h3 class="guide-title">Are Claude Code and Cursor replacing community skills with built-in features?</h3>
@@ -839,7 +847,7 @@
         </a>
 
         <!-- Guide 5 -->
-        <a href="guides/agent_skills_guide.md" class="editorial-guide-card">
+        <a href="guides/agent_skills_guide.md" target="_blank" rel="noopener" class="editorial-guide-card">
           <span class="guide-meta-tag">GUIDE</span>
           <div class="guide-sparkle">✦</div>
           <h3 class="guide-title">What Is the Graphify Skill for Claude Code?</h3>
@@ -847,11 +855,27 @@
         </a>
 
         <!-- Guide 6 -->
-        <a href="guides/agent_skills_guide.md" class="editorial-guide-card">
+        <a href="guides/agent_skills_guide.md" target="_blank" rel="noopener" class="editorial-guide-card">
           <span class="guide-meta-tag">GUIDE</span>
           <div class="guide-sparkle">✦</div>
           <h3 class="guide-title">What Are the Best Blender Skills for Claude Code?</h3>
           <span class="guide-slug">blender</span>
+        </a>
+
+        <!-- Guide 7 -->
+        <a href="guides/mcp_servers_integration.md" target="_blank" rel="noopener" class="editorial-guide-card">
+          <span class="guide-meta-tag">MCP BLUEPRINT</span>
+          <div class="guide-sparkle">✦</div>
+          <h3 class="guide-title">How to configure stdio &amp; SSE MCP servers in Cursor and Claude Code?</h3>
+          <span class="guide-slug">cursor mcp config</span>
+        </a>
+
+        <!-- Guide 8 -->
+        <a href="guides/research_census_2026.md" target="_blank" rel="noopener" class="editorial-guide-card">
+          <span class="guide-meta-tag">METHODOLOGY</span>
+          <div class="guide-sparkle">✦</div>
+          <h3 class="guide-title">How GitTrends AI calculates 2026 agent market statistics &amp; censuses?</h3>
+          <span class="guide-slug">empirical census dataset</span>
         </a>
       </div>
     </section>
@@ -898,6 +922,17 @@
         <p>
           We run ongoing empirical research on the AI agent skills and MCP server ecosystem: dated censuses of security, copying, maintenance, and monetization. Every number is backed by open, free-to-cite datasets.
         </p>
+        <div style="margin-top: 18px; display: flex; gap: 12px; flex-wrap: wrap;">
+          <a href="data/research/census_latest.json" target="_blank" class="census-action-btn primary">
+            <span>💾</span> Download Raw Census (.JSON) ↗
+          </a>
+          <a href="guides/research_census_2026.md" target="_blank" rel="noopener" class="census-action-btn">
+            <span>📖</span> Research Methodology &amp; Sources ↗
+          </a>
+          <button class="census-action-btn" onclick="window.copyCensusCitation('all')">
+            <span>📋</span> Copy Open-Science Citation (BibTeX / Markdown)
+          </button>
+        </div>
       </div>
 
       <div class="census-grid" id="censusGrid">
