@@ -1,37 +1,43 @@
 <div align="center">
 
-# ⚡ GitHub Trending Intelligence Tracker
+# ⚡ GitTrends AI — Open Agent Intelligence Registry
 
-**Autonomous daily intelligence tracking the breakout repositories, viral momentum, and cutting-edge AI innovations on GitHub.**
+**World-class Swiss Editorial developer registry and empirical research desk for Claude Code skills, MCP servers, and GitHub star velocity intelligence.**
 
-[![Live Interactive Web App](https://img.shields.io/badge/Live%20Web%20App-Explore%20Now-0969da?style=for-the-badge&logo=googlechrome)](https://jastfan.github.io/github-trending/)
-[![Daily Auto-Tracker](https://github.com/jastfan/github-trending/actions/workflows/daily_tracker.yml/badge.svg)](https://github.com/jastfan/github-trending/actions)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--09-2ea44f?style=for-the-badge&logo=github)
-![AI & Agents](https://img.shields.io/badge/AI%20&%20Agents-53%20Discovered-ff5c5c?style=for-the-badge&logo=openai)
-[![RSS Feed](https://img.shields.io/badge/RSS%20Feed-Active-ff6600?style=for-the-badge&logo=rss)](feed.xml)
-![License](https://img.shields.io/badge/License-MIT-bf8700?style=for-the-badge)
+[![Live Interactive Web App](https://img.shields.io/badge/Live%20Registry-Explore%20Now-38bdf8?style=for-the-badge&logo=googlechrome)](https://jastfan.github.io/github-trending/)
+[![npm package](https://img.shields.io/badge/npm-gittrends--mcp%20v5.0.0-cb3837?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/gittrends-mcp)
+[![MCP Protocol](https://img.shields.io/badge/MCP%20Server-Official-10b981?style=for-the-badge&logo=anthropic)](guides/mcp_servers_integration.md)
+[![Research Censuses](https://img.shields.io/badge/Research%20Censuses-Open%20Data-8b5cf6?style=for-the-badge&logo=arxiv)](data/research/census_latest.json)
+[![License](https://img.shields.io/badge/License-MIT-bf8700?style=for-the-badge)](LICENSE)
 
-<sub>🤖 Auto-updated every 12 hours via GitHub Actions • Maintained by [@jastfan](https://github.com/jastfan/github-trending)</sub>
+<sub>⚡ 79,848+ Listings • 164.8M Installs • Auto-updated daily via GitHub Actions • Maintained by [@jastfan](https://github.com/jastfan)</sub>
+
+<br/>
+
+```bash
+# ⚡ 1-Click Coding Agent Integration (mid-task skill discovery for Claude Code & Cursor)
+claude mcp add gittrends -- npx -y gittrends-mcp
+```
 
 <br/>
 <a href="https://jastfan.github.io/github-trending/"><img src="assets/web-ui-preview.png" alt="GitTrends Intelligence Interactive Web UI Dashboard" width="100%" style="border-radius: 14px; border: 1px solid rgba(255,255,255,0.12);" /></a>
 
-<sub>👉 <b><a href="https://jastfan.github.io/github-trending/">Click here to launch the Live Interactive Dashboard</a></b> with real-time search, filters, and clone shortcuts.</sub>
+<sub>👉 <b><a href="https://jastfan.github.io/github-trending/">Launch the Live Swiss Editorial Registry</a></b> with 4 Numbered Leaderboards, Interactive Inspector, Side-by-Side Comparison Matrix, and Terminal Prompt Simulator.</sub>
 
 ---
 
-### 🧭 Quick Navigation
+### 🧭 Registry Navigation
 
-[`🌐 Live Web App`](https://jastfan.github.io/github-trending/) • [`🔥 Top Breakouts`](#-todays-top-5-breakout-repositories-viral-momentum) • [`🤖 AI, Skills & MCP`](#-hot-ai-llms-mcp--agent-skills-spotlight) • [`🐍 Python`](#-python) • [`⚡ JavaScript`](#-javascript) • [`🔷 TypeScript`](#-typescript) • [`🐹 Go`](#-go) • [`🦀 Rust`](#-rust) • [`📡 RSS Feed`](feed.xml) • [`🗄️ JSON API`](#-structured-data-access-api)
+[`🌐 Live Web App`](https://jastfan.github.io/github-trending/) • [`⚡ Popular Skills`](#-hot-ai-llms-mcp--agent-skills-spotlight) • [`🔌 MCP Servers`](guides/mcp_servers_integration.md) • [`📊 Research Censuses`](data/research/census_latest.json) • [`📚 Developer Guides`](guides/README.md) • [`📡 RSS Feed`](feed.xml) • [`🗄️ JSON API`](#-structured-data-access-api)
 
 <br/>
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="25%"><b>🔥 Velocity Radar</b><br/><sub>Real-time star surges &amp; velocity</sub></td>
-    <td align="center" width="25%"><b>🤖 AI &amp; MCP Spotlight</b><br/><sub>Agent skills, video &amp; LLM tools</sub></td>
-    <td align="center" width="25%"><b>🌐 Live Web App</b><br/><sub>Instant search &amp; filter UI</sub></td>
-    <td align="center" width="25%"><b>📡 RSS 2.0 Feed</b><br/><sub>Feedly, Discord &amp; Slack feeds</sub></td>
+    <td align="center" width="25%"><b>🏆 4 Editorial Leaderboards</b><br/><sub>Skills, MCP, Hubs &amp; Velocity</sub></td>
+    <td align="center" width="25%"><b>🔌 Native MCP Server</b><br/><sub>5 tools for autonomous agents</sub></td>
+    <td align="center" width="25%"><b>📊 Empirical Research Desk</b><br/><sub>5 dated ecosystem censuses</sub></td>
+    <td align="center" width="25%"><b>⚡ Live Agent Simulator</b><br/><sub>Terminal prompt testbench</sub></td>
   </tr>
 </table>
 
@@ -182,6 +188,62 @@ git clone https://github.com/heygen-com/hyperframes.git
 
 ---
 
+## 🔌 1-Click Coding Agent Integration: `gittrends-mcp`
+
+Connect Claude Code, Cursor, and Antigravity to the entire GitTrends AI registry mid-task with zero manual downloads.
+
+### 1. Claude Code
+```bash
+claude mcp add gittrends -- npx -y gittrends-mcp
+```
+
+### 2. Cursor IDE (`.cursor/mcp.json`)
+```json
+{
+  "mcpServers": {
+    "gittrends": {
+      "command": "npx",
+      "args": ["-y", "gittrends-mcp"]
+    }
+  }
+}
+```
+
+### 3. Antigravity IDE (`mcp_config.json`)
+```json
+{
+  "mcpServers": {
+    "gittrends": {
+      "command": "npx",
+      "args": ["-y", "gittrends-mcp"]
+    }
+  }
+}
+```
+
+### 🛠️ Exposed MCP Tools
+1. `find_agent_skills(query, category, limit)`: Query 59k+ categorized skills with 1-click install snippets.
+2. `inspect_mcp_servers(query, category, limit)`: Inspect stdio and SSE servers with auto-generated configuration JSON.
+3. `get_trending_breakouts(language, min_stars_today, limit)`: Retrieve GitHub breakout repositories with star velocity classification.
+4. `get_census_report(census_id)`: Access empirical data on agent skill security, distribution, and code maintenance.
+5. `get_ecosystem_stats()`: Macro benchmarks on total listings, installs, and domain leaders.
+
+---
+
+## 📊 2026 Empirical Research Censuses
+
+GitTrends AI indexes the agent ecosystem and runs ongoing empirical research with open datasets free to cite:
+
+| Census Report | Key Finding | Raw Dataset | Methodology |
+| :--- | :--- | :---: | :---: |
+| **The Agent Economy Census** | Install Gini 0.96; 0.07% of listings paid | [JSON](data/research/census_latest.json) | [Guide](guides/research_census_2026.md) |
+| **The Agent Skill Security Census** | 87.8% of listings never audited; 34% request shell | [JSON](data/research/census_latest.json) | [Guide](guides/research_census_2026.md) |
+| **The Agent Skill Clone Census** | 15.8% of all secondary installs land on repackaged copies | [JSON](data/research/census_latest.json) | [Guide](guides/research_census_2026.md) |
+| **The Agent Use-Case Census** | Generative media leads at 20.8% of installs | [JSON](data/research/census_latest.json) | [Guide](guides/research_census_2026.md) |
+| **The Agent Skill Maintenance Census** | Install-weighted median code age: 6 days | [JSON](data/research/census_latest.json) | [Guide](guides/research_census_2026.md) |
+
+---
+
 ## 🗄️ Structured Data Access (API)
 
 Developers can access live tracking data directly via machine-readable JSON or RSS:
@@ -189,6 +251,7 @@ Developers can access live tracking data directly via machine-readable JSON or R
 - 🌐 **Live Web Application**: [https://jastfan.github.io/github-trending/](https://jastfan.github.io/github-trending/)
 - 📡 **Daily RSS 2.0 Feed**: [`feed.xml`](feed.xml)
 - 🗄️ **Direct Latest JSON**: [`data/latest.json`](data/latest.json)
+- 📊 **Research Censuses JSON**: [`data/research/census_latest.json`](data/research/census_latest.json)
 - 📅 **Historical Archives**: Browse [`archives/`](archives/) organized by `YYYY-MM/`
 
 ---
