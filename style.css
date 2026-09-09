@@ -3269,6 +3269,15 @@ body::before {
   font-weight: 700;
   font-size: 0.95rem;
   color: #fff;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.row-verified {
+  color: var(--accent-cyan);
+  font-size: 0.85rem;
+  font-weight: 700;
 }
 
 .row-repo {
@@ -3286,6 +3295,19 @@ body::before {
   background: rgba(56, 189, 248, 0.1);
   padding: 1px 8px;
   border-radius: 4px;
+  white-space: nowrap;
+}
+
+.row-stars.installs {
+  color: var(--accent-emerald);
+  background: rgba(16, 185, 129, 0.12);
+  border: 1px solid rgba(16, 185, 129, 0.25);
+}
+
+.row-stars.velocity {
+  color: #ff7043;
+  background: rgba(255, 87, 34, 0.12);
+  border: 1px solid rgba(255, 87, 34, 0.25);
 }
 
 .row-desc {

@@ -424,10 +424,85 @@
     <!-- 4. Featured Numbered Editorial Leaderboards (Skillselion Architecture) -->
     <section class="editorial-leaderboards" id="editorialLeaderboards">
       <div class="leaderboards-grid">
-        <!-- Left Column: Popular MCP Servers -->
+        <!-- Board 1: Popular Agent Skills -->
         <div class="leaderboard-card">
           <div class="leaderboard-header">
-            <h3 class="leaderboard-title">Popular MCP servers</h3>
+            <h3 class="leaderboard-title">⚡ Popular Agent Skills</h3>
+            <button class="leaderboard-more-btn" onclick="window.switchCatalogTab('skills')">Browse all Skills →</button>
+          </div>
+          <div class="leaderboard-rows" id="leaderboardSkills">
+            <!-- Row 01 -->
+            <div class="leaderboard-row" onclick="openInspectorModal('task-observer')">
+              <div class="row-rank">01</div>
+              <div class="row-icon">👁️</div>
+              <div class="row-body">
+                <div class="row-header">
+                  <span class="row-name">task-observer</span>
+                  <span class="row-repo">claude-code/task-observer</span>
+                  <span class="row-stars installs">125k 📥</span>
+                </div>
+                <p class="row-desc">Continuous background execution monitor with heartbeat alerts for multi-hour agent coding runs.</p>
+              </div>
+            </div>
+            <!-- Row 02 -->
+            <div class="leaderboard-row" onclick="openInspectorModal('lavish')">
+              <div class="row-rank">02</div>
+              <div class="row-icon">✨</div>
+              <div class="row-body">
+                <div class="row-header">
+                  <span class="row-name">lavish</span>
+                  <span class="row-repo">antigravity/lavish</span>
+                  <span class="row-stars installs">110k 📥</span>
+                </div>
+                <p class="row-desc">Taste and design system enhancer enforcing premium palettes, typography, and micro-interactions.</p>
+              </div>
+            </div>
+            <!-- Row 03 -->
+            <div class="leaderboard-row" onclick="openInspectorModal('graphify')">
+              <div class="row-rank">03</div>
+              <div class="row-icon">📊</div>
+              <div class="row-body">
+                <div class="row-header">
+                  <span class="row-name">graphify</span>
+                  <span class="row-repo">claude-code/graphify</span>
+                  <span class="row-stars installs">95k 📥</span>
+                </div>
+                <p class="row-desc">Graph architecture generator translating complex file dependencies into interactive Mermaid diagrams.</p>
+              </div>
+            </div>
+            <!-- Row 04 -->
+            <div class="leaderboard-row" onclick="openInspectorModal('hyperframes')">
+              <div class="row-rank">04</div>
+              <div class="row-icon">🎞️</div>
+              <div class="row-body">
+                <div class="row-header">
+                  <span class="row-name">hyperframes</span>
+                  <span class="row-repo">cursor/hyperframes</span>
+                  <span class="row-stars installs">88k 📥</span>
+                </div>
+                <p class="row-desc">60 FPS programmatic canvas and video rendering pipeline leveraging Remotion and WebGL.</p>
+              </div>
+            </div>
+            <!-- Row 05 -->
+            <div class="leaderboard-row" onclick="openInspectorModal('apple-design')">
+              <div class="row-rank">05</div>
+              <div class="row-icon">🍎</div>
+              <div class="row-body">
+                <div class="row-header">
+                  <span class="row-name">apple-design</span>
+                  <span class="row-repo">developer-skills/apple-design</span>
+                  <span class="row-stars installs">82k 📥</span>
+                </div>
+                <p class="row-desc">Apple Human Interface Guidelines generator for Cupertino-grade typography, radii, and glass accents.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Board 2: Popular MCP Servers -->
+        <div class="leaderboard-card">
+          <div class="leaderboard-header">
+            <h3 class="leaderboard-title">🔌 Popular MCP servers</h3>
             <button class="leaderboard-more-btn" onclick="window.switchCatalogTab('mcp')">Browse all MCP →</button>
           </div>
           <div class="leaderboard-rows" id="leaderboardMcp">
@@ -499,76 +574,151 @@
           </div>
         </div>
 
-        <!-- Right Column: Popular Agent Skills -->
+        <!-- Board 3: Curated Marketplaces & Registries -->
         <div class="leaderboard-card">
           <div class="leaderboard-header">
-            <h3 class="leaderboard-title">Popular Agent Skills</h3>
-            <button class="leaderboard-more-btn" onclick="window.switchCatalogTab('skills')">Browse all Skills →</button>
+            <h3 class="leaderboard-title">🏪 Curated Marketplaces</h3>
+            <button class="leaderboard-more-btn" onclick="window.switchCatalogTab('marketplaces')">Browse all Marketplaces →</button>
           </div>
-          <div class="leaderboard-rows" id="leaderboardSkills">
+          <div class="leaderboard-rows" id="leaderboardMarketplaces">
             <!-- Row 01 -->
-            <div class="leaderboard-row" onclick="openInspectorModal('task-observer')">
+            <div class="leaderboard-row" onclick="openInspectorModal('cursor-directory')">
               <div class="row-rank">01</div>
-              <div class="row-icon">👁️</div>
+              <div class="row-icon">🎯</div>
               <div class="row-body">
                 <div class="row-header">
-                  <span class="row-name">task-observer</span>
-                  <span class="row-repo">claude-code/task-observer</span>
-                  <span class="row-stars">125k 📥</span>
+                  <span class="row-name">cursor.directory</span>
+                  <span class="row-repo">pontusab/cursor.directory</span>
+                  <span class="row-stars">14.2k ★</span>
                 </div>
-                <p class="row-desc">Continuous background execution monitor with heartbeat alerts for multi-hour agent coding runs.</p>
+                <p class="row-desc">Curated registry of high-performance prompt engineering rules, agent workflows, and cursor configs.</p>
               </div>
             </div>
             <!-- Row 02 -->
-            <div class="leaderboard-row" onclick="openInspectorModal('lavish')">
+            <div class="leaderboard-row" onclick="openInspectorModal('claude-skills-registry')">
               <div class="row-rank">02</div>
-              <div class="row-icon">✨</div>
+              <div class="row-icon">⚡</div>
               <div class="row-body">
                 <div class="row-header">
-                  <span class="row-name">lavish</span>
-                  <span class="row-repo">antigravity/lavish</span>
-                  <span class="row-stars">110k 📥</span>
+                  <span class="row-name">claude-skills-registry</span>
+                  <span class="row-repo">anthropics/claude-skills</span>
+                  <span class="row-stars">24.8k ★</span>
                 </div>
-                <p class="row-desc">Taste and design system enhancer enforcing premium palettes, typography, and micro-interactions.</p>
+                <p class="row-desc">Official community skill registry for Claude Code autonomous agent workflows and CLI automations.</p>
               </div>
             </div>
             <!-- Row 03 -->
-            <div class="leaderboard-row" onclick="openInspectorModal('graphify')">
+            <div class="leaderboard-row" onclick="openInspectorModal('antigravity-hub')">
               <div class="row-rank">03</div>
-              <div class="row-icon">📊</div>
+              <div class="row-icon">🚀</div>
               <div class="row-body">
                 <div class="row-header">
-                  <span class="row-name">graphify</span>
-                  <span class="row-repo">claude-code/graphify</span>
-                  <span class="row-stars">95k 📥</span>
+                  <span class="row-name">antigravity-awesome</span>
+                  <span class="row-repo">google-deepmind/antigravity</span>
+                  <span class="row-stars">18.1k ★</span>
                 </div>
-                <p class="row-desc">Graph architecture generator translating complex file dependencies into interactive Mermaid diagrams.</p>
+                <p class="row-desc">Complete index of Antigravity custom plugins, skills, hooks, and model context protocol integrations.</p>
               </div>
             </div>
             <!-- Row 04 -->
-            <div class="leaderboard-row" onclick="openInspectorModal('hyperframes')">
+            <div class="leaderboard-row" onclick="openInspectorModal('smithery-ai')">
               <div class="row-rank">04</div>
-              <div class="row-icon">🎞️</div>
+              <div class="row-icon">🛠️</div>
               <div class="row-body">
                 <div class="row-header">
-                  <span class="row-name">hyperframes</span>
-                  <span class="row-repo">cursor/hyperframes</span>
-                  <span class="row-stars">88k 📥</span>
+                  <span class="row-name">smithery-ai</span>
+                  <span class="row-repo">smithery-ai/registry</span>
+                  <span class="row-stars">12.4k ★</span>
                 </div>
-                <p class="row-desc">60 FPS programmatic canvas and video rendering pipeline leveraging Remotion and WebGL.</p>
+                <p class="row-desc">Unified MCP discovery platform with 1-click cloud host deployment for coding agent tools.</p>
               </div>
             </div>
             <!-- Row 05 -->
-            <div class="leaderboard-row" onclick="openInspectorModal('apple-design')">
+            <div class="leaderboard-row" onclick="openInspectorModal('lobe-chat-plugins')">
               <div class="row-rank">05</div>
-              <div class="row-icon">🍎</div>
+              <div class="row-icon">🧩</div>
               <div class="row-body">
                 <div class="row-header">
-                  <span class="row-name">apple-design</span>
-                  <span class="row-repo">developer-skills/apple-design</span>
-                  <span class="row-stars">82k 📥</span>
+                  <span class="row-name">lobe-chat-plugins</span>
+                  <span class="row-repo">lobehub/lobe-chat-plugins</span>
+                  <span class="row-stars">9.8k ★</span>
                 </div>
-                <p class="row-desc">Apple Human Interface Guidelines generator for Cupertino-grade typography, radii, and glass accents.</p>
+                <p class="row-desc">Open-source agent plugin index with function-calling manifests and automated agent toolkits.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Board 4: Star Velocity Radar -->
+        <div class="leaderboard-card">
+          <div class="leaderboard-header">
+            <h3 class="leaderboard-title">🔥 Star Velocity Radar</h3>
+            <button class="leaderboard-more-btn" onclick="window.switchCatalogTab('trending')">Browse all Radar →</button>
+          </div>
+          <div class="leaderboard-rows" id="leaderboardVelocity">
+            <!-- Row 01 -->
+            <div class="leaderboard-row" onclick="openInspectorModal('browser-use')">
+              <div class="row-rank">01</div>
+              <div class="row-icon">🌐</div>
+              <div class="row-body">
+                <div class="row-header">
+                  <span class="row-name">browser-use</span>
+                  <span class="row-repo">browser-use/browser-use</span>
+                  <span class="row-stars velocity">+840★ today</span>
+                </div>
+                <p class="row-desc">Autonomous web automation agent controlling real Chromium browser sessions with natural language.</p>
+              </div>
+            </div>
+            <!-- Row 02 -->
+            <div class="leaderboard-row" onclick="openInspectorModal('open-canvas')">
+              <div class="row-rank">02</div>
+              <div class="row-icon">🎨</div>
+              <div class="row-body">
+                <div class="row-header">
+                  <span class="row-name">open-canvas</span>
+                  <span class="row-repo">langchain-ai/open-canvas</span>
+                  <span class="row-stars velocity">+620★ today</span>
+                </div>
+                <p class="row-desc">Open-source collaborative canvas for AI coding, artifact editing, and real-time prompt generation.</p>
+              </div>
+            </div>
+            <!-- Row 03 -->
+            <div class="leaderboard-row" onclick="openInspectorModal('deep-research')">
+              <div class="row-rank">03</div>
+              <div class="row-icon">🔬</div>
+              <div class="row-body">
+                <div class="row-header">
+                  <span class="row-name">deep-research</span>
+                  <span class="row-repo">dzhng/deep-research</span>
+                  <span class="row-stars velocity">+510★ today</span>
+                </div>
+                <p class="row-desc">Autonomous multi-page deep web search agent powered by Gemini and Claude reasoning loops.</p>
+              </div>
+            </div>
+            <!-- Row 04 -->
+            <div class="leaderboard-row" onclick="openInspectorModal('cline')">
+              <div class="row-rank">04</div>
+              <div class="row-icon">🤖</div>
+              <div class="row-body">
+                <div class="row-header">
+                  <span class="row-name">cline</span>
+                  <span class="row-repo">cline/cline</span>
+                  <span class="row-stars velocity">+490★ today</span>
+                </div>
+                <p class="row-desc">Autonomous coding assistant in VS Code that reads files, edits directories, and executes commands.</p>
+              </div>
+            </div>
+            <!-- Row 05 -->
+            <div class="leaderboard-row" onclick="openInspectorModal('continue')">
+              <div class="row-rank">05</div>
+              <div class="row-icon">⚡</div>
+              <div class="row-body">
+                <div class="row-header">
+                  <span class="row-name">continue</span>
+                  <span class="row-repo">continuedev/continue</span>
+                  <span class="row-stars velocity">+380★ today</span>
+                </div>
+                <p class="row-desc">Leading open-source AI code assistant connecting any LLM to VS Code and JetBrains IDEs.</p>
               </div>
             </div>
           </div>

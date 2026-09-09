@@ -990,8 +990,108 @@ function processCatalogData(data) {
   }
 
   updatePillarCounters();
+  renderEditorialLeaderboards();
   parseUrlParamsOnLoad();
   applyFiltersAndSort();
+}
+
+// Editorial Leaderboards Dynamic Hydration (Phase 3)
+function renderEditorialLeaderboards() {
+  const containerSkills = document.getElementById("leaderboardSkills");
+  const containerMcp = document.getElementById("leaderboardMcp");
+  const containerMarketplaces = document.getElementById("leaderboardMarketplaces");
+  const containerVelocity = document.getElementById("leaderboardVelocity");
+
+  const buildRowHtml = (tool, rankStr, icon, metricBadge, desc) => `
+    <div class="leaderboard-row" onclick="openInspectorModal('${tool.id}')">
+      <div class="row-rank">${rankStr}</div>
+      <div class="row-icon">${icon}</div>
+      <div class="row-body">
+        <div class="row-header">
+          <span class="row-name">${tool.name} ${tool.verified ? '<span class="row-verified" title="Verified Publisher">✓</span>' : ''}</span>
+          <span class="row-repo">${tool.author || tool.owner ? '@' + (tool.author || tool.owner) : (tool.repo_url ? tool.repo_url.replace('https://github.com/', '') : '')}</span>
+          ${metricBadge}
+        </div>
+        <p class="row-desc">${desc || tool.description || 'No description provided.'}</p>
+      </div>
+    </div>
+  `;
+
+  // 1. Skills Leaderboard
+  if (containerSkills) {
+    const topSkills = allTools
+      .filter(t => t.type === "skill")
+      .sort((a, b) => (b.installs || 0) - (a.installs || 0))
+      .slice(0, 5);
+
+    if (topSkills.length > 0) {
+      const skillIcons = ["👁️", "✨", "📊", "🎞️", "🍎"];
+      containerSkills.innerHTML = topSkills.map((tool, idx) => {
+        const rankStr = String(idx + 1).padStart(2, "0");
+        const icon = skillIcons[idx] || "⚡";
+        const installsDisplay = tool.installs_display || (tool.installs ? `${formatNum(tool.installs)} 📥` : "Verified");
+        const metricBadge = `<span class="row-stars installs">${installsDisplay}</span>`;
+        return buildRowHtml(tool, rankStr, icon, metricBadge, tool.description);
+      }).join("");
+    }
+  }
+
+  // 2. MCP Servers Leaderboard
+  if (containerMcp) {
+    const topMcp = allTools
+      .filter(t => t.type === "mcp")
+      .sort((a, b) => parseStarsNum(b.stars || b.total_stars) - parseStarsNum(a.stars || a.total_stars))
+      .slice(0, 5);
+
+    if (topMcp.length > 0) {
+      const mcpIcons = ["🧠", "📎", "🕸️", "🌐", "💻"];
+      containerMcp.innerHTML = topMcp.map((tool, idx) => {
+        const rankStr = String(idx + 1).padStart(2, "0");
+        const icon = mcpIcons[idx] || "🔌";
+        const starsDisplay = tool.stars ? `${formatNum(tool.stars)} ★` : "Official";
+        const metricBadge = `<span class="row-stars">${starsDisplay}</span>`;
+        return buildRowHtml(tool, rankStr, icon, metricBadge, tool.description);
+      }).join("");
+    }
+  }
+
+  // 3. Marketplaces Leaderboard
+  if (containerMarketplaces) {
+    const topMarketplaces = allTools
+      .filter(t => t.type === "marketplace")
+      .sort((a, b) => parseStarsNum(b.stars || b.total_stars) - parseStarsNum(a.stars || a.total_stars))
+      .slice(0, 5);
+
+    if (topMarketplaces.length > 0) {
+      const marketIcons = ["🎯", "⚡", "🚀", "🛠️", "🧩"];
+      containerMarketplaces.innerHTML = topMarketplaces.map((tool, idx) => {
+        const rankStr = String(idx + 1).padStart(2, "0");
+        const icon = marketIcons[idx] || "🏪";
+        const starsDisplay = tool.stars ? `${formatNum(tool.stars)} ★` : "Curated";
+        const metricBadge = `<span class="row-stars">${starsDisplay}</span>`;
+        return buildRowHtml(tool, rankStr, icon, metricBadge, tool.description);
+      }).join("");
+    }
+  }
+
+  // 4. Trending Velocity Leaderboard
+  if (containerVelocity) {
+    const topVelocity = allTools
+      .filter(t => t.type === "trending")
+      .sort((a, b) => (b.stars_today || 0) - (a.stars_today || 0))
+      .slice(0, 5);
+
+    if (topVelocity.length > 0) {
+      const velIcons = ["🌐", "🎨", "🔬", "🤖", "⚡"];
+      containerVelocity.innerHTML = topVelocity.map((tool, idx) => {
+        const rankStr = String(idx + 1).padStart(2, "0");
+        const icon = velIcons[idx] || "🔥";
+        const velDisplay = tool.stars_today ? `+${formatNum(tool.stars_today)}★ today` : (tool.growth_pct || "Breakout");
+        const metricBadge = `<span class="row-stars velocity">${velDisplay}</span>`;
+        return buildRowHtml(tool, rankStr, icon, metricBadge, tool.description);
+      }).join("");
+    }
+  }
 }
 
 // Setup Event Listeners
