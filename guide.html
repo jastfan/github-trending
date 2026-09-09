@@ -1,0 +1,880 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Developer Guides &amp; Blueprints — GitTrends AI Registry</title>
+  <meta name="description" content="Complete documentation, MCP server integration blueprints, and agent skills authoring guides for Claude Code, Cursor, Codex, and Antigravity.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚡</text></svg>">
+  
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Outfit:wght@400;500;600;700;800;900&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  
+  <!-- Highlight.js for Syntax Highlighting -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/github-dark-dimmed.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+  
+  <!-- Marked.js Markdown Parser -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+  <style>
+    :root {
+      --bg-primary: #080b11;
+      --bg-surface: #0c101a;
+      --bg-surface-elevated: #101624;
+      --border-subtle: rgba(255, 255, 255, 0.08);
+      --border-hover: rgba(255, 255, 255, 0.18);
+      --text-primary: #f8fafc;
+      --text-secondary: #94a3b8;
+      --text-muted: #64748b;
+      --accent-cyan: #38bdf8;
+      --accent-emerald: #34d399;
+      --accent-amber: #fbbf24;
+      --accent-violet: #c084fc;
+      --accent-rose: #f43f5e;
+      --font-heading: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
+      --font-body: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+      --font-mono: 'JetBrains Mono', monospace;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background-color: var(--bg-primary);
+      color: var(--text-primary);
+      font-family: var(--font-body);
+      font-size: 15px;
+      line-height: 1.6;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      background-image: 
+        radial-gradient(ellipse 80% 50% at 50% -20%, rgba(56, 189, 248, 0.07), transparent),
+        radial-gradient(ellipse 60% 40% at 100% 10%, rgba(139, 92, 246, 0.05), transparent);
+    }
+
+    /* Top Announcement Ticker */
+    .top-bar {
+      background: rgba(12, 16, 26, 0.9);
+      border-bottom: 1px solid var(--border-subtle);
+      padding: 8px 24px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      backdrop-filter: blur(12px);
+    }
+
+    .top-bar-left {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .top-badge {
+      background: rgba(56, 189, 248, 0.12);
+      border: 1px solid rgba(56, 189, 248, 0.3);
+      color: var(--accent-cyan);
+      font-family: var(--font-mono);
+      font-size: 0.7rem;
+      font-weight: 700;
+      padding: 2px 8px;
+      border-radius: 99px;
+    }
+
+    .top-back-link {
+      color: var(--text-secondary);
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-weight: 600;
+      transition: color 0.15s;
+    }
+
+    .top-back-link:hover {
+      color: #fff;
+    }
+
+    /* Header Navbar */
+    .guide-header {
+      border-bottom: 1px solid var(--border-subtle);
+      padding: 14px 28px;
+      background: rgba(8, 11, 17, 0.85);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      position: sticky;
+      top: 37px;
+      z-index: 99;
+      backdrop-filter: blur(16px);
+    }
+
+    .brand-group {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      text-decoration: none;
+      color: inherit;
+    }
+
+    .brand-logo-icon {
+      font-size: 1.4rem;
+    }
+
+    .brand-title {
+      font-family: var(--font-heading);
+      font-size: 1.25rem;
+      font-weight: 800;
+      color: #fff;
+      letter-spacing: -0.02em;
+    }
+
+    .brand-divider {
+      color: var(--border-subtle);
+      font-size: 1.2rem;
+    }
+
+    .brand-portal-name {
+      font-family: var(--font-heading);
+      font-size: 0.95rem;
+      font-weight: 600;
+      color: var(--text-secondary);
+    }
+
+    .header-actions {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .header-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-family: var(--font-mono);
+      font-size: 0.78rem;
+      font-weight: 600;
+      padding: 6px 14px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: all 0.15s;
+    }
+
+    .header-btn.primary {
+      background: rgba(56, 189, 248, 0.1);
+      border: 1px solid rgba(56, 189, 248, 0.3);
+      color: var(--accent-cyan);
+    }
+
+    .header-btn.primary:hover {
+      background: var(--accent-cyan);
+      color: #000;
+    }
+
+    .header-btn.subtle {
+      background: rgba(255, 255, 255, 0.04);
+      border: 1px solid var(--border-subtle);
+      color: var(--text-secondary);
+    }
+
+    .header-btn.subtle:hover {
+      background: rgba(255, 255, 255, 0.08);
+      color: #fff;
+    }
+
+    /* Main Documentation Layout */
+    .docs-container {
+      max-width: 1440px;
+      width: 100%;
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: 280px 1fr 240px;
+      gap: 32px;
+      padding: 32px 28px 80px;
+      flex: 1;
+    }
+
+    @media (max-width: 1120px) {
+      .docs-container {
+        grid-template-columns: 260px 1fr;
+      }
+      .on-page-toc {
+        display: none !important;
+      }
+    }
+
+    @media (max-width: 768px) {
+      .docs-container {
+        grid-template-columns: 1fr;
+        padding: 20px 16px 60px;
+      }
+      .docs-sidebar {
+        display: none;
+      }
+      .docs-sidebar.mobile-open {
+        display: block;
+        position: fixed;
+        inset: 0;
+        background: var(--bg-primary);
+        z-index: 200;
+        padding: 24px;
+        overflow-y: auto;
+      }
+    }
+
+    /* Sidebar Navigation */
+    .docs-sidebar {
+      position: sticky;
+      top: 110px;
+      height: fit-content;
+      max-height: calc(100vh - 130px);
+      overflow-y: auto;
+    }
+
+    .sidebar-section-title {
+      font-family: var(--font-mono);
+      font-size: 0.68rem;
+      font-weight: 700;
+      color: var(--text-muted);
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      margin-bottom: 12px;
+      padding-left: 10px;
+    }
+
+    .sidebar-nav-list {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+      margin-bottom: 28px;
+    }
+
+    .sidebar-nav-item a {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 9px 12px;
+      border-radius: 6px;
+      color: var(--text-secondary);
+      text-decoration: none;
+      font-size: 0.88rem;
+      font-weight: 500;
+      border: 1px solid transparent;
+      transition: all 0.15s;
+    }
+
+    .sidebar-nav-item a:hover {
+      background: rgba(255, 255, 255, 0.04);
+      color: #fff;
+    }
+
+    .sidebar-nav-item.active a {
+      background: rgba(56, 189, 248, 0.1);
+      border-color: rgba(56, 189, 248, 0.25);
+      color: var(--accent-cyan);
+      font-weight: 600;
+    }
+
+    .nav-icon {
+      font-size: 1rem;
+      opacity: 0.9;
+    }
+
+    /* Main Article Content */
+    .docs-main-article {
+      min-width: 0;
+      background: var(--bg-surface);
+      border: 1px solid var(--border-subtle);
+      border-radius: 12px;
+      padding: 40px 48px;
+    }
+
+    @media (max-width: 600px) {
+      .docs-main-article {
+        padding: 24px 20px;
+      }
+    }
+
+    /* Breadcrumbs */
+    .breadcrumbs {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-family: var(--font-mono);
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      margin-bottom: 24px;
+    }
+
+    .breadcrumbs a {
+      color: var(--text-muted);
+      text-decoration: none;
+    }
+
+    .breadcrumbs a:hover {
+      color: var(--accent-cyan);
+    }
+
+    /* Markdown Rendered Typography */
+    .markdown-body {
+      color: #e2e8f0;
+      font-size: 15.5px;
+      line-height: 1.75;
+    }
+
+    .markdown-body h1 {
+      font-family: var(--font-heading);
+      font-size: 2.2rem;
+      font-weight: 800;
+      color: #fff;
+      letter-spacing: -0.025em;
+      line-height: 1.25;
+      margin-bottom: 16px;
+      border-bottom: 1px solid var(--border-subtle);
+      padding-bottom: 16px;
+    }
+
+    .markdown-body h2 {
+      font-family: var(--font-heading);
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: #fff;
+      letter-spacing: -0.015em;
+      margin-top: 40px;
+      margin-bottom: 16px;
+      padding-bottom: 8px;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+      scroll-margin-top: 100px;
+    }
+
+    .markdown-body h3 {
+      font-family: var(--font-heading);
+      font-size: 1.2rem;
+      font-weight: 700;
+      color: #f1f5f9;
+      margin-top: 28px;
+      margin-bottom: 12px;
+      scroll-margin-top: 100px;
+    }
+
+    .markdown-body p {
+      margin-bottom: 20px;
+      color: #cbd5e1;
+    }
+
+    .markdown-body strong {
+      color: #fff;
+      font-weight: 600;
+    }
+
+    .markdown-body a {
+      color: var(--accent-cyan);
+      text-decoration: underline;
+      text-underline-offset: 3px;
+    }
+
+    .markdown-body a:hover {
+      color: #7dd3fc;
+    }
+
+    .markdown-body ul, 
+    .markdown-body ol {
+      margin-bottom: 24px;
+      padding-left: 24px;
+    }
+
+    .markdown-body li {
+      margin-bottom: 8px;
+      color: #cbd5e1;
+    }
+
+    .markdown-body blockquote {
+      margin: 24px 0;
+      padding: 16px 20px;
+      background: rgba(56, 189, 248, 0.05);
+      border-left: 3px solid var(--accent-cyan);
+      border-radius: 0 8px 8px 0;
+      color: #e0f2fe;
+    }
+
+    .markdown-body blockquote p:last-child {
+      margin-bottom: 0;
+    }
+
+    /* Tables */
+    .markdown-body table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 28px 0;
+      background: rgba(0, 0, 0, 0.3);
+      border: 1px solid var(--border-subtle);
+      border-radius: 8px;
+      overflow: hidden;
+      font-size: 0.88rem;
+    }
+
+    .markdown-body th {
+      background: rgba(255, 255, 255, 0.03);
+      border-bottom: 1px solid var(--border-subtle);
+      padding: 12px 16px;
+      text-align: left;
+      font-family: var(--font-mono);
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: var(--text-muted);
+    }
+
+    .markdown-body td {
+      padding: 12px 16px;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.04);
+      color: #cbd5e1;
+    }
+
+    .markdown-body tr:hover td {
+      background: rgba(255, 255, 255, 0.02);
+    }
+
+    /* Code Blocks */
+    .markdown-body code:not(pre code) {
+      font-family: var(--font-mono);
+      font-size: 0.85em;
+      background: rgba(255, 255, 255, 0.07);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      padding: 2px 6px;
+      border-radius: 4px;
+      color: var(--accent-cyan);
+    }
+
+    .code-block-wrapper {
+      position: relative;
+      margin: 24px 0;
+      border-radius: 8px;
+      overflow: hidden;
+      border: 1px solid var(--border-subtle);
+      background: #04060a;
+    }
+
+    .code-block-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 8px 14px;
+      background: rgba(255, 255, 255, 0.03);
+      border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+      font-family: var(--font-mono);
+      font-size: 0.72rem;
+      color: var(--text-muted);
+      text-transform: uppercase;
+    }
+
+    .code-copy-btn {
+      background: rgba(255, 255, 255, 0.06);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      color: var(--text-secondary);
+      font-family: var(--font-mono);
+      font-size: 0.7rem;
+      padding: 3px 8px;
+      border-radius: 4px;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      transition: all 0.15s;
+    }
+
+    .code-copy-btn:hover {
+      background: rgba(255, 255, 255, 0.12);
+      color: #fff;
+    }
+
+    .code-copy-btn.copied {
+      background: rgba(16, 185, 129, 0.2);
+      border-color: var(--accent-emerald);
+      color: var(--accent-emerald);
+    }
+
+    .markdown-body pre {
+      margin: 0;
+      padding: 16px 18px;
+      overflow-x: auto;
+      background: transparent;
+    }
+
+    .markdown-body pre code {
+      font-family: var(--font-mono);
+      font-size: 0.85rem;
+      line-height: 1.6;
+    }
+
+    /* On-Page Table of Contents */
+    .on-page-toc {
+      position: sticky;
+      top: 110px;
+      height: fit-content;
+      max-height: calc(100vh - 130px);
+      overflow-y: auto;
+    }
+
+    .toc-title {
+      font-family: var(--font-mono);
+      font-size: 0.68rem;
+      font-weight: 700;
+      color: var(--text-muted);
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      margin-bottom: 14px;
+    }
+
+    .toc-list {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      border-left: 1px solid var(--border-subtle);
+      padding-left: 12px;
+    }
+
+    .toc-item a {
+      color: var(--text-muted);
+      text-decoration: none;
+      font-size: 0.82rem;
+      display: block;
+      line-height: 1.4;
+      transition: color 0.15s;
+    }
+
+    .toc-item a:hover,
+    .toc-item.active a {
+      color: var(--accent-cyan);
+    }
+
+    .toc-item.depth-3 {
+      padding-left: 10px;
+      font-size: 0.78rem;
+    }
+
+    /* Loading Spinner */
+    .loading-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 80px 20px;
+      color: var(--text-muted);
+      font-family: var(--font-mono);
+      gap: 16px;
+    }
+
+    .spinner {
+      width: 32px;
+      height: 32px;
+      border: 2px solid rgba(56, 189, 248, 0.15);
+      border-top-color: var(--accent-cyan);
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+    }
+
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+
+    /* Footer */
+    .docs-footer {
+      border-top: 1px solid var(--border-subtle);
+      padding: 24px;
+      text-align: center;
+      font-size: 0.84rem;
+      color: var(--text-muted);
+      margin-top: auto;
+    }
+
+    .docs-footer a {
+      color: var(--accent-cyan);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Top Announcement Bar -->
+  <div class="top-bar">
+    <div class="top-bar-left">
+      <span class="top-badge">DOCUMENTATION HUB</span>
+      <a href="index.html" class="top-back-link">← Back to GitTrends AI Registry</a>
+    </div>
+    <div class="top-bar-right">
+      <span>Official Architecture Guides for Claude Code, Cursor, Codex &amp; Antigravity</span>
+    </div>
+  </div>
+
+  <!-- Header -->
+  <header class="guide-header">
+    <a href="index.html" class="brand-group">
+      <div class="brand-logo-icon">⚡</div>
+      <div class="brand-title">GitTrends <span style="color: var(--accent-cyan);">AI</span></div>
+      <div class="brand-divider">/</div>
+      <div class="brand-portal-name">Developer Guides</div>
+    </a>
+
+    <div class="header-actions">
+      <a href="data/latest.json" target="_blank" class="header-btn subtle">🗄️ JSON API</a>
+      <a href="https://github.com/jastfan/github-trending" target="_blank" rel="noopener" class="header-btn primary">★ Star on GitHub</a>
+    </div>
+  </header>
+
+  <!-- Main Container -->
+  <div class="docs-container">
+    
+    <!-- Sidebar Navigation -->
+    <aside class="docs-sidebar" id="docsSidebar">
+      <div class="sidebar-section-title">Developer Guides</div>
+      <ul class="sidebar-nav-list">
+        <li class="sidebar-nav-item" data-doc="agent_skills_guide">
+          <a href="guide.html?doc=agent_skills_guide">
+            <span class="nav-icon">⚡</span>
+            <span>Agent Skills Blueprint</span>
+          </a>
+        </li>
+        <li class="sidebar-nav-item" data-doc="mcp_servers_integration">
+          <a href="guide.html?doc=mcp_servers_integration">
+            <span class="nav-icon">🔌</span>
+            <span>MCP Servers Integration</span>
+          </a>
+        </li>
+        <li class="sidebar-nav-item" data-doc="research_census_2026">
+          <a href="guide.html?doc=research_census_2026">
+            <span class="nav-icon">📊</span>
+            <span>2026 Research Censuses</span>
+          </a>
+        </li>
+        <li class="sidebar-nav-item" data-doc="README">
+          <a href="guide.html?doc=README">
+            <span class="nav-icon">📚</span>
+            <span>Guides Index &amp; Overview</span>
+          </a>
+        </li>
+      </ul>
+
+      <div class="sidebar-section-title">Registry Resources</div>
+      <ul class="sidebar-nav-list">
+        <li class="sidebar-nav-item">
+          <a href="index.html">
+            <span class="nav-icon">🌐</span>
+            <span>Live Web Dashboard</span>
+          </a>
+        </li>
+        <li class="sidebar-nav-item">
+          <a href="data/research/census_latest.json" target="_blank">
+            <span class="nav-icon">💾</span>
+            <span>Raw Census JSON API</span>
+          </a>
+        </li>
+        <li class="sidebar-nav-item">
+          <a href="feed.xml" target="_blank">
+            <span class="nav-icon">📡</span>
+            <span>RSS 2.0 Feed</span>
+          </a>
+        </li>
+      </ul>
+    </aside>
+
+    <!-- Main Content Article -->
+    <main class="docs-main-article">
+      <!-- Breadcrumbs -->
+      <nav class="breadcrumbs">
+        <a href="index.html">GitTrends AI</a>
+        <span>/</span>
+        <a href="guide.html?doc=README">Guides</a>
+        <span>/</span>
+        <span id="breadcrumbCurrent" style="color: var(--text-secondary);">Agent Skills Integration</span>
+      </nav>
+
+      <!-- Markdown Output Container -->
+      <div id="guideContent" class="markdown-body">
+        <div class="loading-container">
+          <div class="spinner"></div>
+          <div>Loading guide content...</div>
+        </div>
+      </div>
+    </main>
+
+    <!-- Right Side On-Page Table of Contents -->
+    <aside class="on-page-toc" id="onPageToc">
+      <div class="toc-title">On This Page</div>
+      <ul class="toc-list" id="tocList">
+        <!-- Injected via JavaScript -->
+      </ul>
+    </aside>
+
+  </div>
+
+  <!-- Footer -->
+  <footer class="docs-footer">
+    <p>GitTrends AI Intelligence Registry • Curated by <a href="https://github.com/jastfan" target="_blank" rel="noopener">@jastfan</a> • Open Source under MIT License</p>
+  </footer>
+
+  <script>
+    // Guide Metadata Map
+    const GUIDE_TITLES = {
+      "agent_skills_guide": "Agent Skills Integration & Authoring Blueprint",
+      "mcp_servers_integration": "MCP Servers Integration Blueprint (Claude Code & Cursor)",
+      "research_census_2026": "2026 Empirical Research Censuses Methodology",
+      "README": "GitTrends AI Developer Guides Index"
+    };
+
+    // Get current doc query parameter
+    function getDocParam() {
+      const urlParams = new URLSearchParams(window.location.search);
+      let doc = urlParams.get("doc") || "agent_skills_guide";
+      // Sanitize
+      doc = doc.replace(/[^a-zA-Z0-9_\-]/g, "");
+      return doc || "agent_skills_guide";
+    }
+
+    // Set active item in sidebar
+    function setActiveSidebar(doc) {
+      document.querySelectorAll(".sidebar-nav-item").forEach(item => {
+        item.classList.toggle("active", item.getAttribute("data-doc") === doc);
+      });
+      const title = GUIDE_TITLES[doc] || doc.replace(/_/g, " ");
+      document.getElementById("breadcrumbCurrent").textContent = title;
+      document.title = `${title} — GitTrends AI Guides`;
+    }
+
+    // Build Table of Contents
+    function buildToc(contentEl) {
+      const headings = contentEl.querySelectorAll("h2, h3");
+      const tocList = document.getElementById("tocList");
+      tocList.innerHTML = "";
+
+      if (headings.length === 0) {
+        document.getElementById("onPageToc").style.display = "none";
+        return;
+      }
+
+      headings.forEach((h, idx) => {
+        // Ensure heading has an ID
+        if (!h.id) {
+          h.id = "section-" + (h.textContent.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "") || idx);
+        }
+
+        const li = document.createElement("li");
+        li.className = `toc-item ${h.tagName.toLowerCase() === 'h3' ? 'depth-3' : ''}`;
+        
+        const a = document.createElement("a");
+        a.href = `#${h.id}`;
+        a.textContent = h.textContent.replace(/^#+\s*/, "");
+        li.appendChild(a);
+        tocList.appendChild(li);
+      });
+    }
+
+    // Wrap code blocks with nice Swiss header and copy button
+    function enhanceCodeBlocks(container) {
+      const pres = container.querySelectorAll("pre");
+      pres.forEach(pre => {
+        const code = pre.querySelector("code");
+        if (!code) return;
+
+        // Detect language class
+        const langClass = Array.from(code.classList).find(c => c.startsWith("language-"));
+        const lang = langClass ? langClass.replace("language-", "") : "text";
+
+        // Create wrapper
+        const wrapper = document.createElement("div");
+        wrapper.className = "code-block-wrapper";
+
+        // Create header
+        const header = document.createElement("div");
+        header.className = "code-block-header";
+        
+        const langSpan = document.createElement("span");
+        langSpan.textContent = lang;
+        header.appendChild(langSpan);
+
+        const copyBtn = document.createElement("button");
+        copyBtn.className = "code-copy-btn";
+        copyBtn.innerHTML = "<span>📋</span> <span>Copy</span>";
+        copyBtn.addEventListener("click", () => {
+          navigator.clipboard.writeText(code.textContent).then(() => {
+            copyBtn.innerHTML = "<span>✓</span> <span>Copied!</span>";
+            copyBtn.classList.add("copied");
+            setTimeout(() => {
+              copyBtn.innerHTML = "<span>📋</span> <span>Copy</span>";
+              copyBtn.classList.remove("copied");
+            }, 2000);
+          });
+        });
+        header.appendChild(copyBtn);
+
+        // Replace pre with wrapper
+        pre.parentNode.insertBefore(wrapper, pre);
+        wrapper.appendChild(header);
+        wrapper.appendChild(pre);
+
+        // Highlight code
+        if (window.hljs) {
+          hljs.highlightElement(code);
+        }
+      });
+    }
+
+    // Load and render markdown guide
+    async function loadGuide() {
+      const doc = getDocParam();
+      setActiveSidebar(doc);
+      const contentEl = document.getElementById("guideContent");
+
+      try {
+        const res = await fetch(`guides/${doc}.md?t=${Date.now()}`);
+        if (!res.ok) throw new Error(`HTTP ${res.status}: Guide not found`);
+        const markdown = await res.text();
+
+        // Check if marked is available
+        if (window.marked) {
+          marked.setOptions({
+            gfm: true,
+            breaks: true
+          });
+          contentEl.innerHTML = marked.parse(markdown);
+        } else {
+          // Fallback simple markdown parser
+          contentEl.innerHTML = `<pre style="white-space: pre-wrap;">${markdown}</pre>`;
+        }
+
+        // Add code block enhancements
+        enhanceCodeBlocks(contentEl);
+
+        // Build Table of Contents
+        buildToc(contentEl);
+
+      } catch (err) {
+        console.error("Error loading guide:", err);
+        contentEl.innerHTML = `
+          <div style="padding: 40px; text-align: center; border: 1px dashed rgba(244, 63, 94, 0.4); border-radius: 8px; background: rgba(244, 63, 94, 0.05);">
+            <div style="font-size: 2rem; margin-bottom: 12px;">⚠️</div>
+            <h3 style="color: var(--accent-rose); margin-bottom: 8px;">Guide Not Found</h3>
+            <p style="color: var(--text-secondary); margin-bottom: 20px;">Could not load <code>guides/${doc}.md</code>.</p>
+            <a href="guide.html?doc=README" class="header-btn primary">Browse Available Guides</a>
+          </div>
+        `;
+      }
+    }
+
+    document.addEventListener("DOMContentLoaded", loadGuide);
+  </script>
+</body>
+</html>

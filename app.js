@@ -552,6 +552,69 @@ window.copyModalSnippet = function() {
   });
 };
 
+// Interactive Guide Reader Modal
+const guideModalBackdrop = document.getElementById("guideModalBackdrop");
+const guideModalTitle = document.getElementById("guideModalTitle");
+const guideModalSlug = document.getElementById("guideModalSlug");
+const guideModalBody = document.getElementById("guideModalBody");
+const guideModalFullLink = document.getElementById("guideModalFullLink");
+
+const GUIDE_TITLES_MAP = {
+  "agent_skills_guide": "Agent Skills Integration & Authoring Blueprint",
+  "mcp_servers_integration": "MCP Servers Integration Blueprint (Claude Code & Cursor)",
+  "research_census_2026": "2026 Empirical Research Censuses Methodology",
+  "README": "GitTrends AI Developer Guides Index"
+};
+
+window.openGuideReader = async function(docName, e) {
+  if (e) e.preventDefault();
+  if (!guideModalBackdrop) {
+    window.open(`guide.html?doc=${docName}`, "_blank");
+    return;
+  }
+
+  const title = GUIDE_TITLES_MAP[docName] || docName.replace(/_/g, " ");
+  guideModalTitle.textContent = title;
+  guideModalSlug.textContent = `guides/${docName}.md`;
+  guideModalFullLink.href = `guide.html?doc=${docName}`;
+  guideModalBody.innerHTML = `
+    <div style="text-align: center; padding: 40px; color: var(--text-muted); font-family: var(--font-mono);">
+      <div style="font-size: 1.5rem; margin-bottom: 8px;">⏳</div>
+      Loading guide blueprint...
+    </div>
+  `;
+  guideModalBackdrop.classList.add("open");
+
+  try {
+    const res = await fetch(`guides/${docName}.md?t=${Date.now()}`);
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const markdown = await res.text();
+
+    if (window.marked) {
+      marked.setOptions({ gfm: true, breaks: true });
+      guideModalBody.innerHTML = marked.parse(markdown);
+    } else {
+      guideModalBody.innerHTML = `<pre style="white-space: pre-wrap; font-family: var(--font-mono); color: #cbd5e1;">${markdown}</pre>`;
+    }
+
+    guideModalBody.querySelectorAll("pre code").forEach(block => {
+      if (window.hljs) hljs.highlightElement(block);
+    });
+
+  } catch (err) {
+    guideModalBody.innerHTML = `
+      <div style="text-align: center; padding: 30px; color: var(--accent-rose);">
+        <p style="margin-bottom: 16px;">Could not preview guide inline. Open the full documentation page:</p>
+        <a href="guide.html?doc=${docName}" target="_blank" class="census-action-btn primary">Open Guide Portal ↗</a>
+      </div>
+    `;
+  }
+};
+
+window.closeGuideModal = function() {
+  if (guideModalBackdrop) guideModalBackdrop.classList.remove("open");
+};
+
 // Research Desk Renderer
 function renderResearchDesk() {
   const research = catalogData.research || {};
@@ -589,7 +652,7 @@ function renderResearchDesk() {
           <a href="data/research/census_latest.json" target="_blank" class="census-action-btn primary" title="Download raw JSON data">
             <span>💾</span> Raw Data (.JSON) ↗
           </a>
-          <a href="guides/research_census_2026.md" target="_blank" class="census-action-btn" title="Read methodology & dataset documentation">
+          <a href="guide.html?doc=research_census_2026" target="_blank" class="census-action-btn" title="Read methodology & dataset documentation">
             <span>📖</span> Methodology ↗
           </a>
           <button class="census-action-btn" onclick="copyCensusCitation('${r.id}')" title="Copy academic and markdown citation">
@@ -1321,10 +1384,18 @@ function setupEvents() {
 
   // Close modal on Escape key
   document.addEventListener("keydown", (e) => {
-    if (e.key === "Escape" && modalBackdrop.classList.contains("open")) {
-      closeInspectorModal();
+    if (e.key === "Escape") {
+      if (modalBackdrop.classList.contains("open")) closeInspectorModal();
+      if (guideModalBackdrop && guideModalBackdrop.classList.contains("open")) closeGuideModal();
     }
   });
+
+  // Close guide modal when clicking backdrop outside container
+  if (guideModalBackdrop) {
+    guideModalBackdrop.addEventListener("click", (e) => {
+      if (e.target === guideModalBackdrop) closeGuideModal();
+    });
+  }
 }
 
 // App Initialization

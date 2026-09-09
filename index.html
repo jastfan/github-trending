@@ -74,6 +74,11 @@
   
   <!-- Stylesheet -->
   <link rel="stylesheet" href="style.css">
+
+  <!-- Highlight.js & Marked for Interactive Guide Reader -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/github-dark-dimmed.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
 <body>
 
@@ -732,7 +737,7 @@
         <span class="section-meta-label">RESEARCH</span>
         <h2 class="section-editorial-title">The directory that measures its market</h2>
         <p class="section-editorial-subtitle">
-          GitTrends AI indexes the agent ecosystem and runs ongoing research on it: dated censuses of security, copying, usage and maintenance, with the raw dataset behind every number. Free to cite — browse GitTrends Research. How the numbers are made: <a href="guides/research_census_2026.md" target="_blank" rel="noopener" class="editorial-link">methodology ↗</a>.
+          GitTrends AI indexes the agent ecosystem and runs ongoing research on it: dated censuses of security, copying, usage and maintenance, with the raw dataset behind every number. Free to cite — browse GitTrends Research. How the numbers are made: <a href="guide.html?doc=research_census_2026" target="_blank" rel="noopener" class="editorial-link">methodology ↗</a>.
         </p>
       </div>
 
@@ -809,13 +814,13 @@
         <span class="section-meta-label">GUIDES</span>
         <h2 class="section-editorial-title">Guides: pick the right skills, faster</h2>
         <p class="section-editorial-subtitle">
-          Hands-on guides to the most-installed agent skills — what each one does and when to use it — <a href="guides/README.md" target="_blank" rel="noopener" class="editorial-link">browse all developer guides ↗</a>.
+          Hands-on guides to the most-installed agent skills — what each one does and when to use it — <a href="guide.html?doc=README" target="_blank" rel="noopener" class="editorial-link">browse all developer guides ↗</a>.
         </p>
       </div>
 
       <div class="editorial-cards-grid">
         <!-- Guide 1 -->
-        <a href="guides/agent_skills_guide.md" target="_blank" rel="noopener" class="editorial-guide-card">
+        <a href="guide.html?doc=agent_skills_guide" onclick="window.openGuideReader('agent_skills_guide', event)" target="_blank" rel="noopener" class="editorial-guide-card">
           <span class="guide-meta-tag">GUIDE</span>
           <div class="guide-sparkle">✦</div>
           <h3 class="guide-title">What is the task-observer skill for Claude Code?</h3>
@@ -823,7 +828,7 @@
         </a>
 
         <!-- Guide 2 -->
-        <a href="guides/agent_skills_guide.md" target="_blank" rel="noopener" class="editorial-guide-card">
+        <a href="guide.html?doc=agent_skills_guide" onclick="window.openGuideReader('agent_skills_guide', event)" target="_blank" rel="noopener" class="editorial-guide-card">
           <span class="guide-meta-tag">GUIDE</span>
           <div class="guide-sparkle">✦</div>
           <h3 class="guide-title">What is the Lavish skill for Claude Code?</h3>
@@ -831,7 +836,7 @@
         </a>
 
         <!-- Guide 3 -->
-        <a href="guides/agent_skills_guide.md" target="_blank" rel="noopener" class="editorial-guide-card">
+        <a href="guide.html?doc=agent_skills_guide" onclick="window.openGuideReader('agent_skills_guide', event)" target="_blank" rel="noopener" class="editorial-guide-card">
           <span class="guide-meta-tag">GUIDE</span>
           <div class="guide-sparkle">✦</div>
           <h3 class="guide-title">What is the HyperFrames skill for Claude Code?</h3>
@@ -839,7 +844,7 @@
         </a>
 
         <!-- Guide 4 -->
-        <a href="guides/mcp_servers_integration.md" target="_blank" rel="noopener" class="editorial-guide-card">
+        <a href="guide.html?doc=mcp_servers_integration" onclick="window.openGuideReader('mcp_servers_integration', event)" target="_blank" rel="noopener" class="editorial-guide-card">
           <span class="guide-meta-tag">GUIDE</span>
           <div class="guide-sparkle">✦</div>
           <h3 class="guide-title">Are Claude Code and Cursor replacing community skills with built-in features?</h3>
@@ -847,7 +852,7 @@
         </a>
 
         <!-- Guide 5 -->
-        <a href="guides/agent_skills_guide.md" target="_blank" rel="noopener" class="editorial-guide-card">
+        <a href="guide.html?doc=agent_skills_guide" onclick="window.openGuideReader('agent_skills_guide', event)" target="_blank" rel="noopener" class="editorial-guide-card">
           <span class="guide-meta-tag">GUIDE</span>
           <div class="guide-sparkle">✦</div>
           <h3 class="guide-title">What Is the Graphify Skill for Claude Code?</h3>
@@ -855,7 +860,7 @@
         </a>
 
         <!-- Guide 6 -->
-        <a href="guides/agent_skills_guide.md" target="_blank" rel="noopener" class="editorial-guide-card">
+        <a href="guide.html?doc=agent_skills_guide" onclick="window.openGuideReader('agent_skills_guide', event)" target="_blank" rel="noopener" class="editorial-guide-card">
           <span class="guide-meta-tag">GUIDE</span>
           <div class="guide-sparkle">✦</div>
           <h3 class="guide-title">What Are the Best Blender Skills for Claude Code?</h3>
@@ -863,7 +868,7 @@
         </a>
 
         <!-- Guide 7 -->
-        <a href="guides/mcp_servers_integration.md" target="_blank" rel="noopener" class="editorial-guide-card">
+        <a href="guide.html?doc=mcp_servers_integration" onclick="window.openGuideReader('mcp_servers_integration', event)" target="_blank" rel="noopener" class="editorial-guide-card">
           <span class="guide-meta-tag">MCP BLUEPRINT</span>
           <div class="guide-sparkle">✦</div>
           <h3 class="guide-title">How to configure stdio &amp; SSE MCP servers in Cursor and Claude Code?</h3>
@@ -871,7 +876,7 @@
         </a>
 
         <!-- Guide 8 -->
-        <a href="guides/research_census_2026.md" target="_blank" rel="noopener" class="editorial-guide-card">
+        <a href="guide.html?doc=research_census_2026" onclick="window.openGuideReader('research_census_2026', event)" target="_blank" rel="noopener" class="editorial-guide-card">
           <span class="guide-meta-tag">METHODOLOGY</span>
           <div class="guide-sparkle">✦</div>
           <h3 class="guide-title">How GitTrends AI calculates 2026 agent market statistics &amp; censuses?</h3>
@@ -926,7 +931,7 @@
           <a href="data/research/census_latest.json" target="_blank" class="census-action-btn primary">
             <span>💾</span> Download Raw Census (.JSON) ↗
           </a>
-          <a href="guides/research_census_2026.md" target="_blank" rel="noopener" class="census-action-btn">
+          <a href="guide.html?doc=research_census_2026" target="_blank" rel="noopener" class="census-action-btn">
             <span>📖</span> Research Methodology &amp; Sources ↗
           </a>
           <button class="census-action-btn" onclick="window.copyCensusCitation('all')">
@@ -1123,6 +1128,35 @@
       </div>
     </div>
   </div>
+
+  <!-- Interactive Guide Reader Modal -->
+  <div class="modal-backdrop" id="guideModalBackdrop">
+    <div class="modal-container" id="guideModalContainer" style="max-width: 860px; max-height: 90vh;">
+      <div class="modal-header">
+        <div class="modal-title-group">
+          <div class="modal-type-badge" id="guideModalBadge" style="background: rgba(56, 189, 248, 0.15); color: var(--accent-cyan);">DEVELOPER GUIDE</div>
+          <h3 class="modal-title" id="guideModalTitle">Guide Title</h3>
+          <span class="modal-author" id="guideModalSlug">by GitTrends AI Architecture Team</span>
+        </div>
+        <div style="display: flex; align-items: center; gap: 10px;">
+          <a href="guide.html" target="_blank" class="census-action-btn primary" id="guideModalFullLink" style="padding: 5px 12px; font-size: 0.76rem;">
+            Full Page View ↗
+          </a>
+          <button class="modal-close-btn" onclick="closeGuideModal()">&times;</button>
+        </div>
+      </div>
+      <div class="modal-body" id="guideModalBody" style="max-height: 68vh; overflow-y: auto; padding: 28px 32px;">
+        <div style="text-align: center; padding: 40px; color: var(--text-muted); font-family: var(--font-mono);">
+          Loading guide...
+        </div>
+      </div>
+      <div class="modal-footer" style="display: flex; justify-content: space-between; align-items: center;">
+        <span style="font-size: 0.8rem; color: var(--text-muted); font-family: var(--font-mono);">Open Source Documentation Hub under MIT</span>
+        <button class="modal-done-btn" onclick="closeGuideModal()">Close Reader</button>
+      </div>
+    </div>
+  </div>
+
 
   <!-- Live Interactive Agent Prompt Simulator Drawer -->
   <aside class="simulator-drawer" id="simulatorDrawer">
