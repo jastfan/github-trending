@@ -2,8 +2,8 @@ name: Daily GitHub Trending Tracker
 
 on:
   schedule:
-    # Runs twice every day at 00:00 UTC and 12:00 UTC
-    - cron: '0 0,12 * * *'
+    # Runs twice every day at 00:20 UTC and 12:20 UTC (off-peak minute prevents GitHub scheduler delays)
+    - cron: '20 0,12 * * *'
   workflow_dispatch: # Allows manual run anytime from GitHub Actions tab with 1 click
 
 permissions:
@@ -16,6 +16,9 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -38,10 +41,11 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main
           git add data/ archives/ feed.xml README.md
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
             git commit -m "chore(auto): update trending intelligence [$(date -u +'%Y-%m-%d %H:%M UTC')]"
-            git push
+            git push origin main
           fi
