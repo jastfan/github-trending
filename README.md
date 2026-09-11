@@ -8,7 +8,7 @@
 [![npm package](https://img.shields.io/badge/npm-gittrends--mcp%20v5.0.0-cb3837?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/gittrends-mcp)
 [![MCP Protocol](https://img.shields.io/badge/MCP%20Server-Official-10b981?style=for-the-badge&logo=anthropic)](guides/mcp_servers_integration.md)
 [![Research Censuses](https://img.shields.io/badge/Research%20Censuses-Open%20Data-8b5cf6?style=for-the-badge&logo=arxiv)](data/research/census_latest.json)
-![Auto-Updated](https://img.shields.io/badge/Auto--Updated-2x%20Daily%20(2026--09--10)-2ea44f?style=for-the-badge&logo=github)
+![Auto-Updated](https://img.shields.io/badge/Auto--Updated-2x%20Daily%20(2026--09--11)-2ea44f?style=for-the-badge&logo=github)
 ![License](https://img.shields.io/badge/License-MIT-bf8700?style=for-the-badge)
 
 <sub>⚡ 79,848+ Listings • 164.8M Installs • Auto-updated 2x daily via GitHub Actions • Maintained by [@jastfan](https://github.com/jastfan/github-trending)</sub>
@@ -48,20 +48,20 @@ claude mcp add gittrends -- npx -y gittrends-mcp
 
 ## 🏆 Today's #1 Trending Breakout Project
 
-[![ayghri/i-have-adhd](https://opengraph.githubassets.com/1/ayghri/i-have-adhd)](https://github.com/ayghri/i-have-adhd)
+[![bilawalsidhu/gods-eye-view](https://opengraph.githubassets.com/1/bilawalsidhu/gods-eye-view)](https://github.com/bilawalsidhu/gods-eye-view)
 
-> 💡 **What is it?** [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) — A skill to stop your coding agent from burying the answer. ADHD-friendly output.
-> 🚀 **Gained today:** **+4,650 stars** | **Total Stars:** ★ 34,717 | **Topics:** `#Agent-Skills` `#Coding-Agents`
+> 💡 **What is it?** [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) — A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+> 🚀 **Gained today:** **+3,642 stars** | **Total Stars:** ★ 26,296 | **Topics:** `#Trending`
 
 <details>
 <summary><b>👉 Click here for Instant Quick Inspect (Clone command & details)</b></summary>
 
 ```bash
 # Clone this breakout repository directly:
-git clone https://github.com/ayghri/i-have-adhd.git
+git clone https://github.com/bilawalsidhu/gods-eye-view.git
 ```
-- **Repository URL:** [https://github.com/ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
-- **Owner:** `@ayghri`
+- **Repository URL:** [https://github.com/bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
+- **Owner:** `@bilawalsidhu`
 </details>
 
 ---
@@ -72,11 +72,11 @@ git clone https://github.com/ayghri/i-have-adhd.git
 
 | Rank | Repository | Language | Trending Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**ayghri/i-have-adhd**](https://github.com/ayghri/i-have-adhd) | `Python` | `#Agent-Skills` `#Coding-Agents` | 🔥 **+4,650** | ★ 34,717 | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
-| 2 | [**cathrynlavery/diagram-design**](https://github.com/cathrynlavery/diagram-design) | `HTML` | `#Coding-Agents` | 🔥 **+2,249** | ★ 36,628 | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
-| 3 | [**liquidslr/system-design-notes**](https://github.com/liquidslr/system-design-notes) | `Other` | - | 🔥 **+1,397** | ★ 18,019 | Notes of the book System Desgin Interview - An Insider's Guide |
-| 4 | [**affaan-m/ECC**](https://github.com/affaan-m/ECC) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` `#Security` | 🔥 **+1,133** | ★ 255,194 | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
-| 5 | [**heygen-com/hyperframes**](https://github.com/heygen-com/hyperframes) | `TypeScript` | `#Coding-Agents` `#AI-Video` | 🔥 **+834** | ★ 48,414 | Write HTML. Render video. Built for agents. |
+| 1 | [**bilawalsidhu/gods-eye-view**](https://github.com/bilawalsidhu/gods-eye-view) | `JavaScript` | - | 🔥 **+3,642** | ★ 26,296 | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. |
+| 2 | [**ayghri/i-have-adhd**](https://github.com/ayghri/i-have-adhd) | `Python` | `#Agent-Skills` `#Coding-Agents` | 🔥 **+3,440** | ★ 40,607 | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
+| 3 | [**github/spec-kit**](https://github.com/github/spec-kit) | `Python` | - | 🔥 **+985** | ★ 135,615 | 💫 Toolkit to help you get started with Spec-Driven Development |
+| 4 | [**diegosouzapw/OmniRoute**](https://github.com/diegosouzapw/OmniRoute) | `TypeScript` | `#MCP` `#Coding-Agents` `#Web3` | 🔥 **+835** | ★ 64,727 | Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors |
+| 5 | [**obra/superpowers**](https://github.com/obra/superpowers) | `Shell` | `#Agent-Skills` `#Coding-Agents` | 🔥 **+731** | ★ 285,182 | An agentic skills framework & software development methodology that works. |
 
 ---
 
@@ -86,12 +86,12 @@ git clone https://github.com/ayghri/i-have-adhd.git
 
 | Rank | AI Repository | Language | Key Topic | Stars Today | Total Stars | What It Does |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**ayghri/i-have-adhd**](https://github.com/ayghri/i-have-adhd) | `Python` | `#Agent-Skills` | 🔥 **+4,650** | ★ 34,717 | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
-| 2 | [**cathrynlavery/diagram-design**](https://github.com/cathrynlavery/diagram-design) | `HTML` | `#Coding-Agents` | 🔥 **+2,249** | ★ 36,628 | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
-| 3 | [**affaan-m/ECC**](https://github.com/affaan-m/ECC) | `JavaScript` | `#Agent-Skills` | 🔥 **+1,133** | ★ 255,194 | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
-| 4 | [**heygen-com/hyperframes**](https://github.com/heygen-com/hyperframes) | `TypeScript` | `#Coding-Agents` | 🔥 **+834** | ★ 48,414 | Write HTML. Render video. Built for agents. |
-| 5 | [**freestylefly/awesome-gpt-image-2**](https://github.com/freestylefly/awesome-gpt-image-2) | `JavaScript` | `#Agent-Skills` | 🔥 **+705** | ★ 30,080 | Prompt as Code \| GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 |
-| 6 | [**browser-use/browser-use**](https://github.com/browser-use/browser-use) | `Python` | `#Coding-Agents` | 🔥 **+705** | ★ 113,966 | Agents that use the browser. |
+| 1 | [**ayghri/i-have-adhd**](https://github.com/ayghri/i-have-adhd) | `Python` | `#Agent-Skills` | 🔥 **+3,440** | ★ 40,607 | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
+| 2 | [**diegosouzapw/OmniRoute**](https://github.com/diegosouzapw/OmniRoute) | `TypeScript` | `#MCP` | 🔥 **+835** | ★ 64,727 | Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors |
+| 3 | [**obra/superpowers**](https://github.com/obra/superpowers) | `Shell` | `#Agent-Skills` | 🔥 **+731** | ★ 285,182 | An agentic skills framework & software development methodology that works. |
+| 4 | [**freestylefly/awesome-gpt-image-2**](https://github.com/freestylefly/awesome-gpt-image-2) | `JavaScript` | `#Agent-Skills` | 🔥 **+654** | ★ 31,303 | Prompt as Code \| GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。 |
+| 5 | [**nashsu/llm_wiki**](https://github.com/nashsu/llm_wiki) | `TypeScript` | `#AI` | 🔥 **+640** | ★ 18,554 | LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。 |
+| 6 | [**alsk1992/CloddsBot**](https://github.com/alsk1992/CloddsBot) | `TypeScript` | `#Coding-Agents` | 🔥 **+627** | ★ 2,010 | Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude. |
 
 ---
 
@@ -101,91 +101,91 @@ git clone https://github.com/ayghri/i-have-adhd.git
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**ayghri/i-have-adhd**](https://github.com/ayghri/i-have-adhd) | `Python` | `#Agent-Skills` `#Coding-Agents` | **+4,650** | ★ 34,717 | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
-| 2 | [**Tencent/teamai-cli**](https://github.com/Tencent/teamai-cli) | `TypeScript` | - | **+556** | ★ 3,011 | Make Every Team AI Native |
-| 3 | [**obra/superpowers**](https://github.com/obra/superpowers) | `Shell` | `#Agent-Skills` `#Coding-Agents` | **+688** | ★ 284,049 | An agentic skills framework & software development methodology that works. |
-| 4 | [**pascalorg/editor**](https://github.com/pascalorg/editor) | `TypeScript` | `#MCP` `#Coding-Agents` | **+107** | ★ 22,946 | Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents. |
-| 5 | [**earthtojake/text-to-cad**](https://github.com/earthtojake/text-to-cad) | `Python` | `#Agent-Skills` `#Coding-Agents` | **+124** | ★ 15,044 | A library of agent skills for CAD, CAE and CAM |
-| 6 | [**cathrynlavery/diagram-design**](https://github.com/cathrynlavery/diagram-design) | `HTML` | `#Coding-Agents` | **+2,249** | ★ 36,628 | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
-| 7 | [**TauricResearch/TradingAgents**](https://github.com/TauricResearch/TradingAgents) | `Python` | `#Coding-Agents` `#Autonomous-Finance` | **+367** | ★ 103,976 | TradingAgents: Multi-Agents LLM Financial Trading Framework |
-| 8 | [**liquidslr/system-design-notes**](https://github.com/liquidslr/system-design-notes) | `Other` | - | **+1,397** | ★ 18,019 | Notes of the book System Desgin Interview - An Insider's Guide |
+| 1 | [**ayghri/i-have-adhd**](https://github.com/ayghri/i-have-adhd) | `Python` | `#Agent-Skills` `#Coding-Agents` | **+3,440** | ★ 40,607 | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
+| 2 | [**bilawalsidhu/gods-eye-view**](https://github.com/bilawalsidhu/gods-eye-view) | `JavaScript` | - | **+3,642** | ★ 26,296 | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. |
+| 3 | [**nab138/iloader**](https://github.com/nab138/iloader) | `TypeScript` | - | **+36** | ★ 2,829 | User friendly sideloader |
+| 4 | [**melgarafael/DeskcommCRM**](https://github.com/melgarafael/DeskcommCRM) | `TypeScript` | `#MCP` `#Coding-Agents` | **+126** | ★ 1,174 | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD. |
+| 5 | [**vastsa/PI-Desktop**](https://github.com/vastsa/PI-Desktop) | `TypeScript` | `#Coding-Agents` `#Local-AI` | **+545** | ★ 2,673 | Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins |
+| 6 | [**armory3d/armorpaint**](https://github.com/armory3d/armorpaint) | `C` | - | **+354** | ★ 4,645 | Graphics Creation Tools |
+| 7 | [**alsk1992/CloddsBot**](https://github.com/alsk1992/CloddsBot) | `TypeScript` | `#Coding-Agents` `#Autonomous-Finance` `#Web3` | **+627** | ★ 2,010 | Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude. |
+| 8 | [**nashsu/llm_wiki**](https://github.com/nashsu/llm_wiki) | `TypeScript` | - | **+640** | ★ 18,554 | LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。 |
 
-> 📂 *Explore all 13 Overall Trending repos in [`archives/2026-09/2026-09-10.md`](archives/2026-09/2026-09-10.md)*
+> 📂 *Explore all 16 Overall Trending repos in [`archives/2026-09/2026-09-11.md`](archives/2026-09/2026-09-11.md)*
 
 ### 🐍 Python
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**ayghri/i-have-adhd**](https://github.com/ayghri/i-have-adhd) | `Python` | `#Agent-Skills` `#Coding-Agents` | **+4,650** | ★ 34,717 | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
-| 2 | [**earthtojake/text-to-cad**](https://github.com/earthtojake/text-to-cad) | `Python` | `#Agent-Skills` `#Coding-Agents` | **+124** | ★ 15,044 | A library of agent skills for CAD, CAE and CAM |
-| 3 | [**TauricResearch/TradingAgents**](https://github.com/TauricResearch/TradingAgents) | `Python` | `#Coding-Agents` `#Autonomous-Finance` | **+367** | ★ 103,976 | TradingAgents: Multi-Agents LLM Financial Trading Framework |
-| 4 | [**rohitg00/ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | `Python` | - | **+343** | ★ 53,715 | Learn it. Build it. Ship it for others. |
-| 5 | [**public-apis/public-apis**](https://github.com/public-apis/public-apis) | `Python` | - | **+580** | ★ 478,146 | A collective list of free APIs |
-| 6 | [**Alishahryar1/free-claude-code**](https://github.com/Alishahryar1/free-claude-code) | `Python` | `#Coding-Agents` `#Web3` | **+214** | ★ 54,211 | Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly) |
-| 7 | [**experientiallabs/experiential**](https://github.com/experientiallabs/experiential) | `Python` | - | **+686** | ★ 3,760 | Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, recommend better models, and train a specialized model you own. |
-| 8 | [**smicallef/spiderfoot**](https://github.com/smicallef/spiderfoot) | `Python` | - | **+51** | ★ 21,988 | SpiderFoot automates OSINT for threat intelligence and mapping your attack surface. |
+| 1 | [**ayghri/i-have-adhd**](https://github.com/ayghri/i-have-adhd) | `Python` | `#Agent-Skills` `#Coding-Agents` | **+3,440** | ★ 40,607 | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
+| 2 | [**jihe520/MathModelAgent**](https://github.com/jihe520/MathModelAgent) | `Python` | `#Agent-Skills` `#Coding-Agents` `#Local-AI` | **+132** | ★ 4,783 | 🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission. |
+| 3 | [**jordan-gibbs/hyperresearch**](https://github.com/jordan-gibbs/hyperresearch) | `Python` | `#Coding-Agents` | **+118** | ★ 2,345 | Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki. |
+| 4 | [**github/spec-kit**](https://github.com/github/spec-kit) | `Python` | - | **+985** | ★ 135,615 | 💫 Toolkit to help you get started with Spec-Driven Development |
+| 5 | [**k2-fsa/OmniVoice**](https://github.com/k2-fsa/OmniVoice) | `Python` | - | **+607** | ★ 12,137 | High-Quality Voice Cloning TTS for 600+ Languages |
+| 6 | [**D4Vinci/Scrapling**](https://github.com/D4Vinci/Scrapling) | `Python` | - | **+336** | ★ 80,241 | 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! |
+| 7 | [**bojieli/ai-agent-book**](https://github.com/bojieli/ai-agent-book) | `Python` | `#Coding-Agents` | **+311** | ★ 45,883 | 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 |
+| 8 | [**SimplifyJobs/Summer2027-Internships**](https://github.com/SimplifyJobs/Summer2027-Internships) | `Python` | `#Autonomous-Finance` | **+47** | ★ 47,327 | Summer 2027 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC. |
 
-> 📂 *Explore all 16 Python repos in [`archives/2026-09/2026-09-10.md`](archives/2026-09/2026-09-10.md)*
+> 📂 *Explore all 15 Python repos in [`archives/2026-09/2026-09-11.md`](archives/2026-09/2026-09-11.md)*
 
 ### ⚡ JavaScript
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**openai/plugins**](https://github.com/openai/plugins) | `JavaScript` | - | **+498** | ★ 6,207 | OpenAI Plugins |
-| 2 | [**freestylefly/awesome-gpt-image-2**](https://github.com/freestylefly/awesome-gpt-image-2) | `JavaScript` | `#Agent-Skills` | **+705** | ★ 30,080 | Prompt as Code \| GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 |
-| 3 | [**affaan-m/ECC**](https://github.com/affaan-m/ECC) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` `#Security` | **+1,133** | ★ 255,194 | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
-| 4 | [**decolua/9router**](https://github.com/decolua/9router) | `JavaScript` | `#Coding-Agents` `#Web3` | **+186** | ★ 28,204 | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits. |
-| 5 | [**asgeirtj/system_prompts_leaks**](https://github.com/asgeirtj/system_prompts_leaks) | `JavaScript` | `#Coding-Agents` | **+125** | ★ 64,578 | Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly. |
-| 6 | [**jo-inc/camofox-browser**](https://github.com/jo-inc/camofox-browser) | `JavaScript` | `#Coding-Agents` | **+451** | ★ 10,840 | Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement. |
-| 7 | [**viarotel-org/escrcpy**](https://github.com/viarotel-org/escrcpy) | `JavaScript` | - | **+306** | ★ 11,624 | 📱 Display and control your Android device graphically with scrcpy. |
-| 8 | [**coreyhaines31/marketingskills**](https://github.com/coreyhaines31/marketingskills) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` | **+522** | ★ 49,255 | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. |
+| 1 | [**bilawalsidhu/gods-eye-view**](https://github.com/bilawalsidhu/gods-eye-view) | `JavaScript` | - | **+3,642** | ★ 26,296 | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. |
+| 2 | [**freestylefly/awesome-gpt-image-2**](https://github.com/freestylefly/awesome-gpt-image-2) | `JavaScript` | `#Agent-Skills` | **+654** | ★ 31,303 | Prompt as Code \| GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。 |
+| 3 | [**asgeirtj/system_prompts_leaks**](https://github.com/asgeirtj/system_prompts_leaks) | `JavaScript` | `#Coding-Agents` | **+188** | ★ 64,825 | Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly. |
+| 4 | [**github/awesome-copilot**](https://github.com/github/awesome-copilot) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` | **+53** | ★ 38,898 | Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot. |
+| 5 | [**openai/plugins**](https://github.com/openai/plugins) | `JavaScript` | - | **+245** | ★ 6,430 | OpenAI Plugins |
+| 6 | [**0xranx/OpenContext**](https://github.com/0xranx/OpenContext) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` | **+115** | ★ 1,065 | A personal context store for AI agents and assistants—reuse your existing coding agent CLI (Codex/Claude/OpenCode) with built‑in Skills/tools and a desktop GUI to capture, search, and reuse project knowledge across agents and repos. |
+| 7 | [**pdone/lx-music-source**](https://github.com/pdone/lx-music-source) | `JavaScript` | - | **+29** | ★ 8,665 | 洛雪音乐源 |
+| 8 | [**react/react**](https://github.com/react/react) | `JavaScript` | - | **+403** | ★ 250,040 | The library for web and native user interfaces. |
 
-> 📂 *Explore all 14 JavaScript repos in [`archives/2026-09/2026-09-10.md`](archives/2026-09/2026-09-10.md)*
+> 📂 *Explore all 12 JavaScript repos in [`archives/2026-09/2026-09-11.md`](archives/2026-09/2026-09-11.md)*
 
 ### 🔷 TypeScript
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**Tencent/teamai-cli**](https://github.com/Tencent/teamai-cli) | `TypeScript` | - | **+556** | ★ 3,011 | Make Every Team AI Native |
-| 2 | [**pascalorg/editor**](https://github.com/pascalorg/editor) | `TypeScript` | `#MCP` `#Coding-Agents` | **+107** | ★ 22,946 | Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents. |
-| 3 | [**vastsa/PI-Desktop**](https://github.com/vastsa/PI-Desktop) | `TypeScript` | `#Coding-Agents` `#Local-AI` | **+417** | ★ 1,683 | Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins |
-| 4 | [**jamiepine/voicebox**](https://github.com/jamiepine/voicebox) | `TypeScript` | - | **+142** | ★ 52,821 | The open-source AI voice studio. Clone, dictate, create. |
-| 5 | [**heygen-com/hyperframes**](https://github.com/heygen-com/hyperframes) | `TypeScript` | `#Coding-Agents` `#AI-Video` | **+834** | ★ 48,414 | Write HTML. Render video. Built for agents. |
-| 6 | [**OpenHands/OpenHands**](https://github.com/OpenHands/OpenHands) | `TypeScript` | - | **+186** | ★ 87,117 | 🙌 OpenHands: AI-Driven Development |
-| 7 | [**ruvnet/ruflo**](https://github.com/ruvnet/ruflo) | `TypeScript` | `#Coding-Agents` | **+161** | ★ 71,820 | 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated |
-| 8 | [**PrimeIntellect-ai/prime-agent**](https://github.com/PrimeIntellect-ai/prime-agent) | `TypeScript` | `#Coding-Agents` | **+102** | ★ 20,422 | A self-improving RLM agent for coding workflows and long-running autonomous tasks. |
+| 1 | [**nab138/iloader**](https://github.com/nab138/iloader) | `TypeScript` | - | **+36** | ★ 2,829 | User friendly sideloader |
+| 2 | [**melgarafael/DeskcommCRM**](https://github.com/melgarafael/DeskcommCRM) | `TypeScript` | `#MCP` `#Coding-Agents` | **+126** | ★ 1,174 | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD. |
+| 3 | [**vastsa/PI-Desktop**](https://github.com/vastsa/PI-Desktop) | `TypeScript` | `#Coding-Agents` `#Local-AI` | **+545** | ★ 2,673 | Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins |
+| 4 | [**alsk1992/CloddsBot**](https://github.com/alsk1992/CloddsBot) | `TypeScript` | `#Coding-Agents` `#Autonomous-Finance` `#Web3` | **+627** | ★ 2,010 | Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude. |
+| 5 | [**nashsu/llm_wiki**](https://github.com/nashsu/llm_wiki) | `TypeScript` | - | **+640** | ★ 18,555 | LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。 |
+| 6 | [**pascalorg/editor**](https://github.com/pascalorg/editor) | `TypeScript` | `#MCP` `#Coding-Agents` | **+83** | ★ 23,411 | Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents. |
+| 7 | [**diegosouzapw/OmniRoute**](https://github.com/diegosouzapw/OmniRoute) | `TypeScript` | `#MCP` `#Coding-Agents` `#Web3` | **+835** | ★ 64,727 | Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors |
+| 8 | [**mksglu/context-mode**](https://github.com/mksglu/context-mode) | `TypeScript` | `#MCP` `#Coding-Agents` | **+224** | ★ 22,143 | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. |
 
-> 📂 *Explore all 17 TypeScript repos in [`archives/2026-09/2026-09-10.md`](archives/2026-09/2026-09-10.md)*
+> 📂 *Explore all 16 TypeScript repos in [`archives/2026-09/2026-09-11.md`](archives/2026-09/2026-09-11.md)*
 
 ### 🐹 Go
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**superplanehq/superplane**](https://github.com/superplanehq/superplane) | `Go` | - | **+251** | ★ 6,579 | Open source factory for one-shot engineering |
-| 2 | [**XTLS/Xray-core**](https://github.com/XTLS/Xray-core) | `Go` | - | **+26** | ★ 41,493 | Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses. |
-| 3 | [**authelia/authelia**](https://github.com/authelia/authelia) | `Go` | `#Autonomous-Finance` `#Web3` | **+21** | ★ 28,868 | The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready. |
-| 4 | [**Wei-Shaw/sub2api**](https://github.com/Wei-Shaw/sub2api) | `Go` | - | **+136** | ★ 41,026 | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
-| 5 | [**go-resty/resty**](https://github.com/go-resty/resty) | `Go` | - | **+5** | ★ 11,793 | Simple HTTP, REST, and SSE client library for Go |
-| 6 | [**alibaba/open-code-review**](https://github.com/alibaba/open-code-review) | `Go` | `#Coding-Agents` | **+55** | ★ 22,155 | Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
-| 7 | [**larksuite/cli**](https://github.com/larksuite/cli) | `Go` | `#Agent-Skills` `#Coding-Agents` | **+23** | ★ 17,100 | The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills. |
-| 8 | [**Project-HAMi/HAMi**](https://github.com/Project-HAMi/HAMi) | `Go` | - | **+23** | ★ 4,565 | Heterogeneous GPU Sharing on Kubernetes |
+| 1 | [**p1neappleXpress/OpenFlux**](https://github.com/p1neappleXpress/OpenFlux) | `Go` | `#AI-Video` | **+201** | ★ 987 | Network stack research tool. TCP tunnel with pluggable transports. |
+| 2 | [**Tencent/WeKnora**](https://github.com/Tencent/WeKnora) | `Go` | `#Coding-Agents` | **+220** | ★ 22,293 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. |
+| 3 | [**kserve/kserve**](https://github.com/kserve/kserve) | `Go` | `#Local-AI` | **+4** | ★ 5,874 | Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes |
+| 4 | [**superplanehq/superplane**](https://github.com/superplanehq/superplane) | `Go` | - | **+292** | ★ 7,093 | Open source factory for one-shot engineering |
+| 5 | [**trufflesecurity/trufflehog**](https://github.com/trufflesecurity/trufflehog) | `Go` | - | **+22** | ★ 27,788 | Find, verify, and analyze leaked credentials |
+| 6 | [**grafana/mcp-grafana**](https://github.com/grafana/mcp-grafana) | `Go` | `#MCP` | **+8** | ★ 3,449 | MCP server for Grafana |
+| 7 | [**theagentrouter/agent-router**](https://github.com/theagentrouter/agent-router) | `Go` | `#Coding-Agents` `#Local-AI` | **+16** | ★ 2,046 | Manages Unified Access to Generative AI Services built on Envoy Gateway |
+| 8 | [**esengine/DeepSeek-Reasonix**](https://github.com/esengine/DeepSeek-Reasonix) | `Go` | `#Coding-Agents` | **+52** | ★ 35,503 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
 
-> 📂 *Explore all 16 Go repos in [`archives/2026-09/2026-09-10.md`](archives/2026-09/2026-09-10.md)*
+> 📂 *Explore all 20 Go repos in [`archives/2026-09/2026-09-11.md`](archives/2026-09/2026-09-11.md)*
 
 ### 🦀 Rust
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**HakanSeven12/OpenCADStudio**](https://github.com/HakanSeven12/OpenCADStudio) | `Rust` | - | **+102** | ★ 1,339 | A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering |
-| 2 | [**google/magika**](https://github.com/google/magika) | `Rust` | - | **+62** | ★ 18,521 | Fast and accurate AI powered file content types detection |
-| 3 | [**leookun/cursor-byok**](https://github.com/leookun/cursor-byok) | `Rust` | `#Coding-Agents` | **+45** | ★ 2,854 | cursor-byok is a local implementation of Cursor's backend |
-| 4 | [**Automattic/harper**](https://github.com/Automattic/harper) | `Rust` | `#Local-AI` | **+149** | ★ 15,216 | Offline, privacy-first grammar checker. Fast, open-source, Rust-powered |
-| 5 | [**rtk-ai/rtk**](https://github.com/rtk-ai/rtk) | `Rust` | `#Web3` | **+192** | ★ 79,715 | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
-| 6 | [**waditu/czsc**](https://github.com/waditu/czsc) | `Rust` | `#Autonomous-Finance` | **+39** | ★ 6,077 | 缠中说禅技术分析工具；缠论；股票；期货；Quant；量化交易 |
-| 7 | [**ruvnet/RuView**](https://github.com/ruvnet/RuView) | `Rust` | `#AI-Video` | **+99** | ★ 92,928 | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
-| 8 | [**dmtrKovalenko/fff**](https://github.com/dmtrKovalenko/fff) | `Rust` | `#Coding-Agents` | **+97** | ★ 10,657 | The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C, Python, Bun and NodeJS |
+| 1 | [**alphaXiv/OpenResearch**](https://github.com/alphaXiv/OpenResearch) | `Rust` | `#Coding-Agents` | **+156** | ★ 1,124 | Run parallel research agents with any model |
+| 2 | [**HakanSeven12/OpenCADStudio**](https://github.com/HakanSeven12/OpenCADStudio) | `Rust` | - | **+105** | ★ 1,555 | A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering |
+| 3 | [**t8y2/dbx**](https://github.com/t8y2/dbx) | `Rust` | `#MCP` | **+265** | ★ 19,132 | 20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. \| 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。 |
+| 4 | [**googleworkspace/cli**](https://github.com/googleworkspace/cli) | `Rust` | `#Agent-Skills` `#Coding-Agents` | **+104** | ★ 30,936 | Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills. |
+| 5 | [**clockworklabs/SpacetimeDB**](https://github.com/clockworklabs/SpacetimeDB) | `Rust` | - | **+14** | ★ 25,155 | Development at the speed of light |
+| 6 | [**AlexsJones/llmfit**](https://github.com/AlexsJones/llmfit) | `Rust` | - | **+482** | ★ 36,029 | Hundreds of models & providers. One command to find what runs on your hardware. |
+| 7 | [**RyanCodrai/turbovec**](https://github.com/RyanCodrai/turbovec) | `Rust` | `#Autonomous-Finance` | **+115** | ★ 16,898 | A vector index built on TurboQuant, written in Rust with Python bindings |
+| 8 | [**NVlabs/cuda-oxide**](https://github.com/NVlabs/cuda-oxide) | `Rust` | - | **+34** | ★ 3,263 | cuda-oxide is a Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic Rust. It compiles standard Rust code directly to PTX — no DSLs, no foreign language bindings, just Rust. |
 
-> 📂 *Explore all 19 Rust repos in [`archives/2026-09/2026-09-10.md`](archives/2026-09/2026-09-10.md)*
+> 📂 *Explore all 19 Rust repos in [`archives/2026-09/2026-09-11.md`](archives/2026-09/2026-09-11.md)*
 
 ---
 
