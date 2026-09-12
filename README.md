@@ -8,7 +8,7 @@
 [![npm package](https://img.shields.io/badge/npm-gittrends--mcp%20v5.0.0-cb3837?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/gittrends-mcp)
 [![MCP Protocol](https://img.shields.io/badge/MCP%20Server-Official-10b981?style=for-the-badge&logo=anthropic)](guides/mcp_servers_integration.md)
 [![Research Censuses](https://img.shields.io/badge/Research%20Censuses-Open%20Data-8b5cf6?style=for-the-badge&logo=arxiv)](data/research/census_latest.json)
-![Auto-Updated](https://img.shields.io/badge/Auto--Updated-2x%20Daily%20(2026--09--11)-2ea44f?style=for-the-badge&logo=github)
+![Auto-Updated](https://img.shields.io/badge/Auto--Updated-2x%20Daily%20(2026--09--12)-2ea44f?style=for-the-badge&logo=github)
 ![License](https://img.shields.io/badge/License-MIT-bf8700?style=for-the-badge)
 
 <sub>⚡ 79,848+ Listings • 164.8M Installs • Auto-updated 2x daily via GitHub Actions • Maintained by [@jastfan](https://github.com/jastfan/github-trending)</sub>
@@ -110,7 +110,7 @@ git clone https://github.com/bilawalsidhu/gods-eye-view.git
 | 7 | [**alsk1992/CloddsBot**](https://github.com/alsk1992/CloddsBot) | `TypeScript` | `#Coding-Agents` `#Autonomous-Finance` `#Web3` | **+627** | ★ 2,028 | Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude. |
 | 8 | [**nashsu/llm_wiki**](https://github.com/nashsu/llm_wiki) | `TypeScript` | - | **+640** | ★ 18,576 | LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。 |
 
-> 📂 *Explore all 16 Overall Trending repos in [`archives/2026-09/2026-09-11.md`](archives/2026-09/2026-09-11.md)*
+> 📂 *Explore all 16 Overall Trending repos in [`archives/2026-09/2026-09-12.md`](archives/2026-09/2026-09-12.md)*
 
 ### 🐍 Python
 
@@ -125,7 +125,7 @@ git clone https://github.com/bilawalsidhu/gods-eye-view.git
 | 7 | [**bojieli/ai-agent-book**](https://github.com/bojieli/ai-agent-book) | `Python` | `#Coding-Agents` | **+311** | ★ 45,892 | 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 |
 | 8 | [**SimplifyJobs/Summer2027-Internships**](https://github.com/SimplifyJobs/Summer2027-Internships) | `Python` | `#Autonomous-Finance` | **+47** | ★ 47,331 | Summer 2027 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC. |
 
-> 📂 *Explore all 15 Python repos in [`archives/2026-09/2026-09-11.md`](archives/2026-09/2026-09-11.md)*
+> 📂 *Explore all 15 Python repos in [`archives/2026-09/2026-09-12.md`](archives/2026-09/2026-09-12.md)*
 
 ### ⚡ JavaScript
 
@@ -140,7 +140,7 @@ git clone https://github.com/bilawalsidhu/gods-eye-view.git
 | 7 | [**pdone/lx-music-source**](https://github.com/pdone/lx-music-source) | `JavaScript` | - | **+29** | ★ 8,665 | 洛雪音乐源 |
 | 8 | [**react/react**](https://github.com/react/react) | `JavaScript` | - | **+403** | ★ 250,039 | The library for web and native user interfaces. |
 
-> 📂 *Explore all 12 JavaScript repos in [`archives/2026-09/2026-09-11.md`](archives/2026-09/2026-09-11.md)*
+> 📂 *Explore all 12 JavaScript repos in [`archives/2026-09/2026-09-12.md`](archives/2026-09/2026-09-12.md)*
 
 ### 🔷 TypeScript
 
@@ -155,7 +155,7 @@ git clone https://github.com/bilawalsidhu/gods-eye-view.git
 | 7 | [**diegosouzapw/OmniRoute**](https://github.com/diegosouzapw/OmniRoute) | `TypeScript` | `#MCP` `#Coding-Agents` `#Web3` | **+835** | ★ 64,750 | Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors |
 | 8 | [**mksglu/context-mode**](https://github.com/mksglu/context-mode) | `TypeScript` | `#MCP` `#Coding-Agents` | **+224** | ★ 22,149 | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. |
 
-> 📂 *Explore all 16 TypeScript repos in [`archives/2026-09/2026-09-11.md`](archives/2026-09/2026-09-11.md)*
+> 📂 *Explore all 16 TypeScript repos in [`archives/2026-09/2026-09-12.md`](archives/2026-09/2026-09-12.md)*
 
 ### 🐹 Go
 
@@ -170,7 +170,7 @@ git clone https://github.com/bilawalsidhu/gods-eye-view.git
 | 7 | [**theagentrouter/agent-router**](https://github.com/theagentrouter/agent-router) | `Go` | `#Coding-Agents` `#Local-AI` | **+16** | ★ 2,046 | Manages Unified Access to Generative AI Services built on Envoy Gateway |
 | 8 | [**esengine/DeepSeek-Reasonix**](https://github.com/esengine/DeepSeek-Reasonix) | `Go` | `#Coding-Agents` | **+52** | ★ 35,502 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
 
-> 📂 *Explore all 20 Go repos in [`archives/2026-09/2026-09-11.md`](archives/2026-09/2026-09-11.md)*
+> 📂 *Explore all 20 Go repos in [`archives/2026-09/2026-09-12.md`](archives/2026-09/2026-09-12.md)*
 
 ### 🦀 Rust
 
@@ -185,7 +185,7 @@ git clone https://github.com/bilawalsidhu/gods-eye-view.git
 | 7 | [**RyanCodrai/turbovec**](https://github.com/RyanCodrai/turbovec) | `Rust` | `#Autonomous-Finance` | **+115** | ★ 16,904 | A vector index built on TurboQuant, written in Rust with Python bindings |
 | 8 | [**NVlabs/cuda-oxide**](https://github.com/NVlabs/cuda-oxide) | `Rust` | - | **+34** | ★ 3,263 | cuda-oxide is a Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic Rust. It compiles standard Rust code directly to PTX — no DSLs, no foreign language bindings, just Rust. |
 
-> 📂 *Explore all 19 Rust repos in [`archives/2026-09/2026-09-11.md`](archives/2026-09/2026-09-11.md)*
+> 📂 *Explore all 19 Rust repos in [`archives/2026-09/2026-09-12.md`](archives/2026-09/2026-09-12.md)*
 
 ---
 
