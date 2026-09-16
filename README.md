@@ -8,7 +8,7 @@
 [![npm package](https://img.shields.io/badge/npm-gittrends--mcp%20v5.0.0-cb3837?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/gittrends-mcp)
 [![MCP Protocol](https://img.shields.io/badge/MCP%20Server-Official-10b981?style=for-the-badge&logo=anthropic)](guides/mcp_servers_integration.md)
 [![Research Censuses](https://img.shields.io/badge/Research%20Censuses-Open%20Data-8b5cf6?style=for-the-badge&logo=arxiv)](data/research/census_latest.json)
-![Auto-Updated](https://img.shields.io/badge/Auto--Updated-2x%20Daily%20(2026--09--15)-2ea44f?style=for-the-badge&logo=github)
+![Auto-Updated](https://img.shields.io/badge/Auto--Updated-2x%20Daily%20(2026--09--16)-2ea44f?style=for-the-badge&logo=github)
 ![License](https://img.shields.io/badge/License-MIT-bf8700?style=for-the-badge)
 
 <sub>⚡ 79,848+ Listings • 164.8M Installs • Auto-updated 2x daily via GitHub Actions • Maintained by [@jastfan](https://github.com/jastfan/github-trending)</sub>
@@ -51,7 +51,7 @@ claude mcp add gittrends -- npx -y gittrends-mcp
 [![alibaba/open-code-review](https://opengraph.githubassets.com/1/alibaba/open-code-review)](https://github.com/alibaba/open-code-review)
 
 > 💡 **What is it?** [alibaba/open-code-review](https://github.com/alibaba/open-code-review) — Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
-> 🚀 **Gained today:** **+2,751 stars** | **Total Stars:** ★ 27,868 | **Topics:** `#Coding-Agents`
+> 🚀 **Gained today:** **+2,756 stars** | **Total Stars:** ★ 29,141 | **Topics:** `#Coding-Agents`
 
 <details>
 <summary><b>👉 Click here for Instant Quick Inspect (Clone command & details)</b></summary>
@@ -72,11 +72,11 @@ git clone https://github.com/alibaba/open-code-review.git
 
 | Rank | Repository | Language | Trending Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**alibaba/open-code-review**](https://github.com/alibaba/open-code-review) | `Go` | `#Coding-Agents` | 🔥 **+2,751** | ★ 27,868 | Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
-| 2 | [**debpalash/VoiceStudio**](https://github.com/debpalash/VoiceStudio) | `Python` | `#AI-Video` | 🔥 **+2,081** | ★ 30,577 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
-| 3 | [**JustVugg/colibri**](https://github.com/JustVugg/colibri) | `C` | - | 🔥 **+2,035** | ★ 33,381 | Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 |
-| 4 | [**tt-a1i/archify**](https://github.com/tt-a1i/archify) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` | 🔥 **+1,407** | ★ 63,266 | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. |
-| 5 | [**cloudflare/security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` `#Security` | 🔥 **+1,210** | ★ 4,888 | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
+| 1 | [**alibaba/open-code-review**](https://github.com/alibaba/open-code-review) | `Go` | `#Coding-Agents` | 🔥 **+2,756** | ★ 29,141 | Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
+| 2 | [**debpalash/VoiceStudio**](https://github.com/debpalash/VoiceStudio) | `Python` | `#AI-Video` | 🔥 **+2,072** | ★ 31,239 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
+| 3 | [**JustVugg/colibri**](https://github.com/JustVugg/colibri) | `C` | - | 🔥 **+2,026** | ★ 34,082 | Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 |
+| 4 | [**cloudflare/security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` `#Security` | 🔥 **+1,434** | ★ 5,221 | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
+| 5 | [**tt-a1i/archify**](https://github.com/tt-a1i/archify) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` | 🔥 **+1,373** | ★ 63,847 | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. |
 
 ---
 
@@ -86,12 +86,12 @@ git clone https://github.com/alibaba/open-code-review.git
 
 | Rank | AI Repository | Language | Key Topic | Stars Today | Total Stars | What It Does |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**alibaba/open-code-review**](https://github.com/alibaba/open-code-review) | `Go` | `#Coding-Agents` | 🔥 **+2,751** | ★ 27,868 | Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
-| 2 | [**debpalash/VoiceStudio**](https://github.com/debpalash/VoiceStudio) | `Python` | `#AI-Video` | 🔥 **+2,081** | ★ 30,577 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
-| 3 | [**JustVugg/colibri**](https://github.com/JustVugg/colibri) | `C` | `#AI` | 🔥 **+2,035** | ★ 33,381 | Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 |
-| 4 | [**tt-a1i/archify**](https://github.com/tt-a1i/archify) | `JavaScript` | `#Agent-Skills` | 🔥 **+1,407** | ★ 63,266 | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. |
-| 5 | [**cloudflare/security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | `JavaScript` | `#Agent-Skills` | 🔥 **+1,210** | ★ 4,888 | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
-| 6 | [**Panniantong/Agent-Reach**](https://github.com/Panniantong/Agent-Reach) | `Python` | `#Coding-Agents` | 🔥 **+1,094** | ★ 81,951 | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
+| 1 | [**alibaba/open-code-review**](https://github.com/alibaba/open-code-review) | `Go` | `#Coding-Agents` | 🔥 **+2,756** | ★ 29,141 | Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
+| 2 | [**debpalash/VoiceStudio**](https://github.com/debpalash/VoiceStudio) | `Python` | `#AI-Video` | 🔥 **+2,072** | ★ 31,239 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
+| 3 | [**JustVugg/colibri**](https://github.com/JustVugg/colibri) | `C` | `#AI` | 🔥 **+2,026** | ★ 34,082 | Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 |
+| 4 | [**cloudflare/security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | `JavaScript` | `#Agent-Skills` | 🔥 **+1,434** | ★ 5,221 | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
+| 5 | [**tt-a1i/archify**](https://github.com/tt-a1i/archify) | `JavaScript` | `#Agent-Skills` | 🔥 **+1,373** | ★ 63,847 | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. |
+| 6 | [**Panniantong/Agent-Reach**](https://github.com/Panniantong/Agent-Reach) | `Python` | `#Coding-Agents` | 🔥 **+960** | ★ 82,134 | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
 
 ---
 
@@ -101,91 +101,91 @@ git clone https://github.com/alibaba/open-code-review.git
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**alibaba/open-code-review**](https://github.com/alibaba/open-code-review) | `Go` | `#Coding-Agents` | **+2,751** | ★ 27,868 | Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
-| 2 | [**JustVugg/colibri**](https://github.com/JustVugg/colibri) | `C` | - | **+2,035** | ★ 33,381 | Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 |
-| 3 | [**ever-co/ever-gauzy**](https://github.com/ever-co/ever-gauzy) | `TypeScript` | - | **+632** | ★ 6,437 | Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co |
-| 4 | [**debpalash/VoiceStudio**](https://github.com/debpalash/VoiceStudio) | `Python` | `#AI-Video` | **+2,081** | ★ 30,577 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
-| 5 | [**Homebrew/BrewUI**](https://github.com/Homebrew/BrewUI) | `Swift` | - | **+356** | ★ 1,197 | 📺 Homebrew's official macOS GUI |
-| 6 | [**melgarafael/DeskcommCRM**](https://github.com/melgarafael/DeskcommCRM) | `TypeScript` | `#MCP` `#Coding-Agents` | **+205** | ★ 2,692 | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD. |
-| 7 | [**alphaXiv/OpenResearch**](https://github.com/alphaXiv/OpenResearch) | `Rust` | `#Coding-Agents` | **+593** | ★ 3,119 | Turn your coding agents into research agents |
-| 8 | [**NationalSecurityAgency/ghidra**](https://github.com/NationalSecurityAgency/ghidra) | `Java` | - | **+755** | ★ 76,506 | Ghidra is a software reverse engineering (SRE) framework |
+| 1 | [**alibaba/open-code-review**](https://github.com/alibaba/open-code-review) | `Go` | `#Coding-Agents` | **+2,756** | ★ 29,141 | Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
+| 2 | [**JustVugg/colibri**](https://github.com/JustVugg/colibri) | `C` | - | **+2,026** | ★ 34,082 | Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 |
+| 3 | [**ever-co/ever-gauzy**](https://github.com/ever-co/ever-gauzy) | `TypeScript` | - | **+634** | ★ 6,795 | Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co |
+| 4 | [**debpalash/VoiceStudio**](https://github.com/debpalash/VoiceStudio) | `Python` | `#AI-Video` | **+2,072** | ★ 31,239 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
+| 5 | [**Homebrew/BrewUI**](https://github.com/Homebrew/BrewUI) | `Swift` | - | **+271** | ★ 1,516 | 📺 Homebrew's official macOS GUI |
+| 6 | [**melgarafael/DeskcommCRM**](https://github.com/melgarafael/DeskcommCRM) | `TypeScript` | `#MCP` `#Coding-Agents` | **+193** | ★ 2,926 | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD. |
+| 7 | [**alphaXiv/OpenResearch**](https://github.com/alphaXiv/OpenResearch) | `Rust` | `#Coding-Agents` | **+531** | ★ 3,541 | Turn your coding agents into research agents |
+| 8 | [**NationalSecurityAgency/ghidra**](https://github.com/NationalSecurityAgency/ghidra) | `Java` | - | **+725** | ★ 76,886 | Ghidra is a software reverse engineering (SRE) framework |
 
-> 📂 *Explore all 14 Overall Trending repos in [`archives/2026-09/2026-09-15.md`](archives/2026-09/2026-09-15.md)*
+> 📂 *Explore all 14 Overall Trending repos in [`archives/2026-09/2026-09-16.md`](archives/2026-09/2026-09-16.md)*
 
 ### 🐍 Python
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**debpalash/VoiceStudio**](https://github.com/debpalash/VoiceStudio) | `Python` | `#AI-Video` | **+2,081** | ★ 30,577 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
-| 2 | [**MG1937/ASC**](https://github.com/MG1937/ASC) | `Python` | `#Coding-Agents` | **+122** | ★ 1,078 | ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers. |
-| 3 | [**Panniantong/Agent-Reach**](https://github.com/Panniantong/Agent-Reach) | `Python` | `#Coding-Agents` | **+1,094** | ★ 81,951 | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
-| 4 | [**SnailSploit/Claude-Red**](https://github.com/SnailSploit/Claude-Red) | `Python` | `#Agent-Skills` `#Security` | **+742** | ★ 5,266 | claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development. |
-| 5 | [**ComposioHQ/awesome-claude-skills**](https://github.com/ComposioHQ/awesome-claude-skills) | `Python` | `#Agent-Skills` | **+80** | ★ 75,081 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
-| 6 | [**666ghj/MiroFish**](https://github.com/666ghj/MiroFish) | `Python` | - | **+734** | ★ 73,585 | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 |
-| 7 | [**unclecode/crawl4ai**](https://github.com/unclecode/crawl4ai) | `Python` | - | **+98** | ★ 83,554 | 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN |
-| 8 | [**rommapp/romm**](https://github.com/rommapp/romm) | `Python` | - | **+102** | ★ 13,004 | A beautiful, powerful, self-hosted ROM manager and player. |
+| 1 | [**debpalash/VoiceStudio**](https://github.com/debpalash/VoiceStudio) | `Python` | `#AI-Video` | **+2,072** | ★ 31,239 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
+| 2 | [**MG1937/ASC**](https://github.com/MG1937/ASC) | `Python` | `#Coding-Agents` | **+129** | ★ 1,278 | ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers. |
+| 3 | [**Panniantong/Agent-Reach**](https://github.com/Panniantong/Agent-Reach) | `Python` | `#Coding-Agents` | **+960** | ★ 82,134 | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
+| 4 | [**SnailSploit/Claude-Red**](https://github.com/SnailSploit/Claude-Red) | `Python` | `#Agent-Skills` `#Security` | **+699** | ★ 5,451 | claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development. |
+| 5 | [**ComposioHQ/awesome-claude-skills**](https://github.com/ComposioHQ/awesome-claude-skills) | `Python` | `#Agent-Skills` | **+70** | ★ 75,163 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+| 6 | [**666ghj/MiroFish**](https://github.com/666ghj/MiroFish) | `Python` | - | **+619** | ★ 73,668 | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 |
+| 7 | [**unclecode/crawl4ai**](https://github.com/unclecode/crawl4ai) | `Python` | - | **+84** | ★ 83,623 | 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN |
+| 8 | [**rommapp/romm**](https://github.com/rommapp/romm) | `Python` | - | **+92** | ★ 13,098 | A beautiful, powerful, self-hosted ROM manager and player. |
 
-> 📂 *Explore all 17 Python repos in [`archives/2026-09/2026-09-15.md`](archives/2026-09/2026-09-15.md)*
+> 📂 *Explore all 16 Python repos in [`archives/2026-09/2026-09-16.md`](archives/2026-09/2026-09-16.md)*
 
 ### ⚡ JavaScript
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**addyosmani/agent-skills**](https://github.com/addyosmani/agent-skills) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` | **+354** | ★ 94,621 | Production-grade engineering skills for AI coding agents. |
-| 2 | [**JoeanAmier/TikTokDownloader**](https://github.com/JoeanAmier/TikTokDownloader) | `JavaScript` | - | **+24** | ★ 15,962 | 抖音 / TikTok 平台作品下载/数据采集工具 |
-| 3 | [**asgeirtj/system_prompts_leaks**](https://github.com/asgeirtj/system_prompts_leaks) | `JavaScript` | `#Coding-Agents` | **+653** | ★ 67,132 | Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly. |
-| 4 | [**tt-a1i/archify**](https://github.com/tt-a1i/archify) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` | **+1,407** | ★ 63,266 | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. |
-| 5 | [**Mathieu2301/TradingView-API**](https://github.com/Mathieu2301/TradingView-API) | `JavaScript` | `#Autonomous-Finance` | **+199** | ★ 4,981 | 📈 Get real-time stocks from TradingView |
-| 6 | [**fleetbase/fleetbase**](https://github.com/fleetbase/fleetbase) | `JavaScript` | - | **+529** | ★ 3,332 | Modular logistics and supply chain operating system (LSOS) |
-| 7 | [**kunchenguid/lavish-axi**](https://github.com/kunchenguid/lavish-axi) | `JavaScript` | - | **+133** | ★ 3,654 | HTML is the new markdown. Lavish is the new editor for your HTML artifacts. |
-| 8 | [**darkzOGx/youtube-automation-agent**](https://github.com/darkzOGx/youtube-automation-agent) | `JavaScript` | `#Coding-Agents` `#AI-Video` | **+62** | ★ 3,466 | 🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes & publishes videos 24/7. Works with FREE Gemini API or OpenAI. No coding required! |
+| 1 | [**addyosmani/agent-skills**](https://github.com/addyosmani/agent-skills) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` | **+307** | ★ 94,925 | Production-grade engineering skills for AI coding agents. |
+| 2 | [**JoeanAmier/TikTokDownloader**](https://github.com/JoeanAmier/TikTokDownloader) | `JavaScript` | - | **+25** | ★ 16,042 | 抖音 / TikTok 平台作品下载/数据采集工具 |
+| 3 | [**asgeirtj/system_prompts_leaks**](https://github.com/asgeirtj/system_prompts_leaks) | `JavaScript` | `#Coding-Agents` | **+579** | ★ 67,246 | Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly. |
+| 4 | [**tt-a1i/archify**](https://github.com/tt-a1i/archify) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` | **+1,373** | ★ 63,847 | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. |
+| 5 | [**Mathieu2301/TradingView-API**](https://github.com/Mathieu2301/TradingView-API) | `JavaScript` | `#Autonomous-Finance` | **+176** | ★ 5,100 | 📈 Get real-time stocks from TradingView |
+| 6 | [**fleetbase/fleetbase**](https://github.com/fleetbase/fleetbase) | `JavaScript` | - | **+530** | ★ 3,513 | Modular logistics and supply chain operating system (LSOS) |
+| 7 | [**kunchenguid/lavish-axi**](https://github.com/kunchenguid/lavish-axi) | `JavaScript` | - | **+138** | ★ 3,729 | HTML is the new markdown. Lavish is the new editor for your HTML artifacts. |
+| 8 | [**darkzOGx/youtube-automation-agent**](https://github.com/darkzOGx/youtube-automation-agent) | `JavaScript` | `#Coding-Agents` `#AI-Video` | **+56** | ★ 3,537 | 🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes & publishes videos 24/7. Works with FREE Gemini API or OpenAI. No coding required! |
 
-> 📂 *Explore all 13 JavaScript repos in [`archives/2026-09/2026-09-15.md`](archives/2026-09/2026-09-15.md)*
+> 📂 *Explore all 13 JavaScript repos in [`archives/2026-09/2026-09-16.md`](archives/2026-09/2026-09-16.md)*
 
 ### 🔷 TypeScript
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**ever-co/ever-gauzy**](https://github.com/ever-co/ever-gauzy) | `TypeScript` | - | **+632** | ★ 6,437 | Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co |
-| 2 | [**melgarafael/DeskcommCRM**](https://github.com/melgarafael/DeskcommCRM) | `TypeScript` | `#MCP` `#Coding-Agents` | **+205** | ★ 2,692 | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD. |
-| 3 | [**danny-avila/LibreChat**](https://github.com/danny-avila/LibreChat) | `TypeScript` | `#MCP` `#Agent-Skills` `#Coding-Agents` | **+261** | ★ 43,703 | Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active |
-| 4 | [**earendil-works/pi**](https://github.com/earendil-works/pi) | `TypeScript` | `#Coding-Agents` | **+437** | ★ 105,559 | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI |
-| 5 | [**microsoft/AI-Engineering-Coach**](https://github.com/microsoft/AI-Engineering-Coach) | `TypeScript` | `#Coding-Agents` | **+90** | ★ 4,204 | better agentic engineering |
-| 6 | [**nestjs/nest**](https://github.com/nestjs/nest) | `TypeScript` | - | **+16** | ★ 76,660 | A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀 |
-| 7 | [**tech-leads-club/agent-skills**](https://github.com/tech-leads-club/agent-skills) | `TypeScript` | `#Agent-Skills` `#Coding-Agents` | **+331** | ★ 6,235 | The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence. |
-| 8 | [**ItzCrazyKns/Vane**](https://github.com/ItzCrazyKns/Vane) | `TypeScript` | - | **+96** | ★ 36,867 | Vane is an AI-powered answering engine. |
+| 1 | [**ever-co/ever-gauzy**](https://github.com/ever-co/ever-gauzy) | `TypeScript` | - | **+634** | ★ 6,795 | Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co |
+| 2 | [**melgarafael/DeskcommCRM**](https://github.com/melgarafael/DeskcommCRM) | `TypeScript` | `#MCP` `#Coding-Agents` | **+193** | ★ 2,926 | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD. |
+| 3 | [**danny-avila/LibreChat**](https://github.com/danny-avila/LibreChat) | `TypeScript` | `#MCP` `#Agent-Skills` `#Coding-Agents` | **+254** | ★ 43,936 | Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active |
+| 4 | [**earendil-works/pi**](https://github.com/earendil-works/pi) | `TypeScript` | `#Coding-Agents` | **+458** | ★ 105,879 | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI |
+| 5 | [**microsoft/AI-Engineering-Coach**](https://github.com/microsoft/AI-Engineering-Coach) | `TypeScript` | `#Coding-Agents` | **+92** | ★ 4,277 | better agentic engineering |
+| 6 | [**nestjs/nest**](https://github.com/nestjs/nest) | `TypeScript` | - | **+15** | ★ 76,716 | A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀 |
+| 7 | [**tech-leads-club/agent-skills**](https://github.com/tech-leads-club/agent-skills) | `TypeScript` | `#Agent-Skills` `#Coding-Agents` | **+296** | ★ 6,309 | The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence. |
+| 8 | [**ItzCrazyKns/Vane**](https://github.com/ItzCrazyKns/Vane) | `TypeScript` | - | **+95** | ★ 36,931 | Vane is an AI-powered answering engine. |
 
-> 📂 *Explore all 15 TypeScript repos in [`archives/2026-09/2026-09-15.md`](archives/2026-09/2026-09-15.md)*
+> 📂 *Explore all 15 TypeScript repos in [`archives/2026-09/2026-09-16.md`](archives/2026-09/2026-09-16.md)*
 
 ### 🐹 Go
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**alibaba/open-code-review**](https://github.com/alibaba/open-code-review) | `Go` | `#Coding-Agents` | **+2,751** | ★ 27,868 | Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
-| 2 | [**TencentCloud/CubeSandbox**](https://github.com/TencentCloud/CubeSandbox) | `Go` | `#Coding-Agents` | **+295** | ★ 12,504 | Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents. |
-| 3 | [**getarcaneapp/arcane**](https://github.com/getarcaneapp/arcane) | `Go` | - | **+18** | ★ 7,396 | Modern Docker Management, Designed for Everyone |
-| 4 | [**vxcontrol/pentagi**](https://github.com/vxcontrol/pentagi) | `Go` | `#Coding-Agents` `#Security` | **+117** | ★ 24,483 | Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
-| 5 | [**minio/minio**](https://github.com/minio/minio) | `Go` | - | **+1** | ★ 61,367 | MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license. |
-| 6 | [**seaweedfs/seaweedfs**](https://github.com/seaweedfs/seaweedfs) | `Go` | - | **+42** | ★ 34,706 | SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling. |
-| 7 | [**Tencent/WeKnora**](https://github.com/Tencent/WeKnora) | `Go` | `#Coding-Agents` | **+574** | ★ 23,942 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. |
-| 8 | [**navidrome/navidrome**](https://github.com/navidrome/navidrome) | `Go` | - | **+31** | ★ 23,579 | 🎧 Your Personal Streaming Service |
+| 1 | [**alibaba/open-code-review**](https://github.com/alibaba/open-code-review) | `Go` | `#Coding-Agents` | **+2,756** | ★ 29,141 | Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
+| 2 | [**TencentCloud/CubeSandbox**](https://github.com/TencentCloud/CubeSandbox) | `Go` | `#Coding-Agents` | **+259** | ★ 12,524 | Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents. |
+| 3 | [**getarcaneapp/arcane**](https://github.com/getarcaneapp/arcane) | `Go` | - | **+13** | ★ 7,404 | Modern Docker Management, Designed for Everyone |
+| 4 | [**vxcontrol/pentagi**](https://github.com/vxcontrol/pentagi) | `Go` | `#Coding-Agents` `#Security` | **+98** | ★ 24,511 | Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
+| 5 | [**minio/minio**](https://github.com/minio/minio) | `Go` | - | **+1** | ★ 61,372 | MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license. |
+| 6 | [**seaweedfs/seaweedfs**](https://github.com/seaweedfs/seaweedfs) | `Go` | - | **+53** | ★ 34,730 | SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling. |
+| 7 | [**Tencent/WeKnora**](https://github.com/Tencent/WeKnora) | `Go` | `#Coding-Agents` | **+696** | ★ 24,479 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. |
+| 8 | [**navidrome/navidrome**](https://github.com/navidrome/navidrome) | `Go` | - | **+32** | ★ 23,595 | 🎧 Your Personal Streaming Service |
 
-> 📂 *Explore all 21 Go repos in [`archives/2026-09/2026-09-15.md`](archives/2026-09/2026-09-15.md)*
+> 📂 *Explore all 21 Go repos in [`archives/2026-09/2026-09-16.md`](archives/2026-09/2026-09-16.md)*
 
 ### 🦀 Rust
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**alphaXiv/OpenResearch**](https://github.com/alphaXiv/OpenResearch) | `Rust` | `#Coding-Agents` | **+593** | ★ 3,119 | Turn your coding agents into research agents |
-| 2 | [**pacifio/atlas**](https://github.com/pacifio/atlas) | `Rust` | `#Coding-Agents` | **+102** | ★ 4,529 | Source control for agents. Use multiple coding agents, track their changes and query them in one place |
-| 3 | [**tonhowtf/omniget**](https://github.com/tonhowtf/omniget) | `Rust` | `#AI-Video` | **+318** | ★ 12,660 | Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer. |
-| 4 | [**dani-garcia/vaultwarden**](https://github.com/dani-garcia/vaultwarden) | `Rust` | - | **+222** | ★ 67,643 | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs |
-| 5 | [**rustfs/rustfs**](https://github.com/rustfs/rustfs) | `Rust` | - | **+121** | ★ 32,259 | 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. |
-| 6 | [**rtk-ai/rtk**](https://github.com/rtk-ai/rtk) | `Rust` | `#Web3` | **+187** | ★ 80,494 | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
-| 7 | [**ruvnet/RuView**](https://github.com/ruvnet/RuView) | `Rust` | `#AI-Video` | **+440** | ★ 94,100 | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
-| 8 | [**oxc-project/oxc**](https://github.com/oxc-project/oxc) | `Rust` | - | **+14** | ★ 22,749 | ⚓ A collection of high-performance JavaScript tools. |
+| 1 | [**alphaXiv/OpenResearch**](https://github.com/alphaXiv/OpenResearch) | `Rust` | `#Coding-Agents` | **+531** | ★ 3,541 | Turn your coding agents into research agents |
+| 2 | [**pacifio/atlas**](https://github.com/pacifio/atlas) | `Rust` | `#Coding-Agents` | **+91** | ★ 4,703 | Source control for agents. Use multiple coding agents, track their changes and query them in one place |
+| 3 | [**tonhowtf/omniget**](https://github.com/tonhowtf/omniget) | `Rust` | `#AI-Video` | **+258** | ★ 13,105 | Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer. |
+| 4 | [**dani-garcia/vaultwarden**](https://github.com/dani-garcia/vaultwarden) | `Rust` | - | **+206** | ★ 67,726 | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs |
+| 5 | [**rustfs/rustfs**](https://github.com/rustfs/rustfs) | `Rust` | - | **+121** | ★ 32,356 | 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. |
+| 6 | [**rtk-ai/rtk**](https://github.com/rtk-ai/rtk) | `Rust` | `#Web3` | **+190** | ★ 80,613 | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
+| 7 | [**ruvnet/RuView**](https://github.com/ruvnet/RuView) | `Rust` | `#AI-Video` | **+421** | ★ 94,191 | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
+| 8 | [**oxc-project/oxc**](https://github.com/oxc-project/oxc) | `Rust` | - | **+11** | ★ 22,797 | ⚓ A collection of high-performance JavaScript tools. |
 
-> 📂 *Explore all 17 Rust repos in [`archives/2026-09/2026-09-15.md`](archives/2026-09/2026-09-15.md)*
+> 📂 *Explore all 17 Rust repos in [`archives/2026-09/2026-09-16.md`](archives/2026-09/2026-09-16.md)*
 
 ---
 
