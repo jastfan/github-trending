@@ -51,7 +51,7 @@ claude mcp add gittrends -- npx -y gittrends-mcp
 [![google/ax](https://opengraph.githubassets.com/1/google/ax)](https://github.com/google/ax)
 
 > 💡 **What is it?** [google/ax](https://github.com/google/ax) — Google's open agentic orchestration runtime
-> 🚀 **Gained today:** **+2,305 stars** | **Total Stars:** ★ 7,885 | **Topics:** `#Coding-Agents`
+> 🚀 **Gained today:** **+1,542 stars** | **Total Stars:** ★ 8,712 | **Topics:** `#Coding-Agents`
 
 <details>
 <summary><b>👉 Click here for Instant Quick Inspect (Clone command & details)</b></summary>
@@ -72,11 +72,11 @@ git clone https://github.com/google/ax.git
 
 | Rank | Repository | Language | Trending Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**google/ax**](https://github.com/google/ax) | `Go` | `#Coding-Agents` | 🔥 **+2,305** | ★ 7,885 | Google's open agentic orchestration runtime |
-| 2 | [**stablyai/orca**](https://github.com/stablyai/orca) | `TypeScript` | `#Coding-Agents` | 🔥 **+944** | ★ 75,828 | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. |
-| 3 | [**Open-Dev-Society/OpenStock**](https://github.com/Open-Dev-Society/OpenStock) | `TypeScript` | - | 🔥 **+832** | ★ 18,434 | OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free. |
-| 4 | [**Nasiko-Labs/nasiko**](https://github.com/Nasiko-Labs/nasiko) | `Rust` | `#Coding-Agents` | 🔥 **+766** | ★ 7,640 | Developer Control Plane for your AI Agents |
-| 5 | [**hydra-db/hydradb**](https://github.com/hydra-db/hydradb) | `Rust` | - | 🔥 **+761** | ★ 4,216 | HydraDB - fast graph database on object storage |
+| 1 | [**google/ax**](https://github.com/google/ax) | `Go` | `#Coding-Agents` | 🔥 **+1,542** | ★ 8,712 | Google's open agentic orchestration runtime |
+| 2 | [**dream-num/univer**](https://github.com/dream-num/univer) | `TypeScript` | `#Coding-Agents` | 🔥 **+1,140** | ★ 16,185 | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
+| 3 | [**browser-use/video-use**](https://github.com/browser-use/video-use) | `Python` | `#Coding-Agents` `#AI-Video` | 🔥 **+745** | ★ 26,368 | Edit videos with coding agents |
+| 4 | [**anthropics/financial-services**](https://github.com/anthropics/financial-services) | `Python` | `#Autonomous-Finance` | 🔥 **+665** | ★ 36,820 | No description provided. |
+| 5 | [**hydra-db/hydradb**](https://github.com/hydra-db/hydradb) | `Rust` | - | 🔥 **+577** | ★ 5,130 | HydraDB - fast graph database on object storage |
 
 ---
 
@@ -86,12 +86,12 @@ git clone https://github.com/google/ax.git
 
 | Rank | AI Repository | Language | Key Topic | Stars Today | Total Stars | What It Does |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**google/ax**](https://github.com/google/ax) | `Go` | `#Coding-Agents` | 🔥 **+2,305** | ★ 7,885 | Google's open agentic orchestration runtime |
-| 2 | [**stablyai/orca**](https://github.com/stablyai/orca) | `TypeScript` | `#Coding-Agents` | 🔥 **+944** | ★ 75,828 | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. |
-| 3 | [**Nasiko-Labs/nasiko**](https://github.com/Nasiko-Labs/nasiko) | `Rust` | `#Coding-Agents` | 🔥 **+766** | ★ 7,640 | Developer Control Plane for your AI Agents |
-| 4 | [**affaan-m/ECC**](https://github.com/affaan-m/ECC) | `JavaScript` | `#Agent-Skills` | 🔥 **+727** | ★ 265,563 | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
-| 5 | [**BuilderIO/agent-native**](https://github.com/BuilderIO/agent-native) | `TypeScript` | `#Coding-Agents` | 🔥 **+609** | ★ 6,332 | A framework for building agentic apps |
-| 6 | [**zhouxiaoka/autoclip**](https://github.com/zhouxiaoka/autoclip) | `Python` | `#AI-Video` | 🔥 **+594** | ★ 8,743 | AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具 |
+| 1 | [**google/ax**](https://github.com/google/ax) | `Go` | `#Coding-Agents` | 🔥 **+1,542** | ★ 8,712 | Google's open agentic orchestration runtime |
+| 2 | [**dream-num/univer**](https://github.com/dream-num/univer) | `TypeScript` | `#Coding-Agents` | 🔥 **+1,140** | ★ 16,185 | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
+| 3 | [**browser-use/video-use**](https://github.com/browser-use/video-use) | `Python` | `#Coding-Agents` | 🔥 **+745** | ★ 26,368 | Edit videos with coding agents |
+| 4 | [**anthropics/financial-services**](https://github.com/anthropics/financial-services) | `Python` | `#Autonomous-Finance` | 🔥 **+665** | ★ 36,820 | No description provided. |
+| 5 | [**agent-substrate/substrate**](https://github.com/agent-substrate/substrate) | `Go` | `#Coding-Agents` | 🔥 **+560** | ★ 3,364 | Agent Substrate: the core system |
+| 6 | [**Nasiko-Labs/nasiko**](https://github.com/Nasiko-Labs/nasiko) | `Rust` | `#Coding-Agents` | 🔥 **+556** | ★ 8,525 | Developer Control Plane for your AI Agents |
 
 ---
 
@@ -101,59 +101,59 @@ git clone https://github.com/google/ax.git
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**anthropics/financial-services**](https://github.com/anthropics/financial-services) | `Python` | `#Autonomous-Finance` | **+438** | ★ 36,484 | No description provided. |
-| 2 | [**agent-substrate/substrate**](https://github.com/agent-substrate/substrate) | `Go` | `#Coding-Agents` | **+245** | ★ 3,071 | Agent Substrate: the core system |
-| 3 | [**dream-num/univer**](https://github.com/dream-num/univer) | `TypeScript` | `#Coding-Agents` | **+255** | ★ 15,697 | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
-| 4 | [**davila7/claude-code-templates**](https://github.com/davila7/claude-code-templates) | `Python` | `#Coding-Agents` | **+64** | ★ 31,194 | CLI tool for configuring and monitoring Claude Code |
-| 5 | [**google/ax**](https://github.com/google/ax) | `Go` | `#Coding-Agents` | **+2,305** | ★ 7,885 | Google's open agentic orchestration runtime |
-| 6 | [**mvt-project/mvt**](https://github.com/mvt-project/mvt) | `Python` | - | **+441** | ★ 14,202 | MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise. |
-| 7 | [**superdesigndev/treg**](https://github.com/superdesigndev/treg) | `Python` | `#Coding-Agents` | **+230** | ★ 2,310 | OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn |
-| 8 | [**browser-use/video-use**](https://github.com/browser-use/video-use) | `Python` | `#Coding-Agents` `#AI-Video` | **+191** | ★ 25,997 | Edit videos with coding agents |
+| 1 | [**anthropics/financial-services**](https://github.com/anthropics/financial-services) | `Python` | `#Autonomous-Finance` | **+665** | ★ 36,820 | No description provided. |
+| 2 | [**google/ax**](https://github.com/google/ax) | `Go` | `#Coding-Agents` | **+1,542** | ★ 8,712 | Google's open agentic orchestration runtime |
+| 3 | [**davila7/claude-code-templates**](https://github.com/davila7/claude-code-templates) | `Python` | `#Coding-Agents` | **+393** | ★ 31,403 | CLI tool for configuring and monitoring Claude Code |
+| 4 | [**BuilderIO/agent-native**](https://github.com/BuilderIO/agent-native) | `TypeScript` | `#Coding-Agents` | **+135** | ★ 6,449 | A framework for building agentic apps |
+| 5 | [**obra/superpowers**](https://github.com/obra/superpowers) | `Shell` | `#Agent-Skills` `#Coding-Agents` | **+528** | ★ 290,555 | An agentic skills framework & software development methodology that works. |
+| 6 | [**dream-num/univer**](https://github.com/dream-num/univer) | `TypeScript` | `#Coding-Agents` | **+1,140** | ★ 16,185 | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
+| 7 | [**Open-Dev-Society/OpenStock**](https://github.com/Open-Dev-Society/OpenStock) | `TypeScript` | - | **+379** | ★ 18,675 | OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free. |
+| 8 | [**agent-substrate/substrate**](https://github.com/agent-substrate/substrate) | `Go` | `#Coding-Agents` | **+560** | ★ 3,364 | Agent Substrate: the core system |
 
-> 📂 *Explore all 8 Overall Trending repos in [`archives/2026-09/2026-09-23.md`](archives/2026-09/2026-09-23.md)*
+> 📂 *Explore all 17 Overall Trending repos in [`archives/2026-09/2026-09-23.md`](archives/2026-09/2026-09-23.md)*
 
 ### 🐍 Python
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**anthropics/financial-services**](https://github.com/anthropics/financial-services) | `Python` | `#Autonomous-Finance` | **+438** | ★ 36,484 | No description provided. |
-| 2 | [**davila7/claude-code-templates**](https://github.com/davila7/claude-code-templates) | `Python` | `#Coding-Agents` | **+64** | ★ 31,194 | CLI tool for configuring and monitoring Claude Code |
-| 3 | [**mvt-project/mvt**](https://github.com/mvt-project/mvt) | `Python` | - | **+441** | ★ 14,202 | MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise. |
-| 4 | [**superdesigndev/treg**](https://github.com/superdesigndev/treg) | `Python` | `#Coding-Agents` | **+230** | ★ 2,310 | OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn |
-| 5 | [**browser-use/video-use**](https://github.com/browser-use/video-use) | `Python` | `#Coding-Agents` `#AI-Video` | **+191** | ★ 25,997 | Edit videos with coding agents |
-| 6 | [**paperless-ngx/paperless-ngx**](https://github.com/paperless-ngx/paperless-ngx) | `Python` | - | **+75** | ★ 45,914 | A community-supported supercharged document management system: scan, index and archive all your documents |
-| 7 | [**FareedKhan-dev/train-llm-from-scratch**](https://github.com/FareedKhan-dev/train-llm-from-scratch) | `Python` | `#Local-AI` | **+141** | ★ 10,843 | A straightforward method for training your LLM, from downloading data to generating text. |
-| 8 | [**zhouxiaoka/autoclip**](https://github.com/zhouxiaoka/autoclip) | `Python` | `#AI-Video` `#Local-AI` | **+594** | ★ 8,743 | AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具 |
+| 1 | [**anthropics/financial-services**](https://github.com/anthropics/financial-services) | `Python` | `#Autonomous-Finance` | **+665** | ★ 36,820 | No description provided. |
+| 2 | [**davila7/claude-code-templates**](https://github.com/davila7/claude-code-templates) | `Python` | `#Coding-Agents` | **+393** | ★ 31,403 | CLI tool for configuring and monitoring Claude Code |
+| 3 | [**strands-agents/harness-sdk**](https://github.com/strands-agents/harness-sdk) | `Python` | `#Coding-Agents` | **+96** | ★ 7,740 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud. |
+| 4 | [**HKUDS/CLI-Anything**](https://github.com/HKUDS/CLI-Anything) | `Python` | `#Coding-Agents` | **+41** | ★ 49,821 | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
+| 5 | [**superdesigndev/treg**](https://github.com/superdesigndev/treg) | `Python` | `#Coding-Agents` | **+502** | ★ 2,581 | OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn |
+| 6 | [**mvt-project/mvt**](https://github.com/mvt-project/mvt) | `Python` | - | **+546** | ★ 14,393 | MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise. |
+| 7 | [**browser-use/video-use**](https://github.com/browser-use/video-use) | `Python` | `#Coding-Agents` `#AI-Video` | **+745** | ★ 26,368 | Edit videos with coding agents |
+| 8 | [**TNT-Likely/PanWatch**](https://github.com/TNT-Likely/PanWatch) | `Python` | `#Coding-Agents` `#Autonomous-Finance` | **+142** | ★ 1,444 | 盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 \| A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送 |
 
-> 📂 *Explore all 9 Python repos in [`archives/2026-09/2026-09-23.md`](archives/2026-09/2026-09-23.md)*
+> 📂 *Explore all 12 Python repos in [`archives/2026-09/2026-09-23.md`](archives/2026-09/2026-09-23.md)*
 
 ### ⚡ JavaScript
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**drawdb-io/drawdb**](https://github.com/drawdb-io/drawdb) | `JavaScript` | `#Local-AI` | **+32** | ★ 39,678 | Free, simple, and intuitive online database diagram editor and SQL generator. |
-| 2 | [**mnfst/awesome-free-llm-apis**](https://github.com/mnfst/awesome-free-llm-apis) | `JavaScript` | - | **+86** | ★ 8,140 | List of Permanent Free LLM API (API Keys) |
-| 3 | [**affaan-m/ECC**](https://github.com/affaan-m/ECC) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` `#Security` | **+727** | ★ 265,563 | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
-| 4 | [**laoma2053/awesome-zhuiju-free**](https://github.com/laoma2053/awesome-zhuiju-free) | `JavaScript` | - | **+445** | ★ 9,884 | 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。 |
-| 5 | [**calesthio/Crucix**](https://github.com/calesthio/Crucix) | `JavaScript` | `#Coding-Agents` | **+105** | ★ 11,946 | Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes. |
-| 6 | [**openai/codex-plugin-cc**](https://github.com/openai/codex-plugin-cc) | `JavaScript` | `#Coding-Agents` | **+55** | ★ 33,494 | Use Codex from Claude Code to review code or delegate tasks. |
-| 7 | [**DuarteSantos8/openGym**](https://github.com/DuarteSantos8/openGym) | `JavaScript` | - | **+89** | ★ 1,230 | Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server. |
-| 8 | [**fspecii/ace-step-ui**](https://github.com/fspecii/ace-step-ui) | `JavaScript` | `#Local-AI` | **+7** | ★ 4,963 | 🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno! |
+| 1 | [**pbakaus/impeccable**](https://github.com/pbakaus/impeccable) | `JavaScript` | - | **+287** | ★ 70,196 | The design language that makes your AI harness better at design. |
+| 2 | [**github/awesome-copilot**](https://github.com/github/awesome-copilot) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` | **+43** | ★ 39,312 | Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot. |
+| 3 | [**ToolJet/ToolJet**](https://github.com/ToolJet/ToolJet) | `JavaScript` | `#MCP` `#Coding-Agents` `#Local-AI` | **+8** | ★ 40,980 | Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Claude Code, Codex and Cursor over MCP 🚀 |
+| 4 | [**laoma2053/awesome-zhuiju-free**](https://github.com/laoma2053/awesome-zhuiju-free) | `JavaScript` | - | **+367** | ★ 10,065 | 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。 |
+| 5 | [**poloclub/transformer-explainer**](https://github.com/poloclub/transformer-explainer) | `JavaScript` | `#Local-AI` | **+54** | ★ 8,723 | Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization |
+| 6 | [**calesthio/Crucix**](https://github.com/calesthio/Crucix) | `JavaScript` | `#Coding-Agents` | **+58** | ★ 11,974 | Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes. |
+| 7 | [**mnfst/awesome-free-llm-apis**](https://github.com/mnfst/awesome-free-llm-apis) | `JavaScript` | - | **+91** | ★ 8,175 | List of Permanent Free LLM API (API Keys) |
+| 8 | [**byoungd/up**](https://github.com/byoungd/up) | `JavaScript` | - | **+218** | ★ 63,706 | An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语 |
 
-> 📂 *Explore all 9 JavaScript repos in [`archives/2026-09/2026-09-23.md`](archives/2026-09/2026-09-23.md)*
+> 📂 *Explore all 15 JavaScript repos in [`archives/2026-09/2026-09-23.md`](archives/2026-09/2026-09-23.md)*
 
 ### 🔷 TypeScript
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**dream-num/univer**](https://github.com/dream-num/univer) | `TypeScript` | `#Coding-Agents` | **+255** | ★ 15,697 | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
-| 2 | [**vercel-labs/json-render**](https://github.com/vercel-labs/json-render) | `TypeScript` | `#Local-AI` | **+209** | ★ 18,117 | The Generative UI framework |
-| 3 | [**upscayl/upscayl**](https://github.com/upscayl/upscayl) | `TypeScript` | - | **+200** | ★ 49,804 | 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows. |
-| 4 | [**krillinai/OpenCreator**](https://github.com/krillinai/OpenCreator) | `TypeScript` | `#Coding-Agents` `#AI-Video` | **+161** | ★ 12,218 | Formerly KrillinAI. Open-source AI workspace for creators, powered by Codex. Create videos, images, voice, avatars, video translation, and edits with Agents in one place. |
-| 5 | [**Open-Dev-Society/OpenStock**](https://github.com/Open-Dev-Society/OpenStock) | `TypeScript` | - | **+832** | ★ 18,434 | OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free. |
-| 6 | [**BuilderIO/agent-native**](https://github.com/BuilderIO/agent-native) | `TypeScript` | `#Coding-Agents` | **+609** | ★ 6,332 | A framework for building agentic apps |
-| 7 | [**stablyai/orca**](https://github.com/stablyai/orca) | `TypeScript` | `#Coding-Agents` | **+944** | ★ 75,828 | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. |
-| 8 | [**Crosstalk-Solutions/project-nomad**](https://github.com/Crosstalk-Solutions/project-nomad) | `TypeScript` | `#Local-AI` | **+445** | ★ 38,150 | Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required. |
+| 1 | [**BuilderIO/agent-native**](https://github.com/BuilderIO/agent-native) | `TypeScript` | `#Coding-Agents` | **+135** | ★ 6,449 | A framework for building agentic apps |
+| 2 | [**dream-num/univer**](https://github.com/dream-num/univer) | `TypeScript` | `#Coding-Agents` | **+1,140** | ★ 16,185 | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
+| 3 | [**Open-Dev-Society/OpenStock**](https://github.com/Open-Dev-Society/OpenStock) | `TypeScript` | - | **+379** | ★ 18,675 | OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free. |
+| 4 | [**XiaomiMiMo/MiMo-Code**](https://github.com/XiaomiMiMo/MiMo-Code) | `TypeScript` | `#Coding-Agents` | **+87** | ★ 13,437 | MiMo Code: Where Models and Agents Co-Evolve |
+| 5 | [**code-yeongyu/oh-my-openagent**](https://github.com/code-yeongyu/oh-my-openagent) | `TypeScript` | `#Coding-Agents` | **+47** | ★ 69,323 | OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering. |
+| 6 | [**can1357/oh-my-pi**](https://github.com/can1357/oh-my-pi) | `TypeScript` | `#Coding-Agents` | **+405** | ★ 32,972 | ⌥ Coding agent with the IDE wired in |
+| 7 | [**browserbase/stagehand**](https://github.com/browserbase/stagehand) | `TypeScript` | `#Coding-Agents` | **+322** | ★ 25,317 | The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more. |
+| 8 | [**DmNote-App/DmNote**](https://github.com/DmNote-App/DmNote) | `TypeScript` | - | **+100** | ★ 1,668 | Make it yours. A customizable key viewer for DJMAX RESPECT V and any game. |
 
 > 📂 *Explore all 13 TypeScript repos in [`archives/2026-09/2026-09-23.md`](archives/2026-09/2026-09-23.md)*
 
@@ -161,31 +161,31 @@ git clone https://github.com/google/ax.git
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**agent-substrate/substrate**](https://github.com/agent-substrate/substrate) | `Go` | `#Coding-Agents` | **+245** | ★ 3,071 | Agent Substrate: the core system |
-| 2 | [**google/ax**](https://github.com/google/ax) | `Go` | `#Coding-Agents` | **+2,305** | ★ 7,885 | Google's open agentic orchestration runtime |
-| 3 | [**coder/coder**](https://github.com/coder/coder) | `Go` | `#Coding-Agents` | **+290** | ★ 16,614 | Secure environments for developers and their agents |
-| 4 | [**CarterPerez-dev/Cybersecurity-Projects**](https://github.com/CarterPerez-dev/Cybersecurity-Projects) | `Go` | `#Local-AI` `#Security` | **+102** | ★ 7,285 | Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Gamified Cybersecurity learning 👇 |
-| 5 | [**flipped-aurora/gin-vue-admin**](https://github.com/flipped-aurora/gin-vue-admin) | `Go` | `#MCP` `#Agent-Skills` | **+20** | ★ 25,041 | 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，内置mcp辅助服务，内置skills管理，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。 |
-| 6 | [**openclaw/crabbox**](https://github.com/openclaw/crabbox) | `Go` | - | **+4** | ★ 1,421 | Crabbox: warm a box, sync the diff, run the suite. |
-| 7 | [**openbkn-ai/bkn-foundry**](https://github.com/openbkn-ai/bkn-foundry) | `Go` | `#Security` | **+22** | ★ 543 | BKN Foundry is the Ontology back-end foundation of OpenBKN. It transforms ontology-driven business semantics into runtime services: data, logic, actions, security governance, and observability. |
-| 8 | [**JuliusBrussee/caveman**](https://github.com/JuliusBrussee/caveman) | `Go` | `#Agent-Skills` `#Coding-Agents` `#Web3` | **+233** | ★ 107,420 | 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman. |
+| 1 | [**google/ax**](https://github.com/google/ax) | `Go` | `#Coding-Agents` | **+1,542** | ★ 8,712 | Google's open agentic orchestration runtime |
+| 2 | [**agent-substrate/substrate**](https://github.com/agent-substrate/substrate) | `Go` | `#Coding-Agents` | **+560** | ★ 3,364 | Agent Substrate: the core system |
+| 3 | [**hoaxisr/awg-manager**](https://github.com/hoaxisr/awg-manager) | `Go` | - | **+7** | ★ 672 | AmneziaWG tunnel manager with web interface for Keenetic routers |
+| 4 | [**weave-os/router**](https://github.com/weave-os/router) | `Go` | `#Coding-Agents` | **+188** | ★ 4,946 | Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change. |
+| 5 | [**mostlygeek/llama-swap**](https://github.com/mostlygeek/llama-swap) | `Go` | - | **+18** | ★ 5,737 | Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc |
+| 6 | [**opentofu/opentofu**](https://github.com/opentofu/opentofu) | `Go` | - | **+13** | ★ 30,269 | OpenTofu lets you declaratively manage your cloud infrastructure. |
+| 7 | [**zzet/gortex**](https://github.com/zzet/gortex) | `Go` | `#MCP` `#Coding-Agents` `#Web3` | **+71** | ★ 1,720 | High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access via CLI, MCP Server, and API. AI coding agents teammate - expose only needed information, cutting token usage up to 50x. 100% local. Discord: https://discord.gg/39MFHu3J5d |
+| 8 | [**flexprice/flexprice**](https://github.com/flexprice/flexprice) | `Go` | - | **+157** | ★ 6,924 | Usage-based pricing and billing for developers 🔓 Cloud or self-hosted ⚙️ No-code UI 💰 Realtime usage metering 🎟 Credits & top-ups 🔑 Control feature access |
 
-> 📂 *Explore all 22 Go repos in [`archives/2026-09/2026-09-23.md`](archives/2026-09/2026-09-23.md)*
+> 📂 *Explore all 21 Go repos in [`archives/2026-09/2026-09-23.md`](archives/2026-09/2026-09-23.md)*
 
 ### 🦀 Rust
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**clash-verge-rev/clash-verge-rev**](https://github.com/clash-verge-rev/clash-verge-rev) | `Rust` | - | **+300** | ★ 146,572 | A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience |
-| 2 | [**yynxxxxx/Codex-X**](https://github.com/yynxxxxx/Codex-X) | `Rust` | `#MCP` `#Agent-Skills` `#Coding-Agents` | **+220** | ★ 3,875 | OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。 |
-| 3 | [**akitaonrails/ai-memory**](https://github.com/akitaonrails/ai-memory) | `Rust` | `#Coding-Agents` | **+520** | ★ 8,125 | Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors |
-| 4 | [**juspay/hyperswitch**](https://github.com/juspay/hyperswitch) | `Rust` | `#Web3` | **+81** | ★ 43,705 | Open source, composable payments platform \| PCI compliant \| SaaS and Self-host options \| Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers \| Uplifts authorization with intelligent routing and revenue recovery \| Reduce payment processing costs with cost observability \| Reduces payment ops with reconciliation |
-| 5 | [**HelixDB/helix-db**](https://github.com/HelixDB/helix-db) | `Rust` | - | **+81** | ★ 6,081 | HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage. |
-| 6 | [**cloudflare/quiche**](https://github.com/cloudflare/quiche) | `Rust` | - | **+250** | ★ 12,505 | 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3 |
-| 7 | [**nklmilojevic/sofka**](https://github.com/nklmilojevic/sofka) | `Rust` | - | **+48** | ★ 1,421 | A Kubernetes TUI, reimagined in Rust - built on kube-rs and ratatui, async-first from the ground up. |
-| 8 | [**hydra-db/hydradb**](https://github.com/hydra-db/hydradb) | `Rust` | - | **+761** | ★ 4,216 | HydraDB - fast graph database on object storage |
+| 1 | [**cloudflare/quiche**](https://github.com/cloudflare/quiche) | `Rust` | - | **+49** | ★ 12,526 | 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3 |
+| 2 | [**yynxxxxx/Codex-X**](https://github.com/yynxxxxx/Codex-X) | `Rust` | `#MCP` `#Agent-Skills` `#Coding-Agents` | **+58** | ★ 3,907 | OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。 |
+| 3 | [**akitaonrails/ai-memory**](https://github.com/akitaonrails/ai-memory) | `Rust` | `#Coding-Agents` | **+154** | ★ 8,182 | Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors |
+| 4 | [**hydra-db/hydradb**](https://github.com/hydra-db/hydradb) | `Rust` | - | **+577** | ★ 5,130 | HydraDB - fast graph database on object storage |
+| 5 | [**acsandmann/rift**](https://github.com/acsandmann/rift) | `Rust` | - | **+71** | ★ 2,446 | a tiling window manager for macos |
+| 6 | [**Nasiko-Labs/nasiko**](https://github.com/Nasiko-Labs/nasiko) | `Rust` | `#Coding-Agents` | **+556** | ★ 8,525 | Developer Control Plane for your AI Agents |
+| 7 | [**lahfir/agent-desktop**](https://github.com/lahfir/agent-desktop) | `Rust` | `#Coding-Agents` | **+104** | ★ 1,579 | Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry, instead of guessing from pixels. |
+| 8 | [**reacherhq/check-if-email-exists**](https://github.com/reacherhq/check-if-email-exists) | `Rust` | - | **+20** | ★ 9,965 | Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend. |
 
-> 📂 *Explore all 18 Rust repos in [`archives/2026-09/2026-09-23.md`](archives/2026-09/2026-09-23.md)*
+> 📂 *Explore all 23 Rust repos in [`archives/2026-09/2026-09-23.md`](archives/2026-09/2026-09-23.md)*
 
 ---
 
