@@ -51,7 +51,7 @@ claude mcp add gittrends -- npx -y gittrends-mcp
 [![vectorize-io/hindsight](https://opengraph.githubassets.com/1/vectorize-io/hindsight)](https://github.com/vectorize-io/hindsight)
 
 > 💡 **What is it?** [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) — Hindsight: Agent Memory That Learns
-> 🚀 **Gained today:** **+4,520 stars** | **Total Stars:** ★ 38,092 | **Topics:** `#Coding-Agents`
+> 🚀 **Gained today:** **+4,413 stars** | **Total Stars:** ★ 40,750 | **Topics:** `#Coding-Agents`
 
 <details>
 <summary><b>👉 Click here for Instant Quick Inspect (Clone command & details)</b></summary>
@@ -72,11 +72,11 @@ git clone https://github.com/vectorize-io/hindsight.git
 
 | Rank | Repository | Language | Trending Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**vectorize-io/hindsight**](https://github.com/vectorize-io/hindsight) | `Python` | `#Coding-Agents` | 🔥 **+4,520** | ★ 38,092 | Hindsight: Agent Memory That Learns |
-| 2 | [**debpalash/VoiceStudio**](https://github.com/debpalash/VoiceStudio) | `Python` | `#AI-Video` | 🔥 **+3,086** | ★ 40,719 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
-| 3 | [**hydra-db/hydradb**](https://github.com/hydra-db/hydradb) | `Rust` | - | 🔥 **+2,809** | ★ 11,051 | HydraDB - fast graph database on object storage |
-| 4 | [**paperclipai/paperclip**](https://github.com/paperclipai/paperclip) | `TypeScript` | `#Coding-Agents` | 🔥 **+2,401** | ★ 90,563 | The open-source app everyone uses to manage agents at work |
-| 5 | [**dream-num/univer**](https://github.com/dream-num/univer) | `TypeScript` | `#Coding-Agents` | 🔥 **+895** | ★ 20,741 | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
+| 1 | [**vectorize-io/hindsight**](https://github.com/vectorize-io/hindsight) | `Python` | `#Coding-Agents` | 🔥 **+4,413** | ★ 40,750 | Hindsight: Agent Memory That Learns |
+| 2 | [**debpalash/VoiceStudio**](https://github.com/debpalash/VoiceStudio) | `Python` | `#AI-Video` | 🔥 **+3,274** | ★ 43,417 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
+| 3 | [**paperclipai/paperclip**](https://github.com/paperclipai/paperclip) | `TypeScript` | `#Coding-Agents` | 🔥 **+3,185** | ★ 92,435 | The open-source app everyone uses to manage agents at work |
+| 4 | [**hydra-db/hydradb**](https://github.com/hydra-db/hydradb) | `Rust` | - | 🔥 **+1,665** | ★ 12,256 | HydraDB - fast graph database on object storage |
+| 5 | [**rohitg00/ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | `Python` | - | 🔥 **+1,329** | ★ 60,253 | Learn it. Build it. Ship it for others. |
 
 ---
 
@@ -86,12 +86,12 @@ git clone https://github.com/vectorize-io/hindsight.git
 
 | Rank | AI Repository | Language | Key Topic | Stars Today | Total Stars | What It Does |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**vectorize-io/hindsight**](https://github.com/vectorize-io/hindsight) | `Python` | `#Coding-Agents` | 🔥 **+4,520** | ★ 38,092 | Hindsight: Agent Memory That Learns |
-| 2 | [**debpalash/VoiceStudio**](https://github.com/debpalash/VoiceStudio) | `Python` | `#AI-Video` | 🔥 **+3,086** | ★ 40,719 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
-| 3 | [**paperclipai/paperclip**](https://github.com/paperclipai/paperclip) | `TypeScript` | `#Coding-Agents` | 🔥 **+2,401** | ★ 90,563 | The open-source app everyone uses to manage agents at work |
-| 4 | [**dream-num/univer**](https://github.com/dream-num/univer) | `TypeScript` | `#Coding-Agents` | 🔥 **+895** | ★ 20,741 | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
-| 5 | [**juspay/hyperswitch**](https://github.com/juspay/hyperswitch) | `Rust` | `#Web3` | 🔥 **+623** | ★ 44,932 | Open source, composable payments platform \| PCI compliant \| SaaS and Self-host options \| Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers \| Uplifts authorization with intelligent routing and revenue recovery \| Reduce payment processing costs with cost observability \| Reduces payment ops with reconciliation |
-| 6 | [**pacifio/atlas**](https://github.com/pacifio/atlas) | `Rust` | `#Coding-Agents` | 🔥 **+588** | ★ 8,127 | Source control for agents. Use multiple coding agents, track their changes and query them in one place |
+| 1 | [**vectorize-io/hindsight**](https://github.com/vectorize-io/hindsight) | `Python` | `#Coding-Agents` | 🔥 **+4,413** | ★ 40,750 | Hindsight: Agent Memory That Learns |
+| 2 | [**debpalash/VoiceStudio**](https://github.com/debpalash/VoiceStudio) | `Python` | `#AI-Video` | 🔥 **+3,274** | ★ 43,417 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
+| 3 | [**paperclipai/paperclip**](https://github.com/paperclipai/paperclip) | `TypeScript` | `#Coding-Agents` | 🔥 **+3,185** | ★ 92,435 | The open-source app everyone uses to manage agents at work |
+| 4 | [**dream-num/univer**](https://github.com/dream-num/univer) | `TypeScript` | `#Coding-Agents` | 🔥 **+1,105** | ★ 21,138 | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
+| 5 | [**mvschwarz/openrig**](https://github.com/mvschwarz/openrig) | `TypeScript` | `#Coding-Agents` | 🔥 **+781** | ★ 1,592 | Multi-agent harness that runs Claude Code and Codex together as one system |
+| 6 | [**t8y2/dbx**](https://github.com/t8y2/dbx) | `Rust` | `#MCP` | 🔥 **+571** | ★ 21,450 | 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. \| 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。 |
 
 ---
 
@@ -101,74 +101,74 @@ git clone https://github.com/vectorize-io/hindsight.git
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**paperclipai/paperclip**](https://github.com/paperclipai/paperclip) | `TypeScript` | `#Coding-Agents` | **+2,401** | ★ 90,563 | The open-source app everyone uses to manage agents at work |
-| 2 | [**vectorize-io/hindsight**](https://github.com/vectorize-io/hindsight) | `Python` | `#Coding-Agents` | **+4,520** | ★ 38,092 | Hindsight: Agent Memory That Learns |
-| 3 | [**debpalash/VoiceStudio**](https://github.com/debpalash/VoiceStudio) | `Python` | `#AI-Video` | **+3,086** | ★ 40,719 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
-| 4 | [**rohitg00/ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | `Python` | - | **+790** | ★ 59,613 | Learn it. Build it. Ship it for others. |
-| 5 | [**InfinityLoop1308/PipePipe**](https://github.com/InfinityLoop1308/PipePipe) | `Shell` | - | **+242** | ★ 6,666 | An open-source Android app to let you browse YouTube and other services freely. |
-| 6 | [**vercel-labs/scriptc**](https://github.com/vercel-labs/scriptc) | `TypeScript` | - | **+102** | ★ 5,477 | TypeScript-to-Native Compiler |
-| 7 | [**mvschwarz/openrig**](https://github.com/mvschwarz/openrig) | `TypeScript` | `#Coding-Agents` | **+114** | ★ 1,140 | Multi-agent harness that runs Claude Code and Codex together as one system |
-| 8 | [**dream-num/univer**](https://github.com/dream-num/univer) | `TypeScript` | `#Coding-Agents` | **+895** | ★ 20,741 | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
+| 1 | [**debpalash/VoiceStudio**](https://github.com/debpalash/VoiceStudio) | `Python` | `#AI-Video` | **+3,274** | ★ 43,417 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
+| 2 | [**paperclipai/paperclip**](https://github.com/paperclipai/paperclip) | `TypeScript` | `#Coding-Agents` | **+3,185** | ★ 92,435 | The open-source app everyone uses to manage agents at work |
+| 3 | [**vectorize-io/hindsight**](https://github.com/vectorize-io/hindsight) | `Python` | `#Coding-Agents` | **+4,413** | ★ 40,750 | Hindsight: Agent Memory That Learns |
+| 4 | [**NawfalMotii79/PLFM_RADAR**](https://github.com/NawfalMotii79/PLFM_RADAR) | `PLSQL` | - | **+145** | ★ 25,695 | Open-source, low-cost 10.5 GHz PLFM phased array RADAR system |
+| 5 | [**cs341-illinois/coursebook**](https://github.com/cs341-illinois/coursebook) | `TeX` | - | **+316** | ★ 2,423 | Open Source Introductory Systems Programming Textbook for the University of Illinois |
+| 6 | [**byoungd/up**](https://github.com/byoungd/up) | `JavaScript` | - | **+310** | ★ 64,587 | An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语 |
+| 7 | [**mvschwarz/openrig**](https://github.com/mvschwarz/openrig) | `TypeScript` | `#Coding-Agents` | **+781** | ★ 1,592 | Multi-agent harness that runs Claude Code and Codex together as one system |
+| 8 | [**dream-num/univer**](https://github.com/dream-num/univer) | `TypeScript` | `#Coding-Agents` | **+1,105** | ★ 21,138 | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
 
-> 📂 *Explore all 9 Overall Trending repos in [`archives/2026-09/2026-09-28.md`](archives/2026-09/2026-09-28.md)*
+> 📂 *Explore all 8 Overall Trending repos in [`archives/2026-09/2026-09-28.md`](archives/2026-09/2026-09-28.md)*
 
 ### 🐍 Python
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**vectorize-io/hindsight**](https://github.com/vectorize-io/hindsight) | `Python` | `#Coding-Agents` | **+4,520** | ★ 38,092 | Hindsight: Agent Memory That Learns |
-| 2 | [**debpalash/VoiceStudio**](https://github.com/debpalash/VoiceStudio) | `Python` | `#AI-Video` | **+3,086** | ★ 40,720 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
-| 3 | [**rohitg00/ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | `Python` | - | **+790** | ★ 59,613 | Learn it. Build it. Ship it for others. |
-| 4 | [**NVIDIA/Model-Optimizer**](https://github.com/NVIDIA/Model-Optimizer) | `Python` | `#Autonomous-Finance` | **+276** | ★ 4,962 | A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed. |
-| 5 | [**microsoft/data-formulator**](https://github.com/microsoft/data-formulator) | `Python` | - | **+112** | ★ 17,455 | 🪄 Data Formulator is an interactive AI-powered data analysis system makes it easy to connect, explore and visualize data. |
-| 6 | [**EbookFoundation/free-programming-books**](https://github.com/EbookFoundation/free-programming-books) | `Python` | - | **+157** | ★ 398,010 | 📚 Freely available programming books |
-| 7 | [**derv82/wifit3**](https://github.com/derv82/wifit3) | `Python` | - | **+255** | ★ 1,421 | Wifite but USB-only & cross-platform. |
-| 8 | [**django/django**](https://github.com/django/django) | `Python` | - | **+26** | ★ 91,220 | The Web framework for perfectionists with deadlines. |
+| 1 | [**debpalash/VoiceStudio**](https://github.com/debpalash/VoiceStudio) | `Python` | `#AI-Video` | **+3,274** | ★ 43,417 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
+| 2 | [**vectorize-io/hindsight**](https://github.com/vectorize-io/hindsight) | `Python` | `#Coding-Agents` | **+4,413** | ★ 40,750 | Hindsight: Agent Memory That Learns |
+| 3 | [**0x4m4/hexstrike-ai**](https://github.com/0x4m4/hexstrike-ai) | `Python` | `#MCP` `#Coding-Agents` `#Local-AI` | **+56** | ★ 12,215 | HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities. |
+| 4 | [**ashhart/TensorFold**](https://github.com/ashhart/TensorFold) | `Python` | `#Local-AI` | **+160** | ★ 547 | Fast, exact LLM decoding on Apple Silicon (MLX) behind an OpenAI-compatible endpoint |
+| 5 | [**rohitg00/ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | `Python` | - | **+1,329** | ★ 60,253 | Learn it. Build it. Ship it for others. |
+| 6 | [**microsoft/SkillOpt**](https://github.com/microsoft/SkillOpt) | `Python` | `#Agent-Skills` `#Coding-Agents` | **+111** | ★ 17,791 | SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts. |
+| 7 | [**alirezarezvani/claude-skills**](https://github.com/alirezarezvani/claude-skills) | `Python` | `#Agent-Skills` `#Coding-Agents` | **+149** | ★ 26,758 | 380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills. |
+| 8 | [**samugit83/redamon**](https://github.com/samugit83/redamon) | `Python` | `#Coding-Agents` `#Security` | **+97** | ★ 2,743 | An AI-powered agentic red team framework that automates offensive security operations, from reconnaissance to exploitation to post-exploitation, with zero human intervention. |
 
-> 📂 *Explore all 9 Python repos in [`archives/2026-09/2026-09-28.md`](archives/2026-09/2026-09-28.md)*
+> 📂 *Explore all 13 Python repos in [`archives/2026-09/2026-09-28.md`](archives/2026-09/2026-09-28.md)*
 
 ### ⚡ JavaScript
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**nodejs/node**](https://github.com/nodejs/node) | `JavaScript` | - | **+32** | ★ 122,143 | Node.js JavaScript runtime ✨🐢🚀✨ |
-| 2 | [**vercel/next.js**](https://github.com/vercel/next.js) | `JavaScript` | - | **+276** | ★ 142,812 | The React Framework |
-| 3 | [**androoAGI/starnet**](https://github.com/androoAGI/starnet) | `JavaScript` | `#Coding-Agents` `#Local-AI` | **+57** | ★ 683 | A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run. |
-| 4 | [**mlmvpn/mlmvpn_windows**](https://github.com/mlmvpn/mlmvpn_windows) | `JavaScript` | `#Local-AI` | **+27** | ★ 153 | MLMVPN - Ultimate Anti-Filter & IP Scanner |
-| 5 | [**mrdoob/three.js**](https://github.com/mrdoob/three.js) | `JavaScript` | - | **+51** | ★ 116,001 | JavaScript 3D Library. |
-| 6 | [**huilang-me/CF-Server-Monitor**](https://github.com/huilang-me/CF-Server-Monitor) | `JavaScript` | - | **+30** | ★ 2,288 | 一个基于 Cloudflare Workers + D1 + Durable Objects 的免费多服务器监控探针系统，支持实时监控、离线告警，到期通知，历史数据查看、延迟追踪、地图展示等功能。兼容主流Linux系统，Alpine Linux，OpenWrt，macOS，群晖 DSM、飞牛 fnOS、Windows系统。 |
-| 7 | [**fishjar/kiss-translator**](https://github.com/fishjar/kiss-translator) | `JavaScript` | - | **+21** | ★ 12,661 | A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本) |
-| 8 | [**darkzOGx/youtube-automation-agent**](https://github.com/darkzOGx/youtube-automation-agent) | `JavaScript` | `#Coding-Agents` `#AI-Video` | **+52** | ★ 3,882 | 🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes & publishes videos 24/7. Works with FREE Gemini API or OpenAI. No coding required! |
+| 1 | [**byoungd/up**](https://github.com/byoungd/up) | `JavaScript` | - | **+310** | ★ 64,587 | An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语 |
+| 2 | [**crocodilestick/Calibre-Web-Automated**](https://github.com/crocodilestick/Calibre-Web-Automated) | `JavaScript` | - | **+9** | ★ 6,332 | Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up! |
+| 3 | [**Axorax/awesome-free-apps**](https://github.com/Axorax/awesome-free-apps) | `JavaScript` | - | **+31** | ★ 7,780 | Curated list of the best free apps for PC and mobile |
+| 4 | [**sveltejs/svelte**](https://github.com/sveltejs/svelte) | `JavaScript` | - | **+19** | ★ 88,226 | web development for the rest of us |
+| 5 | [**nodejs/node**](https://github.com/nodejs/node) | `JavaScript` | - | **+26** | ★ 122,157 | Node.js JavaScript runtime ✨🐢🚀✨ |
+| 6 | [**vercel-labs/agent-skills**](https://github.com/vercel-labs/agent-skills) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` | **+43** | ★ 31,673 | Vercel's official collection of agent skills |
+| 7 | [**akiralereal/iptv**](https://github.com/akiralereal/iptv) | `JavaScript` | - | **+25** | ★ 941 | 开箱即有 800+ 可稳定流畅播放频道的自托管 IPTV 直播源管理与分发系统，聚合了央视频、咪咕、央视、卫视、凤凰卫视、亚太、国际、地方台、体育赛事、B 站直播、斗鱼直播、虎牙直播等，以及自定义抓取源和订阅，并提供 EPG 节目单与聚合功能；另外还自带 GUI 可视化管理后台，支持 Docker Compose 或 Node.js 运行，适合 NAS 与家庭服务器。 |
+| 8 | [**mlmvpn/mlmvpn_windows**](https://github.com/mlmvpn/mlmvpn_windows) | `JavaScript` | `#Local-AI` | **+9** | ★ 159 | MLMVPN - Ultimate Anti-Filter & IP Scanner |
 
-> 📂 *Explore all 15 JavaScript repos in [`archives/2026-09/2026-09-28.md`](archives/2026-09/2026-09-28.md)*
+> 📂 *Explore all 11 JavaScript repos in [`archives/2026-09/2026-09-28.md`](archives/2026-09/2026-09-28.md)*
 
 ### 🔷 TypeScript
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**paperclipai/paperclip**](https://github.com/paperclipai/paperclip) | `TypeScript` | `#Coding-Agents` | **+2,401** | ★ 90,563 | The open-source app everyone uses to manage agents at work |
-| 2 | [**vercel-labs/scriptc**](https://github.com/vercel-labs/scriptc) | `TypeScript` | - | **+102** | ★ 5,477 | TypeScript-to-Native Compiler |
-| 3 | [**mvschwarz/openrig**](https://github.com/mvschwarz/openrig) | `TypeScript` | `#Coding-Agents` | **+114** | ★ 1,140 | Multi-agent harness that runs Claude Code and Codex together as one system |
-| 4 | [**dream-num/univer**](https://github.com/dream-num/univer) | `TypeScript` | `#Coding-Agents` | **+895** | ★ 20,741 | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
-| 5 | [**expo/expo**](https://github.com/expo/expo) | `TypeScript` | - | **+15** | ★ 52,467 | An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web. |
-| 6 | [**Gimanh/taskview-community**](https://github.com/Gimanh/taskview-community) | `TypeScript` | `#Local-AI` | **+116** | ★ 1,085 | TaskView is a self-hosted project and task management platform focused on clarity, ownership, and control. TaskView is built for teams that want a transparent, self-hosted alternative to SaaS task managers. |
-| 7 | [**heygen-com/hyperframes**](https://github.com/heygen-com/hyperframes) | `TypeScript` | `#Coding-Agents` `#AI-Video` | **+304** | ★ 53,706 | Write HTML. Render video. Built for agents. |
-| 8 | [**freeCodeCamp/freeCodeCamp**](https://github.com/freeCodeCamp/freeCodeCamp) | `TypeScript` | - | **+100** | ★ 456,389 | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. |
+| 1 | [**paperclipai/paperclip**](https://github.com/paperclipai/paperclip) | `TypeScript` | `#Coding-Agents` | **+3,185** | ★ 92,435 | The open-source app everyone uses to manage agents at work |
+| 2 | [**mvschwarz/openrig**](https://github.com/mvschwarz/openrig) | `TypeScript` | `#Coding-Agents` | **+781** | ★ 1,592 | Multi-agent harness that runs Claude Code and Codex together as one system |
+| 3 | [**dream-num/univer**](https://github.com/dream-num/univer) | `TypeScript` | `#Coding-Agents` | **+1,105** | ★ 21,138 | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
+| 4 | [**HelpCode-ai/anythingmcp**](https://github.com/HelpCode-ai/anythingmcp) | `TypeScript` | `#MCP` | **+84** | ★ 549 | Turn any REST, SOAP, GraphQL, OData or SQL API into MCP tools for Claude & ChatGPT. Self-hosted. 265 connectors: SAP S/4HANA & Business One, ERP, e-commerce. |
+| 5 | [**moeru-ai/airi**](https://github.com/moeru-ai/airi) | `TypeScript` | `#Local-AI` | **+216** | ★ 49,722 | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
+| 6 | [**vercel-labs/scriptc**](https://github.com/vercel-labs/scriptc) | `TypeScript` | - | **+369** | ★ 5,598 | TypeScript-to-Native Compiler |
+| 7 | [**alsk1992/CloddsBot**](https://github.com/alsk1992/CloddsBot) | `TypeScript` | `#Coding-Agents` `#Autonomous-Finance` `#Web3` | **+13** | ★ 2,898 | Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude. |
+| 8 | [**code-yeongyu/oh-my-openagent**](https://github.com/code-yeongyu/oh-my-openagent) | `TypeScript` | `#Coding-Agents` | **+87** | ★ 69,622 | OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering. |
 
-> 📂 *Explore all 14 TypeScript repos in [`archives/2026-09/2026-09-28.md`](archives/2026-09/2026-09-28.md)*
+> 📂 *Explore all 10 TypeScript repos in [`archives/2026-09/2026-09-28.md`](archives/2026-09/2026-09-28.md)*
 
 ### 🐹 Go
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**git-bug/git-bug**](https://github.com/git-bug/git-bug) | `Go` | `#Local-AI` | **+55** | ★ 10,627 | Distributed, offline-first bug tracker integrated in git |
-| 2 | [**daeuniverse/dae**](https://github.com/daeuniverse/dae) | `Go` | - | **+6** | ★ 6,248 | eBPF-based Linux high-performance transparent proxy solution. |
-| 3 | [**openbao/openbao**](https://github.com/openbao/openbao) | `Go` | - | **+199** | ★ 8,146 | OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. |
-| 4 | [**putyy/res-downloader**](https://github.com/putyy/res-downloader) | `Go` | - | **+68** | ★ 20,268 | 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载! |
-| 5 | [**golang/go**](https://github.com/golang/go) | `Go` | - | **+30** | ★ 139,059 | The Go programming language |
-| 6 | [**cockroachdb/cockroach**](https://github.com/cockroachdb/cockroach) | `Go` | - | **+8** | ★ 32,521 | CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement. |
-| 7 | [**dagucloud/dagu**](https://github.com/dagucloud/dagu) | `Go` | `#Local-AI` | **+43** | ★ 4,177 | Self-hostable workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One binary, no database, runs on limited H/W resources. Alternative to Airflow / Cron / Job Scheduler. |
-| 8 | [**trufflesecurity/trufflehog**](https://github.com/trufflesecurity/trufflehog) | `Go` | - | **+53** | ★ 28,147 | Find, verify, and analyze leaked credentials |
+| 1 | [**guohuiyuan/go-music-dl**](https://github.com/guohuiyuan/go-music-dl) | `Go` | - | **+61** | ★ 4,961 | 一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923 |
+| 2 | [**Billionmail/BillionMail**](https://github.com/Billionmail/BillionMail) | `Go` | - | **+56** | ★ 15,721 | BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr |
+| 3 | [**dagucloud/dagu**](https://github.com/dagucloud/dagu) | `Go` | `#Local-AI` | **+32** | ★ 4,195 | Self-hostable workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One binary, no database, runs on limited H/W resources. Alternative to Airflow / Cron / Job Scheduler. |
+| 4 | [**openbao/openbao**](https://github.com/openbao/openbao) | `Go` | - | **+47** | ★ 8,174 | OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. |
+| 5 | [**londek/ipadecrypt**](https://github.com/londek/ipadecrypt) | `Go` | - | **+14** | ★ 602 | 🔓 ipadecrypt is an open-source tool for downloading, patching and decrypting .ipa's with minimal user intervention on palera1n and dopamine jailbreaks |
+| 6 | [**ffuf/ffuf**](https://github.com/ffuf/ffuf) | `Go` | - | **+27** | ★ 16,760 | Fast web fuzzer written in Go |
+| 7 | [**junegunn/fzf**](https://github.com/junegunn/fzf) | `Go` | - | **+18** | ★ 83,292 | 🌸 A command-line fuzzy finder |
+| 8 | [**NdoleStudio/httpsms**](https://github.com/NdoleStudio/httpsms) | `Go` | - | **+10** | ★ 5,226 | Send and receive SMS messages using your Android phone programmatically via a simple HTTP API |
 
 > 📂 *Explore all 18 Go repos in [`archives/2026-09/2026-09-28.md`](archives/2026-09/2026-09-28.md)*
 
@@ -176,16 +176,16 @@ git clone https://github.com/vectorize-io/hindsight.git
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**block/buzz**](https://github.com/block/buzz) | `Rust` | - | **+233** | ★ 35,121 | A hive mind communication platform |
-| 2 | [**juspay/hyperswitch**](https://github.com/juspay/hyperswitch) | `Rust` | `#Web3` | **+623** | ★ 44,932 | Open source, composable payments platform \| PCI compliant \| SaaS and Self-host options \| Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers \| Uplifts authorization with intelligent routing and revenue recovery \| Reduce payment processing costs with cost observability \| Reduces payment ops with reconciliation |
-| 3 | [**hydra-db/hydradb**](https://github.com/hydra-db/hydradb) | `Rust` | - | **+2,809** | ★ 11,051 | HydraDB - fast graph database on object storage |
-| 4 | [**feigeCode/navop**](https://github.com/feigeCode/navop) | `Rust` | - | **+56** | ★ 1,714 | A native, all-in-one workspace for databases, SSH, SFTP, terminals, remote desktop, monitoring, and AI. |
-| 5 | [**kitao/pyxel**](https://github.com/kitao/pyxel) | `Rust` | - | **+52** | ★ 18,193 | A retro game engine for Python |
-| 6 | [**oven-sh/bun**](https://github.com/oven-sh/bun) | `Rust` | `#Local-AI` | **+18** | ★ 96,069 | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
-| 7 | [**rust-lang/rust**](https://github.com/rust-lang/rust) | `Rust` | - | **+49** | ★ 119,252 | Empowering everyone to build reliable and efficient software. |
-| 8 | [**denisidoro/navi**](https://github.com/denisidoro/navi) | `Rust` | - | **+9** | ★ 17,671 | An interactive cheatsheet tool for the command-line |
+| 1 | [**juspay/hyperswitch**](https://github.com/juspay/hyperswitch) | `Rust` | `#Web3` | **+360** | ★ 45,161 | Open source, composable payments platform \| PCI compliant \| SaaS and Self-host options \| Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers \| Uplifts authorization with intelligent routing and revenue recovery \| Reduce payment processing costs with cost observability \| Reduces payment ops with reconciliation |
+| 2 | [**hydra-db/hydradb**](https://github.com/hydra-db/hydradb) | `Rust` | - | **+1,665** | ★ 12,256 | HydraDB - fast graph database on object storage |
+| 3 | [**pacifio/atlas**](https://github.com/pacifio/atlas) | `Rust` | `#Coding-Agents` | **+285** | ★ 8,195 | Source control for agents. Use multiple coding agents, track their changes and query them in one place |
+| 4 | [**kitao/pyxel**](https://github.com/kitao/pyxel) | `Rust` | - | **+196** | ★ 18,247 | A retro game engine for Python |
+| 5 | [**waditu/czsc**](https://github.com/waditu/czsc) | `Rust` | `#Autonomous-Finance` | **+39** | ★ 6,328 | 缠中说禅技术分析工具；缠论；股票；期货；Quant；量化交易 |
+| 6 | [**macro-inc/macro**](https://github.com/macro-inc/macro) | `Rust` | `#Coding-Agents` | **+16** | ★ 4,477 | Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory. |
+| 7 | [**bevyengine/bevy**](https://github.com/bevyengine/bevy) | `Rust` | - | **+21** | ★ 48,446 | A refreshingly simple data-driven game engine built in Rust |
+| 8 | [**tokio-rs/topcoat**](https://github.com/tokio-rs/topcoat) | `Rust` | - | **+199** | ★ 5,670 | A batteries-included framework for building web apps |
 
-> 📂 *Explore all 11 Rust repos in [`archives/2026-09/2026-09-28.md`](archives/2026-09/2026-09-28.md)*
+> 📂 *Explore all 13 Rust repos in [`archives/2026-09/2026-09-28.md`](archives/2026-09/2026-09-28.md)*
 
 ---
 
