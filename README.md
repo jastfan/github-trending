@@ -8,7 +8,7 @@
 [![npm package](https://img.shields.io/badge/npm-gittrends--mcp%20v5.0.0-cb3837?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/gittrends-mcp)
 [![MCP Protocol](https://img.shields.io/badge/MCP%20Server-Official-10b981?style=for-the-badge&logo=anthropic)](guides/mcp_servers_integration.md)
 [![Research Censuses](https://img.shields.io/badge/Research%20Censuses-Open%20Data-8b5cf6?style=for-the-badge&logo=arxiv)](data/research/census_latest.json)
-![Auto-Updated](https://img.shields.io/badge/Auto--Updated-2x%20Daily%20(2026--10--01)-2ea44f?style=for-the-badge&logo=github)
+![Auto-Updated](https://img.shields.io/badge/Auto--Updated-2x%20Daily%20(2026--10--02)-2ea44f?style=for-the-badge&logo=github)
 ![License](https://img.shields.io/badge/License-MIT-bf8700?style=for-the-badge)
 
 <sub>⚡ 79,848+ Listings • 164.8M Installs • Auto-updated 2x daily via GitHub Actions • Maintained by [@jastfan](https://github.com/jastfan/github-trending)</sub>
@@ -51,7 +51,7 @@ claude mcp add gittrends -- npx -y gittrends-mcp
 [![NVIDIA/OpenShell](https://opengraph.githubassets.com/1/NVIDIA/OpenShell)](https://github.com/NVIDIA/OpenShell)
 
 > 💡 **What is it?** [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) — OpenShell is the safe, private runtime for autonomous AI agents.
-> 🚀 **Gained today:** **+2,503 stars** | **Total Stars:** ★ 13,876 | **Topics:** `#Coding-Agents`
+> 🚀 **Gained today:** **+2,456 stars** | **Total Stars:** ★ 14,114 | **Topics:** `#Coding-Agents`
 
 <details>
 <summary><b>👉 Click here for Instant Quick Inspect (Clone command & details)</b></summary>
@@ -72,11 +72,11 @@ git clone https://github.com/NVIDIA/OpenShell.git
 
 | Rank | Repository | Language | Trending Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**NVIDIA/OpenShell**](https://github.com/NVIDIA/OpenShell) | `Rust` | `#Coding-Agents` | 🔥 **+2,503** | ★ 13,876 | OpenShell is the safe, private runtime for autonomous AI agents. |
-| 2 | [**ifixai-ai/iFixAi**](https://github.com/ifixai-ai/iFixAi) | `Python` | `#Coding-Agents` | 🔥 **+1,467** | ★ 18,269 | Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds. |
-| 3 | [**debpalash/VoiceStudio**](https://github.com/debpalash/VoiceStudio) | `Python` | `#AI-Video` | 🔥 **+1,395** | ★ 51,229 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
-| 4 | [**DietrichGebert/ponytail**](https://github.com/DietrichGebert/ponytail) | `JavaScript` | `#Coding-Agents` | 🔥 **+1,179** | ★ 150,194 | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
-| 5 | [**mattpocock/skills**](https://github.com/mattpocock/skills) | `Shell` | `#Agent-Skills` `#Coding-Agents` | 🔥 **+888** | ★ 273,674 | Skills for Real Engineers. Straight from my .agents directory. |
+| 1 | [**NVIDIA/OpenShell**](https://github.com/NVIDIA/OpenShell) | `Rust` | `#Coding-Agents` | 🔥 **+2,456** | ★ 14,114 | OpenShell is the safe, private runtime for autonomous AI agents. |
+| 2 | [**ifixai-ai/iFixAi**](https://github.com/ifixai-ai/iFixAi) | `Python` | `#Coding-Agents` | 🔥 **+1,492** | ★ 18,675 | Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds. |
+| 3 | [**debpalash/VoiceStudio**](https://github.com/debpalash/VoiceStudio) | `Python` | `#AI-Video` | 🔥 **+1,284** | ★ 51,506 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
+| 4 | [**DietrichGebert/ponytail**](https://github.com/DietrichGebert/ponytail) | `JavaScript` | `#Coding-Agents` | 🔥 **+1,194** | ★ 150,802 | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
+| 5 | [**mattpocock/skills**](https://github.com/mattpocock/skills) | `Shell` | `#Agent-Skills` `#Coding-Agents` | 🔥 **+883** | ★ 274,088 | Skills for Real Engineers. Straight from my .agents directory. |
 
 ---
 
@@ -86,12 +86,12 @@ git clone https://github.com/NVIDIA/OpenShell.git
 
 | Rank | AI Repository | Language | Key Topic | Stars Today | Total Stars | What It Does |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**NVIDIA/OpenShell**](https://github.com/NVIDIA/OpenShell) | `Rust` | `#Coding-Agents` | 🔥 **+2,503** | ★ 13,876 | OpenShell is the safe, private runtime for autonomous AI agents. |
-| 2 | [**ifixai-ai/iFixAi**](https://github.com/ifixai-ai/iFixAi) | `Python` | `#Coding-Agents` | 🔥 **+1,467** | ★ 18,269 | Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds. |
-| 3 | [**debpalash/VoiceStudio**](https://github.com/debpalash/VoiceStudio) | `Python` | `#AI-Video` | 🔥 **+1,395** | ★ 51,229 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
-| 4 | [**DietrichGebert/ponytail**](https://github.com/DietrichGebert/ponytail) | `JavaScript` | `#Coding-Agents` | 🔥 **+1,179** | ★ 150,194 | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
-| 5 | [**mattpocock/skills**](https://github.com/mattpocock/skills) | `Shell` | `#Agent-Skills` | 🔥 **+888** | ★ 273,674 | Skills for Real Engineers. Straight from my .agents directory. |
-| 6 | [**t8y2/dbx**](https://github.com/t8y2/dbx) | `Rust` | `#MCP` | 🔥 **+870** | ★ 23,699 | 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. \| 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。 |
+| 1 | [**NVIDIA/OpenShell**](https://github.com/NVIDIA/OpenShell) | `Rust` | `#Coding-Agents` | 🔥 **+2,456** | ★ 14,114 | OpenShell is the safe, private runtime for autonomous AI agents. |
+| 2 | [**ifixai-ai/iFixAi**](https://github.com/ifixai-ai/iFixAi) | `Python` | `#Coding-Agents` | 🔥 **+1,492** | ★ 18,675 | Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds. |
+| 3 | [**debpalash/VoiceStudio**](https://github.com/debpalash/VoiceStudio) | `Python` | `#AI-Video` | 🔥 **+1,284** | ★ 51,506 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
+| 4 | [**DietrichGebert/ponytail**](https://github.com/DietrichGebert/ponytail) | `JavaScript` | `#Coding-Agents` | 🔥 **+1,194** | ★ 150,802 | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
+| 5 | [**mattpocock/skills**](https://github.com/mattpocock/skills) | `Shell` | `#Agent-Skills` | 🔥 **+883** | ★ 274,088 | Skills for Real Engineers. Straight from my .agents directory. |
+| 6 | [**t8y2/dbx**](https://github.com/t8y2/dbx) | `Rust` | `#MCP` | 🔥 **+739** | ★ 23,775 | 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. \| 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。 |
 
 ---
 
@@ -101,91 +101,91 @@ git clone https://github.com/NVIDIA/OpenShell.git
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**DietrichGebert/ponytail**](https://github.com/DietrichGebert/ponytail) | `JavaScript` | `#Coding-Agents` | **+1,179** | ★ 150,194 | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
-| 2 | [**mattpocock/skills**](https://github.com/mattpocock/skills) | `Shell` | `#Agent-Skills` `#Coding-Agents` | **+888** | ★ 273,674 | Skills for Real Engineers. Straight from my .agents directory. |
-| 3 | [**NVIDIA/OpenShell**](https://github.com/NVIDIA/OpenShell) | `Rust` | `#Coding-Agents` | **+2,503** | ★ 13,876 | OpenShell is the safe, private runtime for autonomous AI agents. |
-| 4 | [**firebase/firebase-ios-sdk**](https://github.com/firebase/firebase-ios-sdk) | `C++` | - | **+112** | ★ 6,838 | Firebase SDK for Apple App Development |
-| 5 | [**mvschwarz/openrig**](https://github.com/mvschwarz/openrig) | `TypeScript` | `#Coding-Agents` | **+640** | ★ 3,549 | Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work. |
-| 6 | [**cursor/plugins**](https://github.com/cursor/plugins) | `TypeScript` | `#Coding-Agents` | **+157** | ★ 9,285 | Cursor plugin specification and official plugins |
-| 7 | [**obra/superpowers**](https://github.com/obra/superpowers) | `Shell` | `#Agent-Skills` `#Coding-Agents` | **+476** | ★ 293,849 | An agentic skills framework & software development methodology that works. |
-| 8 | [**mksglu/context-mode**](https://github.com/mksglu/context-mode) | `TypeScript` | `#MCP` `#Coding-Agents` | **+357** | ★ 24,719 | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. |
+| 1 | [**DietrichGebert/ponytail**](https://github.com/DietrichGebert/ponytail) | `JavaScript` | `#Coding-Agents` | **+1,194** | ★ 150,802 | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
+| 2 | [**mattpocock/skills**](https://github.com/mattpocock/skills) | `Shell` | `#Agent-Skills` `#Coding-Agents` | **+883** | ★ 274,088 | Skills for Real Engineers. Straight from my .agents directory. |
+| 3 | [**NVIDIA/OpenShell**](https://github.com/NVIDIA/OpenShell) | `Rust` | `#Coding-Agents` | **+2,456** | ★ 14,114 | OpenShell is the safe, private runtime for autonomous AI agents. |
+| 4 | [**firebase/firebase-ios-sdk**](https://github.com/firebase/firebase-ios-sdk) | `C++` | - | **+112** | ★ 6,885 | Firebase SDK for Apple App Development |
+| 5 | [**mvschwarz/openrig**](https://github.com/mvschwarz/openrig) | `TypeScript` | `#Coding-Agents` | **+642** | ★ 3,844 | Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work. |
+| 6 | [**cursor/plugins**](https://github.com/cursor/plugins) | `TypeScript` | `#Coding-Agents` | **+150** | ★ 9,352 | Cursor plugin specification and official plugins |
+| 7 | [**obra/superpowers**](https://github.com/obra/superpowers) | `Shell` | `#Agent-Skills` `#Coding-Agents` | **+455** | ★ 294,073 | An agentic skills framework & software development methodology that works. |
+| 8 | [**mksglu/context-mode**](https://github.com/mksglu/context-mode) | `TypeScript` | `#MCP` `#Coding-Agents` | **+362** | ★ 24,844 | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. |
 
-> 📂 *Explore all 15 Overall Trending repos in [`archives/2026-10/2026-10-01.md`](archives/2026-10/2026-10-01.md)*
+> 📂 *Explore all 15 Overall Trending repos in [`archives/2026-10/2026-10-02.md`](archives/2026-10/2026-10-02.md)*
 
 ### 🐍 Python
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**tile-ai/tilelang**](https://github.com/tile-ai/tilelang) | `Python` | - | **+157** | ★ 8,043 | Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels |
-| 2 | [**HunxByts/GhostTrack**](https://github.com/HunxByts/GhostTrack) | `Python` | - | **+369** | ★ 16,294 | Useful tool to track location or mobile number |
-| 3 | [**Friedrich-M/UniMate**](https://github.com/Friedrich-M/UniMate) | `Python` | - | **+225** | ★ 1,017 | [SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons |
-| 4 | [**VectifyAI/PageIndex**](https://github.com/VectifyAI/PageIndex) | `Python` | - | **+543** | ★ 38,397 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
-| 5 | [**ComposioHQ/awesome-claude-skills**](https://github.com/ComposioHQ/awesome-claude-skills) | `Python` | `#Agent-Skills` | **+345** | ★ 76,298 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
-| 6 | [**TencentCloud/Octop**](https://github.com/TencentCloud/Octop) | `Python` | `#Coding-Agents` | **+179** | ★ 6,215 | A smarter, self-hosted AI assistant — multi-user, multi-agent. |
-| 7 | [**debpalash/VoiceStudio**](https://github.com/debpalash/VoiceStudio) | `Python` | `#AI-Video` | **+1,395** | ★ 51,229 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
-| 8 | [**alirezarezvani/claude-skills**](https://github.com/alirezarezvani/claude-skills) | `Python` | `#Agent-Skills` `#Coding-Agents` | **+138** | ★ 27,149 | 380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills. |
+| 1 | [**tile-ai/tilelang**](https://github.com/tile-ai/tilelang) | `Python` | - | **+163** | ★ 8,160 | Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels |
+| 2 | [**HunxByts/GhostTrack**](https://github.com/HunxByts/GhostTrack) | `Python` | - | **+368** | ★ 16,502 | Useful tool to track location or mobile number |
+| 3 | [**Friedrich-M/UniMate**](https://github.com/Friedrich-M/UniMate) | `Python` | - | **+217** | ★ 1,125 | [SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons |
+| 4 | [**VectifyAI/PageIndex**](https://github.com/VectifyAI/PageIndex) | `Python` | - | **+477** | ★ 38,459 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
+| 5 | [**ComposioHQ/awesome-claude-skills**](https://github.com/ComposioHQ/awesome-claude-skills) | `Python` | `#Agent-Skills` | **+319** | ★ 76,330 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+| 6 | [**TencentCloud/Octop**](https://github.com/TencentCloud/Octop) | `Python` | `#Coding-Agents` | **+189** | ★ 6,278 | A smarter, self-hosted AI assistant — multi-user, multi-agent. |
+| 7 | [**debpalash/VoiceStudio**](https://github.com/debpalash/VoiceStudio) | `Python` | `#AI-Video` | **+1,284** | ★ 51,506 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
+| 8 | [**alirezarezvani/claude-skills**](https://github.com/alirezarezvani/claude-skills) | `Python` | `#Agent-Skills` `#Coding-Agents` | **+138** | ★ 27,210 | 380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills. |
 
-> 📂 *Explore all 19 Python repos in [`archives/2026-10/2026-10-01.md`](archives/2026-10/2026-10-01.md)*
+> 📂 *Explore all 19 Python repos in [`archives/2026-10/2026-10-02.md`](archives/2026-10/2026-10-02.md)*
 
 ### ⚡ JavaScript
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**DietrichGebert/ponytail**](https://github.com/DietrichGebert/ponytail) | `JavaScript` | `#Coding-Agents` | **+1,179** | ★ 150,194 | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
-| 2 | [**pbakaus/impeccable**](https://github.com/pbakaus/impeccable) | `JavaScript` | - | **+602** | ★ 73,505 | The design language that makes your AI harness better at design. |
-| 3 | [**fleetbase/fleetbase**](https://github.com/fleetbase/fleetbase) | `JavaScript` | - | **+40** | ★ 4,094 | Modular logistics and supply chain operating system (LSOS) |
-| 4 | [**byoungd/up**](https://github.com/byoungd/up) | `JavaScript` | - | **+487** | ★ 66,608 | An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语 |
-| 5 | [**openai/plugins**](https://github.com/openai/plugins) | `JavaScript` | - | **+12** | ★ 7,251 | OpenAI Plugins |
-| 6 | [**tt-a1i/archify**](https://github.com/tt-a1i/archify) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` | **+762** | ★ 75,712 | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. |
-| 7 | [**affaan-m/ECC**](https://github.com/affaan-m/ECC) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` `#Security` | **+531** | ★ 270,578 | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
-| 8 | [**bilawalsidhu/gods-eye-view**](https://github.com/bilawalsidhu/gods-eye-view) | `JavaScript` | - | **+601** | ★ 46,074 | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. |
+| 1 | [**DietrichGebert/ponytail**](https://github.com/DietrichGebert/ponytail) | `JavaScript` | `#Coding-Agents` | **+1,194** | ★ 150,802 | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
+| 2 | [**pbakaus/impeccable**](https://github.com/pbakaus/impeccable) | `JavaScript` | - | **+495** | ★ 73,820 | The design language that makes your AI harness better at design. |
+| 3 | [**fleetbase/fleetbase**](https://github.com/fleetbase/fleetbase) | `JavaScript` | - | **+39** | ★ 4,110 | Modular logistics and supply chain operating system (LSOS) |
+| 4 | [**byoungd/up**](https://github.com/byoungd/up) | `JavaScript` | - | **+342** | ★ 66,665 | An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语 |
+| 5 | [**openai/plugins**](https://github.com/openai/plugins) | `JavaScript` | - | **+10** | ★ 7,253 | OpenAI Plugins |
+| 6 | [**tt-a1i/archify**](https://github.com/tt-a1i/archify) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` | **+657** | ★ 75,946 | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. |
+| 7 | [**affaan-m/ECC**](https://github.com/affaan-m/ECC) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` `#Security` | **+532** | ★ 270,797 | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| 8 | [**bilawalsidhu/gods-eye-view**](https://github.com/bilawalsidhu/gods-eye-view) | `JavaScript` | - | **+546** | ★ 46,271 | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. |
 
-> 📂 *Explore all 15 JavaScript repos in [`archives/2026-10/2026-10-01.md`](archives/2026-10/2026-10-01.md)*
+> 📂 *Explore all 15 JavaScript repos in [`archives/2026-10/2026-10-02.md`](archives/2026-10/2026-10-02.md)*
 
 ### 🔷 TypeScript
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**mvschwarz/openrig**](https://github.com/mvschwarz/openrig) | `TypeScript` | `#Coding-Agents` | **+640** | ★ 3,549 | Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work. |
-| 2 | [**cursor/plugins**](https://github.com/cursor/plugins) | `TypeScript` | `#Coding-Agents` | **+157** | ★ 9,285 | Cursor plugin specification and official plugins |
-| 3 | [**mksglu/context-mode**](https://github.com/mksglu/context-mode) | `TypeScript` | `#MCP` `#Coding-Agents` | **+357** | ★ 24,719 | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. |
-| 4 | [**heygen-com/hyperframes**](https://github.com/heygen-com/hyperframes) | `TypeScript` | `#Coding-Agents` `#AI-Video` | **+624** | ★ 55,208 | Write HTML. Render video. Built for agents. |
-| 5 | [**earendil-works/pi**](https://github.com/earendil-works/pi) | `TypeScript` | `#Coding-Agents` | **+294** | ★ 111,062 | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI |
-| 6 | [**pablostanley/yoinks**](https://github.com/pablostanley/yoinks) | `TypeScript` | `#AI-Video` | **+356** | ★ 2,798 | yoink any video from your terminal. no shady ads. |
-| 7 | [**modelcontextprotocol/servers**](https://github.com/modelcontextprotocol/servers) | `TypeScript` | - | **+216** | ★ 90,931 | Model Context Protocol Servers |
-| 8 | [**garrytan/gstack**](https://github.com/garrytan/gstack) | `TypeScript` | `#Local-AI` | **+106** | ★ 134,685 | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA |
+| 1 | [**mvschwarz/openrig**](https://github.com/mvschwarz/openrig) | `TypeScript` | `#Coding-Agents` | **+642** | ★ 3,844 | Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work. |
+| 2 | [**cursor/plugins**](https://github.com/cursor/plugins) | `TypeScript` | `#Coding-Agents` | **+150** | ★ 9,352 | Cursor plugin specification and official plugins |
+| 3 | [**mksglu/context-mode**](https://github.com/mksglu/context-mode) | `TypeScript` | `#MCP` `#Coding-Agents` | **+362** | ★ 24,844 | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. |
+| 4 | [**heygen-com/hyperframes**](https://github.com/heygen-com/hyperframes) | `TypeScript` | `#Coding-Agents` `#AI-Video` | **+627** | ★ 55,456 | Write HTML. Render video. Built for agents. |
+| 5 | [**earendil-works/pi**](https://github.com/earendil-works/pi) | `TypeScript` | `#Coding-Agents` | **+298** | ★ 111,364 | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI |
+| 6 | [**pablostanley/yoinks**](https://github.com/pablostanley/yoinks) | `TypeScript` | `#AI-Video` | **+361** | ★ 3,058 | yoink any video from your terminal. no shady ads. |
+| 7 | [**modelcontextprotocol/servers**](https://github.com/modelcontextprotocol/servers) | `TypeScript` | - | **+190** | ★ 90,943 | Model Context Protocol Servers |
+| 8 | [**garrytan/gstack**](https://github.com/garrytan/gstack) | `TypeScript` | `#Local-AI` | **+104** | ★ 134,724 | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA |
 
-> 📂 *Explore all 16 TypeScript repos in [`archives/2026-10/2026-10-01.md`](archives/2026-10/2026-10-01.md)*
+> 📂 *Explore all 16 TypeScript repos in [`archives/2026-10/2026-10-02.md`](archives/2026-10/2026-10-02.md)*
 
 ### 🐹 Go
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**JuliusBrussee/caveman**](https://github.com/JuliusBrussee/caveman) | `Go` | `#Agent-Skills` `#Coding-Agents` `#Web3` | **+194** | ★ 108,699 | 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman. |
-| 2 | [**rakyll/hey**](https://github.com/rakyll/hey) | `Go` | `#Local-AI` | **+22** | ★ 20,613 | HTTP load generator, ApacheBench (ab) replacement |
-| 3 | [**gastownhall/beads**](https://github.com/gastownhall/beads) | `Go` | `#Coding-Agents` | **+33** | ★ 27,570 | Beads - A memory upgrade for your coding agent |
-| 4 | [**go-gitea/gitea**](https://github.com/go-gitea/gitea) | `Go` | - | **+19** | ★ 58,252 | Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD |
-| 5 | [**open-telemetry/opentelemetry-collector**](https://github.com/open-telemetry/opentelemetry-collector) | `Go` | - | **+16** | ★ 7,628 | OpenTelemetry Collector |
-| 6 | [**Gaurav-Gosain/tuios**](https://github.com/Gaurav-Gosain/tuios) | `Go` | `#Coding-Agents` | **+54** | ★ 4,447 | A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. |
-| 7 | [**superplanehq/superplane**](https://github.com/superplanehq/superplane) | `Go` | - | **+68** | ★ 7,662 | Open source factory for one-shot engineering |
-| 8 | [**seaweedfs/seaweedfs**](https://github.com/seaweedfs/seaweedfs) | `Go` | - | **+47** | ★ 35,178 | SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling. |
+| 1 | [**JuliusBrussee/caveman**](https://github.com/JuliusBrussee/caveman) | `Go` | `#Agent-Skills` `#Coding-Agents` `#Web3` | **+193** | ★ 108,766 | 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman. |
+| 2 | [**rakyll/hey**](https://github.com/rakyll/hey) | `Go` | `#Local-AI` | **+19** | ★ 20,620 | HTTP load generator, ApacheBench (ab) replacement |
+| 3 | [**gastownhall/beads**](https://github.com/gastownhall/beads) | `Go` | `#Coding-Agents` | **+30** | ★ 27,580 | Beads - A memory upgrade for your coding agent |
+| 4 | [**go-gitea/gitea**](https://github.com/go-gitea/gitea) | `Go` | - | **+16** | ★ 58,263 | Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD |
+| 5 | [**open-telemetry/opentelemetry-collector**](https://github.com/open-telemetry/opentelemetry-collector) | `Go` | - | **+18** | ★ 7,632 | OpenTelemetry Collector |
+| 6 | [**Gaurav-Gosain/tuios**](https://github.com/Gaurav-Gosain/tuios) | `Go` | `#Coding-Agents` | **+54** | ★ 4,478 | A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. |
+| 7 | [**superplanehq/superplane**](https://github.com/superplanehq/superplane) | `Go` | - | **+48** | ★ 7,681 | Open source factory for one-shot engineering |
+| 8 | [**seaweedfs/seaweedfs**](https://github.com/seaweedfs/seaweedfs) | `Go` | - | **+47** | ★ 35,184 | SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling. |
 
-> 📂 *Explore all 21 Go repos in [`archives/2026-10/2026-10-01.md`](archives/2026-10/2026-10-01.md)*
+> 📂 *Explore all 22 Go repos in [`archives/2026-10/2026-10-02.md`](archives/2026-10/2026-10-02.md)*
 
 ### 🦀 Rust
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**NVIDIA/OpenShell**](https://github.com/NVIDIA/OpenShell) | `Rust` | `#Coding-Agents` | **+2,503** | ★ 13,876 | OpenShell is the safe, private runtime for autonomous AI agents. |
-| 2 | [**t8y2/dbx**](https://github.com/t8y2/dbx) | `Rust` | `#MCP` | **+870** | ★ 23,699 | 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. \| 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。 |
-| 3 | [**openai/codex**](https://github.com/openai/codex) | `Rust` | `#Coding-Agents` | **+172** | ★ 127,525 | Lightweight coding agent that runs in your terminal |
-| 4 | [**magnitudedev/magnitude**](https://github.com/magnitudedev/magnitude) | `Rust` | `#Coding-Agents` | **+427** | ★ 6,054 | Open source inference engine for agents that optimizes itself for your exact hardware. Compiles and tunes its kernels on your device, so open models run up to 2x faster than llama.cpp. Works on Apple Silicon, NVIDIA, AMD, or just a CPU. |
-| 5 | [**Pumpkin-MC/Pumpkin**](https://github.com/Pumpkin-MC/Pumpkin) | `Rust` | - | **+79** | ★ 11,818 | Empowering everyone to host fast and efficient Minecraft servers |
-| 6 | [**PrimeIntellect-ai/prime-agent**](https://github.com/PrimeIntellect-ai/prime-agent) | `Rust` | `#Coding-Agents` | **+51** | ★ 21,451 | A self-improving RLM agent for coding workflows and long-running autonomous tasks. |
-| 7 | [**dmtrKovalenko/fframes**](https://github.com/dmtrKovalenko/fframes) | `Rust` | `#AI-Video` | **+724** | ★ 1,785 | programmatic video rendering framework that is actually fast |
-| 8 | [**helix-editor/helix**](https://github.com/helix-editor/helix) | `Rust` | - | **+21** | ★ 46,412 | A post-modern modal text editor. |
+| 1 | [**NVIDIA/OpenShell**](https://github.com/NVIDIA/OpenShell) | `Rust` | `#Coding-Agents` | **+2,456** | ★ 14,114 | OpenShell is the safe, private runtime for autonomous AI agents. |
+| 2 | [**t8y2/dbx**](https://github.com/t8y2/dbx) | `Rust` | `#MCP` | **+739** | ★ 23,775 | 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. \| 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。 |
+| 3 | [**openai/codex**](https://github.com/openai/codex) | `Rust` | `#Coding-Agents` | **+157** | ★ 127,563 | Lightweight coding agent that runs in your terminal |
+| 4 | [**magnitudedev/magnitude**](https://github.com/magnitudedev/magnitude) | `Rust` | `#Coding-Agents` | **+538** | ★ 6,191 | Open source inference engine for agents that optimizes itself for your exact hardware. Compiles and tunes its kernels on your device, so open models run up to 2x faster than llama.cpp. Works on Apple Silicon, NVIDIA, AMD, or just a CPU. |
+| 5 | [**Pumpkin-MC/Pumpkin**](https://github.com/Pumpkin-MC/Pumpkin) | `Rust` | - | **+75** | ★ 11,842 | Empowering everyone to host fast and efficient Minecraft servers |
+| 6 | [**PrimeIntellect-ai/prime-agent**](https://github.com/PrimeIntellect-ai/prime-agent) | `Rust` | `#Coding-Agents` | **+51** | ★ 21,466 | A self-improving RLM agent for coding workflows and long-running autonomous tasks. |
+| 7 | [**dmtrKovalenko/fframes**](https://github.com/dmtrKovalenko/fframes) | `Rust` | `#AI-Video` | **+357** | ★ 1,826 | programmatic video rendering framework that is actually fast |
+| 8 | [**helix-editor/helix**](https://github.com/helix-editor/helix) | `Rust` | - | **+21** | ★ 46,427 | A post-modern modal text editor. |
 
-> 📂 *Explore all 18 Rust repos in [`archives/2026-10/2026-10-01.md`](archives/2026-10/2026-10-01.md)*
+> 📂 *Explore all 18 Rust repos in [`archives/2026-10/2026-10-02.md`](archives/2026-10/2026-10-02.md)*
 
 ---
 
