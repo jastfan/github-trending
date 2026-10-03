@@ -48,20 +48,20 @@ claude mcp add gittrends -- npx -y gittrends-mcp
 
 ## 🏆 Today's #1 Trending Breakout Project
 
-[![DietrichGebert/ponytail](https://opengraph.githubassets.com/1/DietrichGebert/ponytail)](https://github.com/DietrichGebert/ponytail)
+[![Panniantong/Agent-Reach](https://opengraph.githubassets.com/1/Panniantong/Agent-Reach)](https://github.com/Panniantong/Agent-Reach)
 
-> 💡 **What is it?** [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-> 🚀 **Gained today:** **+1,435 stars** | **Total Stars:** ★ 152,007 | **Topics:** `#Coding-Agents`
+> 💡 **What is it?** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+> 🚀 **Gained today:** **+1,683 stars** | **Total Stars:** ★ 89,544 | **Topics:** `#Coding-Agents`
 
 <details>
 <summary><b>👉 Click here for Instant Quick Inspect (Clone command & details)</b></summary>
 
 ```bash
 # Clone this breakout repository directly:
-git clone https://github.com/DietrichGebert/ponytail.git
+git clone https://github.com/Panniantong/Agent-Reach.git
 ```
-- **Repository URL:** [https://github.com/DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
-- **Owner:** `@DietrichGebert`
+- **Repository URL:** [https://github.com/Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+- **Owner:** `@Panniantong`
 </details>
 
 ---
@@ -72,11 +72,11 @@ git clone https://github.com/DietrichGebert/ponytail.git
 
 | Rank | Repository | Language | Trending Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**DietrichGebert/ponytail**](https://github.com/DietrichGebert/ponytail) | `JavaScript` | `#Coding-Agents` | 🔥 **+1,435** | ★ 152,007 | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
-| 2 | [**mattpocock/skills**](https://github.com/mattpocock/skills) | `Shell` | `#Agent-Skills` `#Coding-Agents` | 🔥 **+955** | ★ 274,822 | Skills for Real Engineers. Straight from my .agents directory. |
-| 3 | [**pbakaus/impeccable**](https://github.com/pbakaus/impeccable) | `JavaScript` | - | 🔥 **+722** | ★ 74,450 | The design language that makes your AI harness better at design. |
-| 4 | [**Panniantong/Agent-Reach**](https://github.com/Panniantong/Agent-Reach) | `Python` | `#Coding-Agents` | 🔥 **+696** | ★ 88,919 | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
-| 5 | [**mvschwarz/openrig**](https://github.com/mvschwarz/openrig) | `TypeScript` | `#Coding-Agents` | 🔥 **+683** | ★ 4,427 | Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work. |
+| 1 | [**Panniantong/Agent-Reach**](https://github.com/Panniantong/Agent-Reach) | `Python` | `#Coding-Agents` | 🔥 **+1,683** | ★ 89,544 | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
+| 2 | [**DietrichGebert/ponytail**](https://github.com/DietrichGebert/ponytail) | `JavaScript` | `#Coding-Agents` | 🔥 **+1,289** | ★ 152,837 | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
+| 3 | [**affaan-m/ECC**](https://github.com/affaan-m/ECC) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` `#Security` | 🔥 **+954** | ★ 271,967 | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| 4 | [**mattpocock/skills**](https://github.com/mattpocock/skills) | `Shell` | `#Agent-Skills` `#Coding-Agents` | 🔥 **+750** | ★ 275,174 | Skills for Real Engineers. Straight from my .agents directory. |
+| 5 | [**pbakaus/impeccable**](https://github.com/pbakaus/impeccable) | `JavaScript` | - | 🔥 **+705** | ★ 74,937 | The design language that makes your AI harness better at design. |
 
 ---
 
@@ -86,12 +86,12 @@ git clone https://github.com/DietrichGebert/ponytail.git
 
 | Rank | AI Repository | Language | Key Topic | Stars Today | Total Stars | What It Does |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**DietrichGebert/ponytail**](https://github.com/DietrichGebert/ponytail) | `JavaScript` | `#Coding-Agents` | 🔥 **+1,435** | ★ 152,007 | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
-| 2 | [**mattpocock/skills**](https://github.com/mattpocock/skills) | `Shell` | `#Agent-Skills` | 🔥 **+955** | ★ 274,822 | Skills for Real Engineers. Straight from my .agents directory. |
-| 3 | [**pbakaus/impeccable**](https://github.com/pbakaus/impeccable) | `JavaScript` | `#AI` | 🔥 **+722** | ★ 74,450 | The design language that makes your AI harness better at design. |
-| 4 | [**Panniantong/Agent-Reach**](https://github.com/Panniantong/Agent-Reach) | `Python` | `#Coding-Agents` | 🔥 **+696** | ★ 88,919 | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
-| 5 | [**mvschwarz/openrig**](https://github.com/mvschwarz/openrig) | `TypeScript` | `#Coding-Agents` | 🔥 **+683** | ★ 4,427 | Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work. |
-| 6 | [**pablostanley/yoinks**](https://github.com/pablostanley/yoinks) | `TypeScript` | `#AI-Video` | 🔥 **+623** | ★ 3,590 | yoink any video from your terminal. no shady ads. |
+| 1 | [**Panniantong/Agent-Reach**](https://github.com/Panniantong/Agent-Reach) | `Python` | `#Coding-Agents` | 🔥 **+1,683** | ★ 89,544 | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
+| 2 | [**DietrichGebert/ponytail**](https://github.com/DietrichGebert/ponytail) | `JavaScript` | `#Coding-Agents` | 🔥 **+1,289** | ★ 152,837 | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
+| 3 | [**affaan-m/ECC**](https://github.com/affaan-m/ECC) | `JavaScript` | `#Agent-Skills` | 🔥 **+954** | ★ 271,967 | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| 4 | [**mattpocock/skills**](https://github.com/mattpocock/skills) | `Shell` | `#Agent-Skills` | 🔥 **+750** | ★ 275,174 | Skills for Real Engineers. Straight from my .agents directory. |
+| 5 | [**pbakaus/impeccable**](https://github.com/pbakaus/impeccable) | `JavaScript` | `#AI` | 🔥 **+705** | ★ 74,937 | The design language that makes your AI harness better at design. |
+| 6 | [**mvschwarz/openrig**](https://github.com/mvschwarz/openrig) | `TypeScript` | `#Coding-Agents` | 🔥 **+598** | ★ 4,603 | Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work. |
 
 ---
 
@@ -101,91 +101,91 @@ git clone https://github.com/DietrichGebert/ponytail.git
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**Panniantong/Agent-Reach**](https://github.com/Panniantong/Agent-Reach) | `Python` | `#Coding-Agents` | **+696** | ★ 88,919 | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
-| 2 | [**JuliusBrussee/caveman**](https://github.com/JuliusBrussee/caveman) | `Go` | `#Agent-Skills` `#Coding-Agents` `#Web3` | **+209** | ★ 109,182 | 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman. |
-| 3 | [**obra/superpowers**](https://github.com/obra/superpowers) | `Shell` | `#Agent-Skills` `#Coding-Agents` | **+556** | ★ 294,535 | An agentic skills framework & software development methodology that works. |
-| 4 | [**DietrichGebert/ponytail**](https://github.com/DietrichGebert/ponytail) | `JavaScript` | `#Coding-Agents` | **+1,435** | ★ 152,007 | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
-| 5 | [**pbakaus/impeccable**](https://github.com/pbakaus/impeccable) | `JavaScript` | - | **+722** | ★ 74,450 | The design language that makes your AI harness better at design. |
-| 6 | [**mattpocock/skills**](https://github.com/mattpocock/skills) | `Shell` | `#Agent-Skills` `#Coding-Agents` | **+955** | ★ 274,822 | Skills for Real Engineers. Straight from my .agents directory. |
-| 7 | [**NVIDIA/OpenShell**](https://github.com/NVIDIA/OpenShell) | `Rust` | `#Coding-Agents` | **+594** | ★ 14,493 | OpenShell is the safe, private runtime for autonomous AI agents. |
-| 8 | [**coreyhaines31/marketingskills**](https://github.com/coreyhaines31/marketingskills) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` | **+140** | ★ 52,474 | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. |
+| 1 | [**DietrichGebert/ponytail**](https://github.com/DietrichGebert/ponytail) | `JavaScript` | `#Coding-Agents` | **+1,289** | ★ 152,837 | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
+| 2 | [**pbakaus/impeccable**](https://github.com/pbakaus/impeccable) | `JavaScript` | - | **+705** | ★ 74,937 | The design language that makes your AI harness better at design. |
+| 3 | [**affaan-m/ECC**](https://github.com/affaan-m/ECC) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` `#Security` | **+954** | ★ 271,967 | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| 4 | [**Effect-TS/effect**](https://github.com/Effect-TS/effect) | `TypeScript` | - | **+302** | ★ 16,735 | Build production-ready applications in TypeScript |
+| 5 | [**JuliusBrussee/caveman**](https://github.com/JuliusBrussee/caveman) | `Go` | `#Agent-Skills` `#Coding-Agents` `#Web3` | **+505** | ★ 109,411 | 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman. |
+| 6 | [**Panniantong/Agent-Reach**](https://github.com/Panniantong/Agent-Reach) | `Python` | `#Coding-Agents` | **+1,683** | ★ 89,544 | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
+| 7 | [**pingdotgg/t3code**](https://github.com/pingdotgg/t3code) | `TypeScript` | - | **+251** | ★ 24,513 | No description provided. |
+| 8 | [**thedotmack/claude-mem**](https://github.com/thedotmack/claude-mem) | `TypeScript` | `#Coding-Agents` | **+218** | ★ 95,394 | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More |
 
-> 📂 *Explore all 17 Overall Trending repos in [`archives/2026-10/2026-10-03.md`](archives/2026-10/2026-10-03.md)*
+> 📂 *Explore all 19 Overall Trending repos in [`archives/2026-10/2026-10-03.md`](archives/2026-10/2026-10-03.md)*
 
 ### 🐍 Python
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**Panniantong/Agent-Reach**](https://github.com/Panniantong/Agent-Reach) | `Python` | `#Coding-Agents` | **+696** | ★ 88,919 | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
-| 2 | [**google/skills**](https://github.com/google/skills) | `Python` | `#Agent-Skills` `#Coding-Agents` | **+39** | ★ 20,804 | Agent Skills for Google products and technologies |
-| 3 | [**getsentry/sentry**](https://github.com/getsentry/sentry) | `Python` | - | **+16** | ★ 45,063 | Developer-first error tracking and performance monitoring |
-| 4 | [**HunxByts/GhostTrack**](https://github.com/HunxByts/GhostTrack) | `Python` | - | **+543** | ★ 16,729 | Useful tool to track location or mobile number |
-| 5 | [**tile-ai/tilelang**](https://github.com/tile-ai/tilelang) | `Python` | - | **+244** | ★ 8,258 | Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels |
-| 6 | [**Friedrich-M/UniMate**](https://github.com/Friedrich-M/UniMate) | `Python` | - | **+248** | ★ 1,216 | [SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons |
-| 7 | [**NVIDIA/SkillSpector**](https://github.com/NVIDIA/SkillSpector) | `Python` | `#MCP` `#Agent-Skills` `#Coding-Agents` | **+168** | ★ 19,143 | Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them. |
-| 8 | [**Tracer-Cloud/opensre**](https://github.com/Tracer-Cloud/opensre) | `Python` | `#Coding-Agents` | **+24** | ★ 11,349 | Build your own AI SRE agents. The open source toolkit for the AI era. |
+| 1 | [**Panniantong/Agent-Reach**](https://github.com/Panniantong/Agent-Reach) | `Python` | `#Coding-Agents` | **+1,683** | ★ 89,544 | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
+| 2 | [**getsentry/sentry**](https://github.com/getsentry/sentry) | `Python` | - | **+211** | ★ 45,154 | Developer-first error tracking and performance monitoring |
+| 3 | [**jamwithai/production-agentic-rag-course**](https://github.com/jamwithai/production-agentic-rag-course) | `Python` | `#Coding-Agents` | **+192** | ★ 9,341 | No description provided. |
+| 4 | [**meituan-longcat/LongCat-Video**](https://github.com/meituan-longcat/LongCat-Video) | `Python` | `#AI-Video` | **+43** | ★ 8,667 | No description provided. |
+| 5 | [**datalab-to/chandra**](https://github.com/datalab-to/chandra) | `Python` | - | **+20** | ★ 12,396 | OCR model that handles complex tables, forms, handwriting with full layout. |
+| 6 | [**handsomestWei/patent-disclosure-skill**](https://github.com/handsomestWei/patent-disclosure-skill) | `Python` | `#Agent-Skills` | **+151** | ★ 10,948 | 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。 |
+| 7 | [**kaifcodec/user-scanner**](https://github.com/kaifcodec/user-scanner) | `Python` | `#MCP` `#Local-AI` `#Security` | **+70** | ★ 5,194 | 🕵️‍♂️ (2-in-1) Email & Username OSINT suite featuring native MCP support for deep data extraction just from a single Email/Username. Analyzes 2720+ actively maintained scan vectors (210+ email / 2510+ username) for security research, investigations, and digital footprinting. |
+| 8 | [**agno-agi/agno**](https://github.com/agno-agi/agno) | `Python` | `#Coding-Agents` | **+41** | ★ 42,530 | Build, run, and manage agent platforms. |
 
-> 📂 *Explore all 14 Python repos in [`archives/2026-10/2026-10-03.md`](archives/2026-10/2026-10-03.md)*
+> 📂 *Explore all 17 Python repos in [`archives/2026-10/2026-10-03.md`](archives/2026-10/2026-10-03.md)*
 
 ### ⚡ JavaScript
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**DietrichGebert/ponytail**](https://github.com/DietrichGebert/ponytail) | `JavaScript` | `#Coding-Agents` | **+1,435** | ★ 152,007 | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
-| 2 | [**pbakaus/impeccable**](https://github.com/pbakaus/impeccable) | `JavaScript` | - | **+722** | ★ 74,450 | The design language that makes your AI harness better at design. |
-| 3 | [**coreyhaines31/marketingskills**](https://github.com/coreyhaines31/marketingskills) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` | **+140** | ★ 52,474 | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. |
-| 4 | [**vercel-labs/agent-skills**](https://github.com/vercel-labs/agent-skills) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` | **+57** | ★ 31,855 | Vercel's official collection of agent skills |
-| 5 | [**addyosmani/agent-skills**](https://github.com/addyosmani/agent-skills) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` | **+189** | ★ 100,590 | Production-grade engineering skills for AI coding agents. |
-| 6 | [**androoAGI/starnet**](https://github.com/androoAGI/starnet) | `JavaScript` | `#Coding-Agents` `#Local-AI` | **+135** | ★ 976 | A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run. |
-| 7 | [**Neet-Nestor/Telegram-Media-Downloader**](https://github.com/Neet-Nestor/Telegram-Media-Downloader) | `JavaScript` | `#AI-Video` | **+30** | ★ 5,958 | A script allowing you to download images and videos from Telegram web even if the group restricts downloading. |
-| 8 | [**laoma2053/awesome-zhuiju-free**](https://github.com/laoma2053/awesome-zhuiju-free) | `JavaScript` | - | **+66** | ★ 10,853 | 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。 |
+| 1 | [**DietrichGebert/ponytail**](https://github.com/DietrichGebert/ponytail) | `JavaScript` | `#Coding-Agents` | **+1,289** | ★ 152,837 | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
+| 2 | [**pbakaus/impeccable**](https://github.com/pbakaus/impeccable) | `JavaScript` | - | **+705** | ★ 74,937 | The design language that makes your AI harness better at design. |
+| 3 | [**affaan-m/ECC**](https://github.com/affaan-m/ECC) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` `#Security` | **+954** | ★ 271,967 | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| 4 | [**addyosmani/agent-skills**](https://github.com/addyosmani/agent-skills) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` | **+305** | ★ 100,752 | Production-grade engineering skills for AI coding agents. |
+| 5 | [**coreyhaines31/marketingskills**](https://github.com/coreyhaines31/marketingskills) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` | **+372** | ★ 52,636 | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. |
+| 6 | [**jo-inc/camofox-browser**](https://github.com/jo-inc/camofox-browser) | `JavaScript` | `#Coding-Agents` | **+78** | ★ 11,396 | Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement. |
+| 7 | [**mnfst/awesome-free-llm-apis**](https://github.com/mnfst/awesome-free-llm-apis) | `JavaScript` | - | **+112** | ★ 9,087 | List of Permanent Free LLM API (API Keys) |
+| 8 | [**spicetify/cli**](https://github.com/spicetify/cli) | `JavaScript` | - | **+24** | ★ 24,770 | Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux. |
 
-> 📂 *Explore all 18 JavaScript repos in [`archives/2026-10/2026-10-03.md`](archives/2026-10/2026-10-03.md)*
+> 📂 *Explore all 16 JavaScript repos in [`archives/2026-10/2026-10-03.md`](archives/2026-10/2026-10-03.md)*
 
 ### 🔷 TypeScript
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**heygen-com/hyperframes**](https://github.com/heygen-com/hyperframes) | `TypeScript` | `#Coding-Agents` `#AI-Video` | **+580** | ★ 55,976 | Write HTML. Render video. Built for agents. |
-| 2 | [**mksglu/context-mode**](https://github.com/mksglu/context-mode) | `TypeScript` | `#MCP` `#Coding-Agents` | **+282** | ★ 25,083 | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. |
-| 3 | [**cursor/plugins**](https://github.com/cursor/plugins) | `TypeScript` | `#Coding-Agents` | **+163** | ★ 9,535 | Cursor plugin specification and official plugins |
-| 4 | [**mvschwarz/openrig**](https://github.com/mvschwarz/openrig) | `TypeScript` | `#Coding-Agents` | **+683** | ★ 4,427 | Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work. |
-| 5 | [**Effect-TS/effect**](https://github.com/Effect-TS/effect) | `TypeScript` | - | **+80** | ★ 16,608 | Build production-ready applications in TypeScript |
-| 6 | [**pablostanley/yoinks**](https://github.com/pablostanley/yoinks) | `TypeScript` | `#AI-Video` | **+623** | ★ 3,590 | yoink any video from your terminal. no shady ads. |
-| 7 | [**mrifqidaffaaditya/WA-AKG**](https://github.com/mrifqidaffaaditya/WA-AKG) | `TypeScript` | - | **+28** | ★ 407 | A self-hosted WhatsApp Gateway & Dashboard built with Next.js 15, Baileys, and Prisma. Manage multi-session accounts, schedule messages, create auto-replies, and integrate via Webhooks. |
-| 8 | [**ruvnet/ruflo**](https://github.com/ruvnet/ruflo) | `TypeScript` | `#Coding-Agents` | **+109** | ★ 73,745 | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated |
+| 1 | [**Effect-TS/effect**](https://github.com/Effect-TS/effect) | `TypeScript` | - | **+302** | ★ 16,735 | Build production-ready applications in TypeScript |
+| 2 | [**pingdotgg/t3code**](https://github.com/pingdotgg/t3code) | `TypeScript` | - | **+251** | ★ 24,513 | No description provided. |
+| 3 | [**thedotmack/claude-mem**](https://github.com/thedotmack/claude-mem) | `TypeScript` | `#Coding-Agents` | **+218** | ★ 95,394 | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More |
+| 4 | [**cloudflare/cloudflare-os**](https://github.com/cloudflare/cloudflare-os) | `TypeScript` | `#Coding-Agents` | **+84** | ★ 10,472 | Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems. |
+| 5 | [**mksglu/context-mode**](https://github.com/mksglu/context-mode) | `TypeScript` | `#MCP` `#Coding-Agents` | **+256** | ★ 25,193 | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. |
+| 6 | [**earendil-works/pi**](https://github.com/earendil-works/pi) | `TypeScript` | `#Coding-Agents` | **+408** | ★ 112,040 | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI |
+| 7 | [**anthropics/claude-code**](https://github.com/anthropics/claude-code) | `TypeScript` | `#Coding-Agents` | **+127** | ★ 149,110 | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| 8 | [**OpenCut-app/OpenCut**](https://github.com/OpenCut-app/OpenCut) | `TypeScript` | - | **+234** | ★ 91,458 | The open-source CapCut alternative |
 
-> 📂 *Explore all 17 TypeScript repos in [`archives/2026-10/2026-10-03.md`](archives/2026-10/2026-10-03.md)*
+> 📂 *Explore all 21 TypeScript repos in [`archives/2026-10/2026-10-03.md`](archives/2026-10/2026-10-03.md)*
 
 ### 🐹 Go
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**JuliusBrussee/caveman**](https://github.com/JuliusBrussee/caveman) | `Go` | `#Agent-Skills` `#Coding-Agents` `#Web3` | **+209** | ★ 109,182 | 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman. |
-| 2 | [**CarterPerez-dev/Cybersecurity-Projects**](https://github.com/CarterPerez-dev/Cybersecurity-Projects) | `Go` | `#Local-AI` `#Security` | **+77** | ★ 7,680 | Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Gamified Cybersecurity learning 👇 |
-| 3 | [**lharries/whatsapp-mcp**](https://github.com/lharries/whatsapp-mcp) | `Go` | `#MCP` | **+23** | ★ 6,378 | WhatsApp MCP server |
-| 4 | [**charmbracelet/bubbletea**](https://github.com/charmbracelet/bubbletea) | `Go` | - | **+14** | ★ 45,253 | A powerful little TUI framework 🏗 |
-| 5 | [**zitadel/zitadel**](https://github.com/zitadel/zitadel) | `Go` | - | **+11** | ★ 15,165 | ZITADEL - Identity infrastructure, simplified for you. |
-| 6 | [**fluxcd/flux2**](https://github.com/fluxcd/flux2) | `Go` | `#AI-Video` | - | ★ 8,435 | Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit. |
-| 7 | [**tailscale/tailcat**](https://github.com/tailscale/tailcat) | `Go` | - | **+93** | ★ 8,032 | like netcat, but over Tailscale's data plane, without Tailscale's control plane |
-| 8 | [**open-telemetry/opentelemetry-collector**](https://github.com/open-telemetry/opentelemetry-collector) | `Go` | - | **+7** | ★ 7,634 | OpenTelemetry Collector |
+| 1 | [**JuliusBrussee/caveman**](https://github.com/JuliusBrussee/caveman) | `Go` | `#Agent-Skills` `#Coding-Agents` `#Web3` | **+505** | ★ 109,411 | 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman. |
+| 2 | [**golangci/golangci-lint**](https://github.com/golangci/golangci-lint) | `Go` | `#Local-AI` | **+3** | ★ 19,407 | Fast linters runner for Go |
+| 3 | [**router-for-me/CLIProxyAPI**](https://github.com/router-for-me/CLIProxyAPI) | `Go` | `#Coding-Agents` | **+168** | ★ 53,995 | Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API |
+| 4 | [**hashicorp/terraform**](https://github.com/hashicorp/terraform) | `Go` | - | **+11** | ★ 49,820 | Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. |
+| 5 | [**lharries/whatsapp-mcp**](https://github.com/lharries/whatsapp-mcp) | `Go` | `#MCP` | **+13** | ★ 6,384 | WhatsApp MCP server |
+| 6 | [**Autumn-27/ARTEX**](https://github.com/Autumn-27/ARTEX) | `Go` | `#Coding-Agents` | **+78** | ★ 1,457 | AI 自主渗透测试系统 \| 百度“agent+”攻防挑战赛冠军项目 |
+| 7 | [**CarterPerez-dev/Cybersecurity-Projects**](https://github.com/CarterPerez-dev/Cybersecurity-Projects) | `Go` | `#Local-AI` `#Security` | **+67** | ★ 7,721 | Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Gamified Cybersecurity learning 👇 |
+| 8 | [**avelino/awesome-go**](https://github.com/avelino/awesome-go) | `Go` | - | **+165** | ★ 186,727 | A curated list of awesome Go frameworks, libraries and software |
 
-> 📂 *Explore all 23 Go repos in [`archives/2026-10/2026-10-03.md`](archives/2026-10/2026-10-03.md)*
+> 📂 *Explore all 22 Go repos in [`archives/2026-10/2026-10-03.md`](archives/2026-10/2026-10-03.md)*
 
 ### 🦀 Rust
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**NVIDIA/OpenShell**](https://github.com/NVIDIA/OpenShell) | `Rust` | `#Coding-Agents` | **+594** | ★ 14,493 | OpenShell is the safe, private runtime for autonomous AI agents. |
-| 2 | [**magnitudedev/magnitude**](https://github.com/magnitudedev/magnitude) | `Rust` | `#Coding-Agents` | **+249** | ★ 6,298 | Open source inference engine for agents that optimizes itself for your exact hardware. Compiles and tunes its kernels on your device, so open models run up to 2x faster than llama.cpp. Works on Apple Silicon, NVIDIA, AMD, or just a CPU. |
-| 3 | [**zerx-lab/FluxDown**](https://github.com/zerx-lab/FluxDown) | `Rust` | `#AI-Video` | **+30** | ★ 3,386 | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。 |
-| 4 | [**rustdesk/rustdesk**](https://github.com/rustdesk/rustdesk) | `Rust` | - | **+78** | ★ 125,034 | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
-| 5 | [**tinyhumansai/openhuman**](https://github.com/tinyhumansai/openhuman) | `Rust` | `#Coding-Agents` | **+78** | ★ 40,466 | OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust |
-| 6 | [**ai-dynamo/dynamo**](https://github.com/ai-dynamo/dynamo) | `Rust` | - | **+7** | ★ 8,209 | A Datacenter Scale Distributed Inference Serving Framework |
-| 7 | [**max-sixty/worktrunk**](https://github.com/max-sixty/worktrunk) | `Rust` | `#Coding-Agents` | **+63** | ★ 8,690 | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows |
-| 8 | [**longbridge/gpui-kit**](https://github.com/longbridge/gpui-kit) | `Rust` | - | **+198** | ★ 15,732 | Rust GUI components for building fantastic cross-platform desktop application by using GPUI. |
+| 1 | [**PrimeIntellect-ai/prime-agent**](https://github.com/PrimeIntellect-ai/prime-agent) | `Rust` | `#Coding-Agents` | **+38** | ★ 21,510 | A self-improving RLM agent for coding workflows and long-running autonomous tasks. |
+| 2 | [**cjpais/Handy**](https://github.com/cjpais/Handy) | `Rust` | `#Local-AI` | **+108** | ★ 32,735 | A free, open source, and extensible speech-to-text application that works completely offline. |
+| 3 | [**rubys/roundhouse**](https://github.com/rubys/roundhouse) | `Rust` | - | **+23** | ★ 372 | Rails as a specification; the deployment target is a build flag |
+| 4 | [**longbridge/gpui-kit**](https://github.com/longbridge/gpui-kit) | `Rust` | - | **+163** | ★ 15,793 | Rust GUI components for building fantastic cross-platform desktop application by using GPUI. |
+| 5 | [**max-sixty/worktrunk**](https://github.com/max-sixty/worktrunk) | `Rust` | `#Coding-Agents` | **+67** | ★ 8,720 | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows |
+| 6 | [**a2x/cs2-dumper**](https://github.com/a2x/cs2-dumper) | `Rust` | - | **+6** | ★ 2,392 | Counter-Strike: 2 Offset Dumper |
+| 7 | [**samwhosung/benilla**](https://github.com/samwhosung/benilla) | `Rust` | - | **+95** | ★ 520 | A complete World of Warcraft 1.12.1 client, written from scratch in Rust and Bevy |
+| 8 | [**agentgateway/agentgateway**](https://github.com/agentgateway/agentgateway) | `Rust` | `#MCP` `#Coding-Agents` `#Local-AI` | **+16** | ★ 5,153 | Next Generation Agentic Proxy for AI Agents and MCP servers |
 
-> 📂 *Explore all 15 Rust repos in [`archives/2026-10/2026-10-03.md`](archives/2026-10/2026-10-03.md)*
+> 📂 *Explore all 13 Rust repos in [`archives/2026-10/2026-10-03.md`](archives/2026-10/2026-10-03.md)*
 
 ---
 
