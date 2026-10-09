@@ -51,7 +51,7 @@ claude mcp add gittrends -- npx -y gittrends-mcp
 [![morluto/rea](https://opengraph.githubassets.com/1/morluto/rea)](https://github.com/morluto/rea)
 
 > 💡 **What is it?** [morluto/rea](https://github.com/morluto/rea) — Reverse engineer anything with agents, from app behavior down to native binaries.
-> 🚀 **Gained today:** **+7,738 stars** | **Total Stars:** ★ 30,512 | **Topics:** `#Coding-Agents`
+> 🚀 **Gained today:** **+15,335 stars** | **Total Stars:** ★ 40,847 | **Topics:** `#Coding-Agents`
 
 <details>
 <summary><b>👉 Click here for Instant Quick Inspect (Clone command & details)</b></summary>
@@ -72,11 +72,11 @@ git clone https://github.com/morluto/rea.git
 
 | Rank | Repository | Language | Trending Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**morluto/rea**](https://github.com/morluto/rea) | `TypeScript` | `#Coding-Agents` | 🔥 **+7,738** | ★ 30,512 | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| 2 | [**boykopovar/AnyPS5**](https://github.com/boykopovar/AnyPS5) | `C++` | - | 🔥 **+4,669** | ★ 16,882 | Tool for automatic PS5 executables porting to Linux and Windows |
-| 3 | [**storytold/artcraft**](https://github.com/storytold/artcraft) | `Rust` | `#Local-AI` | 🔥 **+2,103** | ★ 8,790 | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
-| 4 | [**mattpocock/skills**](https://github.com/mattpocock/skills) | `Shell` | `#Agent-Skills` `#Coding-Agents` | 🔥 **+1,774** | ★ 281,468 | Skills for Real Engineers. Straight from my .agents directory. |
-| 5 | [**cathrynlavery/diagram-design**](https://github.com/cathrynlavery/diagram-design) | `HTML` | `#Coding-Agents` | 🔥 **+1,160** | ★ 46,800 | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
+| 1 | [**morluto/rea**](https://github.com/morluto/rea) | `TypeScript` | `#Coding-Agents` | 🔥 **+15,335** | ★ 40,847 | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| 2 | [**boykopovar/AnyPS5**](https://github.com/boykopovar/AnyPS5) | `C++` | - | 🔥 **+5,925** | ★ 20,843 | Tool for automatic PS5 executables porting to Linux and Windows |
+| 3 | [**storytold/artcraft**](https://github.com/storytold/artcraft) | `Rust` | `#Local-AI` | 🔥 **+3,723** | ★ 10,735 | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
+| 4 | [**cathrynlavery/diagram-design**](https://github.com/cathrynlavery/diagram-design) | `HTML` | `#Coding-Agents` | 🔥 **+1,744** | ★ 47,644 | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
+| 5 | [**mattpocock/skills**](https://github.com/mattpocock/skills) | `Shell` | `#Agent-Skills` `#Coding-Agents` | 🔥 **+1,696** | ★ 282,356 | Skills for Real Engineers. Straight from my .agents directory. |
 
 ---
 
@@ -86,12 +86,12 @@ git clone https://github.com/morluto/rea.git
 
 | Rank | AI Repository | Language | Key Topic | Stars Today | Total Stars | What It Does |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**morluto/rea**](https://github.com/morluto/rea) | `TypeScript` | `#Coding-Agents` | 🔥 **+7,738** | ★ 30,512 | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| 2 | [**storytold/artcraft**](https://github.com/storytold/artcraft) | `Rust` | `#Local-AI` | 🔥 **+2,103** | ★ 8,790 | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
-| 3 | [**mattpocock/skills**](https://github.com/mattpocock/skills) | `Shell` | `#Agent-Skills` | 🔥 **+1,774** | ★ 281,468 | Skills for Real Engineers. Straight from my .agents directory. |
-| 4 | [**cathrynlavery/diagram-design**](https://github.com/cathrynlavery/diagram-design) | `HTML` | `#Coding-Agents` | 🔥 **+1,160** | ★ 46,800 | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
-| 5 | [**tester-army/e2e**](https://github.com/tester-army/e2e) | `TypeScript` | `#Local-AI` | 🔥 **+962** | ★ 8,250 | Next generation e2e testing framework for web and mobile apps. |
-| 6 | [**ayghri/i-have-adhd**](https://github.com/ayghri/i-have-adhd) | `Python` | `#Agent-Skills` | 🔥 **+845** | ★ 55,882 | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
+| 1 | [**morluto/rea**](https://github.com/morluto/rea) | `TypeScript` | `#Coding-Agents` | 🔥 **+15,335** | ★ 40,847 | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| 2 | [**storytold/artcraft**](https://github.com/storytold/artcraft) | `Rust` | `#Local-AI` | 🔥 **+3,723** | ★ 10,735 | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
+| 3 | [**cathrynlavery/diagram-design**](https://github.com/cathrynlavery/diagram-design) | `HTML` | `#Coding-Agents` | 🔥 **+1,744** | ★ 47,644 | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
+| 4 | [**mattpocock/skills**](https://github.com/mattpocock/skills) | `Shell` | `#Agent-Skills` | 🔥 **+1,696** | ★ 282,356 | Skills for Real Engineers. Straight from my .agents directory. |
+| 5 | [**tt-a1i/archify**](https://github.com/tt-a1i/archify) | `JavaScript` | `#Agent-Skills` | 🔥 **+1,220** | ★ 81,095 | Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. |
+| 6 | [**thedotmack/claude-mem**](https://github.com/thedotmack/claude-mem) | `TypeScript` | `#Coding-Agents` | 🔥 **+838** | ★ 98,927 | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More |
 
 ---
 
@@ -101,91 +101,89 @@ git clone https://github.com/morluto/rea.git
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**boykopovar/AnyPS5**](https://github.com/boykopovar/AnyPS5) | `C++` | - | **+4,669** | ★ 16,882 | Tool for automatic PS5 executables porting to Linux and Windows |
-| 2 | [**cathrynlavery/diagram-design**](https://github.com/cathrynlavery/diagram-design) | `HTML` | `#Coding-Agents` | **+1,160** | ★ 46,800 | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
-| 3 | [**morluto/rea**](https://github.com/morluto/rea) | `TypeScript` | `#Coding-Agents` | **+7,738** | ★ 30,512 | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| 4 | [**mattpocock/skills**](https://github.com/mattpocock/skills) | `Shell` | `#Agent-Skills` `#Coding-Agents` | **+1,774** | ★ 281,468 | Skills for Real Engineers. Straight from my .agents directory. |
-| 5 | [**thedotmack/claude-mem**](https://github.com/thedotmack/claude-mem) | `TypeScript` | `#Coding-Agents` | **+670** | ★ 98,678 | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More |
-| 6 | [**EpicGames/raddebugger**](https://github.com/EpicGames/raddebugger) | `C` | - | **+279** | ★ 8,170 | A native, user-mode, multi-process, graphical debugger. |
-| 7 | [**anthropics/knowledge-work-plugins**](https://github.com/anthropics/knowledge-work-plugins) | `Python` | - | **+392** | ★ 27,816 | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
-| 8 | [**storytold/artcraft**](https://github.com/storytold/artcraft) | `Rust` | `#Local-AI` | **+2,103** | ★ 8,790 | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
+| 1 | [**morluto/rea**](https://github.com/morluto/rea) | `TypeScript` | `#Coding-Agents` | **+15,335** | ★ 40,847 | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| 2 | [**boykopovar/AnyPS5**](https://github.com/boykopovar/AnyPS5) | `C++` | - | **+5,925** | ★ 20,843 | Tool for automatic PS5 executables porting to Linux and Windows |
+| 3 | [**mattpocock/skills**](https://github.com/mattpocock/skills) | `Shell` | `#Agent-Skills` `#Coding-Agents` | **+1,696** | ★ 282,356 | Skills for Real Engineers. Straight from my .agents directory. |
+| 4 | [**cathrynlavery/diagram-design**](https://github.com/cathrynlavery/diagram-design) | `HTML` | `#Coding-Agents` | **+1,744** | ★ 47,644 | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
+| 5 | [**alibaba/open-code-review**](https://github.com/alibaba/open-code-review) | `Go` | `#Coding-Agents` | **+323** | ★ 45,016 | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
+| 6 | [**anthropics/knowledge-work-plugins**](https://github.com/anthropics/knowledge-work-plugins) | `Python` | - | **+714** | ★ 28,109 | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
+| 7 | [**BerriAI/litellm**](https://github.com/BerriAI/litellm) | `Python` | - | **+95** | ★ 60,556 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM] |
+| 8 | [**addyosmani/agent-skills**](https://github.com/addyosmani/agent-skills) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` | **+523** | ★ 103,813 | Production-grade engineering skills for AI coding agents. |
 
-> 📂 *Explore all 9 Overall Trending repos in [`archives/2026-10/2026-10-09.md`](archives/2026-10/2026-10-09.md)*
+> 📂 *Explore all 11 Overall Trending repos in [`archives/2026-10/2026-10-09.md`](archives/2026-10/2026-10-09.md)*
 
 ### 🐍 Python
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**anthropics/knowledge-work-plugins**](https://github.com/anthropics/knowledge-work-plugins) | `Python` | - | **+392** | ★ 27,816 | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
-| 2 | [**earthtojake/text-to-cad**](https://github.com/earthtojake/text-to-cad) | `Python` | `#Coding-Agents` | **+159** | ★ 18,544 | Give your agent CAD superpowers. |
-| 3 | [**ayghri/i-have-adhd**](https://github.com/ayghri/i-have-adhd) | `Python` | `#Agent-Skills` `#Coding-Agents` | **+845** | ★ 55,882 | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
-| 4 | [**Tracer-Cloud/opensre**](https://github.com/Tracer-Cloud/opensre) | `Python` | `#Coding-Agents` | **+81** | ★ 11,666 | Build your own AI SRE agents. The open source toolkit for the AI era. |
-| 5 | [**abrignoni/ALEAPP**](https://github.com/abrignoni/ALEAPP) | `Python` | - | **+18** | ★ 976 | Android Logs Events And Protobuf Parser |
-| 6 | [**smicallef/spiderfoot**](https://github.com/smicallef/spiderfoot) | `Python` | - | **+88** | ★ 23,206 | SpiderFoot automates OSINT for threat intelligence and mapping your attack surface. |
-| 7 | [**bmad-code-org/BMAD-METHOD**](https://github.com/bmad-code-org/BMAD-METHOD) | `Python` | - | **+51** | ★ 53,966 | Breakthrough Method for Agile Ai Driven Development |
-| 8 | [**psf/black**](https://github.com/psf/black) | `Python` | - | **+7** | ★ 41,887 | The uncompromising Python code formatter |
+| 1 | [**anthropics/knowledge-work-plugins**](https://github.com/anthropics/knowledge-work-plugins) | `Python` | - | **+714** | ★ 28,109 | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
+| 2 | [**BerriAI/litellm**](https://github.com/BerriAI/litellm) | `Python` | - | **+95** | ★ 60,556 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM] |
+| 3 | [**Robbyant/lingbot-map**](https://github.com/Robbyant/lingbot-map) | `Python` | - | **+109** | ★ 17,626 | [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction |
+| 4 | [**Tencent-Hunyuan/Hy-MT2**](https://github.com/Tencent-Hunyuan/Hy-MT2) | `Python` | - | **+147** | ★ 1,177 | No description provided. |
+| 5 | [**ayghri/i-have-adhd**](https://github.com/ayghri/i-have-adhd) | `Python` | `#Agent-Skills` `#Coding-Agents` | **+388** | ★ 56,085 | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
+| 6 | [**unslothai/unsloth**](https://github.com/unslothai/unsloth) | `Python` | `#AI-Video` `#Local-AI` | **+140** | ★ 77,622 | Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more. |
+| 7 | [**headroomlabs-ai/headroom**](https://github.com/headroomlabs-ai/headroom) | `Python` | `#MCP` `#Coding-Agents` `#Web3` | **+120** | ★ 74,822 | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. |
+| 8 | [**hugohe3/ppt-master**](https://github.com/hugohe3/ppt-master) | `Python` | - | **+308** | ★ 58,687 | AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He |
 
-> 📂 *Explore all 12 Python repos in [`archives/2026-10/2026-10-09.md`](archives/2026-10/2026-10-09.md)*
+> 📂 *Explore all 13 Python repos in [`archives/2026-10/2026-10-09.md`](archives/2026-10/2026-10-09.md)*
 
 ### ⚡ JavaScript
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**alchaincyf/huashu-art-motion**](https://github.com/alchaincyf/huashu-art-motion) | `JavaScript` | `#Agent-Skills` | - | ★ 2,604 | 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。 |
-| 2 | [**shadany7824/playgta5**](https://github.com/shadany7824/playgta5) | `JavaScript` | - | - | ★ 821 | A source code for playgta5.com. |
-| 3 | [**GTKottman/mortiflix-oss**](https://github.com/GTKottman/mortiflix-oss) | `JavaScript` | `#AI-Video` | - | ★ 476 | A motion design studio on your own machine: Claude makes the video step by step, you approve every stage. Bring your own Claude Code or API key. |
-| 4 | [**allenv0/SCM**](https://github.com/allenv0/SCM) | `JavaScript` | `#AI-Video` | - | ★ 447 | Deep AI search for every photo and every frame of video in any folder on macOS |
-| 5 | [**gr8rstudio/gr8r-studio**](https://github.com/gr8rstudio/gr8r-studio) | `JavaScript` | - | - | ★ 339 | Gr8r Studio: a calm, structured project management workspace. Vite + plain ES modules. |
-| 6 | [**cth9191/animate**](https://github.com/cth9191/animate) | `JavaScript` | `#AI-Video` | - | ★ 232 | Procedural animation in any style for Claude Code: short single-file canvas videos with story, look and storyboard check-ins. 7 built-in styles or one matched from your references, your own music (beat-mapped), real product screenshots, every format from one piece. |
-| 7 | [**Nonco-Organization/multicoin-address-validator**](https://github.com/Nonco-Organization/multicoin-address-validator) | `JavaScript` | `#Web3` | - | ★ 231 | Useful library for validation of Bitcoin, Litecoin, Ethereum and other cryptocoin addresses |
-| 8 | [**Hiteater-wzm/eeo**](https://github.com/Hiteater-wzm/eeo) | `JavaScript` | - | - | ★ 189 | An open community where brands define themselves for AI |
+| 1 | [**addyosmani/agent-skills**](https://github.com/addyosmani/agent-skills) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` | **+523** | ★ 103,813 | Production-grade engineering skills for AI coding agents. |
+| 2 | [**DuarteSantos8/openGym**](https://github.com/DuarteSantos8/openGym) | `JavaScript` | - | **+675** | ★ 8,502 | Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server. |
+| 3 | [**Anil-matcha/Open-Generative-AI**](https://github.com/Anil-matcha/Open-Generative-AI) | `JavaScript` | `#AI-Video` `#Local-AI` | **+75** | ★ 29,933 | Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed. |
+| 4 | [**liyupi/ai-guide**](https://github.com/liyupi/ai-guide) | `JavaScript` | `#MCP` `#Agent-Skills` `#Coding-Agents` | **+61** | ★ 20,909 | 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude / GLM）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cursor / Claude Code / TRAE / Codex / Copilot）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档 aiguide，已升级为鱼皮 AI 导航网站 |
+| 5 | [**aunetx/blur-my-shell**](https://github.com/aunetx/blur-my-shell) | `JavaScript` | - | **+12** | ★ 2,289 | Extension that adds a blur look to different parts of the GNOME Shell, including the top panel, dash and overview |
+| 6 | [**chuspeeism/dashi-taskboard**](https://github.com/chuspeeism/dashi-taskboard) | `JavaScript` | `#Coding-Agents` | **+7** | ★ 3,313 | 现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness |
+| 7 | [**cloudflare/security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` `#Security` | **+371** | ★ 26,876 | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
+| 8 | [**microsoft/power-platform-skills**](https://github.com/microsoft/power-platform-skills) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` | **+4** | ★ 980 | A plugin marketplace for GitHub Copilot and other AI agents that provides Power Platform development plugins, including reusable skills, agents, and commands for building and deploying solutions. |
 
-> 📂 *Explore all 15 JavaScript repos in [`archives/2026-10/2026-10-09.md`](archives/2026-10/2026-10-09.md)*
+> 📂 *Explore all 12 JavaScript repos in [`archives/2026-10/2026-10-09.md`](archives/2026-10/2026-10-09.md)*
 
 ### 🔷 TypeScript
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**morluto/rea**](https://github.com/morluto/rea) | `TypeScript` | `#Coding-Agents` | **+7,738** | ★ 30,537 | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| 2 | [**thedotmack/claude-mem**](https://github.com/thedotmack/claude-mem) | `TypeScript` | `#Coding-Agents` | **+670** | ★ 98,679 | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More |
-| 3 | [**tashfeenahmed/freellmapi**](https://github.com/tashfeenahmed/freellmapi) | `TypeScript` | `#Web3` | **+518** | ★ 32,251 | 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only. |
-| 4 | [**koala73/worldmonitor**](https://github.com/koala73/worldmonitor) | `TypeScript` | - | **+89** | ★ 88,103 | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface |
-| 5 | [**tester-army/e2e**](https://github.com/tester-army/e2e) | `TypeScript` | `#Local-AI` | **+962** | ★ 8,250 | Next generation e2e testing framework for web and mobile apps. |
-| 6 | [**reconurge/flowsint**](https://github.com/reconurge/flowsint) | `TypeScript` | `#Security` | **+69** | ★ 9,562 | A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators. |
-| 7 | [**Vincentwei1021/video-shotcraft**](https://github.com/Vincentwei1021/video-shotcraft) | `TypeScript` | `#Agent-Skills` `#Coding-Agents` `#AI-Video` | **+241** | ★ 10,930 | AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template |
-| 8 | [**Gimanh/taskview-community**](https://github.com/Gimanh/taskview-community) | `TypeScript` | `#Local-AI` | **+25** | ★ 1,282 | TaskView is a self-hosted project and task management platform focused on clarity, ownership, and control. TaskView is built for teams that want a transparent, self-hosted alternative to SaaS task managers. |
+| 1 | [**morluto/rea**](https://github.com/morluto/rea) | `TypeScript` | `#Coding-Agents` | **+15,335** | ★ 40,848 | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| 2 | [**Vincentwei1021/video-shotcraft**](https://github.com/Vincentwei1021/video-shotcraft) | `TypeScript` | `#Agent-Skills` `#Coding-Agents` `#AI-Video` | **+161** | ★ 11,018 | AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template |
+| 3 | [**VERT-sh/VERT**](https://github.com/VERT-sh/VERT) | `TypeScript` | `#Local-AI` | **+45** | ★ 15,802 | The next-generation file converter. Open source, fully local* and free forever. |
+| 4 | [**PurpleDoubleD/locally-uncensored**](https://github.com/PurpleDoubleD/locally-uncensored) | `TypeScript` | `#Coding-Agents` `#AI-Video` `#Local-AI` | **+70** | ★ 2,113 | The all-in-one local AI studio for your desktop: chat, image and video generation and a coding agent in one free, open source app. Windows and Linux. No Docker, no terminal, no cloud required. |
+| 5 | [**ibelick/ui-skills**](https://github.com/ibelick/ui-skills) | `TypeScript` | `#Agent-Skills` | **+47** | ★ 9,553 | Skills for Design Engineers |
+| 6 | [**thedotmack/claude-mem**](https://github.com/thedotmack/claude-mem) | `TypeScript` | `#Coding-Agents` | **+838** | ★ 98,927 | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More |
+| 7 | [**apify/crawlee**](https://github.com/apify/crawlee) | `TypeScript` | - | **+26** | ★ 26,084 | Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation. |
+| 8 | [**thesysdev/openui**](https://github.com/thesysdev/openui) | `TypeScript` | `#Local-AI` | **+363** | ★ 10,552 | The Open Standard for Generative UI |
 
-> 📂 *Explore all 17 TypeScript repos in [`archives/2026-10/2026-10-09.md`](archives/2026-10/2026-10-09.md)*
+> 📂 *Explore all 11 TypeScript repos in [`archives/2026-10/2026-10-09.md`](archives/2026-10/2026-10-09.md)*
 
 ### 🐹 Go
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**docker/docker-agent**](https://github.com/docker/docker-agent) | `Go` | `#Coding-Agents` | **+766** | ★ 4,258 | AI Agent Builder and Runtime by Docker Engineering |
-| 2 | [**hashicorp/vault**](https://github.com/hashicorp/vault) | `Go` | - | **+7** | ★ 36,360 | A tool for secrets management, encryption as a service, and privileged access management |
-| 3 | [**ollama/ollama**](https://github.com/ollama/ollama) | `Go` | `#Local-AI` | **+128** | ★ 182,437 | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
-| 4 | [**argoproj/argo-cd**](https://github.com/argoproj/argo-cd) | `Go` | - | **+3** | ★ 24,350 | Declarative Continuous Deployment for Kubernetes |
-| 5 | [**go-acme/lego**](https://github.com/go-acme/lego) | `Go` | - | **+2** | ★ 9,917 | Let's Encrypt/ACME client and library written in Go |
-| 6 | [**llm-d/llm-d-router**](https://github.com/llm-d/llm-d-router) | `Go` | - | **+3** | ★ 383 | llm-d Router: The intelligent entry point for inference requests |
-| 7 | [**external-secrets/external-secrets**](https://github.com/external-secrets/external-secrets) | `Go` | - | **+2** | ★ 6,898 | External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. |
-| 8 | [**open-telemetry/opentelemetry-collector-contrib**](https://github.com/open-telemetry/opentelemetry-collector-contrib) | `Go` | - | **+4** | ★ 4,983 | Contrib repository for the OpenTelemetry Collector |
+| 1 | [**alibaba/open-code-review**](https://github.com/alibaba/open-code-review) | `Go` | `#Coding-Agents` | **+323** | ★ 45,016 | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
+| 2 | [**ollama/ollama**](https://github.com/ollama/ollama) | `Go` | `#Local-AI` | **+149** | ★ 182,509 | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
+| 3 | [**Wei-Shaw/sub2api**](https://github.com/Wei-Shaw/sub2api) | `Go` | - | **+90** | ★ 43,568 | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+| 4 | [**infiniflow/ragflow**](https://github.com/infiniflow/ragflow) | `Go` | `#Coding-Agents` `#Local-AI` | **+81** | ★ 91,912 | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs |
+| 5 | [**hashicorp/vault**](https://github.com/hashicorp/vault) | `Go` | - | **+8** | ★ 36,366 | A tool for secrets management, encryption as a service, and privileged access management |
+| 6 | [**QuantumNous/new-api**](https://github.com/QuantumNous/new-api) | `Go` | - | **+93** | ★ 49,527 | A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. |
+| 7 | [**multica-ai/multica**](https://github.com/multica-ai/multica) | `Go` | `#Coding-Agents` | **+118** | ★ 52,289 | Make humans and AI agents work as one team — open-source and self-hostable. |
+| 8 | [**docker/docker-agent**](https://github.com/docker/docker-agent) | `Go` | `#Coding-Agents` | **+158** | ★ 4,306 | AI Agent Builder and Runtime by Docker Engineering |
 
-> 📂 *Explore all 16 Go repos in [`archives/2026-10/2026-10-09.md`](archives/2026-10/2026-10-09.md)*
+> 📂 *Explore all 17 Go repos in [`archives/2026-10/2026-10-09.md`](archives/2026-10/2026-10-09.md)*
 
 ### 🦀 Rust
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**storytold/artcraft**](https://github.com/storytold/artcraft) | `Rust` | `#Local-AI` | **+2,103** | ★ 8,800 | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
-| 2 | [**akitaonrails/ai-memory**](https://github.com/akitaonrails/ai-memory) | `Rust` | `#Coding-Agents` | **+123** | ★ 9,065 | Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors |
-| 3 | [**martin-olivier/airgorah**](https://github.com/martin-olivier/airgorah) | `Rust` | `#Security` | **+101** | ★ 3,970 | A WiFi security auditing software |
-| 4 | [**microsoft/mxc**](https://github.com/microsoft/mxc) | `Rust` | - | **+135** | ★ 1,862 | Policy-driven, layered isolation and containment |
-| 5 | [**fabio-rovai/open-ontologies**](https://github.com/fabio-rovai/open-ontologies) | `Rust` | - | **+63** | ★ 977 | Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof an auditor can re-check. |
-| 6 | [**vercel-labs/agent-browser**](https://github.com/vercel-labs/agent-browser) | `Rust` | `#Coding-Agents` | **+69** | ★ 43,704 | Browser automation CLI for AI agents |
-| 7 | [**HakanSeven12/OpenCADStudio**](https://github.com/HakanSeven12/OpenCADStudio) | `Rust` | - | **+32** | ★ 2,563 | A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering |
-| 8 | [**emilk/egui**](https://github.com/emilk/egui) | `Rust` | - | **+67** | ★ 31,059 | egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native |
+| 1 | [**storytold/artcraft**](https://github.com/storytold/artcraft) | `Rust` | `#Local-AI` | **+3,723** | ★ 10,736 | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
+| 2 | [**microsoft/mxc**](https://github.com/microsoft/mxc) | `Rust` | - | **+673** | ★ 2,295 | Policy-driven, layered isolation and containment |
+| 3 | [**vercel-labs/agent-browser**](https://github.com/vercel-labs/agent-browser) | `Rust` | `#Coding-Agents` | **+60** | ★ 43,716 | Browser automation CLI for AI agents |
+| 4 | [**farion1231/cc-switch**](https://github.com/farion1231/cc-switch) | `Rust` | `#Coding-Agents` | **+640** | ★ 141,890 | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io |
+| 5 | [**jdx/mise**](https://github.com/jdx/mise) | `Rust` | `#Local-AI` | **+47** | ★ 34,830 | dev tools, env vars, task runner |
+| 6 | [**openai/codex**](https://github.com/openai/codex) | `Rust` | `#Coding-Agents` | **+214** | ★ 128,382 | Lightweight coding agent that runs in your terminal |
 
-> 📂 *Explore all 14 Rust repos in [`archives/2026-10/2026-10-09.md`](archives/2026-10/2026-10-09.md)*
+> 📂 *Explore all 6 Rust repos in [`archives/2026-10/2026-10-09.md`](archives/2026-10/2026-10-09.md)*
 
 ---
 
