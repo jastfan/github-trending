@@ -51,7 +51,7 @@ claude mcp add gittrends -- npx -y gittrends-mcp
 [![morluto/rea](https://opengraph.githubassets.com/1/morluto/rea)](https://github.com/morluto/rea)
 
 > 💡 **What is it?** [morluto/rea](https://github.com/morluto/rea) — Reverse engineer anything with agents, from app behavior down to native binaries.
-> 🚀 **Gained today:** **+25,599 stars** | **Total Stars:** ★ 117,216 | **Topics:** `#Coding-Agents`
+> 🚀 **Gained today:** **+45,495 stars** | **Total Stars:** ★ 151,630 | **Topics:** `#Coding-Agents`
 
 <details>
 <summary><b>👉 Click here for Instant Quick Inspect (Clone command & details)</b></summary>
@@ -72,11 +72,11 @@ git clone https://github.com/morluto/rea.git
 
 | Rank | Repository | Language | Trending Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**morluto/rea**](https://github.com/morluto/rea) | `TypeScript` | `#Coding-Agents` | 🔥 **+25,599** | ★ 117,216 | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| 2 | [**boykopovar/AnyPS5**](https://github.com/boykopovar/AnyPS5) | `C++` | - | 🔥 **+3,952** | ★ 30,812 | Tool for automatic PS5 executables porting to Linux and Windows |
-| 3 | [**storytold/artcraft**](https://github.com/storytold/artcraft) | `Rust` | `#Local-AI` | 🔥 **+2,957** | ★ 18,820 | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
-| 4 | [**debpalash/VoiceStudio**](https://github.com/debpalash/VoiceStudio) | `Python` | `#AI-Video` | 🔥 **+1,225** | ★ 59,135 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
-| 5 | [**hugohe3/ppt-master**](https://github.com/hugohe3/ppt-master) | `Python` | - | 🔥 **+1,104** | ★ 60,565 | AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He |
+| 1 | [**morluto/rea**](https://github.com/morluto/rea) | `TypeScript` | `#Coding-Agents` | 🔥 **+45,495** | ★ 151,630 | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| 2 | [**storytold/artcraft**](https://github.com/storytold/artcraft) | `Rust` | `#Local-AI` | 🔥 **+4,106** | ★ 21,535 | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
+| 3 | [**cathrynlavery/diagram-design**](https://github.com/cathrynlavery/diagram-design) | `HTML` | `#Coding-Agents` | 🔥 **+2,100** | ★ 52,415 | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
+| 4 | [**bilawalsidhu/gods-eye-view**](https://github.com/bilawalsidhu/gods-eye-view) | `JavaScript` | - | 🔥 **+1,903** | ★ 53,430 | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. |
+| 5 | [**debpalash/VoiceStudio**](https://github.com/debpalash/VoiceStudio) | `Python` | `#AI-Video` | 🔥 **+1,688** | ★ 60,241 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
 
 ---
 
@@ -86,12 +86,12 @@ git clone https://github.com/morluto/rea.git
 
 | Rank | AI Repository | Language | Key Topic | Stars Today | Total Stars | What It Does |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**morluto/rea**](https://github.com/morluto/rea) | `TypeScript` | `#Coding-Agents` | 🔥 **+25,599** | ★ 117,216 | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| 2 | [**storytold/artcraft**](https://github.com/storytold/artcraft) | `Rust` | `#Local-AI` | 🔥 **+2,957** | ★ 18,820 | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
-| 3 | [**debpalash/VoiceStudio**](https://github.com/debpalash/VoiceStudio) | `Python` | `#AI-Video` | 🔥 **+1,225** | ★ 59,135 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
-| 4 | [**hugohe3/ppt-master**](https://github.com/hugohe3/ppt-master) | `Python` | `#AI` | 🔥 **+1,104** | ★ 60,565 | AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He |
-| 5 | [**cathrynlavery/diagram-design**](https://github.com/cathrynlavery/diagram-design) | `HTML` | `#Coding-Agents` | 🔥 **+1,083** | ★ 50,890 | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
-| 6 | [**Alishahryar1/free-claude-code**](https://github.com/Alishahryar1/free-claude-code) | `Python` | `#Coding-Agents` | 🔥 **+506** | ★ 58,158 | Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly) |
+| 1 | [**morluto/rea**](https://github.com/morluto/rea) | `TypeScript` | `#Coding-Agents` | 🔥 **+45,495** | ★ 151,630 | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| 2 | [**storytold/artcraft**](https://github.com/storytold/artcraft) | `Rust` | `#Local-AI` | 🔥 **+4,106** | ★ 21,535 | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
+| 3 | [**cathrynlavery/diagram-design**](https://github.com/cathrynlavery/diagram-design) | `HTML` | `#Coding-Agents` | 🔥 **+2,100** | ★ 52,415 | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
+| 4 | [**debpalash/VoiceStudio**](https://github.com/debpalash/VoiceStudio) | `Python` | `#AI-Video` | 🔥 **+1,688** | ★ 60,241 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
+| 5 | [**affaan-m/ECC**](https://github.com/affaan-m/ECC) | `JavaScript` | `#Agent-Skills` | 🔥 **+774** | ★ 277,824 | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| 6 | [**hugohe3/ppt-master**](https://github.com/hugohe3/ppt-master) | `Python` | `#AI` | 🔥 **+772** | ★ 61,056 | AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He |
 
 ---
 
@@ -101,87 +101,88 @@ git clone https://github.com/morluto/rea.git
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**morluto/rea**](https://github.com/morluto/rea) | `TypeScript` | `#Coding-Agents` | **+25,599** | ★ 117,216 | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| 2 | [**boykopovar/AnyPS5**](https://github.com/boykopovar/AnyPS5) | `C++` | - | **+3,952** | ★ 30,812 | Tool for automatic PS5 executables porting to Linux and Windows |
-| 3 | [**storytold/artcraft**](https://github.com/storytold/artcraft) | `Rust` | `#Local-AI` | **+2,957** | ★ 18,820 | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
-| 4 | [**cathrynlavery/diagram-design**](https://github.com/cathrynlavery/diagram-design) | `HTML` | `#Coding-Agents` | **+1,083** | ★ 50,890 | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
-| 5 | [**bilawalsidhu/gods-eye-view**](https://github.com/bilawalsidhu/gods-eye-view) | `JavaScript` | - | **+886** | ★ 52,127 | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. |
-| 6 | [**pytorch/pytorch**](https://github.com/pytorch/pytorch) | `Python` | - | **+315** | ★ 104,620 | Tensors and Dynamic neural networks in Python with strong GPU acceleration |
-| 7 | [**lyogavin/airllm**](https://github.com/lyogavin/airllm) | `Jupyter Notebook` | - | **+548** | ★ 36,717 | AirLLM 70B inference with single 4GB GPU |
-| 8 | [**chrislgarry/Apollo-11**](https://github.com/chrislgarry/Apollo-11) | `Assembly` | - | **+466** | ★ 74,392 | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. |
+| 1 | [**morluto/rea**](https://github.com/morluto/rea) | `TypeScript` | `#Coding-Agents` | **+45,495** | ★ 151,630 | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| 2 | [**bilawalsidhu/gods-eye-view**](https://github.com/bilawalsidhu/gods-eye-view) | `JavaScript` | - | **+1,903** | ★ 53,430 | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. |
+| 3 | [**mksglu/context-mode**](https://github.com/mksglu/context-mode) | `TypeScript` | `#MCP` `#Coding-Agents` | **+394** | ★ 27,190 | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. |
+| 4 | [**storytold/artcraft**](https://github.com/storytold/artcraft) | `Rust` | `#Local-AI` | **+4,106** | ★ 21,535 | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
+| 5 | [**open-webui/open-webui**](https://github.com/open-webui/open-webui) | `Python` | `#Local-AI` | **+142** | ★ 154,865 | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
+| 6 | [**cathrynlavery/diagram-design**](https://github.com/cathrynlavery/diagram-design) | `HTML` | `#Coding-Agents` | **+2,100** | ★ 52,415 | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
+| 7 | [**lyogavin/airllm**](https://github.com/lyogavin/airllm) | `Jupyter Notebook` | - | **+886** | ★ 37,429 | AirLLM 70B inference with single 4GB GPU |
+| 8 | [**microsoft/BitNet**](https://github.com/microsoft/BitNet) | `C++` | - | **+134** | ★ 40,867 | Official inference framework for 1-bit LLMs |
 
-> 📂 *Explore all 8 Overall Trending repos in [`archives/2026-10/2026-10-12.md`](archives/2026-10/2026-10-12.md)*
+> 📂 *Explore all 9 Overall Trending repos in [`archives/2026-10/2026-10-12.md`](archives/2026-10/2026-10-12.md)*
 
 ### 🐍 Python
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**pytorch/pytorch**](https://github.com/pytorch/pytorch) | `Python` | - | **+315** | ★ 104,620 | Tensors and Dynamic neural networks in Python with strong GPU acceleration |
-| 2 | [**Alishahryar1/free-claude-code**](https://github.com/Alishahryar1/free-claude-code) | `Python` | `#Coding-Agents` `#Web3` | **+506** | ★ 58,158 | Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly) |
-| 3 | [**huggingface/transformers**](https://github.com/huggingface/transformers) | `Python` | - | **+501** | ★ 167,536 | 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. |
-| 4 | [**hugohe3/ppt-master**](https://github.com/hugohe3/ppt-master) | `Python` | - | **+1,104** | ★ 60,565 | AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He |
-| 5 | [**debpalash/VoiceStudio**](https://github.com/debpalash/VoiceStudio) | `Python` | `#AI-Video` | **+1,225** | ★ 59,135 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
-| 6 | [**HunxByts/GhostTrack**](https://github.com/HunxByts/GhostTrack) | `Python` | - | **+165** | ★ 18,261 | Useful tool to track location or mobile number |
-| 7 | [**MadsLorentzen/ai-job-search**](https://github.com/MadsLorentzen/ai-job-search) | `Python` | - | **+504** | ★ 46,205 | The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. |
-| 8 | [**ComposioHQ/awesome-claude-skills**](https://github.com/ComposioHQ/awesome-claude-skills) | `Python` | `#Agent-Skills` | **+68** | ★ 76,899 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+| 1 | [**open-webui/open-webui**](https://github.com/open-webui/open-webui) | `Python` | `#Local-AI` | **+142** | ★ 154,865 | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
+| 2 | [**Alishahryar1/free-claude-code**](https://github.com/Alishahryar1/free-claude-code) | `Python` | `#Coding-Agents` `#Web3` | **+705** | ★ 58,947 | Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly) |
+| 3 | [**debpalash/VoiceStudio**](https://github.com/debpalash/VoiceStudio) | `Python` | `#AI-Video` | **+1,688** | ★ 60,241 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
+| 4 | [**hugohe3/ppt-master**](https://github.com/hugohe3/ppt-master) | `Python` | - | **+772** | ★ 61,056 | AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He |
+| 5 | [**google/skills**](https://github.com/google/skills) | `Python` | `#Agent-Skills` `#Coding-Agents` | **+66** | ★ 21,214 | Agent Skills for Google products and technologies |
+| 6 | [**public-apis/public-apis**](https://github.com/public-apis/public-apis) | `Python` | - | **+428** | ★ 487,959 | A collective list of free APIs |
+| 7 | [**MadsLorentzen/ai-job-search**](https://github.com/MadsLorentzen/ai-job-search) | `Python` | - | **+309** | ★ 46,358 | The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. |
+| 8 | [**multimodal-art-projection/YuE**](https://github.com/multimodal-art-projection/YuE) | `Python` | `#Coding-Agents` `#Local-AI` | **+318** | ★ 11,792 | YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing. |
 
-> 📂 *Explore all 15 Python repos in [`archives/2026-10/2026-10-12.md`](archives/2026-10/2026-10-12.md)*
+> 📂 *Explore all 13 Python repos in [`archives/2026-10/2026-10-12.md`](archives/2026-10/2026-10-12.md)*
 
 ### ⚡ JavaScript
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**bilawalsidhu/gods-eye-view**](https://github.com/bilawalsidhu/gods-eye-view) | `JavaScript` | - | **+886** | ★ 52,127 | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. |
-| 2 | [**MiaAI-Lab/sparkDash**](https://github.com/MiaAI-Lab/sparkDash) | `JavaScript` | - | **+21** | ★ 662 | sparkDash ⚡ — Multi-DGX Spark Monitoring Dashboard |
-| 3 | [**liyupi/ai-guide**](https://github.com/liyupi/ai-guide) | `JavaScript` | `#MCP` `#Agent-Skills` `#Coding-Agents` | **+38** | ★ 21,013 | 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude / GLM）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cursor / Claude Code / TRAE / Codex / Copilot）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档 aiguide，已升级为鱼皮 AI 导航网站 |
-| 4 | [**MagicMirrorOrg/MagicMirror**](https://github.com/MagicMirrorOrg/MagicMirror) | `JavaScript` | - | **+35** | ★ 24,073 | MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant. |
-| 5 | [**greensock/GSAP**](https://github.com/greensock/GSAP) | `JavaScript` | - | **+46** | ★ 29,086 | GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web |
-| 6 | [**chaolucky18/xuexitongScript**](https://github.com/chaolucky18/xuexitongScript) | `JavaScript` | - | **+25** | ★ 2,818 | 学习通自动刷课脚本 |
+| 1 | [**bilawalsidhu/gods-eye-view**](https://github.com/bilawalsidhu/gods-eye-view) | `JavaScript` | - | **+1,903** | ★ 53,430 | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. |
+| 2 | [**affaan-m/ECC**](https://github.com/affaan-m/ECC) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` `#Security` | **+774** | ★ 277,824 | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| 3 | [**greensock/GSAP**](https://github.com/greensock/GSAP) | `JavaScript` | - | **+60** | ★ 29,127 | GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web |
+| 4 | [**Javis603/token-monitor**](https://github.com/Javis603/token-monitor) | `JavaScript` | `#Coding-Agents` `#Local-AI` `#Web3` | **+156** | ★ 2,961 | Local-first desktop widget for tracking token usage, costs, limits, and session activity across 44+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device sync. |
+| 5 | [**NomaDamas/k-skill**](https://github.com/NomaDamas/k-skill) | `JavaScript` | `#Agent-Skills` | **+33** | ★ 7,891 | 한국인을 위한 스킬 모음집 - 에이전트를 한국인으로 |
+| 6 | [**chaolucky18/xuexitongScript**](https://github.com/chaolucky18/xuexitongScript) | `JavaScript` | - | **+38** | ★ 2,840 | 学习通自动刷课脚本 |
+| 7 | [**drawdb-io/drawdb**](https://github.com/drawdb-io/drawdb) | `JavaScript` | `#Local-AI` | **+46** | ★ 39,942 | Free, simple, and intuitive online database diagram editor and SQL generator. |
+| 8 | [**poloclub/transformer-explainer**](https://github.com/poloclub/transformer-explainer) | `JavaScript` | `#Local-AI` | **+23** | ★ 8,928 | Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization |
 
-> 📂 *Explore all 6 JavaScript repos in [`archives/2026-10/2026-10-12.md`](archives/2026-10/2026-10-12.md)*
+> 📂 *Explore all 9 JavaScript repos in [`archives/2026-10/2026-10-12.md`](archives/2026-10/2026-10-12.md)*
 
 ### 🔷 TypeScript
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**morluto/rea**](https://github.com/morluto/rea) | `TypeScript` | `#Coding-Agents` | **+25,599** | ★ 117,222 | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| 2 | [**mksglu/context-mode**](https://github.com/mksglu/context-mode) | `TypeScript` | `#MCP` `#Coding-Agents` | **+485** | ★ 26,729 | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. |
-| 3 | [**langgenius/dify**](https://github.com/langgenius/dify) | `TypeScript` | `#Coding-Agents` | **+79** | ★ 158,190 | Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. |
-| 4 | [**openclaw/openclaw**](https://github.com/openclaw/openclaw) | `TypeScript` | - | **+164** | ★ 391,722 | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 |
-| 5 | [**CopilotKit/OpenIntelligentUI**](https://github.com/CopilotKit/OpenIntelligentUI) | `TypeScript` | `#Local-AI` | **+278** | ★ 2,737 | Open-Source Generative UI Framework |
-| 6 | [**chthollyphile/folia-major**](https://github.com/chthollyphile/folia-major) | `TypeScript` | - | **+555** | ★ 5,141 | 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器 |
-| 7 | [**agalwood/Motrix**](https://github.com/agalwood/Motrix) | `TypeScript` | - | **+158** | ★ 56,515 | A full-featured download manager. |
-| 8 | [**getnao/nao**](https://github.com/getnao/nao) | `TypeScript` | `#Coding-Agents` | **+20** | ★ 1,909 | 👾 nao is an open source analytics agent. (1) Create context with nao-core cli, (2) deploy nao chat interface for everyone |
+| 1 | [**morluto/rea**](https://github.com/morluto/rea) | `TypeScript` | `#Coding-Agents` | **+45,495** | ★ 151,632 | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| 2 | [**mksglu/context-mode**](https://github.com/mksglu/context-mode) | `TypeScript` | `#MCP` `#Coding-Agents` | **+394** | ★ 27,190 | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. |
+| 3 | [**openclaw/openclaw**](https://github.com/openclaw/openclaw) | `TypeScript` | - | **+182** | ★ 391,793 | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 |
+| 4 | [**Crosstalk-Solutions/project-nomad**](https://github.com/Crosstalk-Solutions/project-nomad) | `TypeScript` | `#Local-AI` | **+168** | ★ 39,689 | Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required. |
+| 5 | [**breferrari/obsidian-mind**](https://github.com/breferrari/obsidian-mind) | `TypeScript` | `#Coding-Agents` | **+82** | ★ 5,248 | A self-organizing Obsidian vault that gives AI coding agents persistent memory. |
+| 6 | [**paperclipai/paperclip**](https://github.com/paperclipai/paperclip) | `TypeScript` | `#Coding-Agents` | **+652** | ★ 100,898 | The open-source app everyone uses to manage agents at work |
+| 7 | [**CopilotKit/OpenIntelligentUI**](https://github.com/CopilotKit/OpenIntelligentUI) | `TypeScript` | `#Local-AI` | **+251** | ★ 2,870 | Open-Source Generative UI Framework |
+| 8 | [**ranxianglei/billion-context**](https://github.com/ranxianglei/billion-context) | `TypeScript` | `#Web3` | **+219** | ★ 1,086 | A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need |
 
-> 📂 *Explore all 8 TypeScript repos in [`archives/2026-10/2026-10-12.md`](archives/2026-10/2026-10-12.md)*
+> 📂 *Explore all 12 TypeScript repos in [`archives/2026-10/2026-10-12.md`](archives/2026-10/2026-10-12.md)*
 
 ### 🐹 Go
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**alibaba/open-code-review**](https://github.com/alibaba/open-code-review) | `Go` | `#Coding-Agents` | **+294** | ★ 46,291 | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
-| 2 | [**QuantumNous/new-api**](https://github.com/QuantumNous/new-api) | `Go` | - | **+71** | ★ 49,739 | A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. |
-| 3 | [**Autumn-27/ScopeSentry**](https://github.com/Autumn-27/ScopeSentry) | `Go` | `#Local-AI` `#Security` | **+28** | ★ 1,802 | ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes |
-| 4 | [**BishopFox/sliver**](https://github.com/BishopFox/sliver) | `Go` | - | **+47** | ★ 12,092 | Adversary Emulation Framework |
-| 5 | [**majd/ipatool**](https://github.com/majd/ipatool) | `Go` | - | **+33** | ★ 11,634 | Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages. |
-| 6 | [**Tencent/WeKnora**](https://github.com/Tencent/WeKnora) | `Go` | `#Coding-Agents` | **+129** | ★ 33,317 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. |
-| 7 | [**larksuite/cli**](https://github.com/larksuite/cli) | `Go` | `#Agent-Skills` `#Coding-Agents` | **+16** | ★ 17,632 | The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills. |
-| 8 | [**Project-HAMi/HAMi**](https://github.com/Project-HAMi/HAMi) | `Go` | - | **+36** | ★ 4,702 | Heterogeneous GPU Sharing on Kubernetes |
+| 1 | [**Armur-Ai/Pentest-Swarm-AI**](https://github.com/Armur-Ai/Pentest-Swarm-AI) | `Go` | `#Coding-Agents` `#Security` | **+49** | ★ 2,858 | Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools. |
+| 2 | [**lharries/whatsapp-mcp**](https://github.com/lharries/whatsapp-mcp) | `Go` | `#MCP` | **+24** | ★ 6,556 | WhatsApp MCP server |
+| 3 | [**BishopFox/sliver**](https://github.com/BishopFox/sliver) | `Go` | - | **+25** | ★ 12,098 | Adversary Emulation Framework |
+| 4 | [**gtsteffaniak/filebrowser**](https://github.com/gtsteffaniak/filebrowser) | `Go` | - | **+66** | ★ 8,678 | 📂 Web File Browser |
+| 5 | [**evcc-io/evcc**](https://github.com/evcc-io/evcc) | `Go` | - | **+8** | ★ 7,355 | solar charging ☀️🚘 |
+| 6 | [**jaegertracing/jaeger**](https://github.com/jaegertracing/jaeger) | `Go` | - | **+9** | ★ 23,285 | CNCF Jaeger, a Distributed Tracing Platform |
+| 7 | [**p1neappleXpress/OpenFlux**](https://github.com/p1neappleXpress/OpenFlux) | `Go` | `#AI-Video` | **+24** | ★ 2,089 | Network stack research tool. TCP tunnel with pluggable transports. |
+| 8 | [**YouROK/TorrServer**](https://github.com/YouROK/TorrServer) | `Go` | - | **+6** | ★ 3,121 | Torrent stream server |
 
-> 📂 *Explore all 15 Go repos in [`archives/2026-10/2026-10-12.md`](archives/2026-10/2026-10-12.md)*
+> 📂 *Explore all 12 Go repos in [`archives/2026-10/2026-10-12.md`](archives/2026-10/2026-10-12.md)*
 
 ### 🦀 Rust
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**storytold/artcraft**](https://github.com/storytold/artcraft) | `Rust` | `#Local-AI` | **+2,957** | ★ 18,820 | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
-| 2 | [**farion1231/cc-switch**](https://github.com/farion1231/cc-switch) | `Rust` | `#Coding-Agents` | **+385** | ★ 142,977 | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io |
-| 3 | [**martin-olivier/airgorah**](https://github.com/martin-olivier/airgorah) | `Rust` | `#Security` | **+55** | ★ 4,104 | A WiFi security auditing software |
-| 4 | [**BrandonKowalski/slot**](https://github.com/BrandonKowalski/slot) | `Rust` | - | **+15** | ★ 129 | A bespoke, Game Boy-centric CFW for the RG SP. |
-| 5 | [**HakanSeven12/OpenCADStudio**](https://github.com/HakanSeven12/OpenCADStudio) | `Rust` | - | **+82** | ★ 2,829 | A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering |
-| 6 | [**denoland/celld**](https://github.com/denoland/celld) | `Rust` | - | **+90** | ★ 5,449 | self-hosted, distributed Durable Objects |
+| 1 | [**storytold/artcraft**](https://github.com/storytold/artcraft) | `Rust` | `#Local-AI` | **+4,106** | ★ 21,535 | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
+| 2 | [**1jehuang/jcode**](https://github.com/1jehuang/jcode) | `Rust` | `#Coding-Agents` | **+160** | ★ 20,591 | High performance coding agent harness written in rust |
+| 3 | [**microsoft/litebox**](https://github.com/microsoft/litebox) | `Rust` | `#Security` | **+54** | ★ 3,122 | A security-focused library OS supporting kernel- and user-mode execution |
+| 4 | [**nautechsystems/nautilus_trader**](https://github.com/nautechsystems/nautilus_trader) | `Rust` | `#Autonomous-Finance` | **+35** | ★ 29,888 | Production-grade Rust-native trading engine with deterministic event-driven architecture |
+| 5 | [**HakanSeven12/OpenCADStudio**](https://github.com/HakanSeven12/OpenCADStudio) | `Rust` | - | **+97** | ★ 2,889 | A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering |
 
-> 📂 *Explore all 6 Rust repos in [`archives/2026-10/2026-10-12.md`](archives/2026-10/2026-10-12.md)*
+> 📂 *Explore all 5 Rust repos in [`archives/2026-10/2026-10-12.md`](archives/2026-10/2026-10-12.md)*
 
 ---
 
