@@ -51,7 +51,7 @@ claude mcp add gittrends -- npx -y gittrends-mcp
 [![morluto/rea](https://opengraph.githubassets.com/1/morluto/rea)](https://github.com/morluto/rea)
 
 > 💡 **What is it?** [morluto/rea](https://github.com/morluto/rea) — Reverse engineer anything with agents, from app behavior down to native binaries.
-> 🚀 **Gained today:** **+41,034 stars** | **Total Stars:** ★ 248,375 | **Topics:** `#Coding-Agents`
+> 🚀 **Gained today:** **+32,282 stars** | **Total Stars:** ★ 264,353 | **Topics:** `#Coding-Agents`
 
 <details>
 <summary><b>👉 Click here for Instant Quick Inspect (Clone command & details)</b></summary>
@@ -72,11 +72,11 @@ git clone https://github.com/morluto/rea.git
 
 | Rank | Repository | Language | Trending Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**morluto/rea**](https://github.com/morluto/rea) | `TypeScript` | `#Coding-Agents` | 🔥 **+41,034** | ★ 248,375 | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| 2 | [**debpalash/VoiceStudio**](https://github.com/debpalash/VoiceStudio) | `Python` | `#AI-Video` | 🔥 **+3,538** | ★ 66,931 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
-| 3 | [**storytold/artcraft**](https://github.com/storytold/artcraft) | `Rust` | `#Local-AI` | 🔥 **+2,909** | ★ 28,163 | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
-| 4 | [**ifixai-ai/iFixAi**](https://github.com/ifixai-ai/iFixAi) | `Python` | `#Coding-Agents` | 🔥 **+2,109** | ★ 27,674 | Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds. |
-| 5 | [**xtool-org/xtool**](https://github.com/xtool-org/xtool) | `Swift` | - | 🔥 **+1,502** | ★ 11,058 | Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS. |
+| 1 | [**morluto/rea**](https://github.com/morluto/rea) | `TypeScript` | `#Coding-Agents` | 🔥 **+32,282** | ★ 264,353 | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| 2 | [**debpalash/VoiceStudio**](https://github.com/debpalash/VoiceStudio) | `Python` | `#AI-Video` | 🔥 **+3,027** | ★ 68,426 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
+| 3 | [**ifixai-ai/iFixAi**](https://github.com/ifixai-ai/iFixAi) | `Python` | `#Coding-Agents` | 🔥 **+1,887** | ★ 28,229 | Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds. |
+| 4 | [**vxcontrol/pentagi**](https://github.com/vxcontrol/pentagi) | `Go` | `#Coding-Agents` `#Security` | 🔥 **+1,605** | ★ 30,369 | Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
+| 5 | [**NationalSecurityAgency/ghidra**](https://github.com/NationalSecurityAgency/ghidra) | `Java` | - | 🔥 **+1,366** | ★ 88,418 | Ghidra is a software reverse engineering (SRE) framework |
 
 ---
 
@@ -86,12 +86,12 @@ git clone https://github.com/morluto/rea.git
 
 | Rank | AI Repository | Language | Key Topic | Stars Today | Total Stars | What It Does |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**morluto/rea**](https://github.com/morluto/rea) | `TypeScript` | `#Coding-Agents` | 🔥 **+41,034** | ★ 248,375 | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| 2 | [**debpalash/VoiceStudio**](https://github.com/debpalash/VoiceStudio) | `Python` | `#AI-Video` | 🔥 **+3,538** | ★ 66,931 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
-| 3 | [**storytold/artcraft**](https://github.com/storytold/artcraft) | `Rust` | `#Local-AI` | 🔥 **+2,909** | ★ 28,163 | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
-| 4 | [**ifixai-ai/iFixAi**](https://github.com/ifixai-ai/iFixAi) | `Python` | `#Coding-Agents` | 🔥 **+2,109** | ★ 27,674 | Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds. |
-| 5 | [**heygen-com/hyperframes**](https://github.com/heygen-com/hyperframes) | `TypeScript` | `#Coding-Agents` | 🔥 **+1,089** | ★ 63,855 | Write HTML. Render video. Built for agents. |
-| 6 | [**vxcontrol/pentagi**](https://github.com/vxcontrol/pentagi) | `Go` | `#Coding-Agents` | 🔥 **+1,025** | ★ 29,770 | Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
+| 1 | [**morluto/rea**](https://github.com/morluto/rea) | `TypeScript` | `#Coding-Agents` | 🔥 **+32,282** | ★ 264,353 | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| 2 | [**debpalash/VoiceStudio**](https://github.com/debpalash/VoiceStudio) | `Python` | `#AI-Video` | 🔥 **+3,027** | ★ 68,426 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
+| 3 | [**ifixai-ai/iFixAi**](https://github.com/ifixai-ai/iFixAi) | `Python` | `#Coding-Agents` | 🔥 **+1,887** | ★ 28,229 | Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds. |
+| 4 | [**vxcontrol/pentagi**](https://github.com/vxcontrol/pentagi) | `Go` | `#Coding-Agents` | 🔥 **+1,605** | ★ 30,369 | Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
+| 5 | [**K-Dense-AI/scientific-agent-skills**](https://github.com/K-Dense-AI/scientific-agent-skills) | `Python` | `#Agent-Skills` | 🔥 **+1,091** | ★ 50,219 | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard. |
+| 6 | [**affaan-m/ECC**](https://github.com/affaan-m/ECC) | `JavaScript` | `#Agent-Skills` | 🔥 **+1,015** | ★ 280,087 | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
 
 ---
 
@@ -101,14 +101,14 @@ git clone https://github.com/morluto/rea.git
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**morluto/rea**](https://github.com/morluto/rea) | `TypeScript` | `#Coding-Agents` | **+41,034** | ★ 248,375 | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| 2 | [**debpalash/VoiceStudio**](https://github.com/debpalash/VoiceStudio) | `Python` | `#AI-Video` | **+3,538** | ★ 66,931 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
-| 3 | [**mksglu/context-mode**](https://github.com/mksglu/context-mode) | `TypeScript` | `#MCP` `#Coding-Agents` | **+947** | ★ 29,285 | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. |
-| 4 | [**nvm-sh/nvm**](https://github.com/nvm-sh/nvm) | `Shell` | - | **+52** | ★ 95,489 | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. |
-| 5 | [**K-Dense-AI/scientific-agent-skills**](https://github.com/K-Dense-AI/scientific-agent-skills) | `Python` | `#Agent-Skills` `#Coding-Agents` | **+163** | ★ 49,555 | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard. |
-| 6 | [**HKUDS/CLI-Anything**](https://github.com/HKUDS/CLI-Anything) | `Python` | `#Coding-Agents` | **+103** | ★ 52,657 | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
-| 7 | [**ifixai-ai/iFixAi**](https://github.com/ifixai-ai/iFixAi) | `Python` | `#Coding-Agents` | **+2,109** | ★ 27,674 | Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds. |
-| 8 | [**vxcontrol/pentagi**](https://github.com/vxcontrol/pentagi) | `Go` | `#Coding-Agents` `#Security` | **+1,025** | ★ 29,770 | Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
+| 1 | [**morluto/rea**](https://github.com/morluto/rea) | `TypeScript` | `#Coding-Agents` | **+32,282** | ★ 264,353 | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| 2 | [**anthropics/claude-plugins-official**](https://github.com/anthropics/claude-plugins-official) | `Python` | - | **+525** | ★ 38,681 | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| 3 | [**K-Dense-AI/scientific-agent-skills**](https://github.com/K-Dense-AI/scientific-agent-skills) | `Python` | `#Agent-Skills` `#Coding-Agents` | **+1,091** | ★ 50,219 | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard. |
+| 4 | [**JuliusBrussee/caveman**](https://github.com/JuliusBrussee/caveman) | `Go` | `#Agent-Skills` `#Coding-Agents` `#Web3` | **+530** | ★ 112,311 | 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman. |
+| 5 | [**debpalash/VoiceStudio**](https://github.com/debpalash/VoiceStudio) | `Python` | `#AI-Video` | **+3,027** | ★ 68,426 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
+| 6 | [**obra/superpowers**](https://github.com/obra/superpowers) | `Shell` | `#Agent-Skills` `#Coding-Agents` | **+688** | ★ 299,678 | An agentic skills framework & software development methodology that works. |
+| 7 | [**ruvnet/ruflo**](https://github.com/ruvnet/ruflo) | `TypeScript` | `#Coding-Agents` | **+224** | ★ 74,921 | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated |
+| 8 | [**mksglu/context-mode**](https://github.com/mksglu/context-mode) | `TypeScript` | `#MCP` `#Coding-Agents` | **+902** | ★ 29,680 | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. |
 
 > 📂 *Explore all 12 Overall Trending repos in [`archives/2026-10/2026-10-15.md`](archives/2026-10/2026-10-15.md)*
 
@@ -116,59 +116,59 @@ git clone https://github.com/morluto/rea.git
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**debpalash/VoiceStudio**](https://github.com/debpalash/VoiceStudio) | `Python` | `#AI-Video` | **+3,538** | ★ 66,931 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
-| 2 | [**K-Dense-AI/scientific-agent-skills**](https://github.com/K-Dense-AI/scientific-agent-skills) | `Python` | `#Agent-Skills` `#Coding-Agents` | **+163** | ★ 49,555 | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard. |
-| 3 | [**HKUDS/CLI-Anything**](https://github.com/HKUDS/CLI-Anything) | `Python` | `#Coding-Agents` | **+103** | ★ 52,657 | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
-| 4 | [**ifixai-ai/iFixAi**](https://github.com/ifixai-ai/iFixAi) | `Python` | `#Coding-Agents` | **+2,109** | ★ 27,675 | Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds. |
-| 5 | [**Alishahryar1/free-claude-code**](https://github.com/Alishahryar1/free-claude-code) | `Python` | `#Coding-Agents` `#Web3` | **+540** | ★ 60,590 | Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly) |
-| 6 | [**home-assistant/core**](https://github.com/home-assistant/core) | `Python` | - | **+145** | ★ 91,507 | 🏡 Open source home automation that puts local control and privacy first. |
-| 7 | [**python/cpython**](https://github.com/python/cpython) | `Python` | - | **+130** | ★ 77,554 | The Python programming language |
-| 8 | [**MakazhanAlpamys/Soup**](https://github.com/MakazhanAlpamys/Soup) | `Python` | - | **+247** | ★ 9,049 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
+| 1 | [**anthropics/claude-plugins-official**](https://github.com/anthropics/claude-plugins-official) | `Python` | - | **+525** | ★ 38,681 | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| 2 | [**K-Dense-AI/scientific-agent-skills**](https://github.com/K-Dense-AI/scientific-agent-skills) | `Python` | `#Agent-Skills` `#Coding-Agents` | **+1,091** | ★ 50,219 | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard. |
+| 3 | [**debpalash/VoiceStudio**](https://github.com/debpalash/VoiceStudio) | `Python` | `#AI-Video` | **+3,027** | ★ 68,426 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
+| 4 | [**lightseekorg/tokenspeed**](https://github.com/lightseekorg/tokenspeed) | `Python` | `#Web3` | **+25** | ★ 2,384 | TokenSpeed is a speed-of-light LLM inference engine. |
+| 5 | [**Crosstalk-Solutions/unifi-toolkit**](https://github.com/Crosstalk-Solutions/unifi-toolkit) | `Python` | - | **+48** | ★ 650 | A suite of tools for UniFi network management |
+| 6 | [**ahujasid/mcp-for-blender**](https://github.com/ahujasid/mcp-for-blender) | `Python` | `#MCP` | **+141** | ★ 30,932 | Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation. |
+| 7 | [**HKUDS/CLI-Anything**](https://github.com/HKUDS/CLI-Anything) | `Python` | `#Coding-Agents` | **+759** | ★ 53,008 | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
+| 8 | [**ifixai-ai/iFixAi**](https://github.com/ifixai-ai/iFixAi) | `Python` | `#Coding-Agents` | **+1,887** | ★ 28,229 | Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds. |
 
-> 📂 *Explore all 15 Python repos in [`archives/2026-10/2026-10-15.md`](archives/2026-10/2026-10-15.md)*
+> 📂 *Explore all 14 Python repos in [`archives/2026-10/2026-10-15.md`](archives/2026-10/2026-10-15.md)*
 
 ### ⚡ JavaScript
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**react/react**](https://github.com/react/react) | `JavaScript` | - | **+140** | ★ 251,033 | The library for web and native user interfaces. |
-| 2 | [**hmjz100/LinkSwift**](https://github.com/hmjz100/LinkSwift) | `JavaScript` | - | **+620** | ★ 22,442 | 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘 |
-| 3 | [**bilawalsidhu/gods-eye-view**](https://github.com/bilawalsidhu/gods-eye-view) | `JavaScript` | - | **+1,347** | ★ 56,553 | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. |
-| 4 | [**coreyhaines31/marketingskills**](https://github.com/coreyhaines31/marketingskills) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` | **+193** | ★ 54,785 | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. |
-| 5 | [**plugin87/ux-ui-agent-skills**](https://github.com/plugin87/ux-ui-agent-skills) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` `#Web3` | **+45** | ★ 1,756 | Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 50 objective gates that fail the build instead of faking success. |
-| 6 | [**github/awesome-copilot**](https://github.com/github/awesome-copilot) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` | **+38** | ★ 40,031 | Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot. |
-| 7 | [**sandeco/reversa**](https://github.com/sandeco/reversa) | `JavaScript` | `#Coding-Agents` | **+11** | ★ 1,750 | Transform legacy systems into executable specifications for AI coding agents |
-| 8 | [**jquery/jquery**](https://github.com/jquery/jquery) | `JavaScript` | - | **+2** | ★ 59,795 | jQuery JavaScript Library |
+| 1 | [**affaan-m/ECC**](https://github.com/affaan-m/ECC) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` `#Security` | **+1,015** | ★ 280,087 | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| 2 | [**itsPLK/ps5-payload-manager**](https://github.com/itsPLK/ps5-payload-manager) | `JavaScript` | - | **+27** | ★ 552 | A modern, web-based dashboard to easily manage, import, and automatically load payloads on your PS5. |
+| 3 | [**bilawalsidhu/gods-eye-view**](https://github.com/bilawalsidhu/gods-eye-view) | `JavaScript` | - | **+1,347** | ★ 56,807 | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. |
+| 4 | [**hmjz100/LinkSwift**](https://github.com/hmjz100/LinkSwift) | `JavaScript` | - | **+620** | ★ 22,841 | 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘 |
+| 5 | [**Anil-matcha/Open-Generative-AI**](https://github.com/Anil-matcha/Open-Generative-AI) | `JavaScript` | `#AI-Video` `#Local-AI` | **+111** | ★ 30,438 | Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed. |
+| 6 | [**react/react**](https://github.com/react/react) | `JavaScript` | - | **+140** | ★ 251,058 | The library for web and native user interfaces. |
+| 7 | [**laoma528/awesome-zhuiju-free**](https://github.com/laoma528/awesome-zhuiju-free) | `JavaScript` | - | **+339** | ★ 12,294 | 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。 |
+| 8 | [**usebruno/bruno**](https://github.com/usebruno/bruno) | `JavaScript` | - | **+93** | ★ 47,644 | Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia) |
 
-> 📂 *Explore all 8 JavaScript repos in [`archives/2026-10/2026-10-15.md`](archives/2026-10/2026-10-15.md)*
+> 📂 *Explore all 10 JavaScript repos in [`archives/2026-10/2026-10-15.md`](archives/2026-10/2026-10-15.md)*
 
 ### 🔷 TypeScript
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**morluto/rea**](https://github.com/morluto/rea) | `TypeScript` | `#Coding-Agents` | **+41,034** | ★ 248,376 | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| 2 | [**mksglu/context-mode**](https://github.com/mksglu/context-mode) | `TypeScript` | `#MCP` `#Coding-Agents` | **+947** | ★ 29,285 | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. |
-| 3 | [**ruvnet/ruflo**](https://github.com/ruvnet/ruflo) | `TypeScript` | `#Coding-Agents` | **+146** | ★ 74,708 | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated |
-| 4 | [**ChromeDevTools/chrome-devtools-mcp**](https://github.com/ChromeDevTools/chrome-devtools-mcp) | `TypeScript` | `#MCP` `#Coding-Agents` | **+85** | ★ 53,560 | Chrome DevTools for coding agents |
-| 5 | [**vercel-labs/skills**](https://github.com/vercel-labs/skills) | `TypeScript` | `#Agent-Skills` `#Coding-Agents` | **+658** | ★ 34,982 | The open agent skills tool - npx skills |
-| 6 | [**vuejs/core**](https://github.com/vuejs/core) | `TypeScript` | - | **+78** | ★ 54,632 | 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. |
-| 7 | [**heygen-com/hyperframes**](https://github.com/heygen-com/hyperframes) | `TypeScript` | `#Coding-Agents` `#AI-Video` | **+1,089** | ★ 63,855 | Write HTML. Render video. Built for agents. |
-| 8 | [**krillinai/OpenCreator**](https://github.com/krillinai/OpenCreator) | `TypeScript` | `#Coding-Agents` `#AI-Video` | **+95** | ★ 13,097 | Formerly KrillinAI, VideoTranslation and Dubbing Tool. Open-source AI workspace for creators, powered by Codex. Video downloading, video translation, create videos, images, voice, avatars, and edits with Agents in one place. Suitable for your Social Media like YouTube, TikTok, Instagram, etc. |
+| 1 | [**morluto/rea**](https://github.com/morluto/rea) | `TypeScript` | `#Coding-Agents` | **+32,282** | ★ 264,356 | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| 2 | [**ruvnet/ruflo**](https://github.com/ruvnet/ruflo) | `TypeScript` | `#Coding-Agents` | **+224** | ★ 74,922 | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated |
+| 3 | [**mksglu/context-mode**](https://github.com/mksglu/context-mode) | `TypeScript` | `#MCP` `#Coding-Agents` | **+902** | ★ 29,680 | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. |
+| 4 | [**OpenCut-app/OpenCut**](https://github.com/OpenCut-app/OpenCut) | `TypeScript` | - | **+366** | ★ 94,665 | The open-source CapCut alternative |
+| 5 | [**Crosstalk-Solutions/project-nomad**](https://github.com/Crosstalk-Solutions/project-nomad) | `TypeScript` | `#Local-AI` | **+180** | ★ 40,247 | Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required. |
+| 6 | [**anomalyco/opencode**](https://github.com/anomalyco/opencode) | `TypeScript` | `#Coding-Agents` | **+375** | ★ 213,824 | The open source coding agent. |
+| 7 | [**cursor/plugins**](https://github.com/cursor/plugins) | `TypeScript` | `#Coding-Agents` | **+198** | ★ 11,558 | Cursor plugin specification and official plugins |
+| 8 | [**tashfeenahmed/freellmapi**](https://github.com/tashfeenahmed/freellmapi) | `TypeScript` | `#Web3` | **+583** | ★ 35,654 | 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only. |
 
-> 📂 *Explore all 16 TypeScript repos in [`archives/2026-10/2026-10-15.md`](archives/2026-10/2026-10-15.md)*
+> 📂 *Explore all 18 TypeScript repos in [`archives/2026-10/2026-10-15.md`](archives/2026-10/2026-10-15.md)*
 
 ### 🐹 Go
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**vxcontrol/pentagi**](https://github.com/vxcontrol/pentagi) | `Go` | `#Coding-Agents` `#Security` | **+1,025** | ★ 29,770 | Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
-| 2 | [**docker/compose**](https://github.com/docker/compose) | `Go` | `#Local-AI` | **+34** | ★ 38,358 | Define and run multi-container applications with Docker |
-| 3 | [**JuliusBrussee/caveman**](https://github.com/JuliusBrussee/caveman) | `Go` | `#Agent-Skills` `#Coding-Agents` `#Web3` | **+398** | ★ 111,953 | 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman. |
-| 4 | [**razorpay/slashdocs**](https://github.com/razorpay/slashdocs) | `Go` | `#MCP` `#Coding-Agents` | **+25** | ★ 293 | Give your agents the power to publish reviewable HTML documents. Self-hosted server + CLI + remote MCP; agents push, humans review with comments and versions. |
-| 5 | [**TecharoHQ/anubis**](https://github.com/TecharoHQ/anubis) | `Go` | - | **+64** | ★ 23,412 | Weighs the soul of incoming HTTP requests to stop AI crawlers |
-| 6 | [**golang/go**](https://github.com/golang/go) | `Go` | - | **+136** | ★ 139,174 | The Go programming language |
-| 7 | [**google/agentmesh**](https://github.com/google/agentmesh) | `Go` | `#Coding-Agents` | **+40** | ★ 1,067 | Agent Mesh |
-| 8 | [**Armur-Ai/Pentest-Swarm-AI**](https://github.com/Armur-Ai/Pentest-Swarm-AI) | `Go` | `#Coding-Agents` `#Security` | **+26** | ★ 2,969 | Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools. |
+| 1 | [**JuliusBrussee/caveman**](https://github.com/JuliusBrussee/caveman) | `Go` | `#Agent-Skills` `#Coding-Agents` `#Web3` | **+530** | ★ 112,311 | 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman. |
+| 2 | [**vxcontrol/pentagi**](https://github.com/vxcontrol/pentagi) | `Go` | `#Coding-Agents` `#Security` | **+1,605** | ★ 30,369 | Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
+| 3 | [**maximhq/bifrost**](https://github.com/maximhq/bifrost) | `Go` | `#MCP` `#Coding-Agents` | **+40** | ★ 8,832 | Open-source, high-performance AI gateway that works as your LLM gateway, MCP gateway and agent gateway. One OpenAI-compatible API for 10,000+ models, with failover, load balancing, semantic caching, virtual keys, budgets and MCP Code Mode. Works with any SDK or agent and adds under 200µs of overhead at 5k RPS. |
+| 4 | [**multica-ai/multica**](https://github.com/multica-ai/multica) | `Go` | `#Coding-Agents` | **+107** | ★ 52,902 | Make humans and AI agents work as one team — open-source and self-hostable. |
+| 5 | [**gtsteffaniak/filebrowser**](https://github.com/gtsteffaniak/filebrowser) | `Go` | - | **+59** | ★ 8,765 | 📂 Web File Browser |
+| 6 | [**livekit/livekit**](https://github.com/livekit/livekit) | `Go` | - | **+22** | ★ 21,465 | End-to-end realtime stack for connecting humans and AI |
+| 7 | [**gitleaks/gitleaks**](https://github.com/gitleaks/gitleaks) | `Go` | - | **+32** | ★ 29,963 | Find secrets with Gitleaks 🔑 |
+| 8 | [**google/ax**](https://github.com/google/ax) | `Go` | `#Coding-Agents` | **+119** | ★ 13,668 | Google's open agentic orchestration runtime |
 
 > 📂 *Explore all 22 Go repos in [`archives/2026-10/2026-10-15.md`](archives/2026-10/2026-10-15.md)*
 
@@ -176,14 +176,14 @@ git clone https://github.com/morluto/rea.git
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**rust-lang/rust**](https://github.com/rust-lang/rust) | `Rust` | - | **+207** | ★ 120,126 | Empowering everyone to build reliable and efficient software. |
-| 2 | [**astral-sh/ruff**](https://github.com/astral-sh/ruff) | `Rust` | - | **+57** | ★ 50,093 | An extremely fast Python linter and code formatter, written in Rust. |
-| 3 | [**vosen/ZLUDA**](https://github.com/vosen/ZLUDA) | `Rust` | - | **+51** | ★ 15,057 | CUDA on non-NVIDIA GPUs |
-| 4 | [**ruvnet/RuView**](https://github.com/ruvnet/RuView) | `Rust` | `#AI-Video` | **+197** | ★ 98,019 | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
-| 5 | [**storytold/artcraft**](https://github.com/storytold/artcraft) | `Rust` | `#Local-AI` | **+2,909** | ★ 28,163 | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
-| 6 | [**t8y2/dbx**](https://github.com/t8y2/dbx) | `Rust` | `#MCP` | **+295** | ★ 26,725 | 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. \| 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。 |
-| 7 | [**tauri-apps/tauri**](https://github.com/tauri-apps/tauri) | `Rust` | - | **+62** | ★ 111,905 | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. |
-| 8 | [**tokio-rs/tokio**](https://github.com/tokio-rs/tokio) | `Rust` | - | **+15** | ★ 33,415 | A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ... |
+| 1 | [**xerj-org/xerj**](https://github.com/xerj-org/xerj) | `Rust` | `#Coding-Agents` `#Security` `#Web3` | **+725** | ★ 5,377 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work. |
+| 2 | [**koharu-rs/koharu**](https://github.com/koharu-rs/koharu) | `Rust` | - | **+100** | ★ 6,308 | ML-powered manga translator, written in Rust. |
+| 3 | [**1jehuang/jcode**](https://github.com/1jehuang/jcode) | `Rust` | `#Coding-Agents` | **+131** | ★ 20,848 | High performance coding agent harness written in rust |
+| 4 | [**longbridge/gpui-kit**](https://github.com/longbridge/gpui-kit) | `Rust` | - | **+195** | ★ 17,573 | Rust GUI components for building fantastic cross-platform desktop application by using GPUI. |
+| 5 | [**alphaXiv/OpenResearch**](https://github.com/alphaXiv/OpenResearch) | `Rust` | `#Coding-Agents` | **+114** | ★ 7,250 | Turn your coding agents into research agents |
+| 6 | [**LargeModGames/spotatui**](https://github.com/LargeModGames/spotatui) | `Rust` | - | **+43** | ★ 1,626 | A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, Qobuz and Youtube sources |
+| 7 | [**rtk-ai/rtk**](https://github.com/rtk-ai/rtk) | `Rust` | `#Web3` | **+172** | ★ 83,486 | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
+| 8 | [**surrealdb/surrealdb**](https://github.com/surrealdb/surrealdb) | `Rust` | - | **+22** | ★ 33,160 | A scalable, distributed, collaborative, document-graph database, for the realtime web |
 
 > 📂 *Explore all 11 Rust repos in [`archives/2026-10/2026-10-15.md`](archives/2026-10/2026-10-15.md)*
 
