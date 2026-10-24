@@ -51,7 +51,7 @@ claude mcp add gittrends -- npx -y gittrends-mcp
 [![cloudflare/security-audit-skill](https://opengraph.githubassets.com/1/cloudflare/security-audit-skill)](https://github.com/cloudflare/security-audit-skill)
 
 > 💡 **What is it?** [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
-> 🚀 **Gained today:** **+2,716 stars** | **Total Stars:** ★ 42,439 | **Topics:** `#Agent-Skills` `#Coding-Agents` `#Security`
+> 🚀 **Gained today:** **+2,271 stars** | **Total Stars:** ★ 43,502 | **Topics:** `#Agent-Skills` `#Coding-Agents` `#Security`
 
 <details>
 <summary><b>👉 Click here for Instant Quick Inspect (Clone command & details)</b></summary>
@@ -72,11 +72,11 @@ git clone https://github.com/cloudflare/security-audit-skill.git
 
 | Rank | Repository | Language | Trending Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**cloudflare/security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` `#Security` | 🔥 **+2,716** | ★ 42,439 | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
-| 2 | [**DietrichGebert/ponytail**](https://github.com/DietrichGebert/ponytail) | `JavaScript` | `#Coding-Agents` | 🔥 **+1,575** | ★ 174,904 | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
-| 3 | [**Graphify-Labs/graphify**](https://github.com/Graphify-Labs/graphify) | `Python` | `#Agent-Skills` `#Coding-Agents` | 🔥 **+1,173** | ★ 133,975 | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. |
-| 4 | [**NVIDIA/OpenShell**](https://github.com/NVIDIA/OpenShell) | `Rust` | `#Coding-Agents` | 🔥 **+1,119** | ★ 18,908 | OpenShell is the safe, private runtime for autonomous AI agents. |
-| 5 | [**stablyai/orca**](https://github.com/stablyai/orca) | `TypeScript` | `#Coding-Agents` | 🔥 **+1,081** | ★ 104,061 | Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. |
+| 1 | [**cloudflare/security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` `#Security` | 🔥 **+2,271** | ★ 43,502 | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
+| 2 | [**DietrichGebert/ponytail**](https://github.com/DietrichGebert/ponytail) | `JavaScript` | `#Coding-Agents` | 🔥 **+1,575** | ★ 175,321 | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
+| 3 | [**NVIDIA/OpenShell**](https://github.com/NVIDIA/OpenShell) | `Rust` | `#Coding-Agents` | 🔥 **+893** | ★ 19,245 | OpenShell is the safe, private runtime for autonomous AI agents. |
+| 4 | [**heygen-com/hyperframes**](https://github.com/heygen-com/hyperframes) | `TypeScript` | `#Coding-Agents` `#AI-Video` | 🔥 **+777** | ★ 71,263 | Write HTML. Render video. Built for agents. |
+| 5 | [**SnailSploit/Claude-Red**](https://github.com/SnailSploit/Claude-Red) | `Python` | `#Agent-Skills` `#Security` | 🔥 **+770** | ★ 8,807 | claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development. |
 
 ---
 
@@ -86,12 +86,12 @@ git clone https://github.com/cloudflare/security-audit-skill.git
 
 | Rank | AI Repository | Language | Key Topic | Stars Today | Total Stars | What It Does |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**cloudflare/security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | `JavaScript` | `#Agent-Skills` | 🔥 **+2,716** | ★ 42,439 | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
-| 2 | [**DietrichGebert/ponytail**](https://github.com/DietrichGebert/ponytail) | `JavaScript` | `#Coding-Agents` | 🔥 **+1,575** | ★ 174,904 | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
-| 3 | [**Graphify-Labs/graphify**](https://github.com/Graphify-Labs/graphify) | `Python` | `#Agent-Skills` | 🔥 **+1,173** | ★ 133,975 | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. |
-| 4 | [**NVIDIA/OpenShell**](https://github.com/NVIDIA/OpenShell) | `Rust` | `#Coding-Agents` | 🔥 **+1,119** | ★ 18,908 | OpenShell is the safe, private runtime for autonomous AI agents. |
-| 5 | [**stablyai/orca**](https://github.com/stablyai/orca) | `TypeScript` | `#Coding-Agents` | 🔥 **+1,081** | ★ 104,061 | Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. |
-| 6 | [**luongnv89/claude-howto**](https://github.com/luongnv89/claude-howto) | `Python` | `#Coding-Agents` | 🔥 **+1,053** | ★ 44,048 | A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. |
+| 1 | [**cloudflare/security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | `JavaScript` | `#Agent-Skills` | 🔥 **+2,271** | ★ 43,502 | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
+| 2 | [**DietrichGebert/ponytail**](https://github.com/DietrichGebert/ponytail) | `JavaScript` | `#Coding-Agents` | 🔥 **+1,575** | ★ 175,321 | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
+| 3 | [**NVIDIA/OpenShell**](https://github.com/NVIDIA/OpenShell) | `Rust` | `#Coding-Agents` | 🔥 **+893** | ★ 19,245 | OpenShell is the safe, private runtime for autonomous AI agents. |
+| 4 | [**heygen-com/hyperframes**](https://github.com/heygen-com/hyperframes) | `TypeScript` | `#Coding-Agents` | 🔥 **+777** | ★ 71,263 | Write HTML. Render video. Built for agents. |
+| 5 | [**SnailSploit/Claude-Red**](https://github.com/SnailSploit/Claude-Red) | `Python` | `#Agent-Skills` | 🔥 **+770** | ★ 8,807 | claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development. |
+| 6 | [**tashfeenahmed/freellmapi**](https://github.com/tashfeenahmed/freellmapi) | `TypeScript` | `#Web3` | 🔥 **+723** | ★ 40,734 | 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only. |
 
 ---
 
@@ -101,90 +101,91 @@ git clone https://github.com/cloudflare/security-audit-skill.git
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**cloudflare/security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` `#Security` | **+2,716** | ★ 42,439 | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
-| 2 | [**php/php-src**](https://github.com/php/php-src) | `C` | - | **+716** | ★ 41,594 | The PHP Interpreter |
-| 3 | [**anthropics/knowledge-work-plugins**](https://github.com/anthropics/knowledge-work-plugins) | `Python` | - | **+635** | ★ 32,317 | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
-| 4 | [**NVIDIA/OpenShell**](https://github.com/NVIDIA/OpenShell) | `Rust` | `#Coding-Agents` | **+1,119** | ★ 18,908 | OpenShell is the safe, private runtime for autonomous AI agents. |
-| 5 | [**Renhuai123/ziwei-doushu**](https://github.com/Renhuai123/ziwei-doushu) | `TypeScript` | - | **+546** | ★ 6,990 | 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 |
-| 6 | [**SnailSploit/Claude-Red**](https://github.com/SnailSploit/Claude-Red) | `Python` | `#Agent-Skills` `#Security` | **+226** | ★ 8,602 | claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development. |
-| 7 | [**OpenBMB/VoxCPM**](https://github.com/OpenBMB/VoxCPM) | `Python` | `#Local-AI` `#Web3` | **+150** | ★ 40,340 | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning |
-| 8 | [**nodejs/node**](https://github.com/nodejs/node) | `JavaScript` | - | **+66** | ★ 122,935 | Node.js JavaScript runtime ✨🐢🚀✨ |
+| 1 | [**cloudflare/security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` `#Security` | **+2,271** | ★ 43,502 | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
+| 2 | [**NVIDIA/OpenShell**](https://github.com/NVIDIA/OpenShell) | `Rust` | `#Coding-Agents` | **+893** | ★ 19,245 | OpenShell is the safe, private runtime for autonomous AI agents. |
+| 3 | [**aws/agent-toolkit-for-aws**](https://github.com/aws/agent-toolkit-for-aws) | `Python` | `#MCP` `#Agent-Skills` `#Coding-Agents` | **+11** | ★ 3,020 | Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS |
+| 4 | [**Nutlope/hallmark**](https://github.com/Nutlope/hallmark) | `CSS` | `#Agent-Skills` `#Coding-Agents` | **+567** | ★ 31,708 | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
+| 5 | [**luongnv89/claude-howto**](https://github.com/luongnv89/claude-howto) | `Python` | `#Coding-Agents` | **+442** | ★ 44,295 | A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. |
+| 6 | [**pbakaus/impeccable**](https://github.com/pbakaus/impeccable) | `Rust` | - | **+541** | ★ 86,049 | The design language that makes your AI harness better at design. |
+| 7 | [**pollen-robotics/microduck**](https://github.com/pollen-robotics/microduck) | `Rust` | - | **+421** | ★ 10,764 | A Tiny biped duck robot 🦆 |
+| 8 | [**google-gemini/gemini-cli**](https://github.com/google-gemini/gemini-cli) | `TypeScript` | `#Coding-Agents` | **+38** | ★ 107,761 | An open-source AI agent that brings the power of Gemini directly into your terminal. |
 
-> 📂 *Explore all 8 Overall Trending repos in [`archives/2026-10/2026-10-24.md`](archives/2026-10/2026-10-24.md)*
+> 📂 *Explore all 10 Overall Trending repos in [`archives/2026-10/2026-10-24.md`](archives/2026-10/2026-10-24.md)*
 
 ### 🐍 Python
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**anthropics/knowledge-work-plugins**](https://github.com/anthropics/knowledge-work-plugins) | `Python` | - | **+635** | ★ 32,317 | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
-| 2 | [**SnailSploit/Claude-Red**](https://github.com/SnailSploit/Claude-Red) | `Python` | `#Agent-Skills` `#Security` | **+226** | ★ 8,602 | claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development. |
-| 3 | [**OpenBMB/VoxCPM**](https://github.com/OpenBMB/VoxCPM) | `Python` | `#Local-AI` `#Web3` | **+150** | ★ 40,340 | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning |
-| 4 | [**baidu/Unlimited-OCR**](https://github.com/baidu/Unlimited-OCR) | `Python` | - | **+75** | ★ 28,294 | Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing. |
-| 5 | [**TauricResearch/TradingAgents**](https://github.com/TauricResearch/TradingAgents) | `Python` | `#Coding-Agents` `#Autonomous-Finance` | **+485** | ★ 113,442 | TradingAgents: Multi-Agents LLM Financial Trading Framework |
-| 6 | [**Graphify-Labs/graphify**](https://github.com/Graphify-Labs/graphify) | `Python` | `#Agent-Skills` `#Coding-Agents` | **+1,173** | ★ 133,975 | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. |
-| 7 | [**Mailu/Mailu**](https://github.com/Mailu/Mailu) | `Python` | - | **+4** | ★ 7,585 | Insular email distribution - mail server as Docker images |
-| 8 | [**virgiliojr94/book-to-skill**](https://github.com/virgiliojr94/book-to-skill) | `Python` | `#Agent-Skills` | **+143** | ★ 35,899 | Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work. |
+| 1 | [**aws/agent-toolkit-for-aws**](https://github.com/aws/agent-toolkit-for-aws) | `Python` | `#MCP` `#Agent-Skills` `#Coding-Agents` | **+11** | ★ 3,020 | Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS |
+| 2 | [**luongnv89/claude-howto**](https://github.com/luongnv89/claude-howto) | `Python` | `#Coding-Agents` | **+442** | ★ 44,295 | A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. |
+| 3 | [**jbiaojerry/ebook-treasure-chest**](https://github.com/jbiaojerry/ebook-treasure-chest) | `Python` | - | **+220** | ★ 22,450 | 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。 |
+| 4 | [**pollen-robotics/microduck_rl**](https://github.com/pollen-robotics/microduck_rl) | `Python` | - | **+41** | ★ 2,598 | RL training environments for Microduck (mjlab) |
+| 5 | [**SnailSploit/Claude-Red**](https://github.com/SnailSploit/Claude-Red) | `Python` | `#Agent-Skills` `#Security` | **+770** | ★ 8,807 | claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development. |
+| 6 | [**anthropics/knowledge-work-plugins**](https://github.com/anthropics/knowledge-work-plugins) | `Python` | - | **+598** | ★ 32,548 | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
+| 7 | [**TauricResearch/TradingAgents**](https://github.com/TauricResearch/TradingAgents) | `Python` | `#Coding-Agents` `#Autonomous-Finance` | **+307** | ★ 113,566 | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| 8 | [**agentskills/agentskills**](https://github.com/agentskills/agentskills) | `Python` | `#Agent-Skills` `#Coding-Agents` | **+64** | ★ 26,559 | Specification and documentation for Agent Skills |
 
-> 📂 *Explore all 12 Python repos in [`archives/2026-10/2026-10-24.md`](archives/2026-10/2026-10-24.md)*
+> 📂 *Explore all 11 Python repos in [`archives/2026-10/2026-10-24.md`](archives/2026-10/2026-10-24.md)*
 
 ### ⚡ JavaScript
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**cloudflare/security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` `#Security` | **+2,716** | ★ 42,439 | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
-| 2 | [**nodejs/node**](https://github.com/nodejs/node) | `JavaScript` | - | **+66** | ★ 122,935 | Node.js JavaScript runtime ✨🐢🚀✨ |
-| 3 | [**projectdiscovery/nuclei-templates**](https://github.com/projectdiscovery/nuclei-templates) | `JavaScript` | `#Local-AI` `#Security` | **+24** | ★ 13,201 | Community curated list of templates for the nuclei engine to find security vulnerabilities. |
-| 4 | [**DietrichGebert/ponytail**](https://github.com/DietrichGebert/ponytail) | `JavaScript` | `#Coding-Agents` | **+1,575** | ★ 174,904 | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
-| 5 | [**mailcow/mailcow-dockerized**](https://github.com/mailcow/mailcow-dockerized) | `JavaScript` | - | **+9** | ★ 13,673 | mailcow: dockerized - 🐮 + 🐋 = 💕 |
-| 6 | [**citrolabs/ego-lite**](https://github.com/citrolabs/ego-lite) | `JavaScript` | `#Coding-Agents` | **+234** | ★ 19,044 | The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config. |
-| 7 | [**vercel/next.js**](https://github.com/vercel/next.js) | `JavaScript` | - | **+39** | ★ 143,216 | The React Framework |
+| 1 | [**cloudflare/security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` `#Security` | **+2,271** | ★ 43,502 | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
+| 2 | [**laoma528/awesome-zhuiju-free**](https://github.com/laoma528/awesome-zhuiju-free) | `JavaScript` | - | **+132** | ★ 13,425 | 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。 |
+| 3 | [**tt-a1i/archify**](https://github.com/tt-a1i/archify) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` | **+445** | ★ 88,620 | Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. |
+| 4 | [**nodejs/node**](https://github.com/nodejs/node) | `JavaScript` | - | **+475** | ★ 123,055 | Node.js JavaScript runtime ✨🐢🚀✨ |
+| 5 | [**louislam/uptime-kuma**](https://github.com/louislam/uptime-kuma) | `JavaScript` | - | **+49** | ★ 92,844 | A fancy self-hosted monitoring tool |
+| 6 | [**projectdiscovery/nuclei-templates**](https://github.com/projectdiscovery/nuclei-templates) | `JavaScript` | `#Local-AI` `#Security` | **+17** | ★ 13,209 | Community curated list of templates for the nuclei engine to find security vulnerabilities. |
+| 7 | [**DietrichGebert/ponytail**](https://github.com/DietrichGebert/ponytail) | `JavaScript` | `#Coding-Agents` | **+1,575** | ★ 175,321 | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
+| 8 | [**coreyhaines31/marketingskills**](https://github.com/coreyhaines31/marketingskills) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` | **+158** | ★ 56,339 | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. |
 
-> 📂 *Explore all 7 JavaScript repos in [`archives/2026-10/2026-10-24.md`](archives/2026-10/2026-10-24.md)*
+> 📂 *Explore all 12 JavaScript repos in [`archives/2026-10/2026-10-24.md`](archives/2026-10/2026-10-24.md)*
 
 ### 🔷 TypeScript
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**Renhuai123/ziwei-doushu**](https://github.com/Renhuai123/ziwei-doushu) | `TypeScript` | - | **+546** | ★ 6,990 | 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 |
-| 2 | [**SehajveerSingh2005/bloom**](https://github.com/SehajveerSingh2005/bloom) | `TypeScript` | - | **+23** | ★ 342 | Bloom is a desktop companion that reimagines how you interact with Windows. It moves away from static, rigid interfaces and introduces a workspace that feels natural, fluid, and responsive. |
-| 3 | [**stablyai/orca**](https://github.com/stablyai/orca) | `TypeScript` | `#Coding-Agents` | **+1,081** | ★ 104,061 | Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. |
-| 4 | [**Vincentwei1021/video-shotcraft**](https://github.com/Vincentwei1021/video-shotcraft) | `TypeScript` | `#Agent-Skills` `#Coding-Agents` `#AI-Video` | **+259** | ★ 13,270 | AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template |
-| 5 | [**supabase/supabase**](https://github.com/supabase/supabase) | `TypeScript` | - | **+428** | ★ 113,819 | The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. |
-| 6 | [**vitejs/vite**](https://github.com/vitejs/vite) | `TypeScript` | `#Local-AI` | **+42** | ★ 83,496 | Next generation frontend tooling. It's fast! |
-| 7 | [**logto-io/logto**](https://github.com/logto-io/logto) | `TypeScript` | - | **+12** | ★ 14,769 | 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC. |
-| 8 | [**expo/expo**](https://github.com/expo/expo) | `TypeScript` | - | **+32** | ★ 53,040 | An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web. |
+| 1 | [**google-gemini/gemini-cli**](https://github.com/google-gemini/gemini-cli) | `TypeScript` | `#Coding-Agents` | **+38** | ★ 107,761 | An open-source AI agent that brings the power of Gemini directly into your terminal. |
+| 2 | [**makecindy/cindy**](https://github.com/makecindy/cindy) | `TypeScript` | `#Coding-Agents` | **+471** | ★ 3,883 | Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 |
+| 3 | [**Renhuai123/ziwei-doushu**](https://github.com/Renhuai123/ziwei-doushu) | `TypeScript` | - | **+635** | ★ 7,217 | 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 |
+| 4 | [**bendlang/bend**](https://github.com/bendlang/bend) | `TypeScript` | - | **+113** | ★ 24,099 | Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com/install.sh \| sh |
+| 5 | [**thedotmack/claude-mem**](https://github.com/thedotmack/claude-mem) | `TypeScript` | `#Coding-Agents` | **+274** | ★ 102,740 | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More |
+| 6 | [**google/brotli**](https://github.com/google/brotli) | `TypeScript` | - | **+16** | ★ 14,988 | Brotli compression format |
+| 7 | [**Vincentwei1021/video-shotcraft**](https://github.com/Vincentwei1021/video-shotcraft) | `TypeScript` | `#Agent-Skills` `#Coding-Agents` `#AI-Video` | **+259** | ★ 13,380 | AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template |
+| 8 | [**vercel/ai**](https://github.com/vercel/ai) | `TypeScript` | `#Coding-Agents` | **+16** | ★ 27,492 | The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents |
 
-> 📂 *Explore all 17 TypeScript repos in [`archives/2026-10/2026-10-24.md`](archives/2026-10/2026-10-24.md)*
+> 📂 *Explore all 21 TypeScript repos in [`archives/2026-10/2026-10-24.md`](archives/2026-10/2026-10-24.md)*
 
 ### 🐹 Go
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**prometheus/prometheus**](https://github.com/prometheus/prometheus) | `Go` | - | **+34** | ★ 66,726 | The Prometheus monitoring system and time series database. |
-| 2 | [**aquasecurity/trivy**](https://github.com/aquasecurity/trivy) | `Go` | `#Local-AI` | **+52** | ★ 38,676 | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more |
-| 3 | [**Asymptote-Labs/agent-beacon**](https://github.com/Asymptote-Labs/agent-beacon) | `Go` | `#Coding-Agents` | **+122** | ★ 2,714 | The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.com/invite/zdNChS2fBu |
-| 4 | [**fleetdm/fleet**](https://github.com/fleetdm/fleet) | `Go` | - | **+10** | ★ 7,038 | Open device management |
-| 5 | [**chaitin/SafeLine**](https://github.com/chaitin/SafeLine) | `Go` | `#Security` | **+24** | ★ 22,923 | SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits. |
-| 6 | [**php/frankenphp**](https://github.com/php/frankenphp) | `Go` | - | **+7** | ★ 11,458 | 🧟 The modern PHP app server |
-| 7 | [**infiniflow/ragflow**](https://github.com/infiniflow/ragflow) | `Go` | `#Coding-Agents` `#Local-AI` | **+93** | ★ 92,775 | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs |
-| 8 | [**TencentCloud/CubeSandbox**](https://github.com/TencentCloud/CubeSandbox) | `Go` | `#Coding-Agents` | **+17** | ★ 13,023 | Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents. |
+| 1 | [**github/gh-aw**](https://github.com/github/gh-aw) | `Go` | `#Coding-Agents` | **+8** | ★ 5,454 | GitHub Agentic Workflows |
+| 2 | [**Gentleman-Programming/gentle-ai**](https://github.com/Gentleman-Programming/gentle-ai) | `Go` | `#MCP` `#Agent-Skills` `#Coding-Agents` | **+31** | ★ 7,982 | Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Organic-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock-in. |
+| 3 | [**Gaurav-Gosain/tuios**](https://github.com/Gaurav-Gosain/tuios) | `Go` | `#Coding-Agents` | **+121** | ★ 5,733 | A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this repo. tuios has no X/Twitter account. |
+| 4 | [**slavakurilyak/awesome-ai-agents**](https://github.com/slavakurilyak/awesome-ai-agents) | `Go` | `#Coding-Agents` | **+47** | ★ 2,645 | Awesome list of 300+ agentic AI resources |
+| 5 | [**chaitin/SafeLine**](https://github.com/chaitin/SafeLine) | `Go` | `#Security` | **+16** | ★ 22,933 | SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits. |
+| 6 | [**JuliusBrussee/caveman**](https://github.com/JuliusBrussee/caveman) | `Go` | `#Agent-Skills` `#Coding-Agents` `#Web3` | **+225** | ★ 114,767 | 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman. |
+| 7 | [**projectdiscovery/nuclei**](https://github.com/projectdiscovery/nuclei) | `Go` | `#Local-AI` `#Security` | **+34** | ★ 32,280 | Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations. |
+| 8 | [**caddyserver/caddy**](https://github.com/caddyserver/caddy) | `Go` | - | **+56** | ★ 78,349 | Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS |
 
-> 📂 *Explore all 15 Go repos in [`archives/2026-10/2026-10-24.md`](archives/2026-10/2026-10-24.md)*
+> 📂 *Explore all 16 Go repos in [`archives/2026-10/2026-10-24.md`](archives/2026-10/2026-10-24.md)*
 
 ### 🦀 Rust
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**NVIDIA/OpenShell**](https://github.com/NVIDIA/OpenShell) | `Rust` | `#Coding-Agents` | **+1,119** | ★ 18,908 | OpenShell is the safe, private runtime for autonomous AI agents. |
-| 2 | [**pollen-robotics/microduck**](https://github.com/pollen-robotics/microduck) | `Rust` | - | **+421** | ★ 10,533 | A Tiny biped duck robot 🦆 |
-| 3 | [**macro-inc/macro**](https://github.com/macro-inc/macro) | `Rust` | `#Coding-Agents` | **+30** | ★ 4,885 | Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory. |
-| 4 | [**ai-dynamo/dynamo**](https://github.com/ai-dynamo/dynamo) | `Rust` | - | **+11** | ★ 8,376 | A Datacenter Scale Distributed Inference Serving Framework |
-| 5 | [**agentgateway/agentgateway**](https://github.com/agentgateway/agentgateway) | `Rust` | `#MCP` `#Coding-Agents` `#Local-AI` | **+36** | ★ 5,533 | Next Generation Agentic Proxy for AI Agents and MCP servers |
-| 6 | [**astral-sh/uv**](https://github.com/astral-sh/uv) | `Rust` | - | **+55** | ★ 91,094 | An extremely fast Python package and project manager, written in Rust. |
-| 7 | [**ZSeven-W/openpencil**](https://github.com/ZSeven-W/openpencil) | `Rust` | `#Coding-Agents` | **+51** | ★ 6,457 | The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil. |
-| 8 | [**harry0703/MangoDisk**](https://github.com/harry0703/MangoDisk) | `Rust` | `#Local-AI` | **+64** | ★ 4,621 | Safety-first disk cleaner and space analyzer for macOS, Windows and Linux, with duplicate cleanup, app uninstall, startup management, system optimization, and maintenance. |
+| 1 | [**NVIDIA/OpenShell**](https://github.com/NVIDIA/OpenShell) | `Rust` | `#Coding-Agents` | **+893** | ★ 19,245 | OpenShell is the safe, private runtime for autonomous AI agents. |
+| 2 | [**pbakaus/impeccable**](https://github.com/pbakaus/impeccable) | `Rust` | - | **+541** | ★ 86,049 | The design language that makes your AI harness better at design. |
+| 3 | [**pollen-robotics/microduck**](https://github.com/pollen-robotics/microduck) | `Rust` | - | **+421** | ★ 10,765 | A Tiny biped duck robot 🦆 |
+| 4 | [**redlib-org/redlib**](https://github.com/redlib-org/redlib) | `Rust` | - | **+16** | ★ 3,910 | Private front-end for Reddit |
+| 5 | [**macro-inc/macro**](https://github.com/macro-inc/macro) | `Rust` | `#Coding-Agents` | **+30** | ★ 4,894 | Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory. |
+| 6 | [**CapSoftware/Cap**](https://github.com/CapSoftware/Cap) | `Rust` | - | **+81** | ★ 23,670 | Open source Loom alternative. Beautiful, shareable screen recordings. |
+| 7 | [**max-sixty/worktrunk**](https://github.com/max-sixty/worktrunk) | `Rust` | `#Coding-Agents` | **+33** | ★ 9,446 | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows |
+| 8 | [**herdrdev/herdr**](https://github.com/herdrdev/herdr) | `Rust` | `#Coding-Agents` | **+147** | ★ 45,647 | the runtime your coding agents live on |
 
-> 📂 *Explore all 16 Rust repos in [`archives/2026-10/2026-10-24.md`](archives/2026-10/2026-10-24.md)*
+> 📂 *Explore all 14 Rust repos in [`archives/2026-10/2026-10-24.md`](archives/2026-10/2026-10-24.md)*
 
 ---
 
