@@ -51,7 +51,7 @@ claude mcp add gittrends -- npx -y gittrends-mcp
 [![vercel-labs/agent-desktop](https://opengraph.githubassets.com/1/vercel-labs/agent-desktop)](https://github.com/vercel-labs/agent-desktop)
 
 > 💡 **What is it?** [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) — Computer use CLI for AI agents
-> 🚀 **Gained today:** **+3,791 stars** | **Total Stars:** ★ 13,372 | **Topics:** `#Coding-Agents`
+> 🚀 **Gained today:** **+2,463 stars** | **Total Stars:** ★ 14,735 | **Topics:** `#Coding-Agents`
 
 <details>
 <summary><b>👉 Click here for Instant Quick Inspect (Clone command & details)</b></summary>
@@ -72,11 +72,11 @@ git clone https://github.com/vercel-labs/agent-desktop.git
 
 | Rank | Repository | Language | Trending Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**vercel-labs/agent-desktop**](https://github.com/vercel-labs/agent-desktop) | `Rust` | `#Coding-Agents` | 🔥 **+3,791** | ★ 13,372 | Computer use CLI for AI agents |
-| 2 | [**pingdotgg/t3code**](https://github.com/pingdotgg/t3code) | `TypeScript` | - | 🔥 **+3,173** | ★ 44,889 | No description provided. |
-| 3 | [**D4Vinci/Scrapling**](https://github.com/D4Vinci/Scrapling) | `Python` | - | 🔥 **+1,658** | ★ 95,288 | 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev |
-| 4 | [**Donchitos/Claude-Code-Game-Studios**](https://github.com/Donchitos/Claude-Code-Game-Studios) | `Shell` | `#Agent-Skills` `#Coding-Agents` | 🔥 **+1,182** | ★ 34,894 | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy. |
-| 5 | [**mattpocock/skills**](https://github.com/mattpocock/skills) | `Shell` | `#Agent-Skills` `#Coding-Agents` | 🔥 **+1,164** | ★ 311,770 | Skills for Real Engineers. Straight from my .agents directory. |
+| 1 | [**vercel-labs/agent-desktop**](https://github.com/vercel-labs/agent-desktop) | `Rust` | `#Coding-Agents` | 🔥 **+2,463** | ★ 14,735 | Computer use CLI for AI agents |
+| 2 | [**NVIDIA/auto-ontology**](https://github.com/NVIDIA/auto-ontology) | `Python` | `#Coding-Agents` `#Local-AI` | 🔥 **+2,053** | ★ 4,575 | Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows. |
+| 3 | [**D4Vinci/Scrapling**](https://github.com/D4Vinci/Scrapling) | `Python` | - | 🔥 **+2,006** | ★ 96,295 | 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev |
+| 4 | [**JiaFeiMiao-K-Cat/DiscImageStudio**](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio) | `C#` | - | 🔥 **+1,792** | ★ 6,396 | No description provided. |
+| 5 | [**mattpocock/skills**](https://github.com/mattpocock/skills) | `Shell` | `#Agent-Skills` `#Coding-Agents` | 🔥 **+1,376** | ★ 313,007 | Skills for Real Engineers. Straight from my .agents directory. |
 
 ---
 
@@ -86,12 +86,12 @@ git clone https://github.com/vercel-labs/agent-desktop.git
 
 | Rank | AI Repository | Language | Key Topic | Stars Today | Total Stars | What It Does |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**vercel-labs/agent-desktop**](https://github.com/vercel-labs/agent-desktop) | `Rust` | `#Coding-Agents` | 🔥 **+3,791** | ★ 13,372 | Computer use CLI for AI agents |
-| 2 | [**Donchitos/Claude-Code-Game-Studios**](https://github.com/Donchitos/Claude-Code-Game-Studios) | `Shell` | `#Agent-Skills` | 🔥 **+1,182** | ★ 34,894 | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy. |
-| 3 | [**mattpocock/skills**](https://github.com/mattpocock/skills) | `Shell` | `#Agent-Skills` | 🔥 **+1,164** | ★ 311,770 | Skills for Real Engineers. Straight from my .agents directory. |
-| 4 | [**thedotmack/claude-mem**](https://github.com/thedotmack/claude-mem) | `TypeScript` | `#Coding-Agents` | 🔥 **+1,139** | ★ 112,186 | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More |
-| 5 | [**calesthio/OpenMontage**](https://github.com/calesthio/OpenMontage) | `Python` | `#Agent-Skills` | 🔥 **+814** | ★ 76,102 | World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio. |
-| 6 | [**JustVugg/colibri**](https://github.com/JustVugg/colibri) | `C` | `#AI` | 🔥 **+802** | ★ 47,402 | A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own. |
+| 1 | [**vercel-labs/agent-desktop**](https://github.com/vercel-labs/agent-desktop) | `Rust` | `#Coding-Agents` | 🔥 **+2,463** | ★ 14,735 | Computer use CLI for AI agents |
+| 2 | [**NVIDIA/auto-ontology**](https://github.com/NVIDIA/auto-ontology) | `Python` | `#Coding-Agents` | 🔥 **+2,053** | ★ 4,575 | Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows. |
+| 3 | [**mattpocock/skills**](https://github.com/mattpocock/skills) | `Shell` | `#Agent-Skills` | 🔥 **+1,376** | ★ 313,007 | Skills for Real Engineers. Straight from my .agents directory. |
+| 4 | [**thedotmack/claude-mem**](https://github.com/thedotmack/claude-mem) | `TypeScript` | `#Coding-Agents` | 🔥 **+1,165** | ★ 112,689 | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More |
+| 5 | [**affaan-m/ECC**](https://github.com/affaan-m/ECC) | `JavaScript` | `#Agent-Skills` | 🔥 **+809** | ★ 297,133 | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| 6 | [**harry0703/MoneyPrinterTurbo**](https://github.com/harry0703/MoneyPrinterTurbo) | `Python` | `#AI-Video` | 🔥 **+615** | ★ 138,834 | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. |
 
 ---
 
@@ -101,41 +101,41 @@ git clone https://github.com/vercel-labs/agent-desktop.git
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**thedotmack/claude-mem**](https://github.com/thedotmack/claude-mem) | `TypeScript` | `#Coding-Agents` | **+1,139** | ★ 112,186 | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More |
-| 2 | [**vercel-labs/agent-desktop**](https://github.com/vercel-labs/agent-desktop) | `Rust` | `#Coding-Agents` | **+3,791** | ★ 13,372 | Computer use CLI for AI agents |
-| 3 | [**max-sixty/worktrunk**](https://github.com/max-sixty/worktrunk) | `Rust` | `#Coding-Agents` | **+438** | ★ 10,642 | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows |
-| 4 | [**JustVugg/colibri**](https://github.com/JustVugg/colibri) | `C` | - | **+802** | ★ 47,402 | A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own. |
-| 5 | [**mattpocock/skills**](https://github.com/mattpocock/skills) | `Shell` | `#Agent-Skills` `#Coding-Agents` | **+1,164** | ★ 311,770 | Skills for Real Engineers. Straight from my .agents directory. |
-| 6 | [**p-e-w/heretic**](https://github.com/p-e-w/heretic) | `Python` | - | **+701** | ★ 38,988 | Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more |
-| 7 | [**spotify/portal-ai-plugins**](https://github.com/spotify/portal-ai-plugins) | `TypeScript` | - | **+91** | ★ 3,095 | No description provided. |
-| 8 | [**floci-io/floci**](https://github.com/floci-io/floci) | `Java` | - | **+482** | ★ 29,041 | Light, fluffy, and always free - The AWS Local Emulator alternative |
+| 1 | [**NVIDIA/auto-ontology**](https://github.com/NVIDIA/auto-ontology) | `Python` | `#Coding-Agents` `#Local-AI` | **+2,053** | ★ 4,575 | Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows. |
+| 2 | [**max-sixty/worktrunk**](https://github.com/max-sixty/worktrunk) | `Rust` | `#Coding-Agents` | **+524** | ★ 10,949 | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows |
+| 3 | [**mattpocock/skills**](https://github.com/mattpocock/skills) | `Shell` | `#Agent-Skills` `#Coding-Agents` | **+1,376** | ★ 313,007 | Skills for Real Engineers. Straight from my .agents directory. |
+| 4 | [**floci-io/floci**](https://github.com/floci-io/floci) | `Java` | - | **+1,082** | ★ 29,489 | Light, fluffy, and always free - The AWS Local Emulator alternative |
+| 5 | [**thedotmack/claude-mem**](https://github.com/thedotmack/claude-mem) | `TypeScript` | `#Coding-Agents` | **+1,165** | ★ 112,689 | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More |
+| 6 | [**vercel-labs/agent-desktop**](https://github.com/vercel-labs/agent-desktop) | `Rust` | `#Coding-Agents` | **+2,463** | ★ 14,735 | Computer use CLI for AI agents |
+| 7 | [**github/spec-kit**](https://github.com/github/spec-kit) | `Python` | - | **+810** | ★ 147,189 | 💫 Toolkit to help you get started with SDD or any other process! |
+| 8 | [**The-PR-Agent/pr-agent**](https://github.com/The-PR-Agent/pr-agent) | `Python` | `#Coding-Agents` | **+279** | ★ 14,657 | 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier. |
 
-> 📂 *Explore all 13 Overall Trending repos in [`archives/2026-11/2026-11-04.md`](archives/2026-11/2026-11-04.md)*
+> 📂 *Explore all 16 Overall Trending repos in [`archives/2026-11/2026-11-04.md`](archives/2026-11/2026-11-04.md)*
 
 ### 🐍 Python
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**p-e-w/heretic**](https://github.com/p-e-w/heretic) | `Python` | - | **+701** | ★ 38,988 | Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more |
-| 2 | [**Usagi-org/ai-goofish-monitor**](https://github.com/Usagi-org/ai-goofish-monitor) | `Python` | - | **+228** | ★ 16,771 | 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。 |
-| 3 | [**D4Vinci/Scrapling**](https://github.com/D4Vinci/Scrapling) | `Python` | - | **+1,658** | ★ 95,288 | 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev |
-| 4 | [**shiyu-coder/Kronos**](https://github.com/shiyu-coder/Kronos) | `Python` | `#Autonomous-Finance` | **+503** | ★ 46,618 | Kronos: A Foundation Model for the Language of Financial Markets |
-| 5 | [**calesthio/OpenMontage**](https://github.com/calesthio/OpenMontage) | `Python` | `#Agent-Skills` `#Coding-Agents` `#AI-Video` | **+814** | ★ 76,102 | World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio. |
-| 6 | [**karpathy/nanochat**](https://github.com/karpathy/nanochat) | `Python` | - | **+479** | ★ 60,216 | The best ChatGPT that $100 can buy. |
-| 7 | [**kornia/kornia**](https://github.com/kornia/kornia) | `Python` | - | **+272** | ★ 12,317 | 🐍 Geometric Computer Vision Library for Spatial AI |
-| 8 | [**FlashML-org/FreeToken**](https://github.com/FlashML-org/FreeToken) | `Python` | `#Web3` | **+608** | ★ 16,538 | FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently. |
+| 1 | [**NVIDIA/auto-ontology**](https://github.com/NVIDIA/auto-ontology) | `Python` | `#Coding-Agents` `#Local-AI` | **+2,053** | ★ 4,575 | Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows. |
+| 2 | [**github/spec-kit**](https://github.com/github/spec-kit) | `Python` | - | **+810** | ★ 147,189 | 💫 Toolkit to help you get started with SDD or any other process! |
+| 3 | [**The-PR-Agent/pr-agent**](https://github.com/The-PR-Agent/pr-agent) | `Python` | `#Coding-Agents` | **+279** | ★ 14,657 | 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier. |
+| 4 | [**harry0703/MoneyPrinterTurbo**](https://github.com/harry0703/MoneyPrinterTurbo) | `Python` | `#AI-Video` `#Local-AI` | **+615** | ★ 138,834 | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. |
+| 5 | [**D4Vinci/Scrapling**](https://github.com/D4Vinci/Scrapling) | `Python` | - | **+2,006** | ★ 96,295 | 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev |
+| 6 | [**Thysrael/Horizon**](https://github.com/Thysrael/Horizon) | `Python` | `#Local-AI` | **+121** | ★ 12,422 | 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. \| 用 AI 构建你专属的新闻雷达 |
+| 7 | [**scenario-labs/skills**](https://github.com/scenario-labs/skills) | `Python` | `#MCP` `#Agent-Skills` `#Coding-Agents` | **+224** | ★ 2,319 | Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity. |
+| 8 | [**FlashML-org/FreeToken**](https://github.com/FlashML-org/FreeToken) | `Python` | `#Web3` | **+140** | ★ 16,595 | FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently. |
 
-> 📂 *Explore all 19 Python repos in [`archives/2026-11/2026-11-04.md`](archives/2026-11/2026-11-04.md)*
+> 📂 *Explore all 18 Python repos in [`archives/2026-11/2026-11-04.md`](archives/2026-11/2026-11-04.md)*
 
 ### ⚡ JavaScript
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**techjarves/Portable-Local-Studio**](https://github.com/techjarves/Portable-Local-Studio) | `JavaScript` | `#Local-AI` | **+52** | ★ 1,844 | Portable local AI studio for Windows, Linux, and macOS. Zero-setup GUI for Image Generation, GGUF LLMs, Text to Speech & Speech to Text |
-| 2 | [**DeanChensj/jiangshan-map**](https://github.com/DeanChensj/jiangshan-map) | `JavaScript` | - | **+354** | ★ 3,926 | 江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) \| Interactive Historical Atlas of China across 18 dynasties, 164 territory snapshots, ancient-to-modern place genealogy & classical poetry routes |
-| 3 | [**webbrain-one/webbrain**](https://github.com/webbrain-one/webbrain) | `JavaScript` | `#Coding-Agents` | **+20** | ★ 1,641 | Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠 |
-| 4 | [**github/awesome-copilot**](https://github.com/github/awesome-copilot) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` | **+44** | ★ 40,779 | Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot. |
-| 5 | [**csyangwen/dsh-memory-evolve**](https://github.com/csyangwen/dsh-memory-evolve) | `JavaScript` | - | **+36** | ★ 575 | 为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · git 分支感知 · 回合内自我审查 · 技能自我进化与技能管理器 · 四轨待办 · COI 调度 · 会话广播 · 会话搜索 · 提示词管理器 · 临时信息便签——零核心修改、零运行时依赖，随装随用、卸载即净。 |
+| 1 | [**michael-denyer/pstack-claude**](https://github.com/michael-denyer/pstack-claude) | `JavaScript` | `#Coding-Agents` | **+103** | ★ 3,968 | Antigravity, Claude Code, Codex, Copilot, Gemini, Muse, OpenCode, Pi, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses. |
+| 2 | [**withmarbleapp/os-taxonomy**](https://github.com/withmarbleapp/os-taxonomy) | `JavaScript` | - | **+57** | ★ 7,586 | No description provided. |
+| 3 | [**affaan-m/ECC**](https://github.com/affaan-m/ECC) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` `#Security` | **+809** | ★ 297,133 | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| 4 | [**ConardLi/garden-skills**](https://github.com/ConardLi/garden-skills) | `JavaScript` | `#Agent-Skills` `#Local-AI` | **+184** | ★ 13,831 | ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more. |
+| 5 | [**vercel/next.js**](https://github.com/vercel/next.js) | `JavaScript` | - | **+52** | ★ 143,315 | The React Framework |
 
 > 📂 *Explore all 5 JavaScript repos in [`archives/2026-11/2026-11-04.md`](archives/2026-11/2026-11-04.md)*
 
@@ -143,46 +143,46 @@ git clone https://github.com/vercel-labs/agent-desktop.git
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**thedotmack/claude-mem**](https://github.com/thedotmack/claude-mem) | `TypeScript` | `#Coding-Agents` | **+1,139** | ★ 112,186 | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More |
-| 2 | [**spotify/portal-ai-plugins**](https://github.com/spotify/portal-ai-plugins) | `TypeScript` | - | **+91** | ★ 3,095 | No description provided. |
-| 3 | [**liguobao/ds-harness-remote**](https://github.com/liguobao/ds-harness-remote) | `TypeScript` | `#Coding-Agents` | **+162** | ★ 1,599 | 基于 DeepSeek Harness 插件机制构建的远程访问方案，通过低延迟、端到端加密的 P2P 网络，支持使用 PC、移动端 和 Web 随时访问本地设备上的DSH 、CodeX、Cursor、Claude Code等工作区。 (Built on DeepSeek Harness plugins, this low-latency, end-to-end encrypted P2P solution lets PC, mobile, and web clients access local DSH, Codex, Cursor, and Claude Code workspaces.) |
-| 4 | [**CNCKitchen/ScanRuler**](https://github.com/CNCKitchen/ScanRuler) | `TypeScript` | - | **+115** | ★ 838 | No description provided. |
-| 5 | [**datadrivenconstruction/OpenConstructionERP**](https://github.com/datadrivenconstruction/OpenConstructionERP) | `TypeScript` | `#Local-AI` | **+18** | ★ 1,156 | Open-source construction ERP - BOQ, PDF/CAD/BIM takeoff, AI cost matching, 293 guided cases. 120,000+ priced positions, 44 languages, 190+ modules, cost data for 40+ markets. AGPL-3.0. pip install openconstructionerp |
-| 6 | [**hieunc229/mailflare**](https://github.com/hieunc229/mailflare) | `TypeScript` | - | **+74** | ★ 5,599 | Email for professionals and teams |
-| 7 | [**tashfeenahmed/freellmapi**](https://github.com/tashfeenahmed/freellmapi) | `TypeScript` | `#Web3` | **+688** | ★ 47,196 | 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only. |
-| 8 | [**pingdotgg/t3code**](https://github.com/pingdotgg/t3code) | `TypeScript` | - | **+3,173** | ★ 44,889 | No description provided. |
+| 1 | [**thedotmack/claude-mem**](https://github.com/thedotmack/claude-mem) | `TypeScript` | `#Coding-Agents` | **+1,165** | ★ 112,690 | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More |
+| 2 | [**garrytan/gstack**](https://github.com/garrytan/gstack) | `TypeScript` | `#Local-AI` | **+285** | ★ 139,237 | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA |
+| 3 | [**spotify/portal-ai-plugins**](https://github.com/spotify/portal-ai-plugins) | `TypeScript` | - | **+227** | ★ 3,148 | No description provided. |
+| 4 | [**Crosstalk-Solutions/project-nomad**](https://github.com/Crosstalk-Solutions/project-nomad) | `TypeScript` | `#Local-AI` | **+174** | ★ 42,170 | Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required. |
+| 5 | [**melgarafael/DeskcommCRM**](https://github.com/melgarafael/DeskcommCRM) | `TypeScript` | `#MCP` `#Coding-Agents` | **+33** | ★ 5,135 | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD. |
+| 6 | [**elie222/rakazo**](https://github.com/elie222/rakazo) | `TypeScript` | - | **+151** | ★ 6,996 | Open-source Grok Bot alternative. Choose your own model and sandbox. |
+| 7 | [**mermaid-js/mermaid**](https://github.com/mermaid-js/mermaid) | `TypeScript` | `#Local-AI` | **+23** | ★ 91,013 | Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown |
+| 8 | [**QwenLM/qwen-code**](https://github.com/QwenLM/qwen-code) | `TypeScript` | `#Coding-Agents` | **+73** | ★ 29,005 | An open-source AI coding agent that lives in your terminal. |
 
-> 📂 *Explore all 12 TypeScript repos in [`archives/2026-11/2026-11-04.md`](archives/2026-11/2026-11-04.md)*
+> 📂 *Explore all 15 TypeScript repos in [`archives/2026-11/2026-11-04.md`](archives/2026-11/2026-11-04.md)*
 
 ### 🐹 Go
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**vxcontrol/pentagi**](https://github.com/vxcontrol/pentagi) | `Go` | `#Coding-Agents` `#Security` | **+133** | ★ 33,223 | Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
-| 2 | [**qax-os/excelize**](https://github.com/qax-os/excelize) | `Go` | - | **+14** | ★ 21,058 | Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets |
-| 3 | [**Asymptote-Labs/agent-beacon**](https://github.com/Asymptote-Labs/agent-beacon) | `Go` | `#Coding-Agents` | **+193** | ★ 3,249 | The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.com/invite/zdNChS2fBu |
-| 4 | [**cilium/cilium**](https://github.com/cilium/cilium) | `Go` | `#Security` | **+10** | ★ 25,768 | eBPF-based Networking, Security, and Observability |
-| 5 | [**argoproj/argo-cd**](https://github.com/argoproj/argo-cd) | `Go` | - | **+11** | ★ 24,533 | Declarative Continuous Deployment for Kubernetes |
-| 6 | [**JuliusBrussee/caveman**](https://github.com/JuliusBrussee/caveman) | `Go` | `#Agent-Skills` `#Coding-Agents` `#Web3` | **+266** | ★ 117,300 | 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman. |
-| 7 | [**gastownhall/beads**](https://github.com/gastownhall/beads) | `Go` | `#Coding-Agents` | **+42** | ★ 28,468 | Beads - A memory upgrade for your coding agent |
-| 8 | [**CarterPerez-dev/Cybersecurity-Projects**](https://github.com/CarterPerez-dev/Cybersecurity-Projects) | `Go` | `#Local-AI` `#Security` | **+44** | ★ 9,028 | Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Owned by my cybersecurity company 👇 |
+| 1 | [**Asymptote-Labs/agent-beacon**](https://github.com/Asymptote-Labs/agent-beacon) | `Go` | `#Coding-Agents` | **+75** | ★ 3,274 | The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.com/invite/zdNChS2fBu |
+| 2 | [**guohuiyuan/go-music-dl**](https://github.com/guohuiyuan/go-music-dl) | `Go` | - | **+99** | ★ 5,991 | 一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923 |
+| 3 | [**superplanehq/superplane**](https://github.com/superplanehq/superplane) | `Go` | - | **+173** | ★ 8,792 | Open source factory for one-shot engineering |
+| 4 | [**xpzouying/xiaohongshu-mcp**](https://github.com/xpzouying/xiaohongshu-mcp) | `Go` | `#MCP` | **+46** | ★ 16,899 | MCP for xiaohongshu.com |
+| 5 | [**pocket-id/pocket-id**](https://github.com/pocket-id/pocket-id) | `Go` | - | **+41** | ★ 9,992 | The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys. |
+| 6 | [**m5stack/StackChan**](https://github.com/m5stack/StackChan) | `Go` | - | **+3** | ★ 1,494 | StackChan open source! |
+| 7 | [**influxdata/telegraf**](https://github.com/influxdata/telegraf) | `Go` | `#Coding-Agents` | **+3** | ★ 17,896 | Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data. |
+| 8 | [**QuantumNous/new-api**](https://github.com/QuantumNous/new-api) | `Go` | - | **+73** | ★ 51,362 | Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting. |
 
-> 📂 *Explore all 16 Go repos in [`archives/2026-11/2026-11-04.md`](archives/2026-11/2026-11-04.md)*
+> 📂 *Explore all 18 Go repos in [`archives/2026-11/2026-11-04.md`](archives/2026-11/2026-11-04.md)*
 
 ### 🦀 Rust
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**vercel-labs/agent-desktop**](https://github.com/vercel-labs/agent-desktop) | `Rust` | `#Coding-Agents` | **+3,791** | ★ 13,373 | Computer use CLI for AI agents |
-| 2 | [**max-sixty/worktrunk**](https://github.com/max-sixty/worktrunk) | `Rust` | `#Coding-Agents` | **+438** | ★ 10,643 | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows |
-| 3 | [**anomalyco/hex**](https://github.com/anomalyco/hex) | `Rust` | - | **+410** | ★ 4,748 | Local voice dictation for mac, windows and linux |
-| 4 | [**cjpais/Handy**](https://github.com/cjpais/Handy) | `Rust` | `#Local-AI` | **+257** | ★ 37,400 | A free, open source, and extensible speech-to-text application that works completely offline. |
-| 5 | [**Mesh-LLM/mesh-llm**](https://github.com/Mesh-LLM/mesh-llm) | `Rust` | `#Coding-Agents` | **+86** | ★ 3,913 | Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat. |
-| 6 | [**vercel-labs/agent-browser**](https://github.com/vercel-labs/agent-browser) | `Rust` | `#Coding-Agents` | **+143** | ★ 45,441 | Browser automation CLI for AI agents |
-| 7 | [**ivankovic/omnidiff**](https://github.com/ivankovic/omnidiff) | `Rust` | - | **+190** | ★ 1,001 | Fast, robust, accurate diffing |
-| 8 | [**lexmount/moli**](https://github.com/lexmount/moli) | `Rust` | `#Coding-Agents` | **+229** | ★ 22,504 | Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust |
+| 1 | [**max-sixty/worktrunk**](https://github.com/max-sixty/worktrunk) | `Rust` | `#Coding-Agents` | **+524** | ★ 10,949 | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows |
+| 2 | [**vercel-labs/agent-desktop**](https://github.com/vercel-labs/agent-desktop) | `Rust` | `#Coding-Agents` | **+2,463** | ★ 14,735 | Computer use CLI for AI agents |
+| 3 | [**crmne/zapfast**](https://github.com/crmne/zapfast) | `Rust` | - | **+295** | ★ 2,785 | ZapFast: a fast, native WhatsApp client in Rust and egui |
+| 4 | [**vercel-labs/agent-browser**](https://github.com/vercel-labs/agent-browser) | `Rust` | `#Coding-Agents` | **+133** | ★ 45,517 | Browser automation CLI for AI agents |
+| 5 | [**Duecki1/CalibRaw**](https://github.com/Duecki1/CalibRaw) | `Rust` | - | **+12** | ★ 286 | Free, open-source RAW editor for Linux, Android, Windows and macOS. GPU-accelerated, non-destructive, with masks, HDR merge and local AI. |
+| 6 | [**t8y2/dbx**](https://github.com/t8y2/dbx) | `Rust` | `#MCP` | **+165** | ★ 29,068 | 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. \| 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。 |
+| 7 | [**janhq/jan**](https://github.com/janhq/jan) | `Rust` | `#Local-AI` | **+58** | ★ 45,440 | Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. |
+| 8 | [**hydro-project/infinity**](https://github.com/hydro-project/infinity) | `Rust` | `#Coding-Agents` | **+82** | ★ 681 | An agent runtime and tool protocol for principled agent concurrency |
 
-> 📂 *Explore all 12 Rust repos in [`archives/2026-11/2026-11-04.md`](archives/2026-11/2026-11-04.md)*
+> 📂 *Explore all 13 Rust repos in [`archives/2026-11/2026-11-04.md`](archives/2026-11/2026-11-04.md)*
 
 ---
 
