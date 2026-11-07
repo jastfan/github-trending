@@ -8,7 +8,7 @@
 [![npm package](https://img.shields.io/badge/npm-gittrends--mcp%20v5.0.0-cb3837?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/gittrends-mcp)
 [![MCP Protocol](https://img.shields.io/badge/MCP%20Server-Official-10b981?style=for-the-badge&logo=anthropic)](guides/mcp_servers_integration.md)
 [![Research Censuses](https://img.shields.io/badge/Research%20Censuses-Open%20Data-8b5cf6?style=for-the-badge&logo=arxiv)](data/research/census_latest.json)
-![Auto-Updated](https://img.shields.io/badge/Auto--Updated-2x%20Daily%20(2026--11--06)-2ea44f?style=for-the-badge&logo=github)
+![Auto-Updated](https://img.shields.io/badge/Auto--Updated-2x%20Daily%20(2026--11--07)-2ea44f?style=for-the-badge&logo=github)
 ![License](https://img.shields.io/badge/License-MIT-bf8700?style=for-the-badge)
 
 <sub>⚡ 79,848+ Listings • 164.8M Installs • Auto-updated 2x daily via GitHub Actions • Maintained by [@jastfan](https://github.com/jastfan/github-trending)</sub>
@@ -51,7 +51,7 @@ claude mcp add gittrends -- npx -y gittrends-mcp
 [![cloudflare/security-audit-skill](https://opengraph.githubassets.com/1/cloudflare/security-audit-skill)](https://github.com/cloudflare/security-audit-skill)
 
 > 💡 **What is it?** [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
-> 🚀 **Gained today:** **+2,524 stars** | **Total Stars:** ★ 63,570 | **Topics:** `#Agent-Skills` `#Coding-Agents` `#Security`
+> 🚀 **Gained today:** **+2,548 stars** | **Total Stars:** ★ 64,404 | **Topics:** `#Agent-Skills` `#Coding-Agents` `#Security`
 
 <details>
 <summary><b>👉 Click here for Instant Quick Inspect (Clone command & details)</b></summary>
@@ -72,11 +72,11 @@ git clone https://github.com/cloudflare/security-audit-skill.git
 
 | Rank | Repository | Language | Trending Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**cloudflare/security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` `#Security` | 🔥 **+2,524** | ★ 63,570 | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
-| 2 | [**mattpocock/skills**](https://github.com/mattpocock/skills) | `Shell` | `#Agent-Skills` `#Coding-Agents` | 🔥 **+2,058** | ★ 316,506 | Skills for Real Engineers. Straight from my .agents directory. |
-| 3 | [**NVIDIA/auto-ontology**](https://github.com/NVIDIA/auto-ontology) | `Python` | `#Coding-Agents` `#Local-AI` | 🔥 **+2,005** | ★ 8,765 | Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows. |
-| 4 | [**sherlock-project/sherlock**](https://github.com/sherlock-project/sherlock) | `Python` | - | 🔥 **+1,696** | ★ 98,272 | Hunt down social media accounts by username across social networks |
-| 5 | [**D4Vinci/Scrapling**](https://github.com/D4Vinci/Scrapling) | `Python` | - | 🔥 **+1,312** | ★ 98,758 | 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev |
+| 1 | [**cloudflare/security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` `#Security` | 🔥 **+2,548** | ★ 64,404 | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
+| 2 | [**mattpocock/skills**](https://github.com/mattpocock/skills) | `Shell` | `#Agent-Skills` `#Coding-Agents` | 🔥 **+2,070** | ★ 316,910 | Skills for Real Engineers. Straight from my .agents directory. |
+| 3 | [**NVIDIA/auto-ontology**](https://github.com/NVIDIA/auto-ontology) | `Python` | `#Coding-Agents` `#Local-AI` | 🔥 **+2,015** | ★ 9,303 | Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows. |
+| 4 | [**sherlock-project/sherlock**](https://github.com/sherlock-project/sherlock) | `Python` | - | 🔥 **+1,761** | ★ 98,815 | Hunt down social media accounts by username across social networks |
+| 5 | [**D4Vinci/Scrapling**](https://github.com/D4Vinci/Scrapling) | `Python` | - | 🔥 **+1,324** | ★ 98,939 | 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev |
 
 ---
 
@@ -86,12 +86,12 @@ git clone https://github.com/cloudflare/security-audit-skill.git
 
 | Rank | AI Repository | Language | Key Topic | Stars Today | Total Stars | What It Does |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**cloudflare/security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | `JavaScript` | `#Agent-Skills` | 🔥 **+2,524** | ★ 63,570 | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
-| 2 | [**mattpocock/skills**](https://github.com/mattpocock/skills) | `Shell` | `#Agent-Skills` | 🔥 **+2,058** | ★ 316,506 | Skills for Real Engineers. Straight from my .agents directory. |
-| 3 | [**NVIDIA/auto-ontology**](https://github.com/NVIDIA/auto-ontology) | `Python` | `#Coding-Agents` | 🔥 **+2,005** | ★ 8,765 | Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows. |
-| 4 | [**stablyai/orca**](https://github.com/stablyai/orca) | `TypeScript` | `#Coding-Agents` | 🔥 **+1,199** | ★ 117,667 | Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime. |
-| 5 | [**microsoft/VibeVoice**](https://github.com/microsoft/VibeVoice) | `Python` | `#AI` | 🔥 **+1,001** | ★ 56,426 | Open-Source Frontier Voice AI |
-| 6 | [**vercel-labs/agent-browser**](https://github.com/vercel-labs/agent-browser) | `Rust` | `#Coding-Agents` | 🔥 **+613** | ★ 46,284 | Browser automation CLI for AI agents |
+| 1 | [**cloudflare/security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | `JavaScript` | `#Agent-Skills` | 🔥 **+2,548** | ★ 64,404 | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
+| 2 | [**mattpocock/skills**](https://github.com/mattpocock/skills) | `Shell` | `#Agent-Skills` | 🔥 **+2,070** | ★ 316,910 | Skills for Real Engineers. Straight from my .agents directory. |
+| 3 | [**NVIDIA/auto-ontology**](https://github.com/NVIDIA/auto-ontology) | `Python` | `#Coding-Agents` | 🔥 **+2,015** | ★ 9,303 | Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows. |
+| 4 | [**stablyai/orca**](https://github.com/stablyai/orca) | `TypeScript` | `#Coding-Agents` | 🔥 **+1,155** | ★ 117,986 | Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime. |
+| 5 | [**microsoft/VibeVoice**](https://github.com/microsoft/VibeVoice) | `Python` | `#AI` | 🔥 **+1,004** | ★ 56,524 | Open-Source Frontier Voice AI |
+| 6 | [**vercel-labs/agent-browser**](https://github.com/vercel-labs/agent-browser) | `Rust` | `#Coding-Agents` | 🔥 **+622** | ★ 46,342 | Browser automation CLI for AI agents |
 
 ---
 
@@ -101,91 +101,91 @@ git clone https://github.com/cloudflare/security-audit-skill.git
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**zed-industries/zed**](https://github.com/zed-industries/zed) | `Rust` | - | **+292** | ★ 93,405 | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. |
-| 2 | [**NVIDIA/auto-ontology**](https://github.com/NVIDIA/auto-ontology) | `Python` | `#Coding-Agents` `#Local-AI` | **+2,005** | ★ 8,765 | Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows. |
-| 3 | [**rails/rails**](https://github.com/rails/rails) | `Ruby` | - | **+152** | ★ 58,955 | Ruby on Rails |
-| 4 | [**mpv-player/mpv**](https://github.com/mpv-player/mpv) | `C` | - | **+36** | ★ 37,832 | 🎥 Command line media player |
-| 5 | [**rust-lang/rust**](https://github.com/rust-lang/rust) | `Rust` | - | **+186** | ★ 121,324 | Empowering everyone to build reliable and efficient software. |
-| 6 | [**react/react**](https://github.com/react/react) | `JavaScript` | - | **+244** | ★ 252,166 | The library for web and native user interfaces. |
-| 7 | [**angular/angular**](https://github.com/angular/angular) | `TypeScript` | - | **+128** | ★ 101,244 | Deliver web apps with confidence 🚀 |
-| 8 | [**symfony/symfony**](https://github.com/symfony/symfony) | `PHP` | - | **+89** | ★ 31,341 | The Symfony PHP framework |
+| 1 | [**zed-industries/zed**](https://github.com/zed-industries/zed) | `Rust` | - | **+306** | ★ 93,808 | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. |
+| 2 | [**NVIDIA/auto-ontology**](https://github.com/NVIDIA/auto-ontology) | `Python` | `#Coding-Agents` `#Local-AI` | **+2,015** | ★ 9,303 | Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows. |
+| 3 | [**rails/rails**](https://github.com/rails/rails) | `Ruby` | - | **+142** | ★ 59,055 | Ruby on Rails |
+| 4 | [**mpv-player/mpv**](https://github.com/mpv-player/mpv) | `C` | - | **+37** | ★ 37,927 | 🎥 Command line media player |
+| 5 | [**rust-lang/rust**](https://github.com/rust-lang/rust) | `Rust` | - | **+192** | ★ 121,515 | Empowering everyone to build reliable and efficient software. |
+| 6 | [**react/react**](https://github.com/react/react) | `JavaScript` | - | **+248** | ★ 252,304 | The library for web and native user interfaces. |
+| 7 | [**angular/angular**](https://github.com/angular/angular) | `TypeScript` | - | **+135** | ★ 101,417 | Deliver web apps with confidence 🚀 |
+| 8 | [**symfony/symfony**](https://github.com/symfony/symfony) | `PHP` | - | **+128** | ★ 31,475 | The Symfony PHP framework |
 
-> 📂 *Explore all 18 Overall Trending repos in [`archives/2026-11/2026-11-06.md`](archives/2026-11/2026-11-06.md)*
+> 📂 *Explore all 18 Overall Trending repos in [`archives/2026-11/2026-11-07.md`](archives/2026-11/2026-11-07.md)*
 
 ### 🐍 Python
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**NVIDIA/auto-ontology**](https://github.com/NVIDIA/auto-ontology) | `Python` | `#Coding-Agents` `#Local-AI` | **+2,005** | ★ 8,765 | Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows. |
-| 2 | [**google/skills**](https://github.com/google/skills) | `Python` | `#Agent-Skills` `#Coding-Agents` | **+532** | ★ 22,761 | Agent Skills for Google products and technologies |
-| 3 | [**psf/requests**](https://github.com/psf/requests) | `Python` | - | **+126** | ★ 54,658 | A simple, yet elegant, HTTP library. |
-| 4 | [**NVIDIA/TensorRT-LLM**](https://github.com/NVIDIA/TensorRT-LLM) | `Python` | - | **+10** | ★ 15,028 | TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way. |
-| 5 | [**apache/airflow**](https://github.com/apache/airflow) | `Python` | - | **+16** | ★ 47,398 | Apache Airflow - A platform to programmatically author, schedule, and monitor workflows |
-| 6 | [**python-poetry/poetry**](https://github.com/python-poetry/poetry) | `Python` | - | **+129** | ★ 34,374 | Python packaging and dependency management made easy |
-| 7 | [**airbytehq/airbyte**](https://github.com/airbytehq/airbyte) | `Python` | `#Coding-Agents` | **+9** | ★ 22,329 | Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud. |
-| 8 | [**microsoft/VibeVoice**](https://github.com/microsoft/VibeVoice) | `Python` | - | **+1,001** | ★ 56,426 | Open-Source Frontier Voice AI |
+| 1 | [**NVIDIA/auto-ontology**](https://github.com/NVIDIA/auto-ontology) | `Python` | `#Coding-Agents` `#Local-AI` | **+2,015** | ★ 9,303 | Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows. |
+| 2 | [**google/skills**](https://github.com/google/skills) | `Python` | `#Agent-Skills` `#Coding-Agents` | **+534** | ★ 22,941 | Agent Skills for Google products and technologies |
+| 3 | [**psf/requests**](https://github.com/psf/requests) | `Python` | - | **+119** | ★ 54,711 | A simple, yet elegant, HTTP library. |
+| 4 | [**NVIDIA/TensorRT-LLM**](https://github.com/NVIDIA/TensorRT-LLM) | `Python` | - | **+9** | ★ 15,032 | TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way. |
+| 5 | [**apache/airflow**](https://github.com/apache/airflow) | `Python` | - | **+21** | ★ 47,404 | Apache Airflow - A platform to programmatically author, schedule, and monitor workflows |
+| 6 | [**python-poetry/poetry**](https://github.com/python-poetry/poetry) | `Python` | - | **+133** | ★ 34,430 | Python packaging and dependency management made easy |
+| 7 | [**airbytehq/airbyte**](https://github.com/airbytehq/airbyte) | `Python` | `#Coding-Agents` | **+8** | ★ 22,330 | Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud. |
+| 8 | [**microsoft/VibeVoice**](https://github.com/microsoft/VibeVoice) | `Python` | - | **+1,004** | ★ 56,524 | Open-Source Frontier Voice AI |
 
-> 📂 *Explore all 20 Python repos in [`archives/2026-11/2026-11-06.md`](archives/2026-11/2026-11-06.md)*
+> 📂 *Explore all 20 Python repos in [`archives/2026-11/2026-11-07.md`](archives/2026-11/2026-11-07.md)*
 
 ### ⚡ JavaScript
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**react/react**](https://github.com/react/react) | `JavaScript` | - | **+244** | ★ 252,166 | The library for web and native user interfaces. |
-| 2 | [**cloudflare/security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` `#Security` | **+2,524** | ★ 63,570 | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
-| 3 | [**sveltejs/svelte**](https://github.com/sveltejs/svelte) | `JavaScript` | - | **+141** | ★ 88,607 | web development for the rest of us |
-| 4 | [**fastify/fastify**](https://github.com/fastify/fastify) | `JavaScript` | - | **+14** | ★ 37,368 | Fast and low overhead web framework, for Node.js |
-| 5 | [**Yu9191/wloc**](https://github.com/Yu9191/wloc) | `JavaScript` | `#Autonomous-Finance` | **+127** | ★ 10,627 | 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位 |
-| 6 | [**nodejs/node**](https://github.com/nodejs/node) | `JavaScript` | - | **+119** | ★ 123,331 | Node.js JavaScript runtime ✨🐢🚀✨ |
-| 7 | [**simple-icons/simple-icons**](https://github.com/simple-icons/simple-icons) | `JavaScript` | - | **+12** | ★ 26,171 | SVG icons for popular brands |
-| 8 | [**Anil-matcha/Open-Generative-AI**](https://github.com/Anil-matcha/Open-Generative-AI) | `JavaScript` | `#AI-Video` `#Local-AI` | **+381** | ★ 32,811 | Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed. |
+| 1 | [**react/react**](https://github.com/react/react) | `JavaScript` | - | **+248** | ★ 252,304 | The library for web and native user interfaces. |
+| 2 | [**cloudflare/security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` `#Security` | **+2,548** | ★ 64,404 | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
+| 3 | [**sveltejs/svelte**](https://github.com/sveltejs/svelte) | `JavaScript` | - | **+152** | ★ 88,658 | web development for the rest of us |
+| 4 | [**fastify/fastify**](https://github.com/fastify/fastify) | `JavaScript` | - | **+15** | ★ 37,370 | Fast and low overhead web framework, for Node.js |
+| 5 | [**Yu9191/wloc**](https://github.com/Yu9191/wloc) | `JavaScript` | `#Autonomous-Finance` | **+112** | ★ 10,643 | 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位 |
+| 6 | [**nodejs/node**](https://github.com/nodejs/node) | `JavaScript` | - | **+192** | ★ 123,390 | Node.js JavaScript runtime ✨🐢🚀✨ |
+| 7 | [**simple-icons/simple-icons**](https://github.com/simple-icons/simple-icons) | `JavaScript` | - | **+15** | ★ 26,174 | SVG icons for popular brands |
+| 8 | [**Anil-matcha/Open-Generative-AI**](https://github.com/Anil-matcha/Open-Generative-AI) | `JavaScript` | `#AI-Video` `#Local-AI` | **+398** | ★ 32,856 | Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed. |
 
-> 📂 *Explore all 18 JavaScript repos in [`archives/2026-11/2026-11-06.md`](archives/2026-11/2026-11-06.md)*
+> 📂 *Explore all 17 JavaScript repos in [`archives/2026-11/2026-11-07.md`](archives/2026-11/2026-11-07.md)*
 
 ### 🔷 TypeScript
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**angular/angular**](https://github.com/angular/angular) | `TypeScript` | - | **+128** | ★ 101,244 | Deliver web apps with confidence 🚀 |
-| 2 | [**microsoft/vscode**](https://github.com/microsoft/vscode) | `TypeScript` | - | **+295** | ★ 194,923 | Visual Studio Code |
-| 3 | [**solidjs/solid**](https://github.com/solidjs/solid) | `TypeScript` | - | **+139** | ★ 36,292 | A declarative, efficient, and flexible JavaScript library for building user interfaces. |
-| 4 | [**tldraw/tldraw**](https://github.com/tldraw/tldraw) | `TypeScript` | `#Coding-Agents` | **+129** | ★ 51,325 | Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK. |
-| 5 | [**elder-plinius/T3MP3ST**](https://github.com/elder-plinius/T3MP3ST) | `TypeScript` | `#Coding-Agents` `#Security` | **+238** | ★ 6,936 | autonomous red teaming platform; multi-agent offensive-security meta-harness |
-| 6 | [**lobehub/lobehub**](https://github.com/lobehub/lobehub) | `TypeScript` | `#Coding-Agents` | **+184** | ★ 84,229 | 🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week. |
-| 7 | [**meta/astryx**](https://github.com/meta/astryx) | `TypeScript` | `#Coding-Agents` | **+181** | ★ 14,046 | An open source design system that's fully customizable and agent ready |
-| 8 | [**ParadevAI/Paradev**](https://github.com/ParadevAI/Paradev) | `TypeScript` | `#Coding-Agents` | **+62** | ★ 16,022 | Paradev is an open-source Codex App and Conductor alternative. Orchestrate an army coding agents in parallel with your own subscriptions. |
+| 1 | [**angular/angular**](https://github.com/angular/angular) | `TypeScript` | - | **+135** | ★ 101,417 | Deliver web apps with confidence 🚀 |
+| 2 | [**microsoft/vscode**](https://github.com/microsoft/vscode) | `TypeScript` | - | **+301** | ★ 195,074 | Visual Studio Code |
+| 3 | [**solidjs/solid**](https://github.com/solidjs/solid) | `TypeScript` | - | **+145** | ★ 36,335 | A declarative, efficient, and flexible JavaScript library for building user interfaces. |
+| 4 | [**tldraw/tldraw**](https://github.com/tldraw/tldraw) | `TypeScript` | `#Coding-Agents` | **+139** | ★ 51,388 | Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK. |
+| 5 | [**elder-plinius/T3MP3ST**](https://github.com/elder-plinius/T3MP3ST) | `TypeScript` | `#Coding-Agents` `#Security` | **+242** | ★ 6,958 | autonomous red teaming platform; multi-agent offensive-security meta-harness |
+| 6 | [**lobehub/lobehub**](https://github.com/lobehub/lobehub) | `TypeScript` | `#Coding-Agents` | **+209** | ★ 84,272 | 🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week. |
+| 7 | [**meta/astryx**](https://github.com/meta/astryx) | `TypeScript` | `#Coding-Agents` | **+198** | ★ 14,067 | An open source design system that's fully customizable and agent ready |
+| 8 | [**ParadevAI/Paradev**](https://github.com/ParadevAI/Paradev) | `TypeScript` | `#Coding-Agents` | **+56** | ★ 16,046 | Paradev is an open-source Codex App and Conductor alternative. Orchestrate an army coding agents in parallel with your own subscriptions. |
 
-> 📂 *Explore all 18 TypeScript repos in [`archives/2026-11/2026-11-06.md`](archives/2026-11/2026-11-06.md)*
+> 📂 *Explore all 18 TypeScript repos in [`archives/2026-11/2026-11-07.md`](archives/2026-11/2026-11-07.md)*
 
 ### 🐹 Go
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**prometheus/prometheus**](https://github.com/prometheus/prometheus) | `Go` | - | **+140** | ★ 67,087 | The Prometheus monitoring system and time series database. |
-| 2 | [**etcd-io/etcd**](https://github.com/etcd-io/etcd) | `Go` | - | **+123** | ★ 52,554 | Distributed reliable key-value store for the most critical data of a distributed system |
-| 3 | [**golang/go**](https://github.com/golang/go) | `Go` | - | **+146** | ★ 139,698 | The Go programming language |
-| 4 | [**kubernetes/kubernetes**](https://github.com/kubernetes/kubernetes) | `Go` | `#Local-AI` | **+180** | ★ 128,824 | Production-Grade Container Scheduling and Management |
-| 5 | [**microsoft/TypeScript**](https://github.com/microsoft/TypeScript) | `Go` | - | **+144** | ★ 111,803 | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. |
-| 6 | [**kubevirt/kubevirt**](https://github.com/kubevirt/kubevirt) | `Go` | - | **+2** | ★ 7,169 | Kubernetes Virtualization API and runtime in order to define and manage virtual machines. |
-| 7 | [**containerd/containerd**](https://github.com/containerd/containerd) | `Go` | `#Local-AI` | **+5** | ★ 21,460 | An open and reliable container runtime |
-| 8 | [**pingcap/tidb**](https://github.com/pingcap/tidb) | `Go` | `#Coding-Agents` | **+3** | ★ 40,714 | TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling. |
+| 1 | [**prometheus/prometheus**](https://github.com/prometheus/prometheus) | `Go` | - | **+148** | ★ 67,232 | The Prometheus monitoring system and time series database. |
+| 2 | [**etcd-io/etcd**](https://github.com/etcd-io/etcd) | `Go` | - | **+128** | ★ 52,640 | Distributed reliable key-value store for the most critical data of a distributed system |
+| 3 | [**golang/go**](https://github.com/golang/go) | `Go` | - | **+180** | ★ 139,758 | The Go programming language |
+| 4 | [**kubernetes/kubernetes**](https://github.com/kubernetes/kubernetes) | `Go` | `#Local-AI` | **+201** | ★ 128,880 | Production-Grade Container Scheduling and Management |
+| 5 | [**microsoft/TypeScript**](https://github.com/microsoft/TypeScript) | `Go` | - | **+129** | ★ 111,853 | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. |
+| 6 | [**kubevirt/kubevirt**](https://github.com/kubevirt/kubevirt) | `Go` | - | **+1** | ★ 7,169 | Kubernetes Virtualization API and runtime in order to define and manage virtual machines. |
+| 7 | [**containerd/containerd**](https://github.com/containerd/containerd) | `Go` | `#Local-AI` | **+3** | ★ 21,463 | An open and reliable container runtime |
+| 8 | [**pingcap/tidb**](https://github.com/pingcap/tidb) | `Go` | `#Coding-Agents` | **+2** | ★ 40,715 | TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling. |
 
-> 📂 *Explore all 24 Go repos in [`archives/2026-11/2026-11-06.md`](archives/2026-11/2026-11-06.md)*
+> 📂 *Explore all 24 Go repos in [`archives/2026-11/2026-11-07.md`](archives/2026-11/2026-11-07.md)*
 
 ### 🦀 Rust
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**zed-industries/zed**](https://github.com/zed-industries/zed) | `Rust` | - | **+292** | ★ 93,405 | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. |
-| 2 | [**rust-lang/rust**](https://github.com/rust-lang/rust) | `Rust` | - | **+186** | ★ 121,324 | Empowering everyone to build reliable and efficient software. |
-| 3 | [**nushell/nushell**](https://github.com/nushell/nushell) | `Rust` | - | **+88** | ★ 40,885 | A new type of shell |
-| 4 | [**astral-sh/ruff**](https://github.com/astral-sh/ruff) | `Rust` | - | **+107** | ★ 50,582 | An extremely fast Python linter and code formatter, written in Rust. |
-| 5 | [**tokio-rs/tokio**](https://github.com/tokio-rs/tokio) | `Rust` | - | **+89** | ★ 33,651 | A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ... |
-| 6 | [**max-sixty/worktrunk**](https://github.com/max-sixty/worktrunk) | `Rust` | `#Coding-Agents` | **+421** | ★ 11,771 | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows |
-| 7 | [**orhun/git-cliff**](https://github.com/orhun/git-cliff) | `Rust` | `#Local-AI` | **+111** | ★ 12,424 | A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ |
-| 8 | [**servo/servo**](https://github.com/servo/servo) | `Rust` | - | **+52** | ★ 38,396 | Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications. |
+| 1 | [**zed-industries/zed**](https://github.com/zed-industries/zed) | `Rust` | - | **+306** | ★ 93,809 | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. |
+| 2 | [**rust-lang/rust**](https://github.com/rust-lang/rust) | `Rust` | - | **+192** | ★ 121,515 | Empowering everyone to build reliable and efficient software. |
+| 3 | [**nushell/nushell**](https://github.com/nushell/nushell) | `Rust` | - | **+131** | ★ 41,018 | A new type of shell |
+| 4 | [**astral-sh/ruff**](https://github.com/astral-sh/ruff) | `Rust` | - | **+169** | ★ 50,750 | An extremely fast Python linter and code formatter, written in Rust. |
+| 5 | [**tokio-rs/tokio**](https://github.com/tokio-rs/tokio) | `Rust` | - | **+149** | ★ 33,707 | A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ... |
+| 6 | [**max-sixty/worktrunk**](https://github.com/max-sixty/worktrunk) | `Rust` | `#Coding-Agents` | **+422** | ★ 11,832 | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows |
+| 7 | [**orhun/git-cliff**](https://github.com/orhun/git-cliff) | `Rust` | `#Local-AI` | **+116** | ★ 12,490 | A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ |
+| 8 | [**servo/servo**](https://github.com/servo/servo) | `Rust` | - | **+55** | ★ 38,409 | Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications. |
 
-> 📂 *Explore all 20 Rust repos in [`archives/2026-11/2026-11-06.md`](archives/2026-11/2026-11-06.md)*
+> 📂 *Explore all 20 Rust repos in [`archives/2026-11/2026-11-07.md`](archives/2026-11/2026-11-07.md)*
 
 ---
 
