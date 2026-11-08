@@ -48,20 +48,20 @@ claude mcp add gittrends -- npx -y gittrends-mcp
 
 ## 🏆 Today's #1 Trending Breakout Project
 
-[![morluto/rea](https://opengraph.githubassets.com/1/morluto/rea)](https://github.com/morluto/rea)
+[![sherlock-project/sherlock](https://opengraph.githubassets.com/1/sherlock-project/sherlock)](https://github.com/sherlock-project/sherlock)
 
-> 💡 **What is it?** [morluto/rea](https://github.com/morluto/rea) — Reverse engineer anything with agents, from app behavior down to native binaries.
-> 🚀 **Gained today:** **+3,286 stars** | **Total Stars:** ★ 441,600 | **Topics:** `#Coding-Agents`
+> 💡 **What is it?** [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) — Hunt down social media accounts by username across social networks
+> 🚀 **Gained today:** **+2,372 stars** | **Total Stars:** ★ 102,778 | **Topics:** `#Trending`
 
 <details>
 <summary><b>👉 Click here for Instant Quick Inspect (Clone command & details)</b></summary>
 
 ```bash
 # Clone this breakout repository directly:
-git clone https://github.com/morluto/rea.git
+git clone https://github.com/sherlock-project/sherlock.git
 ```
-- **Repository URL:** [https://github.com/morluto/rea](https://github.com/morluto/rea)
-- **Owner:** `@morluto`
+- **Repository URL:** [https://github.com/sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
+- **Owner:** `@sherlock-project`
 </details>
 
 ---
@@ -72,11 +72,11 @@ git clone https://github.com/morluto/rea.git
 
 | Rank | Repository | Language | Trending Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**morluto/rea**](https://github.com/morluto/rea) | `TypeScript` | `#Coding-Agents` | 🔥 **+3,286** | ★ 441,600 | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| 2 | [**cloudflare/security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` `#Security` | 🔥 **+2,085** | ★ 66,024 | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
-| 3 | [**milind-soni/OpenMausBot**](https://github.com/milind-soni/OpenMausBot) | `TypeScript` | - | 🔥 **+1,955** | ★ 17,281 | Open-source Grok Bot alternative with a virtual machine that bots can use |
-| 4 | [**sherlock-project/sherlock**](https://github.com/sherlock-project/sherlock) | `Python` | - | 🔥 **+1,766** | ★ 101,052 | Hunt down social media accounts by username across social networks |
-| 5 | [**NVIDIA/auto-ontology**](https://github.com/NVIDIA/auto-ontology) | `Python` | `#Coding-Agents` `#Local-AI` | 🔥 **+1,155** | ★ 9,856 | Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows. |
+| 1 | [**sherlock-project/sherlock**](https://github.com/sherlock-project/sherlock) | `Python` | - | 🔥 **+2,372** | ★ 102,778 | Hunt down social media accounts by username across social networks |
+| 2 | [**cloudflare/security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` `#Security` | 🔥 **+1,579** | ★ 66,585 | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
+| 3 | [**milind-soni/OpenMausBot**](https://github.com/milind-soni/OpenMausBot) | `TypeScript` | - | 🔥 **+1,437** | ★ 17,982 | Open-source Grok Bot alternative with a virtual machine that bots can use |
+| 4 | [**Albert-Weasker/niubigeo**](https://github.com/Albert-Weasker/niubigeo) | `TypeScript` | - | 🔥 **+1,307** | ★ 10,139 | Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ \| Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing |
+| 5 | [**meta/astryx**](https://github.com/meta/astryx) | `TypeScript` | `#Coding-Agents` | 🔥 **+863** | ★ 15,957 | An open source design system that's fully customizable and agent ready |
 
 ---
 
@@ -86,12 +86,12 @@ git clone https://github.com/morluto/rea.git
 
 | Rank | AI Repository | Language | Key Topic | Stars Today | Total Stars | What It Does |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**morluto/rea**](https://github.com/morluto/rea) | `TypeScript` | `#Coding-Agents` | 🔥 **+3,286** | ★ 441,600 | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| 2 | [**cloudflare/security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | `JavaScript` | `#Agent-Skills` | 🔥 **+2,085** | ★ 66,024 | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
-| 3 | [**NVIDIA/auto-ontology**](https://github.com/NVIDIA/auto-ontology) | `Python` | `#Coding-Agents` | 🔥 **+1,155** | ★ 9,856 | Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows. |
-| 4 | [**mattpocock/skills**](https://github.com/mattpocock/skills) | `Shell` | `#Agent-Skills` | 🔥 **+1,100** | ★ 317,917 | Skills for Real Engineers. Straight from my .agents directory. |
-| 5 | [**stablyai/orca**](https://github.com/stablyai/orca) | `TypeScript` | `#Coding-Agents` | 🔥 **+931** | ★ 118,745 | Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime. |
-| 6 | [**google/skills**](https://github.com/google/skills) | `Python` | `#Agent-Skills` | 🔥 **+443** | ★ 23,519 | Agent Skills for Google products and technologies |
+| 1 | [**cloudflare/security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | `JavaScript` | `#Agent-Skills` | 🔥 **+1,579** | ★ 66,585 | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
+| 2 | [**Albert-Weasker/niubigeo**](https://github.com/Albert-Weasker/niubigeo) | `TypeScript` | `#AI` | 🔥 **+1,307** | ★ 10,139 | Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ \| Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing |
+| 3 | [**meta/astryx**](https://github.com/meta/astryx) | `TypeScript` | `#Coding-Agents` | 🔥 **+863** | ★ 15,957 | An open source design system that's fully customizable and agent ready |
+| 4 | [**vercel-labs/agent-browser**](https://github.com/vercel-labs/agent-browser) | `Rust` | `#Coding-Agents` | 🔥 **+812** | ★ 47,418 | Browser automation CLI for AI agents |
+| 5 | [**anthropics/skills**](https://github.com/anthropics/skills) | `Python` | `#Agent-Skills` | 🔥 **+793** | ★ 189,378 | Public repository for Agent Skills |
+| 6 | [**jub0t/Concat**](https://github.com/jub0t/Concat) | `Rust` | `#MCP` | 🔥 **+491** | ★ 15,656 | Beta: The truly free, open-source, local-first, cross-platform video editor. Scriptable through a JSON-RPC API & MCP. |
 
 ---
 
@@ -101,91 +101,87 @@ git clone https://github.com/morluto/rea.git
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**vercel-labs/agent-browser**](https://github.com/vercel-labs/agent-browser) | `Rust` | `#Coding-Agents` | **+190** | ★ 47,006 | Browser automation CLI for AI agents |
-| 2 | [**cloudflare/security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` `#Security` | **+2,085** | ★ 66,024 | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
-| 3 | [**google/skills**](https://github.com/google/skills) | `Python` | `#Agent-Skills` `#Coding-Agents` | **+443** | ★ 23,519 | Agent Skills for Google products and technologies |
-| 4 | [**mattpocock/skills**](https://github.com/mattpocock/skills) | `Shell` | `#Agent-Skills` `#Coding-Agents` | **+1,100** | ★ 317,917 | Skills for Real Engineers. Straight from my .agents directory. |
-| 5 | [**anthropics/skills**](https://github.com/anthropics/skills) | `Python` | `#Agent-Skills` `#Coding-Agents` | **+390** | ★ 188,931 | Public repository for Agent Skills |
-| 6 | [**meta/astryx**](https://github.com/meta/astryx) | `TypeScript` | `#Coding-Agents` | **+96** | ★ 14,745 | An open source design system that's fully customizable and agent ready |
-| 7 | [**prometheus/prometheus**](https://github.com/prometheus/prometheus) | `Go` | - | **+322** | ★ 67,485 | The Prometheus monitoring system and time series database. |
-| 8 | [**sherlock-project/sherlock**](https://github.com/sherlock-project/sherlock) | `Python` | - | **+1,766** | ★ 101,052 | Hunt down social media accounts by username across social networks |
+| 1 | [**sherlock-project/sherlock**](https://github.com/sherlock-project/sherlock) | `Python` | - | **+2,372** | ★ 102,778 | Hunt down social media accounts by username across social networks |
+| 2 | [**dsx-ai-factory/nvke**](https://github.com/dsx-ai-factory/nvke) | `Go` | - | **+345** | ★ 764 | NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal. |
+| 3 | [**milind-soni/OpenMausBot**](https://github.com/milind-soni/OpenMausBot) | `TypeScript` | - | **+1,437** | ★ 17,982 | Open-source Grok Bot alternative with a virtual machine that bots can use |
+| 4 | [**anthropics/claude-quickstarts**](https://github.com/anthropics/claude-quickstarts) | `Python` | - | **+28** | ★ 19,297 | A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API |
+| 5 | [**vercel-labs/agent-browser**](https://github.com/vercel-labs/agent-browser) | `Rust` | `#Coding-Agents` | **+812** | ★ 47,418 | Browser automation CLI for AI agents |
+| 6 | [**meta/astryx**](https://github.com/meta/astryx) | `TypeScript` | `#Coding-Agents` | **+863** | ★ 15,957 | An open source design system that's fully customizable and agent ready |
+| 7 | [**anthropics/skills**](https://github.com/anthropics/skills) | `Python` | `#Agent-Skills` `#Coding-Agents` | **+793** | ★ 189,378 | Public repository for Agent Skills |
+| 8 | [**google-deepmind/mujoco**](https://github.com/google-deepmind/mujoco) | `C++` | `#Local-AI` | **+26** | ★ 16,282 | Multi-Joint dynamics with Contact. A general purpose physics simulator. |
 
-> 📂 *Explore all 15 Overall Trending repos in [`archives/2026-11/2026-11-08.md`](archives/2026-11/2026-11-08.md)*
+> 📂 *Explore all 9 Overall Trending repos in [`archives/2026-11/2026-11-08.md`](archives/2026-11/2026-11-08.md)*
 
 ### 🐍 Python
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**google/skills**](https://github.com/google/skills) | `Python` | `#Agent-Skills` `#Coding-Agents` | **+443** | ★ 23,519 | Agent Skills for Google products and technologies |
-| 2 | [**anthropics/skills**](https://github.com/anthropics/skills) | `Python` | `#Agent-Skills` `#Coding-Agents` | **+390** | ★ 188,931 | Public repository for Agent Skills |
-| 3 | [**sherlock-project/sherlock**](https://github.com/sherlock-project/sherlock) | `Python` | - | **+1,766** | ★ 101,052 | Hunt down social media accounts by username across social networks |
-| 4 | [**mbillow/localthings**](https://github.com/mbillow/localthings) | `Python` | - | **+186** | ★ 1,096 | Control your Samsung appliances from Home Assistant over your home network, with no cloud account. |
-| 5 | [**microsoft/VibeVoice**](https://github.com/microsoft/VibeVoice) | `Python` | - | **+245** | ★ 56,725 | Open-Source Frontier Voice AI |
-| 6 | [**elder-plinius/OBLITERATUS**](https://github.com/elder-plinius/OBLITERATUS) | `Python` | - | **+57** | ★ 9,289 | OBLITERATE THE CHAINS THAT BIND YOU |
-| 7 | [**spotDL/spotify-downloader**](https://github.com/spotDL/spotify-downloader) | `Python` | - | **+59** | ★ 26,743 | Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found). |
-| 8 | [**jamiepine/voicebox**](https://github.com/jamiepine/voicebox) | `Python` | - | **+378** | ★ 60,026 | The open-source AI voice studio. Clone, dictate, create. |
+| 1 | [**sherlock-project/sherlock**](https://github.com/sherlock-project/sherlock) | `Python` | - | **+2,372** | ★ 102,778 | Hunt down social media accounts by username across social networks |
+| 2 | [**anthropics/claude-quickstarts**](https://github.com/anthropics/claude-quickstarts) | `Python` | - | **+28** | ★ 19,297 | A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API |
+| 3 | [**anthropics/skills**](https://github.com/anthropics/skills) | `Python` | `#Agent-Skills` `#Coding-Agents` | **+793** | ★ 189,378 | Public repository for Agent Skills |
+| 4 | [**jamiepine/voicebox**](https://github.com/jamiepine/voicebox) | `Python` | - | **+208** | ★ 60,116 | The open-source AI voice studio. Clone, dictate, create. |
+| 5 | [**googlecolab/google-colab-cli**](https://github.com/googlecolab/google-colab-cli) | `Python` | - | **+139** | ★ 2,067 | A CLI for interacting with Google Colab runtimes |
+| 6 | [**rohitg00/ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | `Python` | - | **+439** | ★ 77,765 | Learn AI Engineering! Learn it. Build it. Ship it for others. |
+| 7 | [**neuml/txtai**](https://github.com/neuml/txtai) | `Python` | - | **+57** | ★ 13,148 | 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows |
+| 8 | [**bradautomates/claude-video**](https://github.com/bradautomates/claude-video) | `Python` | `#AI-Video` | **+99** | ★ 20,210 | Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude. |
 
-> 📂 *Explore all 15 Python repos in [`archives/2026-11/2026-11-08.md`](archives/2026-11/2026-11-08.md)*
+> 📂 *Explore all 11 Python repos in [`archives/2026-11/2026-11-08.md`](archives/2026-11/2026-11-08.md)*
 
 ### ⚡ JavaScript
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**cloudflare/security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` `#Security` | **+2,085** | ★ 66,024 | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
-| 2 | [**Yu9191/wloc**](https://github.com/Yu9191/wloc) | `JavaScript` | `#Autonomous-Finance` | **+46** | ★ 10,677 | 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位 |
-| 3 | [**byoungd/up**](https://github.com/byoungd/up) | `JavaScript` | - | **+51** | ★ 70,259 | 韩先凯的人生进阶指南 AI时代 中英双语终身学习指南：AI、学习 、创业、财富、爱情与人生 |
-| 4 | [**ConardLi/garden-skills**](https://github.com/ConardLi/garden-skills) | `JavaScript` | `#Agent-Skills` `#Local-AI` | **+120** | ★ 14,639 | ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more. |
-| 5 | [**sveltejs/svelte**](https://github.com/sveltejs/svelte) | `JavaScript` | - | **+96** | ★ 88,666 | web development for the rest of us |
-| 6 | [**Anil-matcha/Open-Generative-AI**](https://github.com/Anil-matcha/Open-Generative-AI) | `JavaScript` | `#AI-Video` `#Local-AI` | **+146** | ★ 33,113 | Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed. |
-| 7 | [**babygoton/WorkDaddy**](https://github.com/babygoton/WorkDaddy) | `JavaScript` | - | **+30** | ★ 2,828 | WorkBuddy、CodeBuddy 桌面端增强助手：签到猫猫旅行成长计划查询、多账号独立备份、点切即用；免打扰模式让 AI 无人值守跑长任务；跨账号会话迁移、异常中断自动续接；暂存/快捷提示词；毛玻璃主题与更多实用功能。 |
-| 8 | [**cobusgreyling/grok-bot-templates**](https://github.com/cobusgreyling/grok-bot-templates) | `JavaScript` | `#Agent-Skills` | **+3** | ★ 109 | The engineering kit for Grok Bot templates. Spec, Bot Ready score, teams, skills, routines, and a catalog you can paste into Grok Bot today. |
+| 1 | [**Anil-matcha/Open-Generative-AI**](https://github.com/Anil-matcha/Open-Generative-AI) | `JavaScript` | `#AI-Video` `#Local-AI` | **+361** | ★ 33,316 | Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed. |
+| 2 | [**cloudflare/security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` `#Security` | **+1,579** | ★ 66,585 | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
+| 3 | [**4ian/GDevelop**](https://github.com/4ian/GDevelop) | `JavaScript` | - | **+56** | ★ 28,599 | 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone. |
+| 4 | [**hmjz100/LinkSwift**](https://github.com/hmjz100/LinkSwift) | `JavaScript` | - | **+309** | ★ 38,844 | 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘 |
 
-> 📂 *Explore all 9 JavaScript repos in [`archives/2026-11/2026-11-08.md`](archives/2026-11/2026-11-08.md)*
+> 📂 *Explore all 4 JavaScript repos in [`archives/2026-11/2026-11-08.md`](archives/2026-11/2026-11-08.md)*
 
 ### 🔷 TypeScript
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**meta/astryx**](https://github.com/meta/astryx) | `TypeScript` | `#Coding-Agents` | **+96** | ★ 14,745 | An open source design system that's fully customizable and agent ready |
-| 2 | [**milind-soni/OpenMausBot**](https://github.com/milind-soni/OpenMausBot) | `TypeScript` | - | **+1,955** | ★ 17,281 | Open-source Grok Bot alternative with a virtual machine that bots can use |
-| 3 | [**tailwindlabs/tailwindcss**](https://github.com/tailwindlabs/tailwindcss) | `TypeScript` | - | **+122** | ★ 98,561 | A utility-first CSS framework for rapid UI development. |
-| 4 | [**ranxianglei/billion-context**](https://github.com/ranxianglei/billion-context) | `TypeScript` | `#Web3` | **+191** | ★ 4,715 | A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need |
-| 5 | [**chaitin/MonkeyCode**](https://github.com/chaitin/MonkeyCode) | `TypeScript` | - | **+23** | ★ 5,092 | 企业级 AI 办公工作台 |
-| 6 | [**awslabs/aidlc-workflows**](https://github.com/awslabs/aidlc-workflows) | `TypeScript` | `#Coding-Agents` | **+51** | ★ 5,938 | AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents |
-| 7 | [**Unleash/unleash**](https://github.com/Unleash/unleash) | `TypeScript` | - | **+183** | ★ 14,194 | Open-source feature management platform |
-| 8 | [**stablyai/orca**](https://github.com/stablyai/orca) | `TypeScript` | `#Coding-Agents` | **+931** | ★ 118,745 | Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime. |
+| 1 | [**milind-soni/OpenMausBot**](https://github.com/milind-soni/OpenMausBot) | `TypeScript` | - | **+1,437** | ★ 17,982 | Open-source Grok Bot alternative with a virtual machine that bots can use |
+| 2 | [**meta/astryx**](https://github.com/meta/astryx) | `TypeScript` | `#Coding-Agents` | **+863** | ★ 15,957 | An open source design system that's fully customizable and agent ready |
+| 3 | [**ranxianglei/billion-context**](https://github.com/ranxianglei/billion-context) | `TypeScript` | `#Web3` | **+460** | ★ 5,016 | A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need |
+| 4 | [**Albert-Weasker/niubigeo**](https://github.com/Albert-Weasker/niubigeo) | `TypeScript` | - | **+1,307** | ★ 10,139 | Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ \| Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing |
+| 5 | [**kortix-ai/CompanyOS**](https://github.com/kortix-ai/CompanyOS) | `TypeScript` | `#Coding-Agents` | **+92** | ★ 20,572 | Kortix CompanyOS – the open-source operating system for your company. Multiplayer AI agents, your company as code, sovereign on your infrastructure or ours. |
+| 6 | [**tailwindlabs/tailwindcss**](https://github.com/tailwindlabs/tailwindcss) | `TypeScript` | - | **+465** | ★ 98,647 | A utility-first CSS framework for rapid UI development. |
+| 7 | [**elie222/rakazo**](https://github.com/elie222/rakazo) | `TypeScript` | - | **+117** | ★ 7,538 | Open-source Grok Bot alternative. Choose your own model and sandbox. |
+| 8 | [**ParadevAI/Paradev**](https://github.com/ParadevAI/Paradev) | `TypeScript` | `#Coding-Agents` | **+35** | ★ 16,099 | Paradev is an open-source Codex App and Conductor alternative. Orchestrate an army coding agents in parallel with your own subscriptions. |
 
-> 📂 *Explore all 19 TypeScript repos in [`archives/2026-11/2026-11-08.md`](archives/2026-11/2026-11-08.md)*
+> 📂 *Explore all 16 TypeScript repos in [`archives/2026-11/2026-11-08.md`](archives/2026-11/2026-11-08.md)*
 
 ### 🐹 Go
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**prometheus/prometheus**](https://github.com/prometheus/prometheus) | `Go` | - | **+322** | ★ 67,485 | The Prometheus monitoring system and time series database. |
-| 2 | [**dsx-ai-factory/nvke**](https://github.com/dsx-ai-factory/nvke) | `Go` | - | **+123** | ★ 612 | NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal. |
-| 3 | [**google-gemini/gemini-api-cli**](https://github.com/google-gemini/gemini-api-cli) | `Go` | - | **+14** | ★ 473 | An (experimental) CLI for the Gemini API |
-| 4 | [**go-vikunja/vikunja**](https://github.com/go-vikunja/vikunja) | `Go` | - | **+15** | ★ 5,993 | The task manager you actually own. |
-| 5 | [**etcd-io/etcd**](https://github.com/etcd-io/etcd) | `Go` | - | **+159** | ★ 52,670 | Distributed reliable key-value store for the most critical data of a distributed system |
-| 6 | [**spf13/cobra**](https://github.com/spf13/cobra) | `Go` | - | **+64** | ★ 44,845 | A Commander for modern Go CLI interactions |
-| 7 | [**mikefarah/yq**](https://github.com/mikefarah/yq) | `Go` | - | **+8** | ★ 16,240 | yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL and properties processor |
-| 8 | [**JuliusBrussee/caveman**](https://github.com/JuliusBrussee/caveman) | `Go` | `#Agent-Skills` `#Coding-Agents` `#Web3` | **+205** | ★ 118,197 | 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman. |
+| 1 | [**dsx-ai-factory/nvke**](https://github.com/dsx-ai-factory/nvke) | `Go` | - | **+345** | ★ 764 | NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal. |
+| 2 | [**henrygd/beszel**](https://github.com/henrygd/beszel) | `Go` | - | **+86** | ★ 26,989 | Lightweight server monitoring with historical data, docker stats, and alerts. |
+| 3 | [**prometheus/prometheus**](https://github.com/prometheus/prometheus) | `Go` | - | **+258** | ★ 67,553 | The Prometheus monitoring system and time series database. |
+| 4 | [**Christ9038/Ydisks-Xianyu-Helper**](https://github.com/Christ9038/Ydisks-Xianyu-Helper) | `Go` | - | **+48** | ★ 2,332 | 闲鱼多账号自动发货、消息回复系统——基于 Go 与 React 构建 |
+| 5 | [**XTLS/Xray-core**](https://github.com/XTLS/Xray-core) | `Go` | - | **+39** | ★ 42,727 | Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses. |
+| 6 | [**vxcontrol/pentagi**](https://github.com/vxcontrol/pentagi) | `Go` | `#Coding-Agents` `#Security` | **+98** | ★ 33,699 | Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
+| 7 | [**kgretzky/evilginx2**](https://github.com/kgretzky/evilginx2) | `Go` | - | **+22** | ★ 15,863 | Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication |
+| 8 | [**woodpecker-ci/woodpecker**](https://github.com/woodpecker-ci/woodpecker) | `Go` | - | **+6** | ★ 8,132 | Woodpecker is a simple, yet powerful CI/CD engine with great extensibility. |
 
-> 📂 *Explore all 19 Go repos in [`archives/2026-11/2026-11-08.md`](archives/2026-11/2026-11-08.md)*
+> 📂 *Explore all 18 Go repos in [`archives/2026-11/2026-11-08.md`](archives/2026-11/2026-11-08.md)*
 
 ### 🦀 Rust
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**vercel-labs/agent-browser**](https://github.com/vercel-labs/agent-browser) | `Rust` | `#Coding-Agents` | **+190** | ★ 47,007 | Browser automation CLI for AI agents |
-| 2 | [**astral-sh/ruff**](https://github.com/astral-sh/ruff) | `Rust` | - | **+350** | ★ 51,026 | An extremely fast Python linter and code formatter, written in Rust. |
-| 3 | [**zed-industries/zed**](https://github.com/zed-industries/zed) | `Rust` | - | **+1,114** | ★ 94,348 | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. |
-| 4 | [**CapSoftware/Cap**](https://github.com/CapSoftware/Cap) | `Rust` | - | **+77** | ★ 24,616 | Open source Loom alternative. Beautiful, shareable screen recordings. |
-| 5 | [**longbridge/gpui-kit**](https://github.com/longbridge/gpui-kit) | `Rust` | - | **+178** | ★ 19,865 | Rust GUI components for building fantastic cross-platform desktop application by using GPUI. |
-| 6 | [**rivet-dev/rivet**](https://github.com/rivet-dev/rivet) | `Rust` | `#Coding-Agents` | **+27** | ★ 6,795 | The orchestrator for agentic workloads. A fast, high-density and scalable orchestrator for every workload an agent needs. |
-| 7 | [**sharkdp/fd**](https://github.com/sharkdp/fd) | `Rust` | - | **+105** | ★ 45,116 | A simple, fast and user-friendly alternative to 'find' |
-| 8 | [**max-sixty/worktrunk**](https://github.com/max-sixty/worktrunk) | `Rust` | `#Coding-Agents` | **+147** | ★ 11,981 | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows |
+| 1 | [**vercel-labs/agent-browser**](https://github.com/vercel-labs/agent-browser) | `Rust` | `#Coding-Agents` | **+812** | ★ 47,418 | Browser automation CLI for AI agents |
+| 2 | [**storytold/artcraft**](https://github.com/storytold/artcraft) | `Rust` | `#Local-AI` | **+331** | ★ 39,826 | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
+| 3 | [**zed-industries/zed**](https://github.com/zed-industries/zed) | `Rust` | - | **+408** | ★ 94,457 | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. |
+| 4 | [**GCWing/OpenBitFun**](https://github.com/GCWing/OpenBitFun) | `Rust` | `#Coding-Agents` `#Local-AI` | **+50** | ★ 3,973 | OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development. |
+| 5 | [**jub0t/Concat**](https://github.com/jub0t/Concat) | `Rust` | `#MCP` `#AI-Video` `#Local-AI` | **+491** | ★ 15,656 | Beta: The truly free, open-source, local-first, cross-platform video editor. Scriptable through a JSON-RPC API & MCP. |
+| 6 | [**ZSeven-W/openpencil**](https://github.com/ZSeven-W/openpencil) | `Rust` | `#Coding-Agents` | **+28** | ★ 7,146 | The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil. |
+| 7 | [**wealthfolio/wealthfolio**](https://github.com/wealthfolio/wealthfolio) | `Rust` | `#Local-AI` | **+17** | ★ 9,377 | A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations. |
+| 8 | [**ruvnet/RuView**](https://github.com/ruvnet/RuView) | `Rust` | `#AI-Video` | **+192** | ★ 103,028 | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
 
-> 📂 *Explore all 17 Rust repos in [`archives/2026-11/2026-11-08.md`](archives/2026-11/2026-11-08.md)*
+> 📂 *Explore all 12 Rust repos in [`archives/2026-11/2026-11-08.md`](archives/2026-11/2026-11-08.md)*
 
 ---
 
