@@ -48,20 +48,20 @@ claude mcp add gittrends -- npx -y gittrends-mcp
 
 ## 🏆 Today's #1 Trending Breakout Project
 
-[![meta/astryx](https://opengraph.githubassets.com/1/meta/astryx)](https://github.com/meta/astryx)
+[![GoogleChrome/modern-web-guidance-src](https://opengraph.githubassets.com/1/GoogleChrome/modern-web-guidance-src)](https://github.com/GoogleChrome/modern-web-guidance-src)
 
-> 💡 **What is it?** [meta/astryx](https://github.com/meta/astryx) — An open source design system that's fully customizable and agent ready
-> 🚀 **Gained today:** **+1,830 stars** | **Total Stars:** ★ 26,875 | **Topics:** `#Coding-Agents`
+> 💡 **What is it?** [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) — Keep your coding agent up to date with the latest web best practices
+> 🚀 **Gained today:** **+1,875 stars** | **Total Stars:** ★ 4,625 | **Topics:** `#Coding-Agents`
 
 <details>
 <summary><b>👉 Click here for Instant Quick Inspect (Clone command & details)</b></summary>
 
 ```bash
 # Clone this breakout repository directly:
-git clone https://github.com/meta/astryx.git
+git clone https://github.com/GoogleChrome/modern-web-guidance-src.git
 ```
-- **Repository URL:** [https://github.com/meta/astryx](https://github.com/meta/astryx)
-- **Owner:** `@meta`
+- **Repository URL:** [https://github.com/GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
+- **Owner:** `@GoogleChrome`
 </details>
 
 ---
@@ -72,11 +72,11 @@ git clone https://github.com/meta/astryx.git
 
 | Rank | Repository | Language | Trending Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**meta/astryx**](https://github.com/meta/astryx) | `TypeScript` | `#Coding-Agents` | 🔥 **+1,830** | ★ 26,875 | An open source design system that's fully customizable and agent ready |
-| 2 | [**ZhuLinsen/daily_stock_analysis**](https://github.com/ZhuLinsen/daily_stock_analysis) | `Python` | - | 🔥 **+1,294** | ★ 71,137 | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. |
-| 3 | [**we-promise/sure**](https://github.com/we-promise/sure) | `Ruby` | - | 🔥 **+967** | ★ 14,174 | The personal finance app for everyone (by everyone) |
-| 4 | [**addyosmani/agent-skills**](https://github.com/addyosmani/agent-skills) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` | 🔥 **+816** | ★ 116,843 | Production-grade engineering skills for AI coding agents. |
-| 5 | [**GoogleChrome/modern-web-guidance-src**](https://github.com/GoogleChrome/modern-web-guidance-src) | `TypeScript` | `#Coding-Agents` | 🔥 **+739** | ★ 3,609 | Keep your coding agent up to date with the latest web best practices |
+| 1 | [**GoogleChrome/modern-web-guidance-src**](https://github.com/GoogleChrome/modern-web-guidance-src) | `TypeScript` | `#Coding-Agents` | 🔥 **+1,875** | ★ 4,625 | Keep your coding agent up to date with the latest web best practices |
+| 2 | [**we-promise/sure**](https://github.com/we-promise/sure) | `Ruby` | - | 🔥 **+944** | ★ 14,610 | The personal finance app for everyone (by everyone) |
+| 3 | [**Alishahryar1/free-claude-code**](https://github.com/Alishahryar1/free-claude-code) | `Python` | `#Coding-Agents` `#Web3` | 🔥 **+895** | ★ 69,845 | Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly) |
+| 4 | [**CopilotKit/OpenBot**](https://github.com/CopilotKit/OpenBot) | `TypeScript` | `#Coding-Agents` | 🔥 **+799** | ★ 12,063 | Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent. |
+| 5 | [**Leonxlnx/taste-skill**](https://github.com/Leonxlnx/taste-skill) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` `#Local-AI` | 🔥 **+783** | ★ 114,928 | Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages |
 
 ---
 
@@ -86,12 +86,12 @@ git clone https://github.com/meta/astryx.git
 
 | Rank | AI Repository | Language | Key Topic | Stars Today | Total Stars | What It Does |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**meta/astryx**](https://github.com/meta/astryx) | `TypeScript` | `#Coding-Agents` | 🔥 **+1,830** | ★ 26,875 | An open source design system that's fully customizable and agent ready |
-| 2 | [**ZhuLinsen/daily_stock_analysis**](https://github.com/ZhuLinsen/daily_stock_analysis) | `Python` | `#AI` | 🔥 **+1,294** | ★ 71,137 | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. |
-| 3 | [**addyosmani/agent-skills**](https://github.com/addyosmani/agent-skills) | `JavaScript` | `#Agent-Skills` | 🔥 **+816** | ★ 116,843 | Production-grade engineering skills for AI coding agents. |
-| 4 | [**GoogleChrome/modern-web-guidance-src**](https://github.com/GoogleChrome/modern-web-guidance-src) | `TypeScript` | `#Coding-Agents` | 🔥 **+739** | ★ 3,609 | Keep your coding agent up to date with the latest web best practices |
-| 5 | [**homeassistant-ai/ha-mcp**](https://github.com/homeassistant-ai/ha-mcp) | `Python` | `#MCP` | 🔥 **+714** | ★ 7,710 | Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. |
-| 6 | [**openai/codex-security**](https://github.com/openai/codex-security) | `TypeScript` | `#Coding-Agents` | 🔥 **+643** | ★ 12,654 | OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security |
+| 1 | [**GoogleChrome/modern-web-guidance-src**](https://github.com/GoogleChrome/modern-web-guidance-src) | `TypeScript` | `#Coding-Agents` | 🔥 **+1,875** | ★ 4,625 | Keep your coding agent up to date with the latest web best practices |
+| 2 | [**Alishahryar1/free-claude-code**](https://github.com/Alishahryar1/free-claude-code) | `Python` | `#Coding-Agents` | 🔥 **+895** | ★ 69,845 | Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly) |
+| 3 | [**CopilotKit/OpenBot**](https://github.com/CopilotKit/OpenBot) | `TypeScript` | `#Coding-Agents` | 🔥 **+799** | ★ 12,063 | Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent. |
+| 4 | [**Leonxlnx/taste-skill**](https://github.com/Leonxlnx/taste-skill) | `JavaScript` | `#Agent-Skills` | 🔥 **+783** | ★ 114,928 | Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages |
+| 5 | [**openai/codex-security**](https://github.com/openai/codex-security) | `TypeScript` | `#Coding-Agents` | 🔥 **+754** | ★ 13,027 | OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security |
+| 6 | [**addyosmani/agent-skills**](https://github.com/addyosmani/agent-skills) | `JavaScript` | `#Agent-Skills` | 🔥 **+696** | ★ 117,091 | Production-grade engineering skills for AI coding agents. |
 
 ---
 
@@ -101,29 +101,29 @@ git clone https://github.com/meta/astryx.git
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**GoogleChrome/modern-web-guidance-src**](https://github.com/GoogleChrome/modern-web-guidance-src) | `TypeScript` | `#Coding-Agents` | **+739** | ★ 3,609 | Keep your coding agent up to date with the latest web best practices |
-| 2 | [**openai/codex-security**](https://github.com/openai/codex-security) | `TypeScript` | `#Coding-Agents` `#Local-AI` `#Security` | **+643** | ★ 12,654 | OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security |
-| 3 | [**nvm-sh/nvm**](https://github.com/nvm-sh/nvm) | `Shell` | - | **+63** | ★ 96,061 | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. |
-| 4 | [**pookjw/HermesEnabler**](https://github.com/pookjw/HermesEnabler) | `Objective-C` | `#Coding-Agents` | **+218** | ★ 1,648 | Enable Hermès Watch Faces on any Apple Watch devices |
-| 5 | [**we-promise/sure**](https://github.com/we-promise/sure) | `Ruby` | - | **+967** | ★ 14,174 | The personal finance app for everyone (by everyone) |
-| 6 | [**QwenLM/qwen-code**](https://github.com/QwenLM/qwen-code) | `TypeScript` | `#Coding-Agents` | **+151** | ★ 29,977 | An open-source AI coding agent that lives in your terminal. |
-| 7 | [**ashhart/TensorFold**](https://github.com/ashhart/TensorFold) | `Zig` | - | **+54** | ★ 2,016 | LLM Inference Engine for Metal, CUDA and Vulkan. |
-| 8 | [**nodejs/node**](https://github.com/nodejs/node) | `JavaScript` | - | **+62** | ★ 123,651 | Node.js JavaScript runtime ✨🐢🚀✨ |
+| 1 | [**alibaba/open-code-review**](https://github.com/alibaba/open-code-review) | `Go` | `#Coding-Agents` | **+206** | ★ 50,469 | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
+| 2 | [**GoogleChrome/modern-web-guidance-src**](https://github.com/GoogleChrome/modern-web-guidance-src) | `TypeScript` | `#Coding-Agents` | **+1,875** | ★ 4,625 | Keep your coding agent up to date with the latest web best practices |
+| 3 | [**openai/codex-security**](https://github.com/openai/codex-security) | `TypeScript` | `#Coding-Agents` `#Local-AI` `#Security` | **+754** | ★ 13,027 | OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security |
+| 4 | [**ZhuLinsen/daily_stock_analysis**](https://github.com/ZhuLinsen/daily_stock_analysis) | `Python` | - | **+272** | ★ 71,492 | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. |
+| 5 | [**we-promise/sure**](https://github.com/we-promise/sure) | `Ruby` | - | **+944** | ★ 14,610 | The personal finance app for everyone (by everyone) |
+| 6 | [**backnotprop/plannotator**](https://github.com/backnotprop/plannotator) | `TypeScript` | `#Coding-Agents` | **+100** | ★ 10,378 | The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. |
+| 7 | [**louislam/uptime-kuma**](https://github.com/louislam/uptime-kuma) | `JavaScript` | - | **+61** | ★ 93,784 | A fancy self-hosted monitoring tool |
+| 8 | [**block/buzz**](https://github.com/block/buzz) | `Rust` | - | **+95** | ★ 37,257 | A hive mind communication platform |
 
-> 📂 *Explore all 13 Overall Trending repos in [`archives/2026-11/2026-11-13.md`](archives/2026-11/2026-11-13.md)*
+> 📂 *Explore all 12 Overall Trending repos in [`archives/2026-11/2026-11-13.md`](archives/2026-11/2026-11-13.md)*
 
 ### 🐍 Python
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**Alishahryar1/free-claude-code**](https://github.com/Alishahryar1/free-claude-code) | `Python` | `#Coding-Agents` `#Web3` | **+415** | ★ 69,529 | Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly) |
-| 2 | [**openai/whisper**](https://github.com/openai/whisper) | `Python` | `#Local-AI` | **+113** | ★ 112,626 | Robust Speech Recognition via Large-Scale Weak Supervision |
-| 3 | [**ZhuLinsen/daily_stock_analysis**](https://github.com/ZhuLinsen/daily_stock_analysis) | `Python` | - | **+1,294** | ★ 71,137 | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. |
-| 4 | [**fastapi/fastapi**](https://github.com/fastapi/fastapi) | `Python` | - | **+82** | ★ 104,678 | FastAPI framework, high performance, easy to learn, fast to code, ready for production |
-| 5 | [**python/cpython**](https://github.com/python/cpython) | `Python` | - | **+72** | ★ 78,203 | The Python programming language |
-| 6 | [**homeassistant-ai/ha-mcp**](https://github.com/homeassistant-ai/ha-mcp) | `Python` | `#MCP` | **+714** | ★ 7,710 | Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. |
-| 7 | [**oaustegard/claude-skills**](https://github.com/oaustegard/claude-skills) | `Python` | `#Agent-Skills` | **+34** | ★ 378 | My collection of Claude skills |
-| 8 | [**rlaope/oh-my-hermes**](https://github.com/rlaope/oh-my-hermes) | `Python` | `#Coding-Agents` | **+79** | ★ 5,574 | ⚚ The ultrawork agent with AI coworkers wired into you |
+| 1 | [**ZhuLinsen/daily_stock_analysis**](https://github.com/ZhuLinsen/daily_stock_analysis) | `Python` | - | **+272** | ★ 71,492 | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. |
+| 2 | [**tradermonty/claude-trading-skills**](https://github.com/tradermonty/claude-trading-skills) | `Python` | `#Agent-Skills` `#Local-AI` `#Autonomous-Finance` | **+60** | ★ 4,069 | Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development. |
+| 3 | [**Tencent-Hunyuan/Hy-MT2**](https://github.com/Tencent-Hunyuan/Hy-MT2) | `Python` | - | **+49** | ★ 1,751 | No description provided. |
+| 4 | [**davila7/claude-code-templates**](https://github.com/davila7/claude-code-templates) | `Python` | `#MCP` `#Agent-Skills` `#Coding-Agents` | **+65** | ★ 33,473 | Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods |
+| 5 | [**avenoxai/avenoxbeyin**](https://github.com/avenoxai/avenoxbeyin) | `Python` | - | **+46** | ★ 449 | Your AI second brain in one command — open-source Obsidian + Claude Code system with persistent cross-session memory. avenox.lol/beyin.md |
+| 6 | [**asgeirtj/system_prompts_leaks**](https://github.com/asgeirtj/system_prompts_leaks) | `Python` | `#Coding-Agents` | **+83** | ★ 71,347 | Leaked system prompts of ChatGPT, Claude, Gemini and more. The hidden system prompt of every popular chatbot, in full, every version since May 2025. Also Anthropic Claude Code, OpenAI Codex, Google Antigravity, xAI Grok, Meta Muse, Moonshot Kimi, Alibaba Qwen, Z.ai GLM ZCode, MiniMax, Cursor, Perplexity, DeepSeek and 30+ others. Updated daily. |
+| 7 | [**anthropics/claude-plugins-official**](https://github.com/anthropics/claude-plugins-official) | `Python` | - | **+134** | ★ 47,166 | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| 8 | [**headroomlabs-ai/headroom**](https://github.com/headroomlabs-ai/headroom) | `Python` | `#MCP` `#Coding-Agents` `#Web3` | **+125** | ★ 79,577 | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. |
 
 > 📂 *Explore all 16 Python repos in [`archives/2026-11/2026-11-13.md`](archives/2026-11/2026-11-13.md)*
 
@@ -131,61 +131,61 @@ git clone https://github.com/meta/astryx.git
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**nodejs/node**](https://github.com/nodejs/node) | `JavaScript` | - | **+62** | ★ 123,651 | Node.js JavaScript runtime ✨🐢🚀✨ |
-| 2 | [**addyosmani/agent-skills**](https://github.com/addyosmani/agent-skills) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` | **+816** | ★ 116,843 | Production-grade engineering skills for AI coding agents. |
-| 3 | [**laoma528/awesome-zhuiju-free**](https://github.com/laoma528/awesome-zhuiju-free) | `JavaScript` | - | **+131** | ★ 15,443 | 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。 |
-| 4 | [**axios/axios**](https://github.com/axios/axios) | `JavaScript` | - | **+55** | ★ 109,398 | Promise based HTTP client for the browser and node.js |
-| 5 | [**coreyhaines31/marketingskills**](https://github.com/coreyhaines31/marketingskills) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` | **+208** | ★ 60,017 | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. |
-| 6 | [**sveltejs/svelte**](https://github.com/sveltejs/svelte) | `JavaScript` | - | **+79** | ★ 88,752 | web development for the rest of us |
-| 7 | [**OpenWhispr/openwhispr**](https://github.com/OpenWhispr/openwhispr) | `JavaScript` | `#Local-AI` | **+116** | ★ 11,462 | Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform. |
-| 8 | [**react/react**](https://github.com/react/react) | `JavaScript` | - | **+78** | ★ 252,565 | The library for web and native user interfaces. |
+| 1 | [**louislam/uptime-kuma**](https://github.com/louislam/uptime-kuma) | `JavaScript` | - | **+61** | ★ 93,784 | A fancy self-hosted monitoring tool |
+| 2 | [**addyosmani/agent-skills**](https://github.com/addyosmani/agent-skills) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` | **+696** | ★ 117,091 | Production-grade engineering skills for AI coding agents. |
+| 3 | [**Leonxlnx/taste-skill**](https://github.com/Leonxlnx/taste-skill) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` `#Local-AI` | **+783** | ★ 114,928 | Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages |
+| 4 | [**affaan-m/ECC**](https://github.com/affaan-m/ECC) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` `#Security` | **+608** | ★ 302,386 | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| 5 | [**microsoft/power-platform-skills**](https://github.com/microsoft/power-platform-skills) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` | **+3** | ★ 1,146 | A plugin marketplace for GitHub Copilot and other AI agents that provides Power Platform development plugins, including reusable skills, agents, and commands for building and deploying solutions. |
+| 6 | [**mksglu/context-mode**](https://github.com/mksglu/context-mode) | `JavaScript` | `#Coding-Agents` | **+71** | ★ 34,046 | Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry. |
+| 7 | [**coreyhaines31/marketingskills**](https://github.com/coreyhaines31/marketingskills) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` | **+205** | ★ 60,145 | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. |
+| 8 | [**OpenWhispr/openwhispr**](https://github.com/OpenWhispr/openwhispr) | `JavaScript` | `#Local-AI` | **+76** | ★ 11,503 | Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform. |
 
-> 📂 *Explore all 14 JavaScript repos in [`archives/2026-11/2026-11-13.md`](archives/2026-11/2026-11-13.md)*
+> 📂 *Explore all 10 JavaScript repos in [`archives/2026-11/2026-11-13.md`](archives/2026-11/2026-11-13.md)*
 
 ### 🔷 TypeScript
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**GoogleChrome/modern-web-guidance-src**](https://github.com/GoogleChrome/modern-web-guidance-src) | `TypeScript` | `#Coding-Agents` | **+739** | ★ 3,609 | Keep your coding agent up to date with the latest web best practices |
-| 2 | [**openai/codex-security**](https://github.com/openai/codex-security) | `TypeScript` | `#Coding-Agents` `#Local-AI` `#Security` | **+643** | ★ 12,654 | OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security |
-| 3 | [**QwenLM/qwen-code**](https://github.com/QwenLM/qwen-code) | `TypeScript` | `#Coding-Agents` | **+151** | ★ 29,977 | An open-source AI coding agent that lives in your terminal. |
-| 4 | [**meta/astryx**](https://github.com/meta/astryx) | `TypeScript` | `#Coding-Agents` | **+1,830** | ★ 26,875 | An open source design system that's fully customizable and agent ready |
-| 5 | [**CopilotKit/OpenBot**](https://github.com/CopilotKit/OpenBot) | `TypeScript` | `#Coding-Agents` | **+298** | ★ 11,838 | Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent. |
-| 6 | [**n8n-io/n8n**](https://github.com/n8n-io/n8n) | `TypeScript` | - | **+167** | ★ 210,350 | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. |
-| 7 | [**supabase/supabase**](https://github.com/supabase/supabase) | `TypeScript` | - | **+97** | ★ 114,949 | The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. |
-| 8 | [**block/buzz-app**](https://github.com/block/buzz-app) | `TypeScript` | - | **+41** | ★ 227 | A new desktop/web app experience for buzz |
+| 1 | [**GoogleChrome/modern-web-guidance-src**](https://github.com/GoogleChrome/modern-web-guidance-src) | `TypeScript` | `#Coding-Agents` | **+1,875** | ★ 4,625 | Keep your coding agent up to date with the latest web best practices |
+| 2 | [**openai/codex-security**](https://github.com/openai/codex-security) | `TypeScript` | `#Coding-Agents` `#Local-AI` `#Security` | **+754** | ★ 13,027 | OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security |
+| 3 | [**backnotprop/plannotator**](https://github.com/backnotprop/plannotator) | `TypeScript` | `#Coding-Agents` | **+100** | ★ 10,378 | The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. |
+| 4 | [**ChromeDevTools/chrome-devtools-mcp**](https://github.com/ChromeDevTools/chrome-devtools-mcp) | `TypeScript` | `#MCP` `#Coding-Agents` | **+145** | ★ 55,380 | Chrome DevTools for coding agents |
+| 5 | [**CopilotKit/OpenBot**](https://github.com/CopilotKit/OpenBot) | `TypeScript` | `#Coding-Agents` | **+799** | ★ 12,063 | Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent. |
+| 6 | [**a2ui-project/a2ui**](https://github.com/a2ui-project/a2ui) | `TypeScript` | `#Coding-Agents` `#Local-AI` | **+121** | ★ 17,303 | Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose. |
+| 7 | [**PurpleDoubleD/locally-uncensored**](https://github.com/PurpleDoubleD/locally-uncensored) | `TypeScript` | `#Coding-Agents` `#AI-Video` `#Local-AI` | **+154** | ★ 4,178 | The all-in-one local AI studio for your desktop: chat, image and video generation and a coding agent in one free, open source app. Windows and Linux. No Docker, no terminal, no cloud required. |
+| 8 | [**shanliuling/dsh-image-gen**](https://github.com/shanliuling/dsh-image-gen) | `TypeScript` | `#AI-Video` `#Local-AI` | **+92** | ★ 1,468 | 可在对话内生成、编辑、对比图像；内置 500 + 提示词、图库、多模型工作流，支持 ComfyUI。AI image studio for DeepSeek Harness — generate, edit & compare images in chat, with 500+ prompts, gallery, multi-model workflows and ComfyUI. |
 
-> 📂 *Explore all 20 TypeScript repos in [`archives/2026-11/2026-11-13.md`](archives/2026-11/2026-11-13.md)*
+> 📂 *Explore all 18 TypeScript repos in [`archives/2026-11/2026-11-13.md`](archives/2026-11/2026-11-13.md)*
 
 ### 🐹 Go
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**Tencent/LoopForge**](https://github.com/Tencent/LoopForge) | `Go` | `#Coding-Agents` | **+184** | ★ 623 | Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants. |
-| 2 | [**moby/buildkit**](https://github.com/moby/buildkit) | `Go` | - | **+16** | ★ 10,415 | concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit |
-| 3 | [**agent-substrate/substrate**](https://github.com/agent-substrate/substrate) | `Go` | `#Coding-Agents` | **+84** | ★ 6,552 | Agent Substrate: the core system |
-| 4 | [**golang/go**](https://github.com/golang/go) | `Go` | - | **+77** | ★ 139,882 | The Go programming language |
-| 5 | [**databricks/cli**](https://github.com/databricks/cli) | `Go` | - | **+3** | ★ 431 | Databricks CLI |
-| 6 | [**kubernetes/kubernetes**](https://github.com/kubernetes/kubernetes) | `Go` | `#Local-AI` | **+78** | ★ 129,041 | Production-Grade Container Scheduling and Management |
-| 7 | [**tailscale/tailcat**](https://github.com/tailscale/tailcat) | `Go` | - | **+173** | ★ 9,116 | like netcat, but over Tailscale's data plane, without Tailscale's control plane |
-| 8 | [**dsx-ai-factory/run-ai**](https://github.com/dsx-ai-factory/run-ai) | `Go` | - | **+8** | ★ 758 | Run:ai is the AI workload orchestration platform for Kubernetes. This monorepo contains the control plane services, in-cluster Kubernetes operator/controllers, shared libraries and clients, the installer, and the local dev environment. |
+| 1 | [**alibaba/open-code-review**](https://github.com/alibaba/open-code-review) | `Go` | `#Coding-Agents` | **+206** | ★ 50,469 | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
+| 2 | [**tailscale/tailcat**](https://github.com/tailscale/tailcat) | `Go` | - | **+324** | ★ 9,364 | like netcat, but over Tailscale's data plane, without Tailscale's control plane |
+| 3 | [**Tencent/LoopForge**](https://github.com/Tencent/LoopForge) | `Go` | `#Coding-Agents` | **+174** | ★ 666 | Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants. |
+| 4 | [**Tencent/WeKnora**](https://github.com/Tencent/WeKnora) | `Go` | `#Coding-Agents` | **+90** | ★ 37,392 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. |
+| 5 | [**ollama/ollama**](https://github.com/ollama/ollama) | `Go` | `#Local-AI` | **+134** | ★ 186,884 | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
+| 6 | [**Gentleman-Programming/gentle-ai**](https://github.com/Gentleman-Programming/gentle-ai) | `Go` | `#MCP` `#Agent-Skills` `#Coding-Agents` | **+240** | ★ 9,114 | Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Organic-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock-in. |
+| 7 | [**modelcontextprotocol/go-sdk**](https://github.com/modelcontextprotocol/go-sdk) | `Go` | - | **+4** | ★ 5,343 | The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google. |
+| 8 | [**multica-ai/multica**](https://github.com/multica-ai/multica) | `Go` | `#Coding-Agents` | **+166** | ★ 56,046 | Make humans and AI agents work as one team — open-source and self-hostable. |
 
-> 📂 *Explore all 14 Go repos in [`archives/2026-11/2026-11-13.md`](archives/2026-11/2026-11-13.md)*
+> 📂 *Explore all 16 Go repos in [`archives/2026-11/2026-11-13.md`](archives/2026-11/2026-11-13.md)*
 
 ### 🦀 Rust
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**tokio-rs/topcoat**](https://github.com/tokio-rs/topcoat) | `Rust` | - | **+90** | ★ 7,170 | A batteries-included framework for building web apps |
-| 2 | [**zellij-org/zellij**](https://github.com/zellij-org/zellij) | `Rust` | - | **+37** | ★ 36,045 | A terminal workspace with batteries included |
-| 3 | [**Universal-Debloater-Alliance/universal-android-debloater-next-generation**](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) | `Rust` | `#Local-AI` `#Security` | **+31** | ★ 10,039 | Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device. |
-| 4 | [**vercel-labs/agent-browser**](https://github.com/vercel-labs/agent-browser) | `Rust` | `#Coding-Agents` | **+604** | ★ 50,430 | Browser automation CLI for AI agents |
-| 5 | [**astral-sh/uv**](https://github.com/astral-sh/uv) | `Rust` | - | **+94** | ★ 91,970 | An extremely fast Python package and project manager, written in Rust. |
-| 6 | [**tw93/Pake**](https://github.com/tw93/Pake) | `Rust` | - | **+105** | ★ 63,481 | Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux. |
-| 7 | [**ShayanAbbas1/dbdelve**](https://github.com/ShayanAbbas1/dbdelve) | `Rust` | - | **+108** | ★ 1,258 | Fast and lightweight DB Client made in Rust and GPUI. |
-| 8 | [**tauri-apps/tauri**](https://github.com/tauri-apps/tauri) | `Rust` | - | **+90** | ★ 112,869 | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. |
+| 1 | [**block/buzz**](https://github.com/block/buzz) | `Rust` | - | **+95** | ★ 37,257 | A hive mind communication platform |
+| 2 | [**rustdesk/rustdesk**](https://github.com/rustdesk/rustdesk) | `Rust` | - | **+165** | ★ 129,341 | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
+| 3 | [**farion1231/cc-switch**](https://github.com/farion1231/cc-switch) | `Rust` | `#Coding-Agents` | **+327** | ★ 154,222 | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io |
+| 4 | [**tw93/Pake**](https://github.com/tw93/Pake) | `Rust` | - | **+105** | ★ 63,546 | Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux. |
+| 5 | [**ShayanAbbas1/dbdelve**](https://github.com/ShayanAbbas1/dbdelve) | `Rust` | - | **+111** | ★ 1,296 | Fast and lightweight DB Client made in Rust and GPUI. |
+| 6 | [**zellij-org/zellij**](https://github.com/zellij-org/zellij) | `Rust` | - | **+34** | ★ 36,038 | A terminal workspace with batteries included |
+| 7 | [**ModernRelay/omnigraph**](https://github.com/ModernRelay/omnigraph) | `Rust` | - | **+112** | ★ 2,204 | Object-storage native graph database with branching and typed ontology |
+| 8 | [**rustfs/rustfs**](https://github.com/rustfs/rustfs) | `Rust` | - | **+46** | ★ 36,059 | RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. |
 
-> 📂 *Explore all 9 Rust repos in [`archives/2026-11/2026-11-13.md`](archives/2026-11/2026-11-13.md)*
+> 📂 *Explore all 10 Rust repos in [`archives/2026-11/2026-11-13.md`](archives/2026-11/2026-11-13.md)*
 
 ---
 
