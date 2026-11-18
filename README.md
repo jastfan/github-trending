@@ -8,7 +8,7 @@
 [![npm package](https://img.shields.io/badge/npm-gittrends--mcp%20v5.0.0-cb3837?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/gittrends-mcp)
 [![MCP Protocol](https://img.shields.io/badge/MCP%20Server-Official-10b981?style=for-the-badge&logo=anthropic)](guides/mcp_servers_integration.md)
 [![Research Censuses](https://img.shields.io/badge/Research%20Censuses-Open%20Data-8b5cf6?style=for-the-badge&logo=arxiv)](data/research/census_latest.json)
-![Auto-Updated](https://img.shields.io/badge/Auto--Updated-2x%20Daily%20(2026--11--17)-2ea44f?style=for-the-badge&logo=github)
+![Auto-Updated](https://img.shields.io/badge/Auto--Updated-2x%20Daily%20(2026--11--18)-2ea44f?style=for-the-badge&logo=github)
 ![License](https://img.shields.io/badge/License-MIT-bf8700?style=for-the-badge)
 
 <sub>⚡ 79,848+ Listings • 164.8M Installs • Auto-updated 2x daily via GitHub Actions • Maintained by [@jastfan](https://github.com/jastfan/github-trending)</sub>
@@ -48,20 +48,20 @@ claude mcp add gittrends -- npx -y gittrends-mcp
 
 ## 🏆 Today's #1 Trending Breakout Project
 
-[![dream-num/univer](https://opengraph.githubassets.com/1/dream-num/univer)](https://github.com/dream-num/univer)
+[![obra/superpowers](https://opengraph.githubassets.com/1/obra/superpowers)](https://github.com/obra/superpowers)
 
-> 💡 **What is it?** [dream-num/univer](https://github.com/dream-num/univer) — Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.
-> 🚀 **Gained today:** **+1,776 stars** | **Total Stars:** ★ 28,841 | **Topics:** `#Coding-Agents`
+> 💡 **What is it?** [obra/superpowers](https://github.com/obra/superpowers) — An agentic skills framework & software development methodology that works.
+> 🚀 **Gained today:** **+1,917 stars** | **Total Stars:** ★ 319,561 | **Topics:** `#Agent-Skills` `#Coding-Agents`
 
 <details>
 <summary><b>👉 Click here for Instant Quick Inspect (Clone command & details)</b></summary>
 
 ```bash
 # Clone this breakout repository directly:
-git clone https://github.com/dream-num/univer.git
+git clone https://github.com/obra/superpowers.git
 ```
-- **Repository URL:** [https://github.com/dream-num/univer](https://github.com/dream-num/univer)
-- **Owner:** `@dream-num`
+- **Repository URL:** [https://github.com/obra/superpowers](https://github.com/obra/superpowers)
+- **Owner:** `@obra`
 </details>
 
 ---
@@ -72,11 +72,11 @@ git clone https://github.com/dream-num/univer.git
 
 | Rank | Repository | Language | Trending Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**dream-num/univer**](https://github.com/dream-num/univer) | `TypeScript` | `#Coding-Agents` | 🔥 **+1,776** | ★ 28,841 | Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core. |
-| 2 | [**ag-ui-protocol/ag-ui**](https://github.com/ag-ui-protocol/ag-ui) | `TypeScript` | `#Coding-Agents` | 🔥 **+1,444** | ★ 19,927 | AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. |
-| 3 | [**kajisho5/ffmpeg-skill**](https://github.com/kajisho5/ffmpeg-skill) | `Python` | `#MCP` `#Agent-Skills` `#Coding-Agents` | 🔥 **+1,376** | ★ 7,693 | Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys. |
-| 4 | [**google-research/paper-orchestra**](https://github.com/google-research/paper-orchestra) | `Python` | `#Coding-Agents` | 🔥 **+1,175** | ★ 2,831 | PaperOrchestra is a multi-agent framework for automated AI research paper writing. |
-| 5 | [**DeanChensj/jiangshan-map**](https://github.com/DeanChensj/jiangshan-map) | `JavaScript` | - | 🔥 **+1,087** | ★ 7,617 | 江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) \| Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes |
+| 1 | [**obra/superpowers**](https://github.com/obra/superpowers) | `Shell` | `#Agent-Skills` `#Coding-Agents` | 🔥 **+1,917** | ★ 319,561 | An agentic skills framework & software development methodology that works. |
+| 2 | [**dream-num/univer**](https://github.com/dream-num/univer) | `TypeScript` | `#Coding-Agents` | 🔥 **+1,774** | ★ 29,499 | Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core. |
+| 3 | [**ag-ui-protocol/ag-ui**](https://github.com/ag-ui-protocol/ag-ui) | `TypeScript` | `#Coding-Agents` | 🔥 **+1,445** | ★ 20,170 | AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. |
+| 4 | [**kajisho5/ffmpeg-skill**](https://github.com/kajisho5/ffmpeg-skill) | `Python` | `#MCP` `#Agent-Skills` `#Coding-Agents` | 🔥 **+1,292** | ★ 7,848 | Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys. |
+| 5 | [**google-research/paper-orchestra**](https://github.com/google-research/paper-orchestra) | `Python` | `#Coding-Agents` | 🔥 **+1,072** | ★ 3,419 | PaperOrchestra is a multi-agent framework for automated AI research paper writing. |
 
 ---
 
@@ -86,12 +86,12 @@ git clone https://github.com/dream-num/univer.git
 
 | Rank | AI Repository | Language | Key Topic | Stars Today | Total Stars | What It Does |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**dream-num/univer**](https://github.com/dream-num/univer) | `TypeScript` | `#Coding-Agents` | 🔥 **+1,776** | ★ 28,841 | Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core. |
-| 2 | [**ag-ui-protocol/ag-ui**](https://github.com/ag-ui-protocol/ag-ui) | `TypeScript` | `#Coding-Agents` | 🔥 **+1,444** | ★ 19,927 | AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. |
-| 3 | [**kajisho5/ffmpeg-skill**](https://github.com/kajisho5/ffmpeg-skill) | `Python` | `#MCP` | 🔥 **+1,376** | ★ 7,693 | Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys. |
-| 4 | [**google-research/paper-orchestra**](https://github.com/google-research/paper-orchestra) | `Python` | `#Coding-Agents` | 🔥 **+1,175** | ★ 2,831 | PaperOrchestra is a multi-agent framework for automated AI research paper writing. |
-| 5 | [**stablyai/orca**](https://github.com/stablyai/orca) | `TypeScript` | `#Coding-Agents` | 🔥 **+1,052** | ★ 127,726 | Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime. |
-| 6 | [**elementalsouls/Claude-BugHunter**](https://github.com/elementalsouls/Claude-BugHunter) | `Python` | `#Agent-Skills` | 🔥 **+1,007** | ★ 8,996 | A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices. |
+| 1 | [**obra/superpowers**](https://github.com/obra/superpowers) | `Shell` | `#Agent-Skills` | 🔥 **+1,917** | ★ 319,561 | An agentic skills framework & software development methodology that works. |
+| 2 | [**dream-num/univer**](https://github.com/dream-num/univer) | `TypeScript` | `#Coding-Agents` | 🔥 **+1,774** | ★ 29,499 | Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core. |
+| 3 | [**ag-ui-protocol/ag-ui**](https://github.com/ag-ui-protocol/ag-ui) | `TypeScript` | `#Coding-Agents` | 🔥 **+1,445** | ★ 20,170 | AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. |
+| 4 | [**kajisho5/ffmpeg-skill**](https://github.com/kajisho5/ffmpeg-skill) | `Python` | `#MCP` | 🔥 **+1,292** | ★ 7,848 | Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys. |
+| 5 | [**google-research/paper-orchestra**](https://github.com/google-research/paper-orchestra) | `Python` | `#Coding-Agents` | 🔥 **+1,072** | ★ 3,419 | PaperOrchestra is a multi-agent framework for automated AI research paper writing. |
+| 6 | [**stablyai/orca**](https://github.com/stablyai/orca) | `TypeScript` | `#Coding-Agents` | 🔥 **+1,066** | ★ 128,205 | Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime. |
 
 ---
 
@@ -101,91 +101,91 @@ git clone https://github.com/dream-num/univer.git
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**elementalsouls/Claude-BugHunter**](https://github.com/elementalsouls/Claude-BugHunter) | `Python` | `#Agent-Skills` `#Local-AI` `#Security` | **+1,007** | ★ 8,996 | A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices. |
-| 2 | [**mvanhorn/last30days-skill**](https://github.com/mvanhorn/last30days-skill) | `Python` | `#Agent-Skills` `#Coding-Agents` | **+772** | ★ 68,915 | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
-| 3 | [**alibaba/open-code-review**](https://github.com/alibaba/open-code-review) | `Go` | `#Coding-Agents` | **+764** | ★ 53,649 | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
-| 4 | [**Tencent/LoopForge**](https://github.com/Tencent/LoopForge) | `Go` | `#Coding-Agents` | **+590** | ★ 3,042 | Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants. |
-| 5 | [**dream-num/univer**](https://github.com/dream-num/univer) | `TypeScript` | `#Coding-Agents` | **+1,776** | ★ 28,841 | Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core. |
-| 6 | [**getarcaneapp/arcane**](https://github.com/getarcaneapp/arcane) | `Go` | - | **+654** | ★ 9,252 | Modern Docker Management, Designed for Everyone |
-| 7 | [**google-labs-code/stitch-skills**](https://github.com/google-labs-code/stitch-skills) | `TypeScript` | `#MCP` `#Agent-Skills` `#Coding-Agents` | **+350** | ★ 10,045 | A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor. |
-| 8 | [**cursor/plugins**](https://github.com/cursor/plugins) | `TypeScript` | `#Coding-Agents` | **+196** | ★ 16,852 | Cursor plugin specification and official plugins |
+| 1 | [**elementalsouls/Claude-BugHunter**](https://github.com/elementalsouls/Claude-BugHunter) | `Python` | `#Agent-Skills` `#Local-AI` `#Security` | **+1,005** | ★ 9,957 | A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices. |
+| 2 | [**mvanhorn/last30days-skill**](https://github.com/mvanhorn/last30days-skill) | `Python` | `#Agent-Skills` `#Coding-Agents` | **+696** | ★ 69,401 | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
+| 3 | [**alibaba/open-code-review**](https://github.com/alibaba/open-code-review) | `Go` | `#Coding-Agents` | **+763** | ★ 53,971 | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
+| 4 | [**Tencent/LoopForge**](https://github.com/Tencent/LoopForge) | `Go` | `#Coding-Agents` | **+591** | ★ 3,558 | Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants. |
+| 5 | [**dream-num/univer**](https://github.com/dream-num/univer) | `TypeScript` | `#Coding-Agents` | **+1,774** | ★ 29,499 | Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core. |
+| 6 | [**getarcaneapp/arcane**](https://github.com/getarcaneapp/arcane) | `Go` | - | **+618** | ★ 9,494 | Modern Docker Management, Designed for Everyone |
+| 7 | [**google-labs-code/stitch-skills**](https://github.com/google-labs-code/stitch-skills) | `TypeScript` | `#MCP` `#Agent-Skills` `#Coding-Agents` | **+350** | ★ 10,222 | A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor. |
+| 8 | [**cursor/plugins**](https://github.com/cursor/plugins) | `TypeScript` | `#Coding-Agents` | **+201** | ★ 16,999 | Cursor plugin specification and official plugins |
 
-> 📂 *Explore all 15 Overall Trending repos in [`archives/2026-11/2026-11-17.md`](archives/2026-11/2026-11-17.md)*
+> 📂 *Explore all 15 Overall Trending repos in [`archives/2026-11/2026-11-18.md`](archives/2026-11/2026-11-18.md)*
 
 ### 🐍 Python
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**elementalsouls/Claude-BugHunter**](https://github.com/elementalsouls/Claude-BugHunter) | `Python` | `#Agent-Skills` `#Local-AI` `#Security` | **+1,007** | ★ 8,996 | A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices. |
-| 2 | [**mvanhorn/last30days-skill**](https://github.com/mvanhorn/last30days-skill) | `Python` | `#Agent-Skills` `#Coding-Agents` | **+772** | ★ 68,915 | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
-| 3 | [**jingyaogong/minimind**](https://github.com/jingyaogong/minimind) | `Python` | - | **+188** | ★ 65,875 | 🧠 Train a 64M-parameter LLM from scratch in just 2h! |
-| 4 | [**google-research/paper-orchestra**](https://github.com/google-research/paper-orchestra) | `Python` | `#Coding-Agents` | **+1,175** | ★ 2,831 | PaperOrchestra is a multi-agent framework for automated AI research paper writing. |
-| 5 | [**NVIDIA/SkillEvaluator**](https://github.com/NVIDIA/SkillEvaluator) | `Python` | `#Agent-Skills` `#Coding-Agents` `#Local-AI` | **+969** | ★ 3,310 | Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior. |
-| 6 | [**usestrix/strix**](https://github.com/usestrix/strix) | `Python` | `#Local-AI` `#Security` | **+325** | ★ 76,305 | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. |
-| 7 | [**tradermonty/claude-trading-skills**](https://github.com/tradermonty/claude-trading-skills) | `Python` | `#Agent-Skills` `#Local-AI` `#Autonomous-Finance` | **+771** | ★ 6,830 | Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development. |
-| 8 | [**kajisho5/ffmpeg-skill**](https://github.com/kajisho5/ffmpeg-skill) | `Python` | `#MCP` `#Agent-Skills` `#Coding-Agents` | **+1,376** | ★ 7,693 | Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys. |
+| 1 | [**elementalsouls/Claude-BugHunter**](https://github.com/elementalsouls/Claude-BugHunter) | `Python` | `#Agent-Skills` `#Local-AI` `#Security` | **+1,005** | ★ 9,957 | A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices. |
+| 2 | [**mvanhorn/last30days-skill**](https://github.com/mvanhorn/last30days-skill) | `Python` | `#Agent-Skills` `#Coding-Agents` | **+696** | ★ 69,401 | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
+| 3 | [**jingyaogong/minimind**](https://github.com/jingyaogong/minimind) | `Python` | - | **+192** | ★ 66,278 | 🧠 Train a 64M-parameter LLM from scratch in just 2h! |
+| 4 | [**google-research/paper-orchestra**](https://github.com/google-research/paper-orchestra) | `Python` | `#Coding-Agents` | **+1,072** | ★ 3,419 | PaperOrchestra is a multi-agent framework for automated AI research paper writing. |
+| 5 | [**NVIDIA/SkillEvaluator**](https://github.com/NVIDIA/SkillEvaluator) | `Python` | `#Agent-Skills` `#Coding-Agents` `#Local-AI` | **+869** | ★ 3,416 | Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior. |
+| 6 | [**usestrix/strix**](https://github.com/usestrix/strix) | `Python` | `#Local-AI` `#Security` | **+337** | ★ 76,393 | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. |
+| 7 | [**tradermonty/claude-trading-skills**](https://github.com/tradermonty/claude-trading-skills) | `Python` | `#Agent-Skills` `#Local-AI` `#Autonomous-Finance` | **+703** | ★ 6,938 | Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development. |
+| 8 | [**kajisho5/ffmpeg-skill**](https://github.com/kajisho5/ffmpeg-skill) | `Python` | `#MCP` `#Agent-Skills` `#Coding-Agents` | **+1,292** | ★ 7,848 | Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys. |
 
-> 📂 *Explore all 16 Python repos in [`archives/2026-11/2026-11-17.md`](archives/2026-11/2026-11-17.md)*
+> 📂 *Explore all 16 Python repos in [`archives/2026-11/2026-11-18.md`](archives/2026-11/2026-11-18.md)*
 
 ### ⚡ JavaScript
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**sveltejs/svelte**](https://github.com/sveltejs/svelte) | `JavaScript` | - | **+533** | ★ 89,556 | web development for the rest of us |
-| 2 | [**affaan-m/ECC**](https://github.com/affaan-m/ECC) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` `#Security` | **+902** | ★ 305,365 | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
-| 3 | [**DeanChensj/jiangshan-map**](https://github.com/DeanChensj/jiangshan-map) | `JavaScript` | - | **+1,087** | ★ 7,617 | 江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) \| Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes |
-| 4 | [**DuarteSantos8/openGym**](https://github.com/DuarteSantos8/openGym) | `JavaScript` | - | **+643** | ★ 22,507 | Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone. |
-| 5 | [**poteto/hiring-without-whiteboards**](https://github.com/poteto/hiring-without-whiteboards) | `JavaScript` | - | **+53** | ★ 53,355 | ⭐️ Companies that don't have a broken hiring process |
-| 6 | [**lodash/lodash**](https://github.com/lodash/lodash) | `JavaScript` | - | **+24** | ★ 61,485 | A modern JavaScript utility library delivering modularity, performance, & extras. |
-| 7 | [**Jeffallan/claude-skills**](https://github.com/Jeffallan/claude-skills) | `JavaScript` | `#Agent-Skills` | **+38** | ★ 12,425 | 67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer. |
-| 8 | [**hanliang97/MatrixMedia**](https://github.com/hanliang97/MatrixMedia) | `JavaScript` | - | **+92** | ★ 1,529 | 视频矩阵工具 vue electorn puppeteer 批量发布 视频到各个视频平台 自媒体 矩阵 抖音 小红书 头条 视频号 快手等 ai 自动化 cli |
+| 1 | [**sveltejs/svelte**](https://github.com/sveltejs/svelte) | `JavaScript` | - | **+477** | ★ 89,675 | web development for the rest of us |
+| 2 | [**affaan-m/ECC**](https://github.com/affaan-m/ECC) | `JavaScript` | `#Agent-Skills` `#Coding-Agents` `#Security` | **+883** | ★ 305,852 | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| 3 | [**DeanChensj/jiangshan-map**](https://github.com/DeanChensj/jiangshan-map) | `JavaScript` | - | **+991** | ★ 7,719 | 江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) \| Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes |
+| 4 | [**DuarteSantos8/openGym**](https://github.com/DuarteSantos8/openGym) | `JavaScript` | - | **+487** | ★ 22,607 | Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone. |
+| 5 | [**poteto/hiring-without-whiteboards**](https://github.com/poteto/hiring-without-whiteboards) | `JavaScript` | - | **+56** | ★ 53,380 | ⭐️ Companies that don't have a broken hiring process |
+| 6 | [**lodash/lodash**](https://github.com/lodash/lodash) | `JavaScript` | - | **+178** | ★ 61,432 | A modern JavaScript utility library delivering modularity, performance, & extras. |
+| 7 | [**Jeffallan/claude-skills**](https://github.com/Jeffallan/claude-skills) | `JavaScript` | `#Agent-Skills` | **+23** | ★ 12,431 | 67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer. |
+| 8 | [**hanliang97/MatrixMedia**](https://github.com/hanliang97/MatrixMedia) | `JavaScript` | - | **+92** | ★ 1,552 | 视频矩阵工具 vue electorn puppeteer 批量发布 视频到各个视频平台 自媒体 矩阵 抖音 小红书 头条 视频号 快手等 ai 自动化 cli |
 
-> 📂 *Explore all 13 JavaScript repos in [`archives/2026-11/2026-11-17.md`](archives/2026-11/2026-11-17.md)*
+> 📂 *Explore all 13 JavaScript repos in [`archives/2026-11/2026-11-18.md`](archives/2026-11/2026-11-18.md)*
 
 ### 🔷 TypeScript
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**dream-num/univer**](https://github.com/dream-num/univer) | `TypeScript` | `#Coding-Agents` | **+1,776** | ★ 28,841 | Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core. |
-| 2 | [**google-labs-code/stitch-skills**](https://github.com/google-labs-code/stitch-skills) | `TypeScript` | `#MCP` `#Agent-Skills` `#Coding-Agents` | **+350** | ★ 10,045 | A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor. |
-| 3 | [**cursor/plugins**](https://github.com/cursor/plugins) | `TypeScript` | `#Coding-Agents` | **+196** | ★ 16,852 | Cursor plugin specification and official plugins |
-| 4 | [**ag-ui-protocol/ag-ui**](https://github.com/ag-ui-protocol/ag-ui) | `TypeScript` | `#Coding-Agents` | **+1,444** | ★ 19,927 | AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. |
-| 5 | [**backnotprop/plannotator**](https://github.com/backnotprop/plannotator) | `TypeScript` | `#Coding-Agents` | **+691** | ★ 13,016 | The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. |
-| 6 | [**ChromeDevTools/chrome-devtools-mcp**](https://github.com/ChromeDevTools/chrome-devtools-mcp) | `TypeScript` | `#MCP` `#Coding-Agents` | **+562** | ★ 58,010 | Chrome DevTools for coding agents |
-| 7 | [**karakeep-app/karakeep**](https://github.com/karakeep-app/karakeep) | `TypeScript` | - | **+38** | ★ 30,648 | A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search |
-| 8 | [**tashfeenahmed/freellmapi**](https://github.com/tashfeenahmed/freellmapi) | `TypeScript` | `#Web3` | **+649** | ★ 54,010 | 10.1 billion tokens per month. 87 free LLM providers. 1,313 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only. |
+| 1 | [**dream-num/univer**](https://github.com/dream-num/univer) | `TypeScript` | `#Coding-Agents` | **+1,774** | ★ 29,499 | Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core. |
+| 2 | [**google-labs-code/stitch-skills**](https://github.com/google-labs-code/stitch-skills) | `TypeScript` | `#MCP` `#Agent-Skills` `#Coding-Agents` | **+350** | ★ 10,222 | A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor. |
+| 3 | [**cursor/plugins**](https://github.com/cursor/plugins) | `TypeScript` | `#Coding-Agents` | **+201** | ★ 16,999 | Cursor plugin specification and official plugins |
+| 4 | [**ag-ui-protocol/ag-ui**](https://github.com/ag-ui-protocol/ag-ui) | `TypeScript` | `#Coding-Agents` | **+1,445** | ★ 20,170 | AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. |
+| 5 | [**backnotprop/plannotator**](https://github.com/backnotprop/plannotator) | `TypeScript` | `#Coding-Agents` | **+691** | ★ 13,196 | The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. |
+| 6 | [**ChromeDevTools/chrome-devtools-mcp**](https://github.com/ChromeDevTools/chrome-devtools-mcp) | `TypeScript` | `#MCP` `#Coding-Agents` | **+478** | ★ 58,114 | Chrome DevTools for coding agents |
+| 7 | [**karakeep-app/karakeep**](https://github.com/karakeep-app/karakeep) | `TypeScript` | - | **+40** | ★ 30,668 | A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search |
+| 8 | [**tashfeenahmed/freellmapi**](https://github.com/tashfeenahmed/freellmapi) | `TypeScript` | `#Web3` | **+613** | ★ 54,213 | 10.1 billion tokens per month. 87 free LLM providers. 1,313 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only. |
 
-> 📂 *Explore all 17 TypeScript repos in [`archives/2026-11/2026-11-17.md`](archives/2026-11/2026-11-17.md)*
+> 📂 *Explore all 17 TypeScript repos in [`archives/2026-11/2026-11-18.md`](archives/2026-11/2026-11-18.md)*
 
 ### 🐹 Go
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**alibaba/open-code-review**](https://github.com/alibaba/open-code-review) | `Go` | `#Coding-Agents` | **+764** | ★ 53,649 | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
-| 2 | [**Tencent/LoopForge**](https://github.com/Tencent/LoopForge) | `Go` | `#Coding-Agents` | **+590** | ★ 3,042 | Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants. |
-| 3 | [**getarcaneapp/arcane**](https://github.com/getarcaneapp/arcane) | `Go` | - | **+654** | ★ 9,252 | Modern Docker Management, Designed for Everyone |
-| 4 | [**JuliusBrussee/caveman**](https://github.com/JuliusBrussee/caveman) | `Go` | `#Agent-Skills` `#Coding-Agents` `#Web3` | **+318** | ★ 121,032 | 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman. |
-| 5 | [**crossplane/crossplane**](https://github.com/crossplane/crossplane) | `Go` | - | **+2** | ★ 12,249 | The Cloud Native Control Plane |
-| 6 | [**seaweedfs/seaweedfs**](https://github.com/seaweedfs/seaweedfs) | `Go` | - | **+24** | ★ 36,124 | SeaweedFS is a distributed storage system for object storage (S3), file systems, Iceberg table buckets, and Lance vector buckets, designed to handle billions of files with O(1) disk access and effortless horizontal scaling. |
-| 7 | [**knadh/listmonk**](https://github.com/knadh/listmonk) | `Go` | - | **+28** | ★ 24,355 | High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app. |
-| 8 | [**guohuiyuan/go-music-dl**](https://github.com/guohuiyuan/go-music-dl) | `Go` | - | **+91** | ★ 6,549 | 一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923 |
+| 1 | [**alibaba/open-code-review**](https://github.com/alibaba/open-code-review) | `Go` | `#Coding-Agents` | **+763** | ★ 53,971 | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
+| 2 | [**Tencent/LoopForge**](https://github.com/Tencent/LoopForge) | `Go` | `#Coding-Agents` | **+591** | ★ 3,558 | Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants. |
+| 3 | [**getarcaneapp/arcane**](https://github.com/getarcaneapp/arcane) | `Go` | - | **+618** | ★ 9,494 | Modern Docker Management, Designed for Everyone |
+| 4 | [**JuliusBrussee/caveman**](https://github.com/JuliusBrussee/caveman) | `Go` | `#Agent-Skills` `#Coding-Agents` `#Web3` | **+318** | ★ 121,144 | why use many token when few token do trick. Skill + local proxy for coding agents: shorter answers, smaller tool output, every original recoverable. |
+| 5 | [**crossplane/crossplane**](https://github.com/crossplane/crossplane) | `Go` | - | **+2** | ★ 12,251 | The Cloud Native Control Plane |
+| 6 | [**seaweedfs/seaweedfs**](https://github.com/seaweedfs/seaweedfs) | `Go` | - | **+25** | ★ 36,134 | SeaweedFS is a distributed storage system for object storage (S3), file systems, Iceberg table buckets, and Lance vector buckets, designed to handle billions of files with O(1) disk access and effortless horizontal scaling. |
+| 7 | [**knadh/listmonk**](https://github.com/knadh/listmonk) | `Go` | - | **+22** | ★ 24,364 | High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app. |
+| 8 | [**guohuiyuan/go-music-dl**](https://github.com/guohuiyuan/go-music-dl) | `Go` | - | **+71** | ★ 6,561 | 一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923 |
 
-> 📂 *Explore all 14 Go repos in [`archives/2026-11/2026-11-17.md`](archives/2026-11/2026-11-17.md)*
+> 📂 *Explore all 14 Go repos in [`archives/2026-11/2026-11-18.md`](archives/2026-11/2026-11-18.md)*
 
 ### 🦀 Rust
 
 | # | Repository | Language | Topics | Stars Today | Total Stars | Description |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [**BurntSushi/jiff**](https://github.com/BurntSushi/jiff) | `Rust` | - | **+61** | ★ 3,150 | A datetime library for Rust that encourages you to jump into the pit of success. |
-| 2 | [**farion1231/cc-switch**](https://github.com/farion1231/cc-switch) | `Rust` | `#Coding-Agents` | **+312** | ★ 155,201 | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io |
-| 3 | [**t8y2/dbx**](https://github.com/t8y2/dbx) | `Rust` | `#MCP` | **+101** | ★ 30,628 | 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. \| 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。 |
-| 4 | [**antithesishq/bombadil**](https://github.com/antithesishq/bombadil) | `Rust` | - | **+419** | ★ 2,558 | Property-based testing for web and terminal UIs |
-| 5 | [**PrimeIntellect-ai/prime-agent**](https://github.com/PrimeIntellect-ai/prime-agent) | `Rust` | `#Coding-Agents` | **+67** | ★ 22,801 | A self-improving RLM agent for coding workflows and long-running autonomous tasks. |
-| 6 | [**NVIDIA-NeMo/Switchyard**](https://github.com/NVIDIA-NeMo/Switchyard) | `Rust` | - | **+41** | ★ 3,629 | Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization. |
-| 7 | [**anomalyco/hex**](https://github.com/anomalyco/hex) | `Rust` | - | **+198** | ★ 7,274 | Local voice dictation for mac, windows and linux |
-| 8 | [**leepokai/Codync**](https://github.com/leepokai/Codync) | `Rust` | `#Coding-Agents` | **+47** | ★ 2,215 | Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Agent-agnostic and free. Also a Muse and Dots alternative. Built in Rust. |
+| 1 | [**BurntSushi/jiff**](https://github.com/BurntSushi/jiff) | `Rust` | - | **+81** | ★ 3,194 | A datetime library for Rust that encourages you to jump into the pit of success. |
+| 2 | [**farion1231/cc-switch**](https://github.com/farion1231/cc-switch) | `Rust` | `#Coding-Agents` | **+315** | ★ 155,366 | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io |
+| 3 | [**t8y2/dbx**](https://github.com/t8y2/dbx) | `Rust` | `#MCP` | **+112** | ★ 30,709 | 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. \| 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。 |
+| 4 | [**antithesishq/bombadil**](https://github.com/antithesishq/bombadil) | `Rust` | - | **+380** | ★ 2,631 | Property-based testing for web and terminal UIs |
+| 5 | [**PrimeIntellect-ai/prime-agent**](https://github.com/PrimeIntellect-ai/prime-agent) | `Rust` | `#Coding-Agents` | **+50** | ★ 22,811 | A self-improving RLM agent for coding workflows and long-running autonomous tasks. |
+| 6 | [**NVIDIA-NeMo/Switchyard**](https://github.com/NVIDIA-NeMo/Switchyard) | `Rust` | - | **+38** | ★ 3,640 | Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization. |
+| 7 | [**anomalyco/hex**](https://github.com/anomalyco/hex) | `Rust` | - | **+174** | ★ 7,336 | Local voice dictation for mac, windows and linux |
+| 8 | [**leepokai/Codync**](https://github.com/leepokai/Codync) | `Rust` | `#Coding-Agents` | **+43** | ★ 2,231 | Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Agent-agnostic and free. Also a Muse and Dots alternative. Built in Rust. |
 
-> 📂 *Explore all 16 Rust repos in [`archives/2026-11/2026-11-17.md`](archives/2026-11/2026-11-17.md)*
+> 📂 *Explore all 16 Rust repos in [`archives/2026-11/2026-11-18.md`](archives/2026-11/2026-11-18.md)*
 
 ---
 
