@@ -1,49 +1,9 @@
 {
-  "updated_at": "2026-11-18T20:41:20.025097+00:00",
-  "date": "2026-11-18",
+  "updated_at": "2026-11-19T07:38:05.772355+00:00",
+  "date": "2026-11-19",
   "repo": "jastfan/github-trending",
   "categories": {
     "Overall Trending": [
-      {
-        "owner": "elementalsouls",
-        "name": "Claude-BugHunter",
-        "full_name": "elementalsouls/Claude-BugHunter",
-        "url": "https://github.com/elementalsouls/Claude-BugHunter",
-        "og_image": "https://opengraph.githubassets.com/1/elementalsouls/Claude-BugHunter",
-        "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
-        "language": "Python",
-        "total_stars": "11,154",
-        "total_forks": "1,498",
-        "stars_today_text": "2,322 stars today",
-        "stars_today": 2322,
-        "built_by": [
-          {
-            "username": "claude",
-            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-          },
-          {
-            "username": "injectifytest",
-            "avatar": "https://avatars.githubusercontent.com/u/66463177?s=40&v=4"
-          },
-          {
-            "username": "elementalsouls",
-            "avatar": "https://avatars.githubusercontent.com/u/49252733?s=40&v=4"
-          },
-          {
-            "username": "github-actions",
-            "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
-          },
-          {
-            "username": "rudycelekli",
-            "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&v=4"
-          }
-        ],
-        "topics": [
-          "Agent-Skills",
-          "Local-AI",
-          "Security"
-        ]
-      },
       {
         "owner": "cursor",
         "name": "plugins",
@@ -52,10 +12,10 @@
         "og_image": "https://opengraph.githubassets.com/1/cursor/plugins",
         "description": "Cursor plugin specification and official plugins",
         "language": "TypeScript",
-        "total_stars": "17,155",
-        "total_forks": "1,891",
-        "stars_today_text": "315 stars today",
-        "stars_today": 315,
+        "total_stars": "17,337",
+        "total_forks": "1,914",
+        "stars_today_text": "314 stars today",
+        "stars_today": 314,
         "built_by": [
           {
             "username": "cursoragent",
@@ -90,10 +50,10 @@
         "og_image": "https://opengraph.githubassets.com/1/HKUDS/CLI-Anything",
         "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
         "language": "Python",
-        "total_stars": "59,609",
-        "total_forks": "5,411",
-        "stars_today_text": "384 stars today",
-        "stars_today": 384,
+        "total_stars": "60,034",
+        "total_forks": "5,452",
+        "stars_today_text": "389 stars today",
+        "stars_today": 389,
         "built_by": [
           {
             "username": "yuh-yang",
@@ -128,10 +88,10 @@
         "og_image": "https://opengraph.githubassets.com/1/mvanhorn/last30days-skill",
         "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "language": "Python",
-        "total_stars": "69,887",
-        "total_forks": "6,237",
-        "stars_today_text": "1,062 stars today",
-        "stars_today": 1062,
+        "total_stars": "70,300",
+        "total_forks": "6,262",
+        "stars_today_text": "1,059 stars today",
+        "stars_today": 1059,
         "built_by": [
           {
             "username": "mvanhorn",
@@ -167,8 +127,8 @@
         "og_image": "https://opengraph.githubassets.com/1/getarcaneapp/arcane",
         "description": "Modern Docker Management, Designed for Everyone",
         "language": "Go",
-        "total_stars": "9,753",
-        "total_forks": "558",
+        "total_stars": "9,966",
+        "total_forks": "570",
         "stars_today_text": "547 stars today",
         "stars_today": 547,
         "built_by": [
@@ -201,12 +161,12 @@
         "full_name": "NVIDIA/SkillEvaluator",
         "url": "https://github.com/NVIDIA/SkillEvaluator",
         "og_image": "https://opengraph.githubassets.com/1/NVIDIA/SkillEvaluator",
-        "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+        "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, security scanning, harness compatibility checks, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior. Ships reusable CI templates that bring every check to any repository.",
         "language": "Python",
-        "total_stars": "3,651",
-        "total_forks": "510",
-        "stars_today_text": "323 stars today",
-        "stars_today": 323,
+        "total_stars": "3,900",
+        "total_forks": "531",
+        "stars_today_text": "312 stars today",
+        "stars_today": 312,
         "built_by": [
           {
             "username": "rng1995",
@@ -243,10 +203,10 @@
         "og_image": "https://opengraph.githubassets.com/1/nvm-sh/nvm",
         "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
         "language": "Shell",
-        "total_stars": "96,142",
-        "total_forks": "10,781",
-        "stars_today_text": "111 stars today",
-        "stars_today": 111,
+        "total_stars": "96,195",
+        "total_forks": "10,791",
+        "stars_today_text": "237 stars today",
+        "stars_today": 237,
         "built_by": [
           {
             "username": "ljharb",
@@ -279,10 +239,10 @@
         "og_image": "https://opengraph.githubassets.com/1/astral-sh/uv",
         "description": "An extremely fast Python package and project manager, written in Rust.",
         "language": "Rust",
-        "total_stars": "92,194",
-        "total_forks": "3,921",
-        "stars_today_text": "260 stars today",
-        "stars_today": 260,
+        "total_stars": "92,327",
+        "total_forks": "3,928",
+        "stars_today_text": "258 stars today",
+        "stars_today": 258,
         "built_by": [
           {
             "username": "charliermarsh",
@@ -315,10 +275,10 @@
         "og_image": "https://opengraph.githubassets.com/1/google-research/paper-orchestra",
         "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
         "language": "Python",
-        "total_stars": "4,152",
-        "total_forks": "520",
-        "stars_today_text": "1,529 stars today",
-        "stars_today": 1529,
+        "total_stars": "4,599",
+        "total_forks": "568",
+        "stars_today_text": "1,524 stars today",
+        "stars_today": 1524,
         "built_by": [
           {
             "username": "yiwen-song",
@@ -341,10 +301,10 @@
         "og_image": "https://opengraph.githubassets.com/1/google-labs-code/stitch-skills",
         "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
         "language": "TypeScript",
-        "total_stars": "10,368",
-        "total_forks": "1,365",
-        "stars_today_text": "369 stars today",
-        "stars_today": 369,
+        "total_stars": "10,512",
+        "total_forks": "1,372",
+        "stars_today_text": "365 stars today",
+        "stars_today": 365,
         "built_by": [
           {
             "username": "JLXIA",
@@ -381,10 +341,10 @@
         "og_image": "https://opengraph.githubassets.com/1/sveltejs/svelte",
         "description": "web development for the rest of us",
         "language": "JavaScript",
-        "total_stars": "89,735",
-        "total_forks": "6,215",
-        "stars_today_text": "694 stars today",
-        "stars_today": 694,
+        "total_stars": "89,706",
+        "total_forks": "6,220",
+        "stars_today_text": "692 stars today",
+        "stars_today": 692,
         "built_by": [
           {
             "username": "Rich-Harris",
@@ -417,10 +377,10 @@
         "og_image": "https://opengraph.githubassets.com/1/jquery/jquery",
         "description": "jQuery JavaScript Library",
         "language": "JavaScript",
-        "total_stars": "60,000",
-        "total_forks": "20,715",
-        "stars_today_text": "268 stars today",
-        "stars_today": 268,
+        "total_stars": "60,067",
+        "total_forks": "20,713",
+        "stars_today_text": "266 stars today",
+        "stars_today": 266,
         "built_by": [
           {
             "username": "jeresig",
@@ -453,10 +413,10 @@
         "og_image": "https://opengraph.githubassets.com/1/appwrite/appwrite",
         "description": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
         "language": "TypeScript",
-        "total_stars": "58,195",
-        "total_forks": "5,888",
-        "stars_today_text": "239 stars today",
-        "stars_today": 239,
+        "total_stars": "58,319",
+        "total_forks": "5,889",
+        "stars_today_text": "232 stars today",
+        "stars_today": 232,
         "built_by": [
           {
             "username": "eldadfux",
@@ -491,10 +451,10 @@
         "og_image": "https://opengraph.githubassets.com/1/openvinotoolkit/openvino",
         "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
         "language": "C++",
-        "total_stars": "11,296",
-        "total_forks": "3,600",
-        "stars_today_text": "18 stars today",
-        "stars_today": 18,
+        "total_stars": "11,411",
+        "total_forks": "3,609",
+        "stars_today_text": "24 stars today",
+        "stars_today": 24,
         "built_by": [
           {
             "username": "ilya-lavrenov",
@@ -527,10 +487,10 @@
         "og_image": "https://opengraph.githubassets.com/1/obra/superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
         "language": "Shell",
-        "total_stars": "319,942",
-        "total_forks": "28,545",
-        "stars_today_text": "823 stars today",
-        "stars_today": 823,
+        "total_stars": "321,512",
+        "total_forks": "28,578",
+        "stars_today_text": "822 stars today",
+        "stars_today": 822,
         "built_by": [
           {
             "username": "obra",
@@ -566,10 +526,10 @@
         "og_image": "https://opengraph.githubassets.com/1/affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "language": "JavaScript",
-        "total_stars": "306,390",
-        "total_forks": "45,107",
-        "stars_today_text": "1,109 stars today",
-        "stars_today": 1109,
+        "total_stars": "306,783",
+        "total_forks": "45,159",
+        "stars_today_text": "1,108 stars today",
+        "stars_today": 1108,
         "built_by": [
           {
             "username": "affaan-m",
@@ -606,10 +566,10 @@
         "og_image": "https://opengraph.githubassets.com/1/DeanChensj/jiangshan-map",
         "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
         "language": "JavaScript",
-        "total_stars": "7,901",
-        "total_forks": "966",
-        "stars_today_text": "280 stars today",
-        "stars_today": 280,
+        "total_stars": "8,246",
+        "total_forks": "1,010",
+        "stars_today_text": "218 stars today",
+        "stars_today": 218,
         "built_by": [
           {
             "username": "DeanChensj",
@@ -642,10 +602,10 @@
         "og_image": "https://opengraph.githubassets.com/1/n8n-io/n8n",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "language": "TypeScript",
-        "total_stars": "211,001",
-        "total_forks": "61,565",
-        "stars_today_text": "315 stars today",
-        "stars_today": 315,
+        "total_stars": "211,264",
+        "total_forks": "61,579",
+        "stars_today_text": "325 stars today",
+        "stars_today": 325,
         "built_by": [
           {
             "username": "janober",
@@ -678,10 +638,10 @@
         "og_image": "https://opengraph.githubassets.com/1/solidjs/solid",
         "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
         "language": "TypeScript",
-        "total_stars": "36,524",
-        "total_forks": "1,179",
-        "stars_today_text": "37 stars today",
-        "stars_today": 37,
+        "total_stars": "36,694",
+        "total_forks": "1,190",
+        "stars_today_text": "40 stars today",
+        "stars_today": 40,
         "built_by": [
           {
             "username": "ryansolid",
@@ -710,10 +670,10 @@
         "og_image": "https://opengraph.githubassets.com/1/punkpeye/awesome-mcp-servers",
         "description": "A collection of MCP servers.",
         "language": "Other",
-        "total_stars": "97,985",
-        "total_forks": "20,338",
-        "stars_today_text": "52 stars today",
-        "stars_today": 52,
+        "total_stars": "98,154",
+        "total_forks": "20,379",
+        "stars_today_text": "53 stars today",
+        "stars_today": 53,
         "built_by": [
           {
             "username": "punkpeye",
@@ -743,46 +703,6 @@
     ],
     "Python": [
       {
-        "owner": "elementalsouls",
-        "name": "Claude-BugHunter",
-        "full_name": "elementalsouls/Claude-BugHunter",
-        "url": "https://github.com/elementalsouls/Claude-BugHunter",
-        "og_image": "https://opengraph.githubassets.com/1/elementalsouls/Claude-BugHunter",
-        "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
-        "language": "Python",
-        "total_stars": "11,155",
-        "total_forks": "1,498",
-        "stars_today_text": "2,322 stars today",
-        "stars_today": 2322,
-        "built_by": [
-          {
-            "username": "claude",
-            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-          },
-          {
-            "username": "injectifytest",
-            "avatar": "https://avatars.githubusercontent.com/u/66463177?s=40&v=4"
-          },
-          {
-            "username": "elementalsouls",
-            "avatar": "https://avatars.githubusercontent.com/u/49252733?s=40&v=4"
-          },
-          {
-            "username": "github-actions",
-            "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
-          },
-          {
-            "username": "rudycelekli",
-            "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&v=4"
-          }
-        ],
-        "topics": [
-          "Agent-Skills",
-          "Local-AI",
-          "Security"
-        ]
-      },
-      {
         "owner": "HKUDS",
         "name": "CLI-Anything",
         "full_name": "HKUDS/CLI-Anything",
@@ -790,10 +710,10 @@
         "og_image": "https://opengraph.githubassets.com/1/HKUDS/CLI-Anything",
         "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
         "language": "Python",
-        "total_stars": "59,609",
-        "total_forks": "5,411",
-        "stars_today_text": "384 stars today",
-        "stars_today": 384,
+        "total_stars": "60,034",
+        "total_forks": "5,452",
+        "stars_today_text": "389 stars today",
+        "stars_today": 389,
         "built_by": [
           {
             "username": "yuh-yang",
@@ -828,10 +748,10 @@
         "og_image": "https://opengraph.githubassets.com/1/mvanhorn/last30days-skill",
         "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "language": "Python",
-        "total_stars": "69,887",
-        "total_forks": "6,237",
-        "stars_today_text": "1,062 stars today",
-        "stars_today": 1062,
+        "total_stars": "70,300",
+        "total_forks": "6,262",
+        "stars_today_text": "1,059 stars today",
+        "stars_today": 1059,
         "built_by": [
           {
             "username": "mvanhorn",
@@ -865,12 +785,12 @@
         "full_name": "NVIDIA/SkillEvaluator",
         "url": "https://github.com/NVIDIA/SkillEvaluator",
         "og_image": "https://opengraph.githubassets.com/1/NVIDIA/SkillEvaluator",
-        "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+        "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, security scanning, harness compatibility checks, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior. Ships reusable CI templates that bring every check to any repository.",
         "language": "Python",
-        "total_stars": "3,651",
-        "total_forks": "510",
-        "stars_today_text": "323 stars today",
-        "stars_today": 323,
+        "total_stars": "3,901",
+        "total_forks": "531",
+        "stars_today_text": "312 stars today",
+        "stars_today": 312,
         "built_by": [
           {
             "username": "rng1995",
@@ -907,10 +827,10 @@
         "og_image": "https://opengraph.githubassets.com/1/google-research/paper-orchestra",
         "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
         "language": "Python",
-        "total_stars": "4,152",
-        "total_forks": "520",
-        "stars_today_text": "1,529 stars today",
-        "stars_today": 1529,
+        "total_stars": "4,599",
+        "total_forks": "568",
+        "stars_today_text": "1,524 stars today",
+        "stars_today": 1524,
         "built_by": [
           {
             "username": "yiwen-song",
@@ -933,10 +853,10 @@
         "og_image": "https://opengraph.githubassets.com/1/huggingface/transformers",
         "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
         "language": "Python",
-        "total_stars": "169,238",
-        "total_forks": "35,230",
-        "stars_today_text": "195 stars today",
-        "stars_today": 195,
+        "total_stars": "169,212",
+        "total_forks": "35,236",
+        "stars_today_text": "205 stars today",
+        "stars_today": 205,
         "built_by": [
           {
             "username": "sgugger",
@@ -969,10 +889,10 @@
         "og_image": "https://opengraph.githubassets.com/1/p-e-w/heretic",
         "description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
         "language": "Python",
-        "total_stars": "41,947",
-        "total_forks": "5,132",
-        "stars_today_text": "620 stars today",
-        "stars_today": 620,
+        "total_stars": "42,067",
+        "total_forks": "5,180",
+        "stars_today_text": "515 stars today",
+        "stars_today": 515,
         "built_by": [
           {
             "username": "p-e-w",
@@ -1005,10 +925,10 @@
         "og_image": "https://opengraph.githubassets.com/1/kajisho5/ffmpeg-skill",
         "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
         "language": "Python",
-        "total_stars": "7,998",
-        "total_forks": "747",
-        "stars_today_text": "349 stars today",
-        "stars_today": 349,
+        "total_stars": "8,089",
+        "total_forks": "759",
+        "stars_today_text": "338 stars today",
+        "stars_today": 338,
         "built_by": [
           {
             "username": "claude",
@@ -1045,10 +965,10 @@
         "og_image": "https://opengraph.githubassets.com/1/jingyaogong/minimind",
         "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
         "language": "Python",
-        "total_stars": "66,479",
-        "total_forks": "8,721",
-        "stars_today_text": "772 stars today",
-        "stars_today": 772,
+        "total_stars": "66,576",
+        "total_forks": "8,749",
+        "stars_today_text": "687 stars today",
+        "stars_today": 687,
         "built_by": [
           {
             "username": "jingyaogong",
@@ -1081,10 +1001,10 @@
         "og_image": "https://opengraph.githubassets.com/1/XiaoYouChR/Ghost-Downloader-3",
         "description": "The only downloader you need. 下载器的集大成者。",
         "language": "Python",
-        "total_stars": "12,108",
-        "total_forks": "762",
-        "stars_today_text": "356 stars today",
-        "stars_today": 356,
+        "total_stars": "12,220",
+        "total_forks": "772",
+        "stars_today_text": "432 stars today",
+        "stars_today": 432,
         "built_by": [
           {
             "username": "XiaoYouChR",
@@ -1117,10 +1037,10 @@
         "og_image": "https://opengraph.githubassets.com/1/openai/whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "language": "Python",
-        "total_stars": "113,019",
-        "total_forks": "13,686",
-        "stars_today_text": "188 stars today",
-        "stars_today": 188,
+        "total_stars": "113,046",
+        "total_forks": "13,696",
+        "stars_today_text": "197 stars today",
+        "stars_today": 197,
         "built_by": [
           {
             "username": "jongwook",
@@ -1155,10 +1075,10 @@
         "og_image": "https://opengraph.githubassets.com/1/anthropics/claude-code-security-review",
         "description": "An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.",
         "language": "Python",
-        "total_stars": "7,002",
+        "total_stars": "7,011",
         "total_forks": "800",
-        "stars_today_text": "24 stars today",
-        "stars_today": 24,
+        "stars_today_text": "17 stars today",
+        "stars_today": 17,
         "built_by": [
           {
             "username": "ddworken",
@@ -1187,10 +1107,10 @@
         "og_image": "https://opengraph.githubassets.com/1/vllm-project/vllm-ascend",
         "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
         "language": "Python",
-        "total_stars": "3,109",
-        "total_forks": "2,763",
-        "stars_today_text": "13 stars today",
-        "stars_today": 13,
+        "total_stars": "3,112",
+        "total_forks": "2,772",
+        "stars_today_text": "14 stars today",
+        "stars_today": 14,
         "built_by": [
           {
             "username": "wangxiyuan",
@@ -1223,8 +1143,8 @@
         "og_image": "https://opengraph.githubassets.com/1/Dodaios/Dodaios",
         "description": "One workspace for everything you do with AI: Claude Code, Codex and seven more coding agents side by side, one assistant that runs them, voice, and docs. Open source, on your computer, on your own plans and keys. Formerly Personal Jarvis.",
         "language": "Python",
-        "total_stars": "421",
-        "total_forks": "146",
+        "total_stars": "426",
+        "total_forks": "147",
         "stars_today_text": "19 stars today",
         "stars_today": 19,
         "built_by": [
@@ -1241,11 +1161,11 @@
             "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
           },
           {
-            "username": "dodaios-release-bot",
+            "username": "dodaios-merge-bot",
             "avatar": "https://avatars.githubusercontent.com/u/285448159?s=40&v=4"
           },
           {
-            "username": "dodaios-merge-bot",
+            "username": "dodaios-release-bot",
             "avatar": "https://avatars.githubusercontent.com/u/285448159?s=40&v=4"
           }
         ],
@@ -1261,10 +1181,10 @@
         "og_image": "https://opengraph.githubassets.com/1/home-assistant/core",
         "description": "🏡 Open source home automation that puts local control and privacy first.",
         "language": "Python",
-        "total_stars": "92,336",
-        "total_forks": "39,359",
-        "stars_today_text": "231 stars today",
-        "stars_today": 231,
+        "total_stars": "92,350",
+        "total_forks": "39,364",
+        "stars_today_text": "130 stars today",
+        "stars_today": 130,
         "built_by": [
           {
             "username": "balloob",
@@ -1297,10 +1217,10 @@
         "og_image": "https://opengraph.githubassets.com/1/bojieli/ai-agent-book",
         "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
         "language": "Python",
-        "total_stars": "58,696",
-        "total_forks": "6,870",
-        "stars_today_text": "171 stars today",
-        "stars_today": 171,
+        "total_stars": "58,768",
+        "total_forks": "6,887",
+        "stars_today_text": "163 stars today",
+        "stars_today": 163,
         "built_by": [
           {
             "username": "bojieli",
@@ -1335,10 +1255,10 @@
         "og_image": "https://opengraph.githubassets.com/1/ansible/ansible",
         "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
         "language": "Python",
-        "total_stars": "71,494",
+        "total_stars": "71,474",
         "total_forks": "24,462",
-        "stars_today_text": "251 stars today",
-        "stars_today": 251,
+        "stars_today_text": "133 stars today",
+        "stars_today": 133,
         "built_by": [
           {
             "username": "bcoca",
@@ -1373,10 +1293,10 @@
         "og_image": "https://opengraph.githubassets.com/1/odoo/odoo",
         "description": "Odoo. Open Source Apps To Grow Your Business.",
         "language": "Python",
-        "total_stars": "55,907",
-        "total_forks": "34,357",
-        "stars_today_text": "37 stars today",
-        "stars_today": 37,
+        "total_stars": "55,920",
+        "total_forks": "34,359",
+        "stars_today_text": "34 stars today",
+        "stars_today": 34,
         "built_by": [
           {
             "username": "tde-banana-odoo",
@@ -1409,10 +1329,10 @@
         "og_image": "https://opengraph.githubassets.com/1/ethanplusai/sellbird",
         "description": "Sellbird (formerly Harvey): the open-source outreach platform that runs on your Claude or ChatGPT plan. Finds companies and decision makers, verifies emails, writes personal cold email, sends it and handles the replies.",
         "language": "Python",
-        "total_stars": "6,469",
-        "total_forks": "1,337",
-        "stars_today_text": "358 stars today",
-        "stars_today": 358,
+        "total_stars": "6,569",
+        "total_forks": "1,353",
+        "stars_today_text": "237 stars today",
+        "stars_today": 237,
         "built_by": [
           {
             "username": "ethanplusai",
@@ -1447,10 +1367,10 @@
         "og_image": "https://opengraph.githubassets.com/1/sveltejs/svelte",
         "description": "web development for the rest of us",
         "language": "JavaScript",
-        "total_stars": "89,735",
-        "total_forks": "6,215",
-        "stars_today_text": "694 stars today",
-        "stars_today": 694,
+        "total_stars": "89,706",
+        "total_forks": "6,220",
+        "stars_today_text": "692 stars today",
+        "stars_today": 692,
         "built_by": [
           {
             "username": "Rich-Harris",
@@ -1483,10 +1403,10 @@
         "og_image": "https://opengraph.githubassets.com/1/jquery/jquery",
         "description": "jQuery JavaScript Library",
         "language": "JavaScript",
-        "total_stars": "60,000",
-        "total_forks": "20,715",
-        "stars_today_text": "268 stars today",
-        "stars_today": 268,
+        "total_stars": "60,067",
+        "total_forks": "20,713",
+        "stars_today_text": "266 stars today",
+        "stars_today": 266,
         "built_by": [
           {
             "username": "jeresig",
@@ -1519,10 +1439,10 @@
         "og_image": "https://opengraph.githubassets.com/1/affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "language": "JavaScript",
-        "total_stars": "306,390",
-        "total_forks": "45,107",
-        "stars_today_text": "1,109 stars today",
-        "stars_today": 1109,
+        "total_stars": "306,783",
+        "total_forks": "45,159",
+        "stars_today_text": "1,108 stars today",
+        "stars_today": 1108,
         "built_by": [
           {
             "username": "affaan-m",
@@ -1559,10 +1479,10 @@
         "og_image": "https://opengraph.githubassets.com/1/DeanChensj/jiangshan-map",
         "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
         "language": "JavaScript",
-        "total_stars": "7,901",
-        "total_forks": "966",
-        "stars_today_text": "280 stars today",
-        "stars_today": 280,
+        "total_stars": "8,246",
+        "total_forks": "1,010",
+        "stars_today_text": "218 stars today",
+        "stars_today": 218,
         "built_by": [
           {
             "username": "DeanChensj",
@@ -1595,10 +1515,10 @@
         "og_image": "https://opengraph.githubassets.com/1/DuarteSantos8/openGym",
         "description": "Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.",
         "language": "JavaScript",
-        "total_stars": "22,726",
-        "total_forks": "3,020",
-        "stars_today_text": "239 stars today",
-        "stars_today": 239,
+        "total_stars": "22,801",
+        "total_forks": "3,034",
+        "stars_today_text": "257 stars today",
+        "stars_today": 257,
         "built_by": [
           {
             "username": "DuarteSantos8",
@@ -1631,10 +1551,10 @@
         "og_image": "https://opengraph.githubassets.com/1/vercel/next.js",
         "description": "The React Framework",
         "language": "JavaScript",
-        "total_stars": "143,755",
-        "total_forks": "32,817",
-        "stars_today_text": "68 stars today",
-        "stars_today": 68,
+        "total_stars": "143,572",
+        "total_forks": "32,818",
+        "stars_today_text": "71 stars today",
+        "stars_today": 71,
         "built_by": [
           {
             "username": "ijjk",
@@ -1667,10 +1587,10 @@
         "og_image": "https://opengraph.githubassets.com/1/axios/axios",
         "description": "Promise based HTTP client for the browser and node.js",
         "language": "JavaScript",
-        "total_stars": "109,376",
-        "total_forks": "12,113",
-        "stars_today_text": "202 stars today",
-        "stars_today": 202,
+        "total_stars": "109,364",
+        "total_forks": "12,116",
+        "stars_today_text": "111 stars today",
+        "stars_today": 111,
         "built_by": [
           {
             "username": "jasonsaayman",
@@ -1703,10 +1623,10 @@
         "og_image": "https://opengraph.githubassets.com/1/Leonxlnx/taste-skill",
         "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
         "language": "JavaScript",
-        "total_stars": "118,354",
-        "total_forks": "7,918",
-        "stars_today_text": "822 stars today",
-        "stars_today": 822,
+        "total_stars": "118,600",
+        "total_forks": "7,935",
+        "stars_today_text": "737 stars today",
+        "stars_today": 737,
         "built_by": [
           {
             "username": "Leonxlnx",
@@ -1743,10 +1663,10 @@
         "og_image": "https://opengraph.githubassets.com/1/qwdwqfwq/topconf-paper-figure-gallery",
         "description": "3,516 curated Figure 1 / teasers from ICLR, ICML, NeurIPS, CVPR, ACL, AAAI (2023-2026), with tier badges and FigureForge retrieval-augmented figure drafting",
         "language": "JavaScript",
-        "total_stars": "1,890",
+        "total_stars": "1,897",
         "total_forks": "93",
-        "stars_today_text": "84 stars today",
-        "stars_today": 84,
+        "stars_today_text": "39 stars today",
+        "stars_today": 39,
         "built_by": [
           {
             "username": "qwdwqfwq",
@@ -1771,10 +1691,10 @@
         "og_image": "https://opengraph.githubassets.com/1/pugarte7/spanish-top-tech-companies",
         "description": "MCP con las mejores ofertas tech de España, para que tus agentes puedan aplicar por ti de forma automática.",
         "language": "JavaScript",
-        "total_stars": "601",
+        "total_stars": "602",
         "total_forks": "21",
-        "stars_today_text": "66 stars today",
-        "stars_today": 66,
+        "stars_today_text": "25 stars today",
+        "stars_today": 25,
         "built_by": [
           {
             "username": "pugarte7",
@@ -1798,10 +1718,10 @@
         "og_image": "https://opengraph.githubassets.com/1/Minglink/dsh-infinite-gen-5",
         "description": "DeepSeek v4.1 flash 最强逆向工具（无限五代） 求 Star 收藏 ⭐欢迎大家提交项目的改进",
         "language": "JavaScript",
-        "total_stars": "4,533",
-        "total_forks": "628",
-        "stars_today_text": "69 stars today",
-        "stars_today": 69,
+        "total_stars": "4,550",
+        "total_forks": "635",
+        "stars_today_text": "70 stars today",
+        "stars_today": 70,
         "built_by": [
           {
             "username": "Minglink",
@@ -1830,8 +1750,8 @@
         "og_image": "https://opengraph.githubassets.com/1/github/awesome-copilot",
         "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
         "language": "JavaScript",
-        "total_stars": "41,323",
-        "total_forks": "5,386",
+        "total_stars": "41,339",
+        "total_forks": "5,389",
         "stars_today_text": "61 stars today",
         "stars_today": 61,
         "built_by": [
@@ -1871,10 +1791,10 @@
         "og_image": "https://opengraph.githubassets.com/1/cursor/plugins",
         "description": "Cursor plugin specification and official plugins",
         "language": "TypeScript",
-        "total_stars": "17,155",
-        "total_forks": "1,891",
-        "stars_today_text": "315 stars today",
-        "stars_today": 315,
+        "total_stars": "17,337",
+        "total_forks": "1,914",
+        "stars_today_text": "314 stars today",
+        "stars_today": 314,
         "built_by": [
           {
             "username": "cursoragent",
@@ -1909,10 +1829,10 @@
         "og_image": "https://opengraph.githubassets.com/1/google-labs-code/stitch-skills",
         "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
         "language": "TypeScript",
-        "total_stars": "10,368",
-        "total_forks": "1,365",
-        "stars_today_text": "369 stars today",
-        "stars_today": 369,
+        "total_stars": "10,512",
+        "total_forks": "1,372",
+        "stars_today_text": "365 stars today",
+        "stars_today": 365,
         "built_by": [
           {
             "username": "JLXIA",
@@ -1949,10 +1869,10 @@
         "og_image": "https://opengraph.githubassets.com/1/appwrite/appwrite",
         "description": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
         "language": "TypeScript",
-        "total_stars": "58,195",
-        "total_forks": "5,888",
-        "stars_today_text": "239 stars today",
-        "stars_today": 239,
+        "total_stars": "58,320",
+        "total_forks": "5,889",
+        "stars_today_text": "232 stars today",
+        "stars_today": 232,
         "built_by": [
           {
             "username": "eldadfux",
@@ -1987,10 +1907,10 @@
         "og_image": "https://opengraph.githubassets.com/1/n8n-io/n8n",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "language": "TypeScript",
-        "total_stars": "211,001",
-        "total_forks": "61,565",
-        "stars_today_text": "315 stars today",
-        "stars_today": 315,
+        "total_stars": "211,264",
+        "total_forks": "61,579",
+        "stars_today_text": "325 stars today",
+        "stars_today": 325,
         "built_by": [
           {
             "username": "janober",
@@ -2023,10 +1943,10 @@
         "og_image": "https://opengraph.githubassets.com/1/solidjs/solid",
         "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
         "language": "TypeScript",
-        "total_stars": "36,524",
-        "total_forks": "1,179",
-        "stars_today_text": "37 stars today",
-        "stars_today": 37,
+        "total_stars": "36,694",
+        "total_forks": "1,190",
+        "stars_today_text": "40 stars today",
+        "stars_today": 40,
         "built_by": [
           {
             "username": "ryansolid",
@@ -2055,10 +1975,10 @@
         "og_image": "https://opengraph.githubassets.com/1/backnotprop/plannotator",
         "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
         "language": "TypeScript",
-        "total_stars": "13,393",
-        "total_forks": "1,346",
-        "stars_today_text": "396 stars today",
-        "stars_today": 396,
+        "total_stars": "13,534",
+        "total_forks": "1,364",
+        "stars_today_text": "392 stars today",
+        "stars_today": 392,
         "built_by": [
           {
             "username": "backnotprop",
@@ -2069,16 +1989,16 @@
             "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
           },
           {
+            "username": "rudycelekli",
+            "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&v=4"
+          },
+          {
             "username": "utpalsinghdev",
             "avatar": "https://avatars.githubusercontent.com/u/110197373?s=40&v=4"
           },
           {
             "username": "leoreisdias",
             "avatar": "https://avatars.githubusercontent.com/u/47978193?s=40&v=4"
-          },
-          {
-            "username": "uvw",
-            "avatar": "https://avatars.githubusercontent.com/u/1078682?s=40&v=4"
           }
         ],
         "topics": [
@@ -2093,10 +2013,10 @@
         "og_image": "https://opengraph.githubassets.com/1/angular/angular",
         "description": "Deliver web apps with confidence 🚀",
         "language": "TypeScript",
-        "total_stars": "101,442",
-        "total_forks": "28,196",
-        "stars_today_text": "212 stars today",
-        "stars_today": 212,
+        "total_stars": "101,444",
+        "total_forks": "28,194",
+        "stars_today_text": "182 stars today",
+        "stars_today": 182,
         "built_by": [
           {
             "username": "gkalpak",
@@ -2129,10 +2049,10 @@
         "og_image": "https://opengraph.githubassets.com/1/ag-ui-protocol/ag-ui",
         "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
         "language": "TypeScript",
-        "total_stars": "20,397",
-        "total_forks": "2,100",
-        "stars_today_text": "535 stars today",
-        "stars_today": 535,
+        "total_stars": "20,514",
+        "total_forks": "2,109",
+        "stars_today_text": "513 stars today",
+        "stars_today": 513,
         "built_by": [
           {
             "username": "ranst91",
@@ -2167,10 +2087,10 @@
         "og_image": "https://opengraph.githubassets.com/1/nestjs/nest",
         "description": "A progressive TypeScript framework for Node.js backends: from a small API in one file to efficient, scalable, enterprise-grade systems 🚀",
         "language": "TypeScript",
-        "total_stars": "77,121",
-        "total_forks": "8,726",
-        "stars_today_text": "120 stars today",
-        "stars_today": 120,
+        "total_stars": "77,098",
+        "total_forks": "8,722",
+        "stars_today_text": "214 stars today",
+        "stars_today": 214,
         "built_by": [
           {
             "username": "kamilmysliwiec",
@@ -2203,10 +2123,10 @@
         "og_image": "https://opengraph.githubassets.com/1/colbymchenry/codegraph",
         "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
         "language": "TypeScript",
-        "total_stars": "77,981",
-        "total_forks": "5,205",
-        "stars_today_text": "129 stars today",
-        "stars_today": 129,
+        "total_stars": "78,037",
+        "total_forks": "5,206",
+        "stars_today_text": "119 stars today",
+        "stars_today": 119,
         "built_by": [
           {
             "username": "colbymchenry",
@@ -2242,10 +2162,10 @@
         "og_image": "https://opengraph.githubassets.com/1/storybookjs/storybook",
         "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation",
         "language": "TypeScript",
-        "total_stars": "91,632",
-        "total_forks": "10,599",
-        "stars_today_text": "25 stars today",
-        "stars_today": 25,
+        "total_stars": "91,640",
+        "total_forks": "10,598",
+        "stars_today_text": "23 stars today",
+        "stars_today": 23,
         "built_by": [
           {
             "username": "ndelangen",
@@ -2278,10 +2198,10 @@
         "og_image": "https://opengraph.githubassets.com/1/JCodesMore/ai-website-cloner-template",
         "description": "Clone any website with one command using AI coding agents",
         "language": "TypeScript",
-        "total_stars": "39,456",
-        "total_forks": "5,882",
-        "stars_today_text": "95 stars today",
-        "stars_today": 95,
+        "total_stars": "39,479",
+        "total_forks": "5,885",
+        "stars_today_text": "94 stars today",
+        "stars_today": 94,
         "built_by": [
           {
             "username": "JCodesMore",
@@ -2317,10 +2237,10 @@
         "og_image": "https://opengraph.githubassets.com/1/Vincentwei1021/video-shotcraft",
         "description": "AI video skill for Claude Code & Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) export.",
         "language": "TypeScript",
-        "total_stars": "21,257",
-        "total_forks": "1,959",
-        "stars_today_text": "225 stars today",
-        "stars_today": 225,
+        "total_stars": "21,468",
+        "total_forks": "1,979",
+        "stars_today_text": "237 stars today",
+        "stars_today": 237,
         "built_by": [
           {
             "username": "claude",
@@ -2353,10 +2273,10 @@
         "og_image": "https://opengraph.githubassets.com/1/dream-num/univer",
         "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
         "language": "TypeScript",
-        "total_stars": "29,863",
-        "total_forks": "2,703",
-        "stars_today_text": "1,162 stars today",
-        "stars_today": 1162,
+        "total_stars": "30,076",
+        "total_forks": "2,715",
+        "stars_today_text": "1,152 stars today",
+        "stars_today": 1152,
         "built_by": [
           {
             "username": "jikkai",
@@ -2391,10 +2311,10 @@
         "og_image": "https://opengraph.githubassets.com/1/pingdotgg/t3code",
         "description": "The best way to control Claude Code, Codex and more from any computer or phone",
         "language": "TypeScript",
-        "total_stars": "65,116",
-        "total_forks": "11,417",
-        "stars_today_text": "1,264 stars today",
-        "stars_today": 1264,
+        "total_stars": "65,575",
+        "total_forks": "11,482",
+        "stars_today_text": "1,220 stars today",
+        "stars_today": 1220,
         "built_by": [
           {
             "username": "juliusmarminge",
@@ -2422,30 +2342,6 @@
         ]
       },
       {
-        "owner": "esengine",
-        "name": "estella",
-        "full_name": "esengine/estella",
-        "url": "https://github.com/esengine/estella",
-        "og_image": "https://opengraph.githubassets.com/1/esengine/estella",
-        "description": "A fast 2D and 3D game engine — TypeScript SDK, C++/WebAssembly core, visual editor. Ship one project to web, desktop, WeChat MiniGames, playable ads, and native Android / iOS.",
-        "language": "TypeScript",
-        "total_stars": "1,168",
-        "total_forks": "297",
-        "stars_today_text": "128 stars today",
-        "stars_today": 128,
-        "built_by": [
-          {
-            "username": "esengine",
-            "avatar": "https://avatars.githubusercontent.com/u/18465053?s=40&v=4"
-          },
-          {
-            "username": "claude",
-            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-          }
-        ],
-        "topics": []
-      },
-      {
         "owner": "vercel",
         "name": "eve",
         "full_name": "vercel/eve",
@@ -2453,10 +2349,10 @@
         "og_image": "https://opengraph.githubassets.com/1/vercel/eve",
         "description": "The Open Framework for Building Agents",
         "language": "TypeScript",
-        "total_stars": "5,982",
-        "total_forks": "664",
-        "stars_today_text": "38 stars today",
-        "stars_today": 38,
+        "total_stars": "6,004",
+        "total_forks": "665",
+        "stars_today_text": "42 stars today",
+        "stars_today": 42,
         "built_by": [
           {
             "username": "AndrewBarba",
@@ -2493,8 +2389,8 @@
         "og_image": "https://opengraph.githubassets.com/1/getarcaneapp/arcane",
         "description": "Modern Docker Management, Designed for Everyone",
         "language": "Go",
-        "total_stars": "9,753",
-        "total_forks": "558",
+        "total_stars": "9,966",
+        "total_forks": "570",
         "stars_today_text": "547 stars today",
         "stars_today": 547,
         "built_by": [
@@ -2529,10 +2425,10 @@
         "og_image": "https://opengraph.githubassets.com/1/alibaba/open-code-review",
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
         "language": "Go",
-        "total_stars": "54,159",
-        "total_forks": "4,481",
-        "stars_today_text": "764 stars today",
-        "stars_today": 764,
+        "total_stars": "54,242",
+        "total_forks": "4,487",
+        "stars_today_text": "622 stars today",
+        "stars_today": 622,
         "built_by": [
           {
             "username": "lizhengfeng101",
@@ -2567,10 +2463,10 @@
         "og_image": "https://opengraph.githubassets.com/1/docker/compose",
         "description": "Define and run multi-container applications with Docker",
         "language": "Go",
-        "total_stars": "38,994",
+        "total_stars": "38,990",
         "total_forks": "6,041",
-        "stars_today_text": "162 stars today",
-        "stars_today": 162,
+        "stars_today_text": "173 stars today",
+        "stars_today": 173,
         "built_by": [
           {
             "username": "ndeloof",
@@ -2605,10 +2501,10 @@
         "og_image": "https://opengraph.githubassets.com/1/Tencent/LoopForge",
         "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
         "language": "Go",
-        "total_stars": "3,784",
-        "total_forks": "528",
-        "stars_today_text": "996 stars today",
-        "stars_today": 996,
+        "total_stars": "3,927",
+        "total_forks": "564",
+        "stars_today_text": "821 stars today",
+        "stars_today": 821,
         "built_by": [
           {
             "username": "claude",
@@ -2639,10 +2535,10 @@
         "og_image": "https://opengraph.githubassets.com/1/golang/go",
         "description": "The Go programming language",
         "language": "Go",
-        "total_stars": "140,079",
-        "total_forks": "20,267",
-        "stars_today_text": "303 stars today",
-        "stars_today": 303,
+        "total_stars": "140,050",
+        "total_forks": "20,265",
+        "stars_today_text": "150 stars today",
+        "stars_today": 150,
         "built_by": [
           {
             "username": "rsc",
@@ -2675,8 +2571,8 @@
         "og_image": "https://opengraph.githubassets.com/1/opensandbox-group/OpenSandbox",
         "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
         "language": "Go",
-        "total_stars": "17,590",
-        "total_forks": "1,697",
+        "total_stars": "17,629",
+        "total_forks": "1,701",
         "stars_today_text": "106 stars today",
         "stars_today": 106,
         "built_by": [
@@ -2693,12 +2589,12 @@
             "avatar": "https://avatars.githubusercontent.com/u/1870207?s=40&v=4"
           },
           {
-            "username": "claude",
-            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-          },
-          {
             "username": "hpliStartAgain",
             "avatar": "https://avatars.githubusercontent.com/u/118508408?s=40&v=4"
+          },
+          {
+            "username": "claude",
+            "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
           }
         ],
         "topics": [
@@ -2713,10 +2609,10 @@
         "og_image": "https://opengraph.githubassets.com/1/agent-substrate/substrate",
         "description": "Agent Substrate: the core system",
         "language": "Go",
-        "total_stars": "7,577",
-        "total_forks": "828",
-        "stars_today_text": "469 stars today",
-        "stars_today": 469,
+        "total_stars": "7,676",
+        "total_forks": "844",
+        "stars_today_text": "377 stars today",
+        "stars_today": 377,
         "built_by": [
           {
             "username": "BenTheElder",
@@ -2751,10 +2647,10 @@
         "og_image": "https://opengraph.githubassets.com/1/vxcontrol/pentagi",
         "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
         "language": "Go",
-        "total_stars": "34,548",
-        "total_forks": "5,483",
-        "stars_today_text": "140 stars today",
-        "stars_today": 140,
+        "total_stars": "34,587",
+        "total_forks": "5,497",
+        "stars_today_text": "127 stars today",
+        "stars_today": 127,
         "built_by": [
           {
             "username": "sirozha",
@@ -2790,10 +2686,10 @@
         "og_image": "https://opengraph.githubassets.com/1/aquasecurity/trivy",
         "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
         "language": "Go",
-        "total_stars": "39,511",
-        "total_forks": "908",
-        "stars_today_text": "53 stars today",
-        "stars_today": 53,
+        "total_stars": "39,520",
+        "total_forks": "909",
+        "stars_today_text": "38 stars today",
+        "stars_today": 38,
         "built_by": [
           {
             "username": "knqyf263",
@@ -2828,10 +2724,10 @@
         "og_image": "https://opengraph.githubassets.com/1/gtsteffaniak/filebrowser",
         "description": "📂 Web File Browser",
         "language": "Go",
-        "total_stars": "9,228",
-        "total_forks": "554",
-        "stars_today_text": "16 stars today",
-        "stars_today": 16,
+        "total_stars": "9,232",
+        "total_forks": "555",
+        "stars_today_text": "19 stars today",
+        "stars_today": 19,
         "built_by": [
           {
             "username": "gtsteffaniak",
@@ -2864,10 +2760,10 @@
         "og_image": "https://opengraph.githubassets.com/1/Autumn-27/ScopeSentry",
         "description": "ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes",
         "language": "Go",
-        "total_stars": "2,527",
-        "total_forks": "640",
-        "stars_today_text": "50 stars today",
-        "stars_today": 50,
+        "total_stars": "2,537",
+        "total_forks": "643",
+        "stars_today_text": "51 stars today",
+        "stars_today": 51,
         "built_by": [
           {
             "username": "Autumn-27",
@@ -2903,10 +2799,10 @@
         "og_image": "https://opengraph.githubassets.com/1/Wei-Shaw/sub2api",
         "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
         "language": "Go",
-        "total_stars": "46,265",
-        "total_forks": "10,029",
-        "stars_today_text": "81 stars today",
-        "stars_today": 81,
+        "total_stars": "46,294",
+        "total_forks": "10,035",
+        "stars_today_text": "92 stars today",
+        "stars_today": 92,
         "built_by": [
           {
             "username": "Wei-Shaw",
@@ -2939,10 +2835,10 @@
         "og_image": "https://opengraph.githubassets.com/1/kubernetes/kubernetes",
         "description": "Production-Grade Container Scheduling and Management",
         "language": "Go",
-        "total_stars": "129,258",
-        "total_forks": "45,101",
-        "stars_today_text": "280 stars today",
-        "stars_today": 280,
+        "total_stars": "129,194",
+        "total_forks": "45,091",
+        "stars_today_text": "135 stars today",
+        "stars_today": 135,
         "built_by": [
           {
             "username": "k8s-ci-robot",
@@ -2977,8 +2873,8 @@
         "og_image": "https://opengraph.githubassets.com/1/QuantumNous/new-api",
         "description": "Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting.",
         "language": "Go",
-        "total_stars": "52,173",
-        "total_forks": "12,733",
+        "total_stars": "52,206",
+        "total_forks": "12,737",
         "stars_today_text": "80 stars today",
         "stars_today": 80,
         "built_by": [
@@ -3013,10 +2909,10 @@
         "og_image": "https://opengraph.githubassets.com/1/gohugoio/hugo",
         "description": "The world’s fastest framework for building websites.",
         "language": "Go",
-        "total_stars": "90,508",
+        "total_stars": "90,513",
         "total_forks": "8,542",
-        "stars_today_text": "11 stars today",
-        "stars_today": 11,
+        "stars_today_text": "15 stars today",
+        "stars_today": 15,
         "built_by": [
           {
             "username": "bep",
@@ -3049,10 +2945,10 @@
         "og_image": "https://opengraph.githubassets.com/1/TencentCloud/CubeSandbox",
         "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
         "language": "Go",
-        "total_stars": "13,358",
-        "total_forks": "1,235",
-        "stars_today_text": "66 stars today",
-        "stars_today": 66,
+        "total_stars": "13,366",
+        "total_forks": "1,238",
+        "stars_today_text": "41 stars today",
+        "stars_today": 41,
         "built_by": [
           {
             "username": "fslongjin",
@@ -3089,10 +2985,10 @@
         "og_image": "https://opengraph.githubassets.com/1/astral-sh/uv",
         "description": "An extremely fast Python package and project manager, written in Rust.",
         "language": "Rust",
-        "total_stars": "92,195",
-        "total_forks": "3,921",
-        "stars_today_text": "260 stars today",
-        "stars_today": 260,
+        "total_stars": "92,328",
+        "total_forks": "3,928",
+        "stars_today_text": "258 stars today",
+        "stars_today": 258,
         "built_by": [
           {
             "username": "charliermarsh",
@@ -3125,10 +3021,10 @@
         "og_image": "https://opengraph.githubassets.com/1/SaladDay/cc-switch-cli",
         "description": "⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.",
         "language": "Rust",
-        "total_stars": "5,532",
-        "total_forks": "378",
-        "stars_today_text": "18 stars today",
-        "stars_today": 18,
+        "total_stars": "5,539",
+        "total_forks": "381",
+        "stars_today_text": "17 stars today",
+        "stars_today": 17,
         "built_by": [
           {
             "username": "SaladDay",
@@ -3163,10 +3059,10 @@
         "og_image": "https://opengraph.githubassets.com/1/rustfs/rustfs",
         "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
         "language": "Rust",
-        "total_stars": "36,251",
+        "total_stars": "36,271",
         "total_forks": "1,682",
-        "stars_today_text": "45 stars today",
-        "stars_today": 45,
+        "stars_today_text": "42 stars today",
+        "stars_today": 42,
         "built_by": [
           {
             "username": "overtrue",
@@ -3199,8 +3095,8 @@
         "og_image": "https://opengraph.githubassets.com/1/leepokai/Codync",
         "description": "Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Agent-agnostic and free. Also a Muse and Dots alternative. Built in Rust.",
         "language": "Rust",
-        "total_stars": "2,252",
-        "total_forks": "230",
+        "total_stars": "2,268",
+        "total_forks": "232",
         "stars_today_text": "35 stars today",
         "stars_today": 35,
         "built_by": [
@@ -3237,10 +3133,10 @@
         "og_image": "https://opengraph.githubassets.com/1/BurntSushi/ripgrep",
         "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
         "language": "Rust",
-        "total_stars": "70,061",
-        "total_forks": "3,591",
-        "stars_today_text": "36 stars today",
-        "stars_today": 36,
+        "total_stars": "70,055",
+        "total_forks": "3,586",
+        "stars_today_text": "39 stars today",
+        "stars_today": 39,
         "built_by": [
           {
             "username": "BurntSushi",
@@ -3273,10 +3169,10 @@
         "og_image": "https://opengraph.githubassets.com/1/ViceVerse-cz/Serein",
         "description": "Tiny, Performant & 100% Native client for Discord made in Rust",
         "language": "Rust",
-        "total_stars": "1,419",
-        "total_forks": "138",
-        "stars_today_text": "31 stars today",
-        "stars_today": 31,
+        "total_stars": "1,450",
+        "total_forks": "144",
+        "stars_today_text": "33 stars today",
+        "stars_today": 33,
         "built_by": [
           {
             "username": "dfrnoch",
@@ -3309,7 +3205,7 @@
         "og_image": "https://opengraph.githubassets.com/1/microsoft/edit",
         "description": "We all edit.",
         "language": "Rust",
-        "total_stars": "14,786",
+        "total_stars": "14,787",
         "total_forks": "746",
         "stars_today_text": "8 stars today",
         "stars_today": 8,
@@ -3345,7 +3241,7 @@
         "og_image": "https://opengraph.githubassets.com/1/antithesishq/bombadil",
         "description": "Property-based testing for web and terminal UIs",
         "language": "Rust",
-        "total_stars": "2,696",
+        "total_stars": "2,744",
         "total_forks": "98",
         "stars_today_text": "148 stars today",
         "stars_today": 148,
@@ -3381,10 +3277,10 @@
         "og_image": "https://opengraph.githubassets.com/1/screenpipe/screenpipe",
         "description": "YC (S26) | Screenpipe finds the work worth automating | Continuously record computer work locally, discover recurring workflows, and hand the result to any agent you already use.",
         "language": "Rust",
-        "total_stars": "22,435",
-        "total_forks": "2,307",
-        "stars_today_text": "16 stars today",
-        "stars_today": 16,
+        "total_stars": "22,463",
+        "total_forks": "2,310",
+        "stars_today_text": "18 stars today",
+        "stars_today": 18,
         "built_by": [
           {
             "username": "louis030195",
@@ -3419,10 +3315,10 @@
         "og_image": "https://opengraph.githubassets.com/1/stalwartlabs/stalwart",
         "description": "All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).",
         "language": "Rust",
-        "total_stars": "16,035",
+        "total_stars": "16,046",
         "total_forks": "1,058",
-        "stars_today_text": "28 stars today",
-        "stars_today": 28,
+        "stars_today_text": "27 stars today",
+        "stars_today": 27,
         "built_by": [
           {
             "username": "mdecimus",
@@ -3455,10 +3351,10 @@
         "og_image": "https://opengraph.githubassets.com/1/louis-e/arnis",
         "description": "Generate any location from the real world in Minecraft with a high level of detail.",
         "language": "Rust",
-        "total_stars": "18,710",
-        "total_forks": "1,587",
-        "stars_today_text": "23 stars today",
-        "stars_today": 23,
+        "total_stars": "18,721",
+        "total_forks": "1,588",
+        "stars_today_text": "18 stars today",
+        "stars_today": 18,
         "built_by": [
           {
             "username": "louis-e",
@@ -3493,10 +3389,10 @@
         "og_image": "https://opengraph.githubassets.com/1/astral-sh/ruff",
         "description": "An extremely fast Python linter and code formatter, written in Rust.",
         "language": "Rust",
-        "total_stars": "51,269",
-        "total_forks": "2,761",
-        "stars_today_text": "103 stars today",
-        "stars_today": 103,
+        "total_stars": "51,282",
+        "total_forks": "2,764",
+        "stars_today_text": "120 stars today",
+        "stars_today": 120,
         "built_by": [
           {
             "username": "charliermarsh",
@@ -3529,10 +3425,10 @@
         "og_image": "https://opengraph.githubassets.com/1/rust-lang/rust",
         "description": "Empowering everyone to build reliable and efficient software.",
         "language": "Rust",
-        "total_stars": "122,230",
-        "total_forks": "16,673",
-        "stars_today_text": "305 stars today",
-        "stars_today": 305,
+        "total_stars": "122,214",
+        "total_forks": "16,663",
+        "stars_today_text": "175 stars today",
+        "stars_today": 175,
         "built_by": [
           {
             "username": "bors",
@@ -3565,10 +3461,10 @@
         "og_image": "https://opengraph.githubassets.com/1/tauri-apps/tauri",
         "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
         "language": "Rust",
-        "total_stars": "113,001",
+        "total_stars": "112,966",
         "total_forks": "4,223",
-        "stars_today_text": "265 stars today",
-        "stars_today": 265,
+        "stars_today_text": "141 stars today",
+        "stars_today": 141,
         "built_by": [
           {
             "username": "lucasfernog",
@@ -3601,10 +3497,10 @@
         "og_image": "https://opengraph.githubassets.com/1/Automattic/harper",
         "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
         "language": "Rust",
-        "total_stars": "17,842",
+        "total_stars": "17,850",
         "total_forks": "845",
-        "stars_today_text": "50 stars today",
-        "stars_today": 50,
+        "stars_today_text": "28 stars today",
+        "stars_today": 28,
         "built_by": [
           {
             "username": "elijah-potter",
@@ -3639,10 +3535,10 @@
         "og_image": "https://opengraph.githubassets.com/1/malisper/pgrust",
         "description": "Postgres rewritten in Rust, now faster than Postgres and Clickhouse",
         "language": "Rust",
-        "total_stars": "5,899",
-        "total_forks": "236",
-        "stars_today_text": "45 stars today",
-        "stars_today": 45,
+        "total_stars": "5,929",
+        "total_forks": "239",
+        "stars_today_text": "47 stars today",
+        "stars_today": 47,
         "built_by": [
           {
             "username": "malisper",
@@ -3675,10 +3571,10 @@
         "og_image": "https://opengraph.githubassets.com/1/trycua/cua",
         "description": "Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.",
         "language": "Rust",
-        "total_stars": "32,608",
-        "total_forks": "2,460",
-        "stars_today_text": "110 stars today",
-        "stars_today": 110,
+        "total_stars": "32,632",
+        "total_forks": "2,461",
+        "stars_today_text": "101 stars today",
+        "stars_today": 101,
         "built_by": [
           {
             "username": "f-trycua",
